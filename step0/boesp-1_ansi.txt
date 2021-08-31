@@ -1,4 +1,4 @@
-<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_08/27/21--> 
+<!--This_File_is_D:\BOESP\BOESP-1_ANSI.TXT,_Last_update_08/31/21--> 
  
 <S> = Sanskrit 
  
@@ -172,7 +172,7 @@ unumschränkt führen.
 bhASate | tasmAdudvijate lokaH 
 sasphuliGgAdivAnalAt || 
  
-<D1><A3> Wer ohne alle Veranlassung in 
+<D10><A3> Wer ohne alle Veranlassung in 
 seinem Zorne beständig viel spricht, vor 
 dem schrecken die Menschen zurück wie 
 vor Feuer, das Funken sprüht. 
@@ -402,7 +402,7 @@ bringt grossen Nutzen.
 <F>24) MBH. 12, 5006, ²b. {#kartuM nA°#} 
 ed. Calc. 
  
-<S> kakiMcanaH 
+<S> akiMcanaH 
 paripatansukhamAsvAdayiSyasi | akiMcanaH 
 sukhaM zete sumuttiSThati caiva ha || 
  
@@ -440,7 +440,7 @@ Armen gleichkäme.
 <F>27) MBH. 12, 6570. ²b. 
 {#upapannasya=vairAgyasaMpannasya#} 
 NI1LAK. ²c. {#avekSyamANastrIlokAn#} ed. 
-Calc. [Seite 1.6] 
+Calc. [Seite1.6] 
  
 <S> akIrtiM vinayo hanti hantyanarthaM 
 parAkramaH | hanti nityaM krodhamAcAro 
@@ -1635,7 +1635,7 @@ vijAnanto 'pyete vayamiha
 vipajjAlajaTilAnna muJcAmaH kAmAnahaha 
 gahano mohamahimA || 
  
-<D10><A36> Die Lichtmotte fliegt in das 
+<D100><A36> Die Lichtmotte fliegt in das 
 Feuer der Lampe, weil sie den Schmerz 
 des Verbrennens nicht kennt; auch der 
 Fisch verschlingt das Fleisch am 
@@ -1670,7 +1670,7 @@ vorangehenden Spruch.
 meghaDambare | daMpatyoH kalahe caiva 
 bahvArambhe laghukriyA || 
  
-<D11><A37> Bei einem Ziegenkampfe, bei 
+<D111><A37> Bei einem Ziegenkampfe, bei 
 einem Todtenopfer für einen R2shi, bei 
 Wolkengetöse am frühen Morgen und bei 
 einem Streite zwischen Eheleuten kommt 
@@ -1700,7 +1700,7 @@ Spruch.
 medhyAstu paSThaH | brAhmaNAH pAdato 
 medhyA striyo medhyAzca sarvataH || 
  
-<D12><A38> Bei Ziegen und Pferden ist 
+<D112><A38> Bei Ziegen und Pferden ist 
 das Maul rein, Kühe sind am Rücken rein, 
 Brahmanen an den Füssen und die Weiber 
 am ganzen Körper. 
@@ -1713,7 +1713,7 @@ am ganzen Körper.
 jJAnAjIrNamahaMkRtiH | parinindA 
 kriyAjIrNamannAjIrNaM visUcikA || 
  
-<D13> Die Folge unverdauter Kasteiungen 
+<D113> Die Folge unverdauter Kasteiungen 
 ist der Zorn, die Folge unverdauten 
 Wissens das Selbstgefühl, die Folge 
 unverdauten Handelns die Tadelsucht, die 
@@ -1725,7 +1725,7 @@ Folge unverdauter Speise der Durchfall.
 balapradam | bhojane cAmRtaM vAri 
 bhojanAnte viSApaham || 
  
-<D14> Bei schlechter Verdauung ist 
+<D114> Bei schlechter Verdauung ist 
 Wasser Arzenei, bei guter Verdauung 
 verleiht es Kraft, während des Essens 
 ist es Nektar und nach dem Essen 
@@ -1740,7 +1740,7 @@ sukhataramArAdhyate vizeSajJaH |
 jJAnalavadurvidagdhaM brahmApi naraMna 
 raJjayati || 
  
-<D15><A39> Leicht ist der Unwissende 
+<D115><A39> Leicht ist der Unwissende 
 zufrieden zu stellen, noch leichter wird 
 der Unterrichtete zufriedengestellt, 
 einen durch ein Bischen Wissen 
@@ -1758,7 +1758,7 @@ jJAnavaladvadvi°.#} d. {#taM naraM#}.
 kasyacit | mArjArasya hi doSeNa hato 
 gRdhro jaradgavaH || 
  
-<D16><A40> Man gebe Keinem ein Obdach, 
+<D116><A40> Man gebe Keinem ein Obdach, 
 wenn man seine Familie und seinen 
 Charakter nicht kennt: durch die Schuld 
 der Katze fand ja der Geier Garadgava 
@@ -1771,7 +1771,7 @@ den Tod.
 vAnarAH | AtmArthe ca na rodanti rodanti 
 tvitare janAH || 
  
-<D17> Affen wenden ihre Liebe auch dem 
+<D117> Affen wenden ihre Liebe auch dem 
 zu, dessen Familie und Charakter sie 
 nicht kennen, und weinem nicht um sich 
 selbst, wie es die übrigen Geschöpfe 
@@ -1786,7 +1786,7 @@ jane#} die Hdschr.
 yaH | pararASTraM na bhUyaH sa 
 svarASTramadhigacchati || 
  
-<D18><A41> Wer in des Feindes Reich 
+<D118><A41> Wer in des Feindes Reich 
 zieht, ohne sich vorher Gewissheit 
 verschafft zu haben über Proviant, den 
 natürlichen Bundesgenossen, Wasser und 
@@ -1802,7 +1802,7 @@ KOSEG. 39. ²a. {#vivadhA°#}. ²b.
 mahIpateH | durgaM tasya na saMdehaH 
 pravizanti drutaM dviSaH || 
  
-<D19> Wenn in eines Fürsten Burg 
+<D119> Wenn in eines Fürsten Burg 
 unbekannte Männer Eintritt haben, dann 
 kommen ohne Zweifel bald auch die Feinde 
 herein. 
@@ -2359,7 +2359,7 @@ evAsayastIkSNAH kRntantyAyUMSi dehinAm |
 etAni mAnavAndhnanti na 
 mRtyurbhadramastu te || 
  
-<D145> 146. (3408.) Hochmuth, 
+<D145><D146><A3408> Hochmuth, 
 beleidigende Worte, Geiz, Zorn, 
 Selbstsucht und Verrath an Freunden, 
 diese sechs scharfen Schwerter 
@@ -3036,7 +3036,7 @@ und sein Untergang bevorsteht.
 <HS>{#atha saMtyajato dharmam#} s. nach 
 Spruch {#dharmamAcarato rAjJaH#}. 
  
-<S> vadattadAnAcca bhaveddaridro 
+<S> adattadAnAcca bhaveddaridro 
 daridrabhAvAdvitanoti pApam | pApaM hi 
 kRtvA narakaM prayAti punardaridraH 
 punareva pApI || 
@@ -3131,7 +3131,7 @@ mit sich fort.
  
 <F>194) MBH. 12, 12519. 
  
-<S> sadRSTavyAparaM gatavati 
+<S> adRSTavyAparaM gatavati 
 dinAnAmadhipatau pazaHzeSIbhUte zazini 
 gatadhAmni grahagaNe | ta thAndhaM 
 saMjAtaM jagadupanate meghasamaye 
@@ -3624,8 +3624,7 @@ Aenderungen: ²a. {#adhikAra#} und
 <HS>{#adhikAreNa yo yuktaH#} s. Spruch 
 {#avicArayato yukti°#}. 
  
-<S> 
-adhigataparamArthAnpaNDitAnmAvamaMsthAstRNamiva 
+<S> adhigataparamArthAnpaNDitAnmAvamaMsthAstRNamiva 
 laghu lakSmIrnaiva tAnsaMruNaddhi | 
 abhinavamadalekhAzyAmagaNDasthalAnAM na 
 bhavati visatanturvAraNaM vAraNAnAm || 
@@ -3794,7 +3793,7 @@ Verlangen, Kleider durch Sonnenschein.
 <F>237) VR2DDHA-CA1N2. 4, 17. 
 [Seite1.45] 
  
-<S> manaGgaH paJcabhiH puSpairvizvaM 
+<S> anaGgaH paJcabhiH puSpairvizvaM 
 vyajayateSubhiH | ityasaMbhAvyamatha vA 
 vicitrA vastuzaktayaH || 
  
@@ -4689,7 +4688,7 @@ bandhubhirbandhusaMyogaH svajane
 svaditAni ca | taccittAnuvidhAyitvamiti 
 vRttaM mahAtmanAm || 
  
-<D295> 296. 297. Die Beschäftigungen 
+<D295><D296><D297> Die Beschäftigungen 
 Anderer nicht tadeln, seinen eigenen 
 Pflichten nachkommen, mit Armen Mitleid 
 haben, an Jedermann freundliche Worte 
@@ -7960,7 +7959,7 @@ rechtschaffenen Mann schmäht.
 ²c. {#tathA durjanamAkruzya#} 
 KAVITA1MR2TAK. 
  
-<S> bhizastaM prapazyanti daridraM 
+<S> abhizastaM prapazyanti daridraM 
 pArzvataH sthitam | dAridryaM pAtakaM 
 loke na tacchaMsitumarhati || 
  
@@ -8958,7 +8957,7 @@ gelegenen Sumpf.
 37, 5. ²a. {#bhraSTAcAramadharmajJam#} 
 GORR. 
  
-<S> yuktaM bahu bhASante yatra kutrApi 
+µ<S> yuktaM bahu bhASante yatra kutrApi 
 zerate | nagnA vikSipya gAtrANi sajvarA 
 iva madyapAH || [Seite1.105] 
  
@@ -9232,7 +9231,7 @@ bhoktuH paribhUtasya nityazaH |
 sumRSTamapi na zre yo vikalpo 'yamataH 
 satAm || 
  
-<D580><D581> Vorzügliche Menschen sind 
+<D580><581>[sic] Vorzügliche Menschen sind 
 darüber im Zweifel, ob es nicht besser 
 sei nur Früchte und Gemüse, die man, 
 ohne Jemand darum anzugehen, durch 
@@ -11216,7 +11215,6 @@ stets wie auf sich selbst.
 ASHT2A1N5GAHR2DAJASAM5HITA1;s. Verz. d. 
 Oxf. H. 303, ²b. , 19. 20. Hier wird am 
 Schluss {#°pipIlikam#} gelesen. 
-[Seite1.436] 
  
 <S> avRtterbhayamantyAnAM madhyAnAM 
 maraNAdbhayam | uttamAnAM tu 
@@ -15676,10 +15674,6 @@ tava malayaja draSTumabhyAgatAH smaH |
 kiM pazyAmaH subhaga bhavataH krIDati 
 kroDa eva vyAlastubhyaM bhavatu kuzalaM 
 muJca naH sAdhayAmaH || [Seite1.183] 
-ruSayugalairapi tathaM satyaM yathA 
-syAttathAvadhAritaM nizcitaM kAmasukhaM 
-tadeva kAmasya devasya nivarhaNaM 
-pUjanaM bhavatIti bhAvaH. 
  
 <D978><A366> Angezogen durch den 
 Wohlgeruch, der sich weit nach allen 
@@ -15857,7 +15851,7 @@ prAptaH sarbhAM naraH |
 tasmAdyatnAtparijJeyazcihnairetairvicalaNaiH 
 || 
  
-<D988> 989. (372. 373.) Ein Mann, der 
+<D988><D989><A372><A373> Ein Mann, der 
 etwas Böses verübt hat, tritt stolpernd 
 heran, hat ein entfärbtes Gesicht und 
 Schweiss auf der Stirn, bringt seine 
@@ -16988,7 +16982,7 @@ svapiti.#}
 viSamaJjarI | Azaiva jIrNamadirA dhigAzA 
 sarvadoSabhUH || 
  
-<D10052> Die Hoffnung, ja die Hoffnung, 
+<D1052> Die Hoffnung, ja die Hoffnung, 
 ist eine Furie für die Männer, ein 
 giftiger Blüthenstrauss, alter 
 Branntwein. Weh rufe ich über die 
@@ -17050,7 +17044,7 @@ pratihantakAH.#}
 vidviSaH | vivRddhAzca vinAzAya 
 tasmAnnodvejayeprajAH || 
  
-<D10056><A3734> Wenn sich die Feinde auf 
+<D1056><A3734> Wenn sich die Feinde auf 
 das Volk stützen, gewinnen sie an Macht, 
 und wenn sie an Macht gewonnen haben, 
 bringen sie Verderben; darum soll (ein 
@@ -17126,7 +17120,7 @@ zrotramArgaM gato vA| yo 'yaM dhate
 viSayakariNIgADharUDhAbhimAnakSIvasvAntaHkaraNakariNaM 
 saMyamAlAnalInam || 
  
-<D10060><A401> Obgleich wir diese 
+<D1060><A401> Obgleich wir diese 
 Dreiwelt bis zu ihrem Ursprung 
 durchsucht haben, so ist uns, o Lieber, 
 doch Niemand zu Augen oder zu Ohren 
@@ -17641,7 +17635,7 @@ andere Handlungen vollbringen.
  
 <F>1086) VR2DDHA-CA1N2. 8, 2. 
  
-<S> i kSurdhanva zarAH 
+<S> ikSurdhanva zarAH 
 prasUnavitatiGgAvalI siJjinI 
 yasyAjJAvazartinaH pramanaso 
 nirviSTarASTrvAdayaH | yadbANAbhihatA 
@@ -17733,7 +17727,7 @@ diesen S4loka ein zweiter, der in
 unserer Sammlung den 1 ten Spruch im 
 zweiten Theile bilden wird. 
  
-<S> jajyAdhyayanadAnAni tapaH satyaM 
+µ<S> jajyAdhyayanadAnAni tapaH satyaM 
 kSamA damaH | alobha iti mArgo 'yaM 
 dharmasyASTavidhaH smRtaH || tatra 
 pUrvazcaturvargo dambhArthamapi sevyate 
@@ -17902,7 +17896,7 @@ Augen haben.
  
 <F>1100) KATHA1S. 72, 216. 
  
-<S> pacAreNa mitramanyattu satyataH | 
+µ<S> pacAreNa mitramanyattu satyataH | 
 tulye 'pi snigdhatAyoge tailaM tailaM 
 ghRtaM ghRtam || 
  
@@ -20585,7 +20579,7 @@ Tiefe.
 {#vruvan.#} ²c.{#pRSadgaNaz#} 
 st.{#dRSatkaNaz.#} 
  
-<S> ennamyonnamya tatraiva nirdhanAnAM 
+µ<S> ennamyonnamya tatraiva nirdhanAnAM 
 manorathAH | hRdayeSveva lOyante 
 vidhavAstrIstabAviva || 
  
@@ -24310,14 +24304,14 @@ st. {#dattvA#} ed. Bomb. ²b.
 saMpratibhASyate na caikamatye zreyo 
 'sti#} ed. Bomb. ²c.{#aikamatyaH#} GORR. 
  
-<D1482><A3853> Dieser Verliebte, der 
-ausser sich ist vor Schmerz, den ihm die 
-Trennung vom Weibe bereitet, hält Feuer 
-für kälter als die Strahlem des Mondes. 
- 
 <S> aindavAdarciSaH kAmI ziziraM 
 havyavAhanam | abalAvirahaktlezavihvalo 
 gaNayatyayam || 
+ 
+<D1482><A3853> Dieser Verliebte, der 
+ausser sich ist vor Schmerz, den ihm die 
+Trennung vom Weibe bereitet, hält Feuer 
+für kälter als die Strahlen des Mondes. 
  
 <F>1482) KA1VJA1D. 3, 183. 
  
@@ -28155,7 +28149,7 @@ Varr.179.²a.{#gIta#} st.{#kAvya.#} ²c.
 {#hi#} und {#ca#} st.{#tu.#} ²d.{#ca#} 
 st.{#vA.#} 
  
-<S> KAvye bhavyatame 'pi 
+<S> kAvye bhavyatame 'pi 
 vijJanivahairAsvAdyamAne 
 muhurdoSAnveSaNameva matsarajuSAM 
 naisargiko durgrahaH | kAsAre 'pi 
@@ -28435,8 +28429,9 @@ varNaistribhirbhUSaNaM syAdAdyena mahI
 trayeNa ca phalaM madhyadvaye prANadam | 
 vyaste gotraturaMgaghAsakusumaM prAnte 
 ca saMbodhanaM ye jAnanti budhottamAH 
-kSititale teSAmahaM kiMkaraH || 1724. 
-Was mag mit seinen vier Silben eine 
+kSititale teSAmahaM kiMkaraH || 
+ 
+<D1724> Was mag mit seinen vier Silben eine 
 blaue Wasserlilie sein, mit dreien ein 
 Schmuck, mit der ersten die Erde, wieder 
 mit dreien eine Frucht, mit den zwei 
@@ -28519,6 +28514,16 @@ Mangofrucht süss werden?
 <F>1726) CA1N2.106 bei WEBER. 
 ²a.{#saMsargaH#} unsere Aenderung für 
 {#saMsargaiH.#} ²d.{#kakhayo.#} 
+ 
+<S> kiM kariyoSyanti vaktaraH zrotA yatra na vidyate | 
+nahnakSapaNake deze rajakaH kiM kariSyati || 
+ 
+<D1727><A666> Was nützen Sprecher, wenn kein Hörer da ist? 
+Was nützt ein Wäscher an einem Orte, der nur von nackt einhergehenden 
+Bettelmönchen bewohnt ist? 
+ 
+<F1727>K4A1N2. 110 bei HAEB. S. 322. Vgl. 
+Spruch {#guNA yatra na pUjyante.#} 
  
 <S> kiM karoti naraH prAjJaH preryamANaH 
 svakarmaNA| prAyeNa hi manuSyANAM 
@@ -29189,7 +29194,7 @@ Wohlwollen. Wer ist vor Allen befähigt,
 alles Unglück fern zu halten? Der da 
 entsagt. 
  
-F1765) PRAS4NOTTARARATNAM. 14 in 
+<F>1765) PRAS4NOTTARARATNAM. 14 in 
 Monatsberr. d. k. pr. Ak. d. Ww. 1868, 
 S.99.²d. Mit Unrecht hat WEBER 
 {#sarvathA#} in {#sarva#} geändert. 
@@ -30308,8 +30313,7 @@ rAjAdhyakSo vi°.#}
 <S> kulAdapi varaM zIlaM zIlaM varaM 
 dAridryamAmyAt | rAjyadapi varaM vidyA 
 tapaso 'api varam kSamA || 
- 
-<S> kulavratAdharA nArI narasya yadi 
+kulavratAdharA nArI narasya yadi 
 jAyate | tadA tasya gururlakSmIH zAstraM 
 mitraM gatiH sakhA || 
  
@@ -34160,7 +34164,7 @@ dessen MBH.²b. ²d.{#pazyasi#} MBH.
 pratikriyA | upAnanmukhabhaGgo vA dUrato 
 vA vivasrjanam || 
  
-<D2046><4002> Bösewichte und Dornen 
+<D2046><A4002> Bösewichte und Dornen 
 unschädlich zu machen giebt es nur zwei 
 Mittel: entweder schlägt man mit dem 
 Schuh auf sie, oder man meidet sie von 
@@ -34764,7 +34768,7 @@ und der Ocean und die Götter; wie soll
 die schaumähnliche Welt der Sterblichen 
 nicht untergehen? 
  
-<HS2>{%Stenzler.%} 
+<HS>{%Stenzler.%} 
  
 <F>2079) JA1JN4.3, 10. 
  
@@ -36133,7 +36137,6 @@ HAEB.223.
 <S> guNairuttuGgatAM yAti na tu 
 jAtiprabhAvataH | kSIrodAdhisamutpannaH 
 kAlakUTaH kimuttamaH || 
-</poem> 
  
 <D2160> Durch Vorzüge gelangt man zu 
 Höhe, nicht durch die Macht der Geburt: 
@@ -37076,9 +37079,9 @@ prakRtivikRtirjAyate nottamAnAm ||
  
 <D2219> Sandel behält seinen lieblichen 
 Geruch trotz alles Reibens, ein 
-<V>Zuckerrohrstengel bleibt 
+Zuckerrohrstengel bleibt 
 wohlschmeckend trotz alles Schneidens 
-und Gold bewahrt seines schöne Farbe 
+und Gold bewahrt seine schöne Farbe 
 trotz alles Brennens: bei Hochstehenden 
 erfolgt sogar im Tode kein Wandel ihres 
 angeborenen Wesens. 
