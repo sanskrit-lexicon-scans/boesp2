@@ -11,11 +11,41 @@ diff -w boesp-1_ansi.txt boesp-1_utf8_cp1252.txt
 # No difference  (the -w) ignores differences in line-endings.
 # The utf8 version has Unix line-endings.
 # remove unneeded file
-boesp-1_utf8_cp1252.txt
+rm boesp-1_utf8_cp1252.txt
 
 ##---------------------------------------------------------
 Find list of extended ASCII.
 See readme_ea.txt
+
+##---------------------------------------------------------
+convert to xml, and make a dtd.
+See readme_xml.txt for discussion
+
+#---- identify sections
+examine them first
+python section1.py boesp-1_utf8.txt section1.txt
+End of 'header' section is first blank line after <H>
+section markers:
+<S>  Sanskrit Devanagari transcoded as HK.
+     Extends until an ending blank line.
+      Usually 
+     2169
+D-section extends until
+<DX><AY> 1559   X is current sequence number;
+                Y is sequence number of first edition.
+<D1396><D1397><A3833><A3834>  1 of this type		
+
+<F>   Foootnote.  Optional
+##---------------------------------------------------------
+Transcode boesp to slp1.
+# there are 4 parts to transcode:
+1) <S> sections  (note we skip the <S> item at beg of file)
+2) {#X#}
+3) {#X    no closing #}
+4) X#}    no opening {#
+All these assumed to be standard hk transcoding
+
+python boesp_transcode.py hk slp1 boesp-1_utf8.txt boesp-1.txt
 
 ##---------------------------------------------------------
  REST IS NOT CURRENT

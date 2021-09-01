@@ -1,6 +1,21 @@
 # list all extended Ascii characters, with frequency
 python ea.py boesp-1_utf8.txt temp_ea_boesp-1.txt
 
+«  (\u00ab)   133 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+°  (\u00b0)   457 := DEGREE SIGN
+²  (\u00b2)  3446 := SUPERSCRIPT TWO
+³  (\u00b3)     1 := SUPERSCRIPT THREE
+´  (\u00b4)     1 := ACUTE ACCENT
+µ  (\u00b5)     4 := MICRO SIGN    QUESTION What is this for?
+»  (\u00bb)   133 := RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+Ä  (\u00c4)   113 := LATIN CAPITAL LETTER A WITH DIAERESIS
+Ö  (\u00d6)     8 := LATIN CAPITAL LETTER O WITH DIAERESIS
+Ü  (\u00dc)     4 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ä  (\u00e4)  2021 := LATIN SMALL LETTER A WITH DIAERESIS
+ö  (\u00f6)  1222 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)  3178 := LATIN SMALL LETTER U WITH DIAERESIS
+
+Previous 
 16 extended ascii characters
 «  (\u00ab)   133 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
 °  (\u00b0)   457 := DEGREE SIGN
