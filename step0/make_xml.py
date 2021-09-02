@@ -65,7 +65,7 @@ class Entry(object):
    firstline = group[0]
    m = re.search(r'^<(.*?)>',firstline)
    if not m:
-    a.append('?')
+    a.append('X')
    else:
     tag = m.group(1)
     if tag.startswith('D'):
@@ -132,13 +132,15 @@ def make_xml_S(group,entry):
  if '[Seite' in text:
   print('make_xml_S WARNING 1 Seite:',entrysummary(entry))
  text = text.rstrip()
+ # 09-01-2021.  Remove gratuitous <br/> tag
+ text = text.replace('<br/>',' ')
  # expect '||' at end
  # A very few have a third line ending in single '|' (D=1026, 1027)
  if not text.endswith('||'):
   if text.endswith('|'):
    print('make_xml_S WARNING 2a |:',entrysummary(entry))
   else:
-   print('make_xml_S WARNING 2 ||:',entrysummary(entry))
+   print('make_xml_S WARNING 2b ||:',entrysummary(entry))
  # generate lines, with each line ending in | or ||
  # remove initial <S>
  text = re.sub(r'^<S> *','',text)
@@ -157,6 +159,32 @@ def make_xml_S(group,entry):
    if part != '':
     part = re.sub(r' +',' ',part)  # single-space separation
     lines.append(part)
+ outarr.append(' <S>')
+ for line in lines:
+  outarr.append('    '+line)
+ outarr.append(' </S>')
+ return outarr
+
+def make_xml_S1(group,entry):
+ # group is a list of lines
+ # For S, assume boesp-1 has already formatted the lines
+ # except for <S> and [Seite] and <br/>
+ group1 = []
+ for text in group:
+  m = re.search(r'\[Seite([0-9][.][0-9]+)\] *$',text)
+  if m:
+   pb = m.group(0)
+   text = re.sub(r'\[Seite([0-9][.][0-9]+)\] *$','',text)
+  if '[Seite' in text:
+   print('make_xml_S WARNING 1 Seite:',entrysummary(entry))
+  text = text.replace('<br/>',' ')
+  text = re.sub(r'^<S> *','',text)
+  if '#' in text:
+   print('# in S: %s' % entrysummary(entry))
+  text = text.strip()
+  group1.append(text)
+ lines = group1
+ outarr = []
  outarr.append(' <S>')
  for line in lines:
   outarr.append('    '+line)
@@ -348,6 +376,68 @@ def make_xml_H(group,entry):
  outarr.append(' </H>')
  return outarr
 
+def make_xml_HS2(group,entry):
+ # group is a list of lines. Only 1 instance
+ outarr = []
+ text = ' '.join(group)
+ # remove the HS2 tag
+ text = re.sub(r'^<HS2>','',text)
+ text = text.strip()
+ text = curly_to_s(text)
+ parts = re.split(r' +',text)
+ nc = 0
+ lines = []
+ words = []
+ for part in parts:
+  ncp = len(part)
+  if (nc + ncp) < 60:
+   words.append(part)
+   nc = nc + ncp
+  else:
+   line = ' '.join(words)
+   lines.append(line)
+   words = [part]
+   nc = ncp
+ # last line
+ if words != []:
+  line = ' '.join(words)
+  lines.append(line)
+ outarr.append(' <HS2>')
+ for line in lines:
+  outarr.append('    '+line)
+ outarr.append(' </HS2>')
+ return outarr
+
+def make_xml_unknown(group,entry):
+ # group is a list of lines. Only 1 instance
+ # The tag is unknown
+ # print with X 
+ outarr = []
+ outarr.append('<X>')
+ for line in group:
+  outarr.append(line)
+ outarr.append('</X>')
+ return outarr
+
+def test_S_prep(a):
+ # a is array of strings
+ b = []
+ for x in a:
+  x = x.strip()
+  x = re.sub(r'  +',' ',x)
+  b.append(x)
+ return b
+
+def test_S(outgroup,outgroup1,entry):
+ #compare to ways to compute the lines for <S>
+ # use difflib 
+ lines = test_S_prep(outgroup)
+ lines1 = test_S_prep(outgroup1)
+ import difflib
+ d = difflib.Differ()
+ diff = d.compare(lines,lines1)
+ print('\n' .join(diff))
+ exit(1)
 def entrylines(entry):
  outarr = []
  outarr.append('<entry>')
@@ -357,6 +447,9 @@ def entrylines(entry):
   tag = entry.tags[igroup]
   if tag == 'S':
    outgroup = make_xml_S(group,entry)
+   #outgroup = make_xml_S1(group,entry)
+   #outgroup1 = make_xml_S1(group,entry)
+   #test_S(outgroup,outgroup1,entry)
   elif tag == 'D':
    outgroup = make_xml_D(group,entry)
   elif tag == 'F':
@@ -365,10 +458,13 @@ def entrylines(entry):
    outgroup = make_xml_V(group,entry)
   elif tag == 'HS':
    outgroup = make_xml_HS(group,entry)
+  elif tag == 'HS2':
+   outgroup = make_xml_HS2(group,entry)
   elif tag == 'H':
    outgroup = make_xml_H(group,entry)
   else:
-   continue
+   #print('unknown tag:',tag)
+   outgroup = make_xml_unknown(group,entry)
   for x in outgroup:
    outarr.append(x)
  outarr.append('</entry>')
@@ -386,12 +482,12 @@ def updatepage(entry,page):
 def generate_entries(lines):
  ngroup = 0
  #nentry = 0
- first = False
+ firstfound = False
  page = '1.1'
  for group in generate_groups(lines):
   ngroup = ngroup+1
   # skip the groups until a condition is met
-  if first:
+  if firstfound:
    if group[0].startswith('<S>'):
     if entry != []:
      e = Entry(entry,page)
@@ -401,7 +497,7 @@ def generate_entries(lines):
    else:
     entry.append(group)
   elif group[0].startswith('<H> Boehtlingk'):
-   first = True
+   firstfound = True
    entry = []
  yield Entry(entry,page)
 
@@ -504,19 +600,83 @@ def check_san(entries):
 
 def statistics(entries):
  check_L(entries)
- check_tagsequence(entries)
+ # check_tagsequence(entries)
  check_tagfreq(entries)
  check_page(entries)
  check_san(entries)
- 
+
+def entries_HS_adjust(entries):
+ """ HS entries are known to occur at the END of groups
+  However, they seem to belong to the NEXT group.
+  This routine makes the blanket change of entries thus indicated.
+  That is, if an entry ends with one or more HS items, then we
+  remove these and put them at the beginning of the next entry.
+
+ """
+ dbg = False
+ for ientry,entry in enumerate(entries):
+  oldtags = entry.tags
+  ntags = len(oldtags)
+  hsend = ntags - 1
+  if 'HS' != oldtags[hsend]:
+   continue
+  oldgroups = entry.groups
+  while True:
+   hsend1 = hsend - 1
+   if oldtags[hsend1] == 'HS':
+    hsend = hsend1
+   else:
+    break
+  #  So when hsend <= idx < ntags, tags[idx] = HS
+  if dbg: print('old:',ientry,entrysummary(entry))
+  idxkeep = [i for i in range(len(entry.groups)) if i < hsend]
+  idxdrop = [i for i in range(len(entry.groups)) if hsend <= i]
+  groups = [entry.groups[i] for i in idxkeep]
+  tags = [entry.tags[i] for i in idxkeep]
+  #
+  groups1 = [entry.groups[i] for i in idxdrop]
+  tags1 = [entry.tags[i] for i in idxdrop]
+  # change entry.groups and tags
+  entry.groups = groups
+  entry.tags = tags
+  if dbg: print('new:',ientry,entrysummary(entry))
+  # now also modify the next entry
+  ientry1 = ientry+1
+  if ientry1 == len(entries):
+   print('entries_HS_adjust anomaly:',entrysummary(entry))
+   continue
+  entry1 = entries[ientry+1]
+  if dbg: print('old1:',ientry1,entrysummary(entry1))
+  entry1.groups = groups1 + entry1.groups
+  entry1.tags = tags1 + entry1.tags
+  entries[ientry1] = entry1
+  if dbg:
+   print('new1:',ientry1,entrysummary(entry1))
+   print('breaking adjustment')
+   break
+def read_and_clean_lines(filein):
+ with codecs.open(filein,encoding='utf-8',mode='r') as f:
+  nprob = 0
+  lines = []
+  for line in f:
+   line = line.rstrip('\r\n')
+   # cleaning <>
+   if '<>' in line:
+    nprob = nprob + 1
+    line = line.replace('<>','')
+   lines.append(line)
+ print(len(lines),"lines read from",filein)
+ print("remove %s instances of '<>'"% nprob)
+ return lines
 if __name__=="__main__":
  filein = sys.argv[1] # boesp-1_utf8.txt
  fileout = sys.argv[2] # boesp-1.xml
  xmlroot = 'boesp'
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
-    lines = [line.rstrip('\r\n') for line in f]
+ lines = read_and_clean_lines(filein)
+    
  head = xml_header(xmlroot)
  entries = list(generate_entries(lines))
+ entries_HS_adjust(entries)
  body = xml_body(entries)
  tail = ['</%s>'%xmlroot]
  linesout = head + body  + tail

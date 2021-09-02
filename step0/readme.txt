@@ -14,11 +14,20 @@ diff -w boesp-1_ansi.txt boesp-1_utf8_cp1252.txt
 rm boesp-1_utf8_cp1252.txt
 
 ##---------------------------------------------------------
+getting previous version of a file  (using commit)
+git show a448aa03a4da110b2c3bed0f8e050d7cbb3b9608:step0/boesp-1_ansi.txt > temp.txt
+
+##---------------------------------------------------------
 Find list of extended ASCII.
+python ea.py boesp-1_utf8.txt temp_ea_boesp-1.txt
 See readme_ea.txt
 
 ##---------------------------------------------------------
 convert to xml, and make a dtd.
+python make_xml.py boesp-1_utf8.txt boesp-1.xml
+# check against dtd
+python /c/xampp/htdocs/cologne/xmlvalidate.py boesp-1.xml boesp.dtd
+
 See readme_xml.txt for discussion
 
 #---- identify sections
