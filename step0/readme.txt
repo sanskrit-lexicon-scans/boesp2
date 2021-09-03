@@ -23,13 +23,16 @@ python ea.py boesp-1_utf8.txt temp_ea_boesp-1.txt
 See readme_ea.txt
 
 ##---------------------------------------------------------
+NOTE: redo_xml.sh does these 2 steps
 convert to xml, and make a dtd.
-python make_xml.py boesp-1_utf8.txt boesp-1.xml
+python make_xml.py hk boesp-1_utf8.txt boesp-1.xml
 # check against dtd
 python /c/xampp/htdocs/cologne/xmlvalidate.py boesp-1.xml boesp.dtd
 
 See readme_xml.txt for discussion
 
+##------------------------------------------------------------
+Following notes are from earlier work. No longer actively used
 #---- identify sections
 examine them first
 python section1.py boesp-1_utf8.txt section1.txt

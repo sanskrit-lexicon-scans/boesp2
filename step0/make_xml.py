@@ -6,6 +6,10 @@ from __future__ import print_function
 import xml.etree.ElementTree as ET
 import sys, re,codecs
 
+dandas = {'hk':'|','slp1':'.','deva':'।'}
+ddandas = {'hk':'||','slp1':'..','deva':'॥'}
+dandaregexes= {'hk':r'([|]+)',  'slp1':r'([.]+)', 'deva': r'([।॥])'}
+
 def get_L_from_D(line):
  """
   Assume line contains one or more <Dn>
@@ -119,28 +123,33 @@ def entrysummary(entry):
  text = 'L=%s: %s %s' %(L,gtypes,page)
  return text
 
-def make_xml_S(group,entry):
+def make_xml_S(group,entry,tranin):
  # group is a list of lines
+ # get danda and doubledanda for this transliteration
+ danda = dandas[tranin]
+ ddanda = ddandas[tranin]
+ dandaregex = dandaregexes[tranin]
+ dbg = True
  outarr = []
  text = ' '.join(group)
  # remove page if any.  If it occurs, is it always at the end?
  pb = None
- m = re.search(r'\[Seite([0-9][.][0-9]+)\] *$',text)
+ m = re.search(r' *\[Seite([0-9][.][0-9]+)\] *$',text)
  if m:
   pb = m.group(0)
   text = re.sub(r'\[Seite([0-9][.][0-9]+)\] *$','',text)
  if '[Seite' in text:
-  print('make_xml_S WARNING 1 Seite:',entrysummary(entry))
+  print('make_xml_S WARNING 1 Seite:',entrysummary(entry))   
  text = text.rstrip()
  # 09-01-2021.  Remove gratuitous <br/> tag
  text = text.replace('<br/>',' ')
- # expect '||' at end
- # A very few have a third line ending in single '|' (D=1026, 1027)
- if not text.endswith('||'):
-  if text.endswith('|'):
-   print('make_xml_S WARNING 2a |:',entrysummary(entry))
+ # expect ddanda at end
+ # A very few have a third line ending in single danda (D=1026, 1027)
+ if not text.endswith(ddanda):
+  if text.endswith(danda):
+   print('make_xml_S WARNING 2a %s:' % 'danda', entrysummary(entry))
   else:
-   print('make_xml_S WARNING 2b ||:',entrysummary(entry))
+   print('make_xml_S WARNING 2b %s:' % 'ddanda',entrysummary(entry))
  # generate lines, with each line ending in | or ||
  # remove initial <S>
  text = re.sub(r'^<S> *','',text)
@@ -149,16 +158,20 @@ def make_xml_S(group,entry):
  if '#' in text:
   print('# in S: %s' % entrysummary(entry))
  # reformat lines so danda at end
- parts = re.split(r'([|]+)',text)
+ #parts = re.split(r'([|]+)',text)
+ parts = re.split(dandaregex,text)               
  lines = []
  for part in parts:
-  if part in ('|','||'):
+  if part in (danda,ddanda):
    lines[-1] = lines[-1] + ' ' + part
   else:
    part = part.strip()
    if part != '':
     part = re.sub(r' +',' ',part)  # single-space separation
     lines.append(part)
+ # reattach pb text to end, if present
+ if pb != None:
+  lines[-1] = lines[-1] + pb
  outarr.append(' <S>')
  for line in lines:
   outarr.append('    '+line)
@@ -315,12 +328,17 @@ def make_xml_V(group,entry):
 
 def make_xml_HS(group,entry):
  # group is a list of lines
+ # Here, the printed text is always (I think) in one line.
+ # And we construct this similarly.
+ # We also do NOT adjust the line lengths
  outarr = []
  text = ' '.join(group)
  # remove the HS tag
  text = re.sub(r'^<HS>','',text)
  text = text.strip()
  text = curly_to_s(text)
+ text = re.sub(r'  +',' ',text) # remove extra spaces
+ """
  parts = re.split(r' +',text)
  nc = 0
  lines = []
@@ -339,6 +357,8 @@ def make_xml_HS(group,entry):
  if words != []:
   line = ' '.join(words)
   lines.append(line)
+ """
+ lines = [text]
  outarr.append(' <HS>')
  for line in lines:
   outarr.append('    '+line)
@@ -438,7 +458,7 @@ def test_S(outgroup,outgroup1,entry):
  diff = d.compare(lines,lines1)
  print('\n' .join(diff))
  exit(1)
-def entrylines(entry):
+def entrylines(entry,tranin):
  outarr = []
  outarr.append('<entry>')
  text = entrysummary(entry)
@@ -446,7 +466,7 @@ def entrylines(entry):
  for igroup,group in enumerate(entry.groups):
   tag = entry.tags[igroup]
   if tag == 'S':
-   outgroup = make_xml_S(group,entry)
+   outgroup = make_xml_S(group,entry,tranin)
    #outgroup = make_xml_S1(group,entry)
    #outgroup1 = make_xml_S1(group,entry)
    #test_S(outgroup,outgroup1,entry)
@@ -501,12 +521,12 @@ def generate_entries(lines):
    entry = []
  yield Entry(entry,page)
 
-def xml_body(entries):
+def xml_body(entries,tranin):
  # generate xml header lines
  body = []
  nentry = 0
  for entry in entries:
-  outarr = entrylines(entry)
+  outarr = entrylines(entry,tranin)
   nentry = nentry + 1
   for out in outarr:
    body.append(out)
@@ -581,7 +601,7 @@ def check_page(entries):
    p0 = p
   else:
    text = entrysummary(entry)
-   print('page problem: ',text)
+   print('page problem: ',text,' p0=%s, p=%s'% (p0,p))
    nprob = nprob + 1
  print('check_page found %s problems' %nprob)
 
@@ -668,16 +688,33 @@ def read_and_clean_lines(filein):
  print(len(lines),"lines read from",filein)
  print("remove %s instances of '<>'"% nprob)
  return lines
+
+def check_tranin(tranin):
+ allowed = ['hk','slp1','deva']
+ if tranin not in allowed:
+  print('ERROR UNKNOWN tranin:',tranin)
+  print('known values:',','.join(allowed))
+  exit(1)
+
+def test():
+ x = dandas['deva']
+ print('danda =',x)
+ y = '%s is danda' %x
+ print(y)
+ exit(1)
 if __name__=="__main__":
- filein = sys.argv[1] # boesp-1_utf8.txt
- fileout = sys.argv[2] # boesp-1.xml
+ #test()
+ tranin = sys.argv[1]
+ check_tranin(tranin)
+ filein = sys.argv[2] # boesp-1_utf8.txt
+ fileout = sys.argv[3] # boesp-1.xml
  xmlroot = 'boesp'
  lines = read_and_clean_lines(filein)
     
  head = xml_header(xmlroot)
  entries = list(generate_entries(lines))
  entries_HS_adjust(entries)
- body = xml_body(entries)
+ body = xml_body(entries,tranin)
  tail = ['</%s>'%xmlroot]
  linesout = head + body  + tail
  with codecs.open(fileout,"w","utf-8") as f:
