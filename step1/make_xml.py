@@ -338,26 +338,6 @@ def make_xml_HS(group,entry):
  text = text.strip()
  text = curly_to_s(text)
  text = re.sub(r'  +',' ',text) # remove extra spaces
- """
- parts = re.split(r' +',text)
- nc = 0
- lines = []
- words = []
- for part in parts:
-  ncp = len(part)
-  if (nc + ncp) < 60:
-   words.append(part)
-   nc = nc + ncp
-  else:
-   line = ' '.join(words)
-   lines.append(line)
-   words = [part]
-   nc = ncp
- # last line
- if words != []:
-  line = ' '.join(words)
-  lines.append(line)
- """
  lines = [text]
  outarr.append(' <HS>')
  for line in lines:
@@ -640,7 +620,7 @@ def entries_HS_adjust(entries):
   hsend = ntags - 1
   if 'HS' != oldtags[hsend]:
    continue
-  oldgroups = entry.groups
+  #oldgroups = entry.groups not used
   while True:
    hsend1 = hsend - 1
    if oldtags[hsend1] == 'HS':
@@ -648,7 +628,6 @@ def entries_HS_adjust(entries):
    else:
     break
   #  So when hsend <= idx < ntags, tags[idx] = HS
-  if dbg: print('old:',ientry,entrysummary(entry))
   idxkeep = [i for i in range(len(entry.groups)) if i < hsend]
   idxdrop = [i for i in range(len(entry.groups)) if hsend <= i]
   groups = [entry.groups[i] for i in idxkeep]
@@ -659,7 +638,6 @@ def entries_HS_adjust(entries):
   # change entry.groups and tags
   entry.groups = groups
   entry.tags = tags
-  if dbg: print('new:',ientry,entrysummary(entry))
   # now also modify the next entry
   ientry1 = ientry+1
   if ientry1 == len(entries):
@@ -669,11 +647,9 @@ def entries_HS_adjust(entries):
   if dbg: print('old1:',ientry1,entrysummary(entry1))
   entry1.groups = groups1 + entry1.groups
   entry1.tags = tags1 + entry1.tags
+  # The page number for the entry1 should be that for entry
+  entry1.page = entry.page  # only line changed
   entries[ientry1] = entry1
-  if dbg:
-   print('new1:',ientry1,entrysummary(entry1))
-   print('breaking adjustment')
-   break
 def read_and_clean_lines(filein):
  with codecs.open(filein,encoding='utf-8',mode='r') as f:
   nprob = 0

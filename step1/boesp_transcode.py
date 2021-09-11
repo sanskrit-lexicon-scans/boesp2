@@ -108,7 +108,8 @@ def transcode_other(group,tranin,tranout):
   x = m.group(1)
   y =   transcode(x,tranin,tranout)
   return '{#%s#}'%y
- newtext = re.sub(r'{#(.*?)#}',f,text,re.DOTALL)
+ # the 0 before re.DOTALL is count.
+ newtext = re.sub(r'{#(.*?)#}',f,text,0,re.DOTALL)
  # reconstitute lines
  if False and ('{#' in text):  # dbg
   print('OLD',text)
@@ -168,11 +169,19 @@ def write(fileout,lines):
  print(len(lines),'written to',fileout)
 
 def test():
- x = 'aMza'
- y = transcode(x,tranin,tranout)
- print(x,'->',y)
+ tranin = 'hk'
+ tranout = 'slp1'
+ text = 'hello {#abhi\nazva#}'
+ def f(m):
+  x = m.group(1)
+  y =   transcode(x,tranin,tranout)
+  return '{#%s#}'%y
+ newtext = re.sub(r'{#(.*?)#}',f,text,0,re.DOTALL)
+ print(newtext)
+ 
  exit(1)
 if __name__=="__main__":
+ #test()
  tranin = sys.argv[1]
  tranout = sys.argv[2]
  #test()

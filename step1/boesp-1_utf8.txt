@@ -79,7 +79,7 @@ widerliche Kleider trägt, den soll man nicht im Hause beherbergen.
  
 <F>5) MBH. 5, 1368. ²c. {#vezam#} st. {#veSam#} ed. Calc. 
  
-<S> akasmAtprakriyA nR2NAmakasmAccApakarSaNam | zubhAzubhe mahattvaM ca 
+<S> akasmAtprakriyA nRRNAmakasmAccApakarSaNam | zubhAzubhe mahattvaM ca 
 prakartuM buddhilAghavam || 
  
 <D6><A3361> Ohne Grund Männer zu erhöhen und zu erniedrigen, ihnen Gutes und 
@@ -771,9 +771,9 @@ erweckt hat, falle man wie ein Wolf über sie her.
  
 <F>74) MBH. 1, 5560. Vgl. Spruch {#avadhAnena maunena#}. 
  
-<S> agrAhyaM hRdayaM tathaiva vadanaM yaddarpaNAntargataM bhAvaH 
+<S> agrAhyaM hRdayaM tathaiva vadanaM yaddarpaNAntargataM @ bhAvaH 
 parvatasUkSmamArgaviSamaH strINAM na vijJayate | cittaM puSkarapattratoyataralaM 
-vidvadbhirAzaMsitaM nArI nAma viSAGkarairiva latA doSaiH samaM vardhitA || 
+vidvadbhirAzaMsitaM @ nArI nAma viSAGkarairiva latA doSaiH samaM vardhitA || 
  
 <D75><A21> Der Weiber Herz lässt sich so wenig fassen wie ein Gesicht im 
 Spiegel; ihr Wesen, uneben wie ein schmaler Pfad im Gebirge, wird nicht 
@@ -784,9 +784,9 @@ gross geworden, wie eine Schlingpflanze mit ihren Giftschösslingen.
 <F>75) BHARTR2. ed. BOHL. Suppl. 15. HAEB. 2, 50. ²a. {#durgrAhyaM, darpaNAntaH 
 sthitaM#} ²b. {#durga#} st. {#sUkSma#} 
  
-<S> agre kasyacidasti kaMcidabhitaH kenApi pRSThe kRtaH saMsAraH 
+<S> agre kasyacidasti kaMcidabhitaH kenApi pRSThe kRtaH @ saMsAraH 
 zizubhAvayauvanajarAbhArAvatArAdayam | bAlastaM bahu manyatAmasulabhaM prAptaM 
-yuvA sevatAM vRddhastaM viSayAdbahiSkRta iva vyAkRtya kiM pazyati || 
+yuvA sevatAM @ vRddhastaM viSayAdbahiSkRta iva vyAkRtya kiM pazyati || 
  
 <D76><A22> Dem Einen steht das Leben noch bevor, einen Andern hält [Seite1.15] 
 es umfangen, ein Dritter hat es im Rücken, je nachdem Kindheit, Jugend oder die 
@@ -848,9 +848,9 @@ dem zitternden schönen Stabe in der Hand.
 BROCKH. ²d. {#bhaNDam#} unsere Aenderung für {#bhANDaM#}; vgl. den Schluss von 
 Spruch {#khalollApAH#} und {#dinayAminyau#}. [Seite1.16] 
  
-<S> aGgaM candanapANDu pallavamRdustAmbUlatAmrAdharo 
+<S> aGgaM candanapANDu pallavamRdustAmbUlatAmrAdharo @ 
 dhArAyantrajalAbhiSekakaluSe dhautAJjane locane | antaHpuSpasugandhirArdrakavarI 
-sarvAGgalagnAmbaraM rAmANAM ramaNIyatAM vidadhati grISmAparAhNAgame || 
+sarvAGgalagnAmbaraM @ rAmANAM ramaNIyatAM vidadhati grISmAparAhNAgame || 
  
 <D81><A24> Zur Nachmittagszeit im Sommer verleihen schönen Weibern besondern 
 Reiz: ein Körper, gelb von Sandel; Lippen, zart wie junge Sprossen und 
@@ -892,9 +892,9 @@ einfacher Strandläufer brachte das Meer in Verwirrung.
  
 <F>84) HIT. ed. SCHL. II, 141. ed. JOHNS. 147 
  
-<S> aGgAnAmatitAnavaM kathamidaM kampazca kasmAtkuto mugdhe 
+<S> aGgAnAmatitAnavaM kathamidaM kampazca kasmAtkuto @ mugdhe 
 pANDukapolamAnanamiti prANezvare pRcchati | tanvyA sarvamidaM svabhAvajamiti 
-vyAhRtya pakSmAntaravyApI bASpabharastayA calitayA niHzvasya mukto 'nyataH || 
+vyAhRtya pakSmAntara- @ vyApI bASpabharastayA calitayA niHzvasya mukto 'nyataH || 
  
 <D85><A27> «Woher diese überaus grosse Magerkeit der Glieder? Woher das Zittern? 
 Woher, du Einfältige, das Gesicht mit den bleichen Wangen?» Auf diese Fragen des 
@@ -904,9 +904,9 @@ welche ihre Wimpern erfüllte.
  
 <F>85) AMAR. 45. 
  
-<S> aGgulyagranakhena bASpasalilaM nikSipya nikSipya kiM tUSNIM rodiSi kopane 
+<S> aGgulyagranakhena bASpasalilaM nikSipya nikSipya kiM @ tUSNIM rodiSi kopane 
 bahutaraM phUtkRtya rodiSyasi | yasyAste pizunopadezavacanairmAne 'tibhUmiM gate 
-nirviNNo 'nunayaM prati priyatamo madhyasthatAmeSyati || 
+@ nirviNNo 'nunayaM prati priyatamo madhyasthatAmeSyati || 
  
 <D86><A28> Warum weinst du, o Zornige, still für dich hin und stossest beständig 
 mit der Fingernagelspitze die Thränentropfen herab? Du wirst noch mehr und laut 
@@ -1058,8 +1058,8 @@ verzeihen müssen, der uns ohne sein Wissen irgend eine Beleidigung angethan hat
  
 <F>99) MBH. 3, 1058. 
  
-<S> ajAnandAhArtiM patati zalabho dIpadahane sa mIno 'pyajJAnAdbaDizayutamaznAti 
-pizitam | vijAnanto 'pyete vayamiha vipajjAlajaTilAnna muJcAmaH kAmAnahaha 
+<S> ajAnandAhArtiM patati zalabho dIpadahane @ sa mIno 'pyajJAnAdbaDizayutamaznAti 
+pizitam | vijAnanto 'pyete vayamiha vipajjAlajaTilA- @ nna muJcAmaH kAmAnahaha 
 gahano mohamahimA || 
  
 <D100><A36> Die Lichtmotte fliegt in das Feuer der Lampe, weil sie den Schmerz 
@@ -1193,9 +1193,9 @@ Male.
  
 <F>111) M. 11, 232. 
  
-<S> ajJAnena parAGmukhIM paribhavAdAzliSya mAM duHkhitAM kiM labdhaM caTula 
+<S> ajJAnena parAGmukhIM paribhavAdAzliSya mAM duHkhitAM @ kiM labdhaM caTula 
 tvayeha nayatA saubhAgyametAM dazAm | 
-pazyaiddayitArativyatikaronmRSTAGgarAgAruNaM vakSaste 
+pazyaiddayitArativyatikaronmRSTAGgarAgAruNaM @ vakSaste 
 malatailapaGkazabalairveNIpadairaGkitam || 
  
 <D112><A43> Was hast du, Flatterhafter, der du hier mein eheliches Glück so 
@@ -1349,8 +1349,8 @@ ist, kann wohl zum Schmelzen gebracht werden, nicht aber Gras.
 {#ati#} und {#ati#} st. {#api#}. ²b. {#mRdubha°#}. ²d. {#dravyaMgopAyo sti 
 nastR°. dravaNopAyaste na#}. [Seite1.25] 
  
-<S> atikrAntaH kAlo lalitalalanAbhogasubhago bhramantaH zAntAH smaH suciramiha 
-saMsArasaraNim | idAnIM svaHsindhostaTabhuvi samAkrandanagiraH sutAraiH 
+<S> atikrAntaH kAlo lalitalalanAbhogasubhago @ bhramantaH zAntAH smaH suciramiha 
+saMsArasaraNim | idAnIM svaHsindhostaTabhuvi samAkrandanagiraH @ sutAraiH 
 phUtkAraiH ziva ziveti pratanumaH || 
  
 <D127><A3401> Dahin ist die Zeit, die durch den Genuss reizender Weiber so schön 
@@ -1710,9 +1710,9 @@ selbst ein Bösewicht ist, einen braven Menschen Bösewicht nennt.
 <F>163) MBH. 1, 3087 (S4AKUNTALOP. 7, 93 bei CHEZY, S. 40 bei WEST.). ²c. 
 {#durjana ityAha#}. 
  
-<S> attuM vAJchati zAMbhavo gaNapaterokhuM kSudhArtaH phaNI taM ca krauJcaripoH 
+<S> attuM vAJchati zAMbhavo gaNapaterokhuM kSudhArtaH phaNI @ taM ca krauJcaripoH 
 zikhI girisutAsiMho 'pi nAgAzanam | itthaM yatra parigrahasya ghaTanA zaMbhorapi 
-syAdgRhe tatrAnyasya kathaM na bhAvi jagatastasmAtsvarUpaM hi tat || 
+syAdgRhe @ tatrAnyasya kathaM na bhAvi jagatastasmAtsvarUpaM hi tat || 
  
 <D164><A64> Des S4iva Schlange begehrt, von Hunger geplagt, des Ganes4a Maus zu 
 verzehren; diese wiederum der Pfau des Skanda, den Pfau wiederum der Löwe der 
@@ -1839,9 +1839,9 @@ sevyantAM#} (auch {#sevyatAM) madhyabhAgena, madhyabhAvena sevyante#} (auch
 <HS>{#atyuktaM (atyuktiM) rahasi gataM#} s. Spruch {#abhuktvA rahasi gatam#}. 
 [Seite1.34] 
  
-<S> atyuktau na yadi prakupyasi mRSAvAdaM ca no manyase tadbrUmo 
+<S> atyuktau na yadi prakupyasi mRSAvAdaM ca no manyase @ tadbrUmo 
 'dbhutakIrtanena rasanA keSAM na kaNDUyate | deva 
-tvattaruNapratApatapanajvAlAvalIzoSitAH sarve vAridhayastavArivanitAnetrAmbubhiH 
+tvattaruNapratApatapanajvAlAvalIzoSitAH @ sarve vAridhayastavArivanitAnetrAmbubhiH 
 pUritAH || 
  
 <D177><A69> Wenn du bei einer Uebertreibung nicht in Zorn geräthst und wenn du 
@@ -2513,8 +2513,8 @@ verstriche, dann wäre ich glücklich.
 <F>241) VIKRAM. 63. ²b. {#°gaNiteva#}. ²c. {#saMgame#} st. {#samAgame#}. ²d. 
 {#prabhavAti#} st. {#prasarati#}. 
  
-<S> anadhvanyAH kAvyeSvalasagatayaH zAstragahaneSvaduHkhajJA vAcAM pariNatiSu 
-mUkAH paraguNe | vidagdhAnAM goSThISvakRtaparicayAzca khalu ye bhaveyuste kiM vA 
+<S> anadhvanyAH kAvyeSvalasagatayaH zAstragahane- @ SvaduHkhajJA vAcAM pariNatiSu 
+mUkAH paraguNe | vidagdhAnAM goSThISvakRtaparicayAzca khalu ye @ bhaveyuste kiM vA 
 parabhaNitikaNDUtinikaSAH || 
  
 <D242><A3447> Könnten wohl in Dichterwerken Unbewanderte, in der Lehrbücher 
@@ -2943,8 +2943,8 @@ hinein zu weinen!
  
 <F>283) AMAR. 76. ²a. {#anAlokya#}. 
  
-<S> anAvartI kAlo vrajati sa vRthA tanna gaNitaM dazAstAstAH soDhA 
-vyasanazatasaMpAtavidhurAH | kiyadvA vakSyAmaH kimiva bata nAtmanyapakRtaM vayaM 
+<S> anAvartI kAlo vrajati sa vRthA tanna gaNitaM @ dazAstAstAH soDhA 
+vyasanazatasaMpAtavidhurAH | kiyadvA vakSyAmaH kimiva bata nAtmanyapakRtaM @ vayaM 
 yAvattAvatpunarapi tadeva vyavasitam || 
  
 <D284> Dass die nimmer wiederkehrende Zeit unnütz verstreicht, haben wir nicht 
@@ -3523,8 +3523,8 @@ Innern schmutzig, von aussen aber reizend sind, nicht angeführt?
 <F>343) KAVITA1MR2TAK. 8. 
  
 <S> antarye satataM kuThantyagaNitAneva 
-pAthodharairAttAnApatitAMstaraMgavalayairAliGgya gRhNannasau | vyaktaM 
-mauktikaratnatAM jalakaNAnsaMprApayatyambudhiH prAyo 'nyena kRtAdaro laghurapi 
+pAthodharai- @ rAttAnApatitAMstaraMgavalayairAliGgya gRhNannasau | vyaktaM 
+mauktikaratnatAM jalakaNAnsaMprApayatyambudhiH @ prAyo 'nyena kRtAdaro laghurapi 
 prApto 'caryate svAmibhiH || 
  
 <D344><A3490> Dieselben Wassertropfen, die ohne Unterlass im Meere unbeachtet 
@@ -3537,9 +3537,9 @@ bei seinem Erscheinen von grossen Herren geehrt zu werden.
 <F>344) RA1JA-TAR. ed. TR. 3, 202. ed. Calc. 205. ²a. {#luThantyagaNitAs#} 
 unsere Verbesserung für {#luThanti ga°#}. ²b. {#ArttAn#} st. {#AttAn#} ed. Calc. 
  
-<S> antarlInabhujaMgamaM gRhamiva vyAlAkulaM vA vanaM 
+<S> antarlInabhujaMgamaM gRhamiva vyAlAkulaM vA vanaM @ 
 grAhAkIrNamivAbhirAmakamalacchAyAsanAthaM saraH | nAnAduSTajanairasatyavacanaiH 
-kSudrairanAryairvRtaM duHkheneha vigAhyateM pracakitai rAjJAM gRhaM vArdhivat || 
+kSudrairanAryairvRtaM @ duHkheneha vigAhyateM pracakitai rAjJAM gRhaM vArdhivat || 
  
 <D345><A118> Wie in Haus, in dem Schlangen nisten, oder wie in einen Wald, der 
 mit Raubthieren erfüllt ist, wie in einen See, der mit einer Menge schöner 
@@ -3881,9 +3881,9 @@ KUVALAJ. 101, ²b (82, ²a). S4A1RN5G. PADDH. MADHUKARA1NJOKTI. ²c.
 {#mugdhAmanArajakaM, mugdhAnanAmarajasam, bAlAm#} st. {#mugdhAm#}. ²d. {#vAlAM#} 
 und {#tAlAM#} st. {#vyarthaM, navamAlikAyAH#}. [Seite1.70] 
  
-<S> anye te jaladAyino jaladharAstRSNAM vinighnanti ye bhrAtazcAtaka kiM 
+<S> anye te jaladAyino jaladharAstRSNAM vinighnanti ye @ bhrAtazcAtaka kiM 
 vRthAtiraTitaiH khinno 'si vizrAmyatAm | meghaH zArada eSa kAzadhavalaH 
-pAnIyariktodaro garjatyeva hi kevalaM bhRzataraM no bindumapyujjhati || 
+pAnIyariktodaro @ garjatyeva hi kevalaM bhRzataraM no bindumapyujjhati || 
  
 <D379><A3503> Das sind ja andere Wolken, die, Wasser spendend, den Durst 
 stillen; was kreischest du, o Bruder Ka1taka, vergebens so laut? Du bist müde, 
@@ -4201,8 +4201,8 @@ Staub graues Gesicht.
 {#saraM#} st. {#dhUsaraM#}. 
  
 <S> apasara sakhe 
-dUrAdasmAtkaTAkSaviSAnalAtprakRtiviSamAdyoSitsarpAdvilAsaphaNAbhRtaH | 
-itaraphaNinA daSTaH zakyazcikitsitumauSadhaizcaTulavanitAbhogigrastaM tyajAnti 
+dUrAdasmAtkaTAkSaviSAnalA- @ tprakRtiviSamAdyoSitsarpAdvilAsaphaNAbhRtaH | 
+itaraphaNinA daSTaH zakyazcikitsitumauSadhai- @ zcaTulavanitAbhogigrastaM tyajAnti 
 hi mantriNaH || 
  
 <D410><A142> Fliehe schon von fern, o Freund, vor dieser von Natur gefährlichen 
@@ -4270,8 +4270,8 @@ Augen gleichsam aufblitzen (sich im Voraus ankünden).
 JOHNS. II, 59. ²b. {#ca#} fehlt. ²c. {#guNa#} st. {#vidhi#}. ²d. {#pariH, 
 darzayanti#}. [Seite1.77] 
  
-<S> apAyi muninA purA punaramAyi maryAdayA atAri kapinA purA punaradAhi 
-laGkAriNA | amanthi muravairiNA punarabandhi laGkAriNA kva nAma vasudhAyate tava 
+<S> apAyi muninA purA punaramAyi maryAdayA @ atAri kapinA purA punaradAhi 
+laGkAriNA | amanthi muravairiNA punarabandhi laGkAriNA @ kva nAma vasudhAyate tava 
 yazo'mbudhiH kvAmbudhiH || 
  
 <D416><A3523> Vor Zeiten ward das Meer von einem Weisen (Agastja) ausgetrunken 
@@ -4795,9 +4795,9 @@ Antheils, Aufschub und Verweigerung von Abhilfe bewirken, dass die Zuneigung
 st. {#deyAMza#}. ²c. {#'prati°#}. ²d. {#tatra vairAgyakAraNam, tanurevAtra 
 kA°#}. 
  
-<S> aprAjJena ca kAtareNa ca guNaH syAtsAnurAgeNa kaH prajJAvikramazAlino 'pi hi 
+<S> aprAjJena ca kAtareNa ca guNaH syAtsAnurAgeNa kaH @ prajJAvikramazAlino 'pi hi 
 bhavetkiM bhaktihInAtphalam | prajJAvikramabhaktayaH samuditA yeSAM guNA bhUtaye 
-te bhRtyA nRpateH kalatramitare saMpatsu cAparsu ca || 
+ @ te bhRtyA nRpateH kalatramitare saMpatsu cAparsu ca || 
  
 <D467> Welchen Vortheil hätte man von einem ergebenen Diener, wenn er dumm und 
 feig wäre? Welchen Nutzen hätte man aber auch von dem, der zwar Einsicht und 
@@ -5448,7 +5448,7 @@ mohAtsatyenApadyate 'mRtam ||
 [Seite1.98] der Tod wird uns in Folge des Irrthums, Unsterblichkeit in Folge der 
 Wahrheit zu Theil. 
  
-<S> amRtapAyinAM nR2NAM saMtoSo naiva jAyate | gAvastRNamivAraNye prArthayanti 
+<S> amRtapAyinAM nRRNAM saMtoSo naiva jAyate | gAvastRNamivAraNye prArthayanti 
 navaM navam || 
  
 <D531> Männer, die Nektar schlürfen (schöne Reden hören), werden nimmer 
@@ -5458,8 +5458,8 @@ stets nach neuem Nektar.
 <F>531) S4iva-P. in Verz. d. Oxf. H. 75, ²b, 7. 8. ²a. {#amRtapA°#} AUFRECHT'S 
 Verbesserung für {#amRtApyAyinAM#}. Vgl. Spruch {#na strINAmapriyaH kazcit#}. 
  
-<S> amRtamamRtaM kaH saMdeho madhunyapi nAnyatha madhuramadhikaM cUtasyApi 
-prasannarasaM phalam | sakRdapi punarmadhyasthaH sanrasAntaravijjano vadatu 
+<S> amRtamamRtaM kaH saMdeho madhunyapi nAnyatha @ madhuramadhikaM cUtasyApi 
+prasannarasaM phalam | sakRdapi punarmadhyasthaH sanrasAntaravijjano @ vadatu 
 yadihanyatsvAdu syAtpriyAradanacchadAt || 
  
 <D532><A3562> Nektar ist Nektar, darüber kann kein Zweifel herrschen; auch mit 
@@ -5520,7 +5520,7 @@ andern Mondes?
  
 <F>537) KA1VJA1D. 2, 159. 
  
-<HS>{#amRtApyAyinAM nR2NAm#} s. Spruch 531. 
+<HS>{#amRtApyAyinAM nRRNAm#} s. Spruch 531. 
  
 <S> amoghakrodhaharSasya svayaM kRtvAnvavekSiNaH | Atmapratyayakozasya vasudaiva 
 vasuMdharA || 
@@ -5534,7 +5534,7 @@ besteht, dem verleiht die Erde ihre Schätze.
 {#svAdhIneyaM#} st. {#vasudaiva#} ed. Calc. Vgl. Spr. {#harSakrodhau yatau 
 yasya#}. 
  
-<S> amauktikamasauvarNaM brAhmaNAnAM vibhUSaNam | devatAnAM pitR2NAM ca bhAgo 
+<S> amauktikamasauvarNaM brAhmaNAnAM vibhUSaNam | devatAnAM pitRRNAM ca bhAgo 
 yena pradIyate || 
  
 <D539><A3569> Der Brahmanen Schmuck besteht nicht in Perlen und Gold, sondern in 
@@ -5576,9 +5576,9 @@ grösste Macht.
 <F>542) HIT. ed. SCHL. I, 187. ed. JOHNS. 205. ²c. {#svabhUmizca padAtInAM#}. 
 ²d. {#mantrI#} st. {#sainyaM, saumantraNaM#} st. {#sainyaM paraM#}. 
  
-<S> ambhojAni ghanAghanavyavahito 'pyullAghayatyaMzumAndUrastho 'pi payodharo 
+<S> ambhojAni ghanAghanavyavahito 'pyullAghayatyaMzumA- @ ndUrastho 'pi payodharo 
 'tizizirasparzaM karotyAtapam | zaktiH kApyaparIkSitAsti mahatAM svairaM 
-daviSThAnyaho yanmAhAtmyavazena yAnti ghaTanAM kAryANi niryantraNam || 
+daviSThAnyaho @ yanmAhAtmyavazena yAnti ghaTanAM kAryANi niryantraNam || 
  
 <D543><A3571> Die Sonne, sei sie auch durch dicke Wolken getrennt, erweckt die 
 Tagwasserrosen zu neuem Leben; eine Wolke, stände sie auch noch so fern, kühlt 
@@ -5603,6 +5603,11 @@ HAM5SA1NJOKTI. ²a. {#yava#} st. {#vana, vilAsavinAzameva#} st.
 {#haMsasya hantu, hanti, hantumaparAmapi tAM vi°.#} ²c. {#no tasya#} und 
 {#nAlasya#} st. {#na tvasya, viddhi, prazAstAM#}. ²d. {#daivagdha#} und 
 {#vaidoSya, apahantum#}. [Seite1.101] 
+
+<S> abhyodhiH sthalatAM sthalaM jaladhitAM dhUlIlavaH zailatAM @ 
+  merurmRtkaNatAM tRNaM kulizatAM vajraM tRNaklIbatAM |
+  vahniH zItalatAM himaM dahanatAmAyAti yasyecchayA @ 
+  lIlAdurlalitAdbhutavyasaninedaivAya tasmai namaH ||
  
 <D545><A3572> Vor dem Schicksal, nach dessen Willen das Meer zum Festland, das 
 Festland zum Meere, ein Staubkörnchen zu einem Berge, der Meru zu einem 
@@ -5617,8 +5622,8 @@ ist.
 {#yazyechayA#} und {#yasyekSayA#}. ²d. {#lAlAdullalIbhUtavyasanita daMvAya 
 tasmai nama; daivAya#} unsere Verbesserung für {#devAya#}. 
  
-<S> ayaM vArAmeko nilaya iti ratnAkara iti zrito 
-'smAbhistRSNAtaralitamanobhirjalanidhiH | ka evaM jAnIte nijakarapuTIkoTaragataM 
+<S> ayaM vArAmeko nilaya iti ratnAkara iti @ zrito 
+'smAbhistRSNAtaralitamanobhirjalanidhiH | ka evaM jAnIte nijakarapuTIkoTaragataM @ 
 kSaNAdenaM tAmyattimimakaramApAsyati muniH || 
  
 <D546><A3573> Wir haben, da unser Herz von Gier bewegt war, uns auf's Meer 
@@ -5676,8 +5681,8 @@ PAN4CAT. ed. Bomb. V, 38. HIT. ed. SCHL. I, 64. ed. JOHNS. 72. VIKRAMAC. 67. ²b
 {#kalpo bahucetasAm#}. ²c. {#punastUdAracittAnAM, ca#} st. {#tu#}. ²d. 
 {#vasudheva#} 
  
-<S> ayamamRtanidhAnaM nAyako 'pyoSadhInAmamRtamayazarIraH kAntiyukto 'pi candraH 
-| bhavati vigatarazmirmaNDalaM prApya bhAnoH parasadananiviSTaH ko laghutvaM na 
+<S> ayamamRtanidhAnaM nAyako 'pyoSadhInA- @ mamRtamayazarIraH kAntiyukto 'pi candraH 
+| bhavati vigatarazmirmaNDalaM prApya bhAnoH @ parasadananiviSTaH ko laghutvaM na 
 yAti || 
  
 <D551> Obgleich der Mond da ein Nektarbehälter und der Führer der Kräuter ist, 
@@ -6028,9 +6033,9 @@ soll ein Kluger nicht widersprechen.
  
 <F>584) SUBHA1SH. 29. 
  
-<S> arthaprANavinAzasaMzayakarIM prApyApadaM dustarAM pratyAsannabhayo na vetti 
+<S> arthaprANavinAzasaMzayakarIM prApyApadaM dustarAM @ pratyAsannabhayo na vetti 
 vibhavaM svaM jIvitaM kAGkSati | uttIrNastu tato dhanArthamaparAM bhUyo 
-vizatyApadaM prAnAM ca dhanasya cAdhamadhiyAmanyahetuH paNaH || [Seite1.109] 
+vizatyApadaM @ prANAnAM ca dhanasya cAdhamadhiyAmanyahetuH paNaH || [Seite1.109] 
  
 <D585><A3588> Geräth man in ein schwer zu überwindendes Unglück, das den Verlust 
 des Geldes und des Lebens droht, so denkt man im Angesicht der nahen Gefahr 
@@ -6163,9 +6168,9 @@ Thoren.
  
 <F>598) MBH. 12, 9918. 
  
-<S> arthAH pAdarajopamA girinadIvegopamaM yauvanaM mAnuSyaM jalavindulolacapalaM 
+<S> arthAH pAdarajopamA girinadIvegopamaM yauvanaM @ mAnuSyaM jalavindulolacapalaM 
 phenopamaM phenopamaM jIvitam | dharmaM yo na karoti nizcalamatiH 
-svargArgalodghATanaM pazcAttApahato jarApariNataH zokAgninA dahyate || 
+svargArgalodghATanaM @ pazcAttApahato jarApariNataH zokAgninA dahyate || 
  
 <D599><A217> Reichthum gleicht dem Staube der Füsse, Jugend dem raschen Laufe 
 eines Gebirgsbaches, die Menschheit ist unstät und beweglich wie ein 
@@ -6251,9 +6256,9 @@ behaupten, dass Reichthümer Freude brächten?
 duH khaM#}. ²d. {#dhigarthAH kaSTasaMzrayAH, dhigarthaM duHkhabhAjanam#}. ²c. 
 ²d. {#nAce duHkhaM ca dhigarthA nareNa kaSTasaMzrayAH#}. 
  
-<S> arthAnAmIziSe tvaM vayamapi ca girAmIzmahe yAvaditthaM zUrastvaM 
+<S> arthAnAmIziSe tvaM vayamapi ca girAmIzmahe yAvaditthaM @ zUrastvaM 
 vAdidarpajvarazamanavidhAvakSayaM pAThavaM naH | sevante tvAM dhanAndhA 
-matimalahataye mAmapi zrotukAmA mayyapyAsthA na te cettvayi mama sutarAmeSa 
+matimalahataye mAmapi zrotukAmA @ mayyapyAsthA na te cettvayi mama sutarAmeSa 
 rAjangato 'smi || [Seite1.113] 
  
 <D606><A220> Du gebietest über Reichthümer, wir gebieten über Reden je nach 
@@ -6353,9 +6358,9 @@ Mensch, der keine Wünsche hat.
  
 <HS>{#arthI dAtA guNagrAhI#} s. Spruch {#kSamI dAtA guNagrahI#}. 
  
-<S> arthI lAghavamucchrito nipatanaM kAmAturo lAJchanaM lubdho 'kIrtimasaMgaraH 
+<S> arthI lAghavamucchrito nipatanaM kAmAturo lAJchanaM @ lubdho 'kIrtimasaMgaraH 
 paribhavaM duSTo 'nyadoSe ratim | niHsvo vaJcanamunmanA vikalatAM zokAkulaH 
-saMzayaM durvAgapriyatAM durodaravazaH prApnoti kaSTaM muhuH || 
+saMzayaM @ durvAgapriyatAM durodaravazaH prApnoti kaSTaM muhuH || 
  
 <D615><A225> Der Bedürftige geniesst kein Ansehen, der Hochgestiegene fällt, der 
 Verliebte zieht sich einen Spitznamen zu, der Habsüchtige bedeckt sich mit 
@@ -6444,9 +6449,9 @@ dennoch ist eine ganze Lebenszeit dahingegangen.
 saMbhRtaM#} UGJVAL. ²d. {#caturaM#} st. {#sakalaM#} UJJVAL. Vgl. Spruch 
 {#prathame nArjitA vidyA.#} 
  
-<S> ardhaM nItvA nizAyAH sarabhasasuratAyAsakhinnazlazAGgaH prodbhUtAsahyatRSNo 
+<S> ardhaM nItvA nizAyAH sarabhasasuratAyAsakhinnazlazAGgaH @ prodbhUtAsahyatRSNo 
 madhumadanirato harmyapRSThe vivikte | 
-saMbhogaktAntakAntAzithilabhujalatAvarjitaM karkarIto jyotsnAbhinnAcchadhAraM na 
+saMbhogaktAntakAntAzithilabhujalatAvarjitaM karkarIto @ jyotsnAbhinnAcchadhAraM na 
 pibati salilaM zAradaM mandabhAgyaH || 
  
 <D622><A229> Nachdem er, dem die Glieder von der Anstrengung beim ungestümen 
@@ -6609,8 +6614,8 @@ Aenderung für {#alabhyeSu#}. ²d. Vgl. HIT. 104, 17.
  
 <V>636. In der Note KAVITA1MR2TAK. zu lesen. 
  
-<S> alamaticapalatvAtsvapnamAyopamatvrAtpariNativirasatvAtsaMgamenAGganAyAH | 
-iti yadi zatakRtvastattvamAlocayAmastadapi na hariNAkSIM vismaratyantarAtmA || 
+<S> alamaticapalatvAtsvapnamAyopamatvA- @ tpariNativirasatvAtsaMgamenAGganAyAH | 
+iti yadi zatakRtvastattvamAlocayAma- @ stadapi na hariNAkSIM vismaratyantarAtmA || 
  
 <D637> Wenn wir uns auch hundertmal die Wahrheit zu Gemüthe führen, dass man den 
 Umgang mit einem Weibe meiden müsse, weil er gar flüchtig ist, einem Traume und 
@@ -6818,8 +6823,8 @@ aber, das am Reichthum haftet, gewähren auch die Leiden.
 für eine unregelmässige Contraction von {#kaSTatarA adhane#} hält. ²d. {#duHkhe 
 vidhIyate#} ed. Calc. [Seite1.123] 
  
-<S> avajJAnAdrAjJo bhavati matihInaH parijanastatastatprAdhanyAdbhavati na 
-samIpe budhajanaH | budhaistyakte rAjye bhavati nahi nItirguNavatI vipannAyAM 
+<S> avajJAnAdrAjJo bhavati matihInaH parijana- @ statastatprAdhanyAdbhavati na 
+samIpe budhajanaH | budhaistyakte rAjye bhavati nahi nItirguNavatI @ vipannAyAM 
 nItau sakalamavazaM sIdati jagat || 
  
 <D658><A241> Legt der Fürst Geringschätzung (des Verdienstes) an den Tag, so 
@@ -8006,8 +8011,8 @@ Zaubermittel bannen lässt.
  
 <HS>{#asArabhUte saMsAre#} s. Spruch 778. 
  
-<S> asArAH santvete virativirasAyAsaviSayA jugupsyantaM yadvA nanu 
-sakaladoSAspadamiti | tathApyantastattve praNihitadhiyAmapyatibalastadIyo 
+<S> asArAH santvete virativirasAyAsaviSayA @ jugupsyantaM yadvA nanu 
+sakaladoSAspadamiti | tathApyantastattve praNihitadhiyAmapyatibala- @ stadIyo 
 'nAkhyeyaH sphurati hRdaye ko 'pi mahimA || 
  
 <D776><A289> Möge die Sinnenwelt, auf die man doch schliesslich unerquickliche 
@@ -8250,9 +8255,9 @@ heftige Gluth des Trennungsfeuers erzeugt.»
 <F>799) SUBHA1SH. 166. ²b. {#rodasI#} die Hdschr. ²c. {#bho, 
 pravirahAnaninIvra#} die Hdschr. ²d. {#dhUmreNa#} die Hdschr. 
  
-<S> asmAkaM sakhi vAsasI na rucire graiveyakaM nojjvalaM no vakrI gatiruddhataM 
+<S> asmAkaM sakhi vAsasI na rucire graiveyakaM nojjvalaM @ no vakrI gatiruddhataM 
 na hastiM naivAsti kazcinmadaH | kiM tvanye 'pi janA vadanti subhago 'pyasyAH 
-priyo nAnyato dRSTiM nikSipatIti vizvamiyatA manyAmahe duHsthitam || 
+priyo nAnyato @ dRSTiM nikSipatIti vizvamiyatA manyAmahe duHsthitam || 
  
 <D800><A3659> Meine Kleider sind, o Freundin, nicht hübsch, mein Halsschmuck 
 nicht glänzend, mein Gang nicht tänzelnd, mein Lachen nicht laut schallend, auch 
@@ -8315,8 +8320,8 @@ dieser von gleicher Farbe bist.
 <F>805) S4A1RN5G. PADDH. KOKILA1NJOKTI 3. ²d. {#gaNayanti#} st. {#kalayanti#}. 
 Vgl. Spr. {#kAkaH kRSNaH#} und {#kokilo 'ham#}. 
  
-<S> asyAzcedgatisaukumAryamadhunA haMsasya garvairalaM saMlApo yadi dhAryatAM 
-parabhRtairvAcaMyamatvavratam | aGgAnAmakaThoratA yadi dRSatprAyaiva sA mAlatI 
+<S> asyAzcedgatisaukumAryamadhunA haMsasya garvairalaM @ saMlApo yadi dhAryatAM 
+parabhRtairvAcaMyamatvavratam | aGgAnAmakaThoratA yadi dRSatprAyaiva sA mAlatI @ 
 kAntizcetkamalA kimatra bahunA kASAyamAlambatAm || 
  
 <D806><A3661> Angesichts der Zierlichkeit ihres Ganges kann sich der Flamingo 
@@ -8327,9 +8332,9 @@ greifen.
  
 <F>806) KUVALAJ. 98, ²a (78, ²b). [Seite1.150] 
  
-<S> asrAkSInnavanIlanIrajadalopAntAtisUkSmAyatatvaGmAtrAntaritAmiSaM yadi 
+<S> asrAkSInnavanIlanIrajadalopAntAtisUkSmAyata- @ tvaGmAtrAntaritAmiSaM yadi 
 vapurnaitatprajAnAM patiH | 
-pratyagrakSaradasrapizitagrAsagrahaM gRhNato gRdhradhvAGghavRkAMstanau nipatataH 
+pratyagrakSaradasrapizitagrAsagrahaM gRhNato @ gRdhradhvAGghavRkAMstanau nipatataH 
 ko vA kathaM vArayet || 
  
 <D807><A3662> Wenn nicht der Herr der Geschöpfe diesen Körper so geschaffen 
@@ -8714,8 +8719,8 @@ nicht zu vergessen pflegen.
  
 <F>843) KATHA1S. 20, 128. 
  
-<S> ahau vA hAre vA balavati ripau vA suhRdi vA maNau vA loSTe vA kumumazayane 
-vA dRSadi vA | tRNe vA straiNe vA mama samadRzo yAntu divasAH kvacitpuNye 'raNye 
+<S> ahau vA hAre vA balavati ripau vA suhRdi vA @ maNau vA loSTe vA kumumazayane 
+vA dRSadi vA | tRNe vA straiNe vA mama samadRzo yAntu divasAH @ kvacitpuNye 'raNye 
 ziva ziva ziveti pralapataH || [Seite1.157] 
  
 <D844><A309> Möchten doch meine Tage in irgend einem heiligen Walde ablaufen, wo 
@@ -8832,9 +8837,9 @@ Tag gelegten Eifer Niemandes Tadel zu.
  
 <F>854) MBH. 5, 3318. ²a. {#°grahaNAt#} ed. Calc. [Seite1.159] 
  
-<S> AkrAntaM maraNena janma jarasA yAtyuttamaM yauvanaM saMtoSo dhanalipsayA 
+<S> AkrAntaM maraNena janma jarasA yAtyuttamaM yauvanaM @ saMtoSo dhanalipsayA 
 zamasukhaM prauDhAGganAvibhramaiH | lokairmatsaribhirguNA vanabhuvo vyAlairnRpA 
-durjanairasthairyeNa vibhUtayo 'pyupahatA grastaM na kiM kena vA || 
+durjanai- @ rasthairyeNa vibhUtayo 'pyupahatA grastaM na kiM kena vA || 
  
 <D855><A311> Auf der Geburt lastet der Tod, die schöne Jugend wird durch das 
 Alter verscheucht, die Zufriedenheit durch die Gier nach Besitz, das Glück der 
@@ -8868,9 +8873,9 @@ befreit.
  
 <F>857) MBH. 5, 1168. 
  
-<S> Akrozena na dUyate na ca puTuH proktaH samAnandyate durgandhena na bAdhyate 
+<S> Akrozena na dUyate na ca puTuH proktaH samAnandyate @ durgandhena na bAdhyate 
 na ca samaM modena saMjIyate | strIratnena na rajyate na ca mRtasnAnena 
-vidveSyate mAdhyasthena virAjito vijayate ko 'pyeSa yogIzvaraH || 
+vidveSyate @ mAdhyasthena virAjito vijayate ko 'pyeSa yogIzvaraH || 
  
 <D858> Es lebe hoch dieser, durch vollkommene Gleichgiltigkeit sich 
 auszeichnende, uns unbekannte Fürst unter den Yogin! Ueber eine Schmähung grämt 
@@ -8960,9 +8965,9 @@ müssen sie nachgehen und nicht können sie ihren Gang anderswohin nehmen.
 <F>866) S4A1RN5G. PADDH. SAM5TOSHAPRAS4AM5SA1 5. ²a. {#AgamiSyati#}. ²b. 
 {#bhAvitA#} die eine, {#bhAvatA#} die andere Hdschr. 
  
-<S> AghrAtaM parilIDhamugranakharaiH kSuNNaM ca yaccarvitaM kSiptaM yadbhuvi 
+<S> AghrAtaM parilIDhamugranakharaiH kSuNNaM ca yaccarvitaM @ kSiptaM yadbhuvi 
 nIrasatvakupiteneti vyathAM kRthAH | he mANikya tavaitadeva kuzalaM 
-yadvAnareNAgrahAdantaHsattvanirUpaNAya sahasA cUrNIkRtaM nAzmanA || 
+yadvAnareNAgrahA- @ dantaHsattvanirUpaNAya sahasA cUrNIkRtaM nAzmanA || 
  
 <D867><A3683> Betrübe dich, o Rubin, nicht darüber, dass ein Affe dich berochen, 
 beleckt, mit seinen grausigen Krallen gequetscht, an dir gekaut und, über deine 
@@ -9507,14 +9512,14 @@ so denke, kommt keine Betrübniss über mich.
 <F>919) MBH. 12, 6470. 750. ²b. {#sarvApi#} st. {#sarvA vA#} ed. Bomb. an der 
 zweiten Stelle. ²d. {#iti pazyanna muhyati#} an der zweiten Stelle. 
  
-<S> AtmArthaM yaH pazUnhanyAtso 'vazyaM narakaM vrajet | devAnpitR2nsamabhyarcya 
+<S> AtmArthaM yaH pazUnhanyAtso 'vazyaM narakaM vrajet | devAnpitRRnsamabhyarcya 
 khAdanmAMsaM na doSabhAk || 
  
 <D920><A334> Wer Thiere zu seinem eigenen Bedarf tödtet, der fährt nothwendig 
 zur Hölle; wer aber Fleisch geniesst, nachdem er die Götter und Manen verehrt 
 hat, der ladet keine Schuld auf sich. 
  
-<F>920) S4A1RN5G. PADDH. SADA1CA1RA 34 (36). ²c. {#viprAn#} st. {#pitR2n#}. Die 
+<F>920) S4A1RN5G. PADDH. SADA1CA1RA 34 (36). ²c. {#viprAn#} st. {#pitRRn#}. Die 
 zweite Hälfte des Spruches auch JA1JN4. 1, 179. 
  
 <S> AtmArthe saMtatistyAjyA rAjyaM ratnaM dhanAni ca | api sarvasvamutsRjya 
@@ -9585,9 +9590,9 @@ Weniges, so wächst er, wie der in der lichten Hälfte des Monats wandelnde Mond
  
 <HS>{#Adarasya pradhAnasya#} s. Spruch 938. 
  
-<S> AdarzAya zazAGkamaNDalamidaM harmyAya hemAcalaM dIpAya dyumaNiM mahImiva 
+<S> AdarzAya zazAGkamaNDalamidaM harmyAya hemAcalaM @ dIpAya dyumaNiM mahImiva 
 kathM no bhikSave dattavAn | 
-AzApallavitapramodasalilavyAkIrNanetrAmbujo jAnImo bhRgunandanastadakhilaM na 
+AzApallavitapramodasalilavyAkIrNanetrAmbujo @ jAnImo bhRgunandanastadakhilaM na 
 prAyazo dRSTavAn || 
  
 <D928> Wie kam es, dass Bhr2gu's Sohn dem Bettler nicht, wie die Erde, auch 
@@ -9602,8 +9607,8 @@ nicht bemerkte.
  
 <HS>{#AdAnasya pradAnasya ca#} s. Spruch 938. 
  
-<S> AdAvAdipitAmahasya niyamavyApArapAtre jalaM pazcAtpannagazAyino bhagavataH 
-pAdodakaM pAvanam | bhUyaH zaMbhujaTAvibhUSaNamaNirjahnormaharSeriyaM kanyA 
+<S> AdAvAdipitAmahasya niyamavyApArapAtre jalaM @ pazcAtpannagazAyino bhagavataH 
+pAdodakaM pAvanam | bhUyaH zaMbhujaTAvibhUSaNamaNirjahnormaharSeriyaM @ kanyA 
 kalmaSanAzinI bhagavatI bhAgIrathI dRzyate || 
  
 <D929> Zuvörderst sieht man diese Tochter des grossen Heiligen Jahnu die 
@@ -9626,9 +9631,9 @@ Menschen Thun.
 667. Vgl. M. 8, 91. fg. ²a. {#anilo 'nalazca#}. ²b. {#manazca#} st. {#yamazca#}. 
 ²d. {#dharmo 'pi#} und {#dharmo hi.#} 
  
-<S> Adityasya gatAgatairaharahaH saMkSIyate jIvitaM 
+<S> Adityasya gatAgatairaharahaH saMkSIyate jIvitaM @ 
 vyApArairbahukAryabhAragurubhiH kAlo na vijJAyate | dRSTvA 
-janmajarAvipattimaraNaM trAsazca notpadyate pItvA mohamayIM 
+janmajarAvipattimaraNaM trAsazca notpadyate @ pItvA mohamayIM 
 pramAdamadirAmunmattabhUtaM jagat || 
  
 <D931><A339> Mit der Sonne Auf und Niedergang schwindet das Leben mit jedem Tage 
@@ -9671,8 +9676,8 @@ selbst, im Spiegel der Dichtkunst, obgleich sie selbst nicht mehr da sind.
  
 <F>934) KA1VJA1D. 1, 5. PRASAN5GA1BH. 7, ²b. ²d. {#svayaM pazyanna pazyati#}. 
  
-<S> AdIrgheNa calena vakragatinA tejAsvinA bhoginA nIlAbjadyutinAhinA varamahaM 
-dRzyo na taccakSuSA | daSTe santi cikitsakA dizi dizi prAyeNa dharmArthino 
+<S> AdIrgheNa calena vakragatinA tejAsvinA bhoginA @ nIlAbjadyutinAhinA varamahaM 
+dRzyo na taccakSuSA | daSTe santi cikitsakA dizi dizi prAyeNa dharmArthino @ 
 mugdhAkSIkSaNavIkSitasya nahi me vaidyo na cApyauSadham || 
  
 <D935><A342> Lieber möchte ich mich von einer länglichen, beweglichen, sich 
@@ -9697,9 +9702,9 @@ Liebesgott ist sogar beim Minnespiel grausam!
  
 <F>936) KIRA1T. 9, 49. [Seite1.175] 
  
-<S> AdRSTiprasaraM priyasya padavImudvIkSya nirviNNayA vicchinneSu 
+<S> AdRSTiprasaraM priyasya padavImudvIkSya nirviNNayA @ vicchinneSu 
 paziSvahaHpariNatau dhvAnte samunmIlati | dattvaikaM sazucA gRhaM prati padaM 
-pAnthastriyAsminkSaNe mA bhUdAgata ityamandavalitagrIvaM punarvIkSitam || 
+pAnthastriyAsminkSaNe @ mA bhUdAgata ityamandavalitagrIvaM punarvIkSitam || 
  
 <D937><A343> Die Frau eines auf Reisen befindlichen Mannes schaut nach dem 
 Pfade, auf dem ihr Geliebter kommen soll, so weit das Auge nur reicht; wie aber 
@@ -9788,9 +9793,9 @@ Sorgen und Krankheit heimgesucht wird und heute oder morgen zu Grunde geht?
 {#parItAya#}. ²b. {#vinAzinaM#} und {#vinAzane#}. ²c. {#zarIreSu#} und 
 {#zarIraM yaH.#} ²d. {#dharmopetaM#}. 
  
-<S> AdhivyAdhizatairjanasya vividhairArogyamunmUlyate lakSmIryatra patanti tatra 
+<S> AdhivyAdhizatairjanasya vividhairArogyamunmUlyate @ lakSmIryatra patanti tatra 
 vivRtadvArA iva vyApadaH | jAtaM jAtamavazyamAzu vivazaM mRtyuH 
-karotyAtmasAttatkiM nAma niraGkuzena vidhinA yannirmitaM susthiram || 
+karotyAtmasA- @ ttatkiM nAma niraGkuzena vidhinA yannirmitaM susthiram || 
  
 <D945><A349> Hunderte von Sorgen und Krankheiten mannichfacher Art untergraben 
 die Gesundheit des Menschen; wo das Glück weilt, da stürzt das Unglück herein, 
@@ -10122,8 +10127,8 @@ cAkurute mithunaiH strIpuruSaayugalairapi tathaM satyaM ythA syAttathAvadhAritaM
 nizcitaM kAmasukhaM tadeva kAmasya devasya nivarhaNaM pUjanaM bhavatIti 
 bhAvaH.#} 
  
-<S> Amodaistairdizi dizi gatairdUramAkRSyamANAH sAkSAllakSmIM tava malayaja 
-draSTumabhyAgatAH smaH | kiM pazyAmaH subhaga bhavataH krIDati kroDa eva 
+<S> Amodaistairdizi dizi gatairdUramAkRSyamANAH @ sAkSAllakSmIM tava malayaja 
+draSTumabhyAgatAH smaH | kiM pazyAmaH subhaga bhavataH krIDati kroDa eva @ 
 vyAlastubhyaM bhavatu kuzalaM muJca naH sAdhayAmaH || [Seite1.183] 
  
 <D978><A366> Angezogen durch den Wohlgeruch, der sich weit nach allen 
@@ -10205,9 +10210,9 @@ der Worte {#kiraNosra° (kiraNo 'sra°)#} AK. 1, 1, 2, 34.
  
 <HS>{#AyAccaturthabhAgena#} s. Spruch 981. 
  
-<S> AyAtA madhuyaminI yadi punarnAyAta eva prabhuH prANA yAntu vibhAvasau yadi 
+<S> AyAtA madhuyaminI yadi punarnAyAta eva prabhuH @ prANA yAntu vibhAvasau yadi 
 punarjanmagrahaM prArthaye | vyAdhaH kokilabandhane vidhuparidhvaMse ca 
-rAhugrahaH kandarpe haranetradIdhitirahaM prANezvare manmathaH || 
+rAhugrahaH @ kandarpe haranetradIdhitirahaM prANezvare manmathaH || 
  
 <D986><A3713> Die Frühlingsnacht ist gekommen; kommt aber der Gatte nicht, so 
 mögen meine Lebensgeister in's Feuer fahren! Sollte ich aber eine Wiedergeburt 
@@ -10245,9 +10250,9 @@ bemühen.
 988, ²b. {#svedabhA bhUri#}. 989, ²a. {#kampamAnastvadho'vekSI.#} ²b. {#sadA#} 
 st. {#sabhAM.#} 
  
-<S> AyAte dayite manorathazatairnItvA kathMciddinaM vaidagdhyApagamAjjaDe 
+<S> AyAte dayite manorathazatairnItvA kathMciddinaM @ vaidagdhyApagamAjjaDe 
 parijane dIrghAM kathAM kurvati | daSTAsmItyabhidhAya satvarataraM vyAdhUya 
-cInAMzukaM tanvaGgyA ratikAtareNa manasA nItaH pradIpaH zamam || 
+cInAMzukaM @ tanvaGgyA ratikAtareNa manasA nItaH pradIpaH zamam || 
  
 <D990><A374> Der Geliebte ist angekommen; unter Hunderten von Phantasiebildern 
 hat die Geliebte den Tag mit Mühe zu Ende gebracht; die stumpfe Umgebung führt, 
@@ -10258,9 +10263,9 @@ diese Weise die Lampe zum Erlöschen.
  
 <F>990) AMAR. 75. S4ATAKA1V. 14. ²c. {#dRSTAsmI°#}. ²d. {#tanvyaGgyA#}. 
  
-<S> AyAto bhavataH piteti sagasA mAturnizamyoditaM dhUlIdhUsarito vihAya 
+<S> AyAto bhavataH piteti sagasA mAturnizamyoditaM @ dhUlIdhUsarito vihAya 
 zizubhiH krIDArasAtprastutAt | dUrAtsmeramukhaH prasArya lalitaM bAhudvayaM 
-bAlako nAnyasyApi puraH paraiti parayA prItyA raNadghurghuraH || 
+bAlako @ nAnyasyApi puraH paraiti parayA prItyA raNadghurghuraH || 
  
 <D991> Ein Knabe, der plötzlich die von der Mutter gesprochenen Worte «dein 
 Vater ist heimgekehrt» vernimmt, steht, grau von Staub, vom Spiele ab, das die 
@@ -10283,9 +10288,9 @@ Pr. 26. ed. JOHNS. 27. SUBHA1SH. 176. 191. GALAN. Varr. 308. ²a. {#karmaJca#}
 SUBHA1SH. ²b. {#vinayam#} st. {#nidhanam#}. ²c. {#hi#} und {#ca#} st. {#api, 
 paJcaitAni prapadyante#} (SUBHA1SH.). 
  
-<S> AyuH kallolalolaM katipayadivasasthAyinI yauvanazrIrarthAH saMkalpakalpA 
+<S> AyuH kallolalolaM katipayadivasasthAyinI yauvanazrI- @ rarthAH saMkalpakalpA 
 ghanasamayataDidvibhrama bhogapUgAH | kaNThAzle SogUDhaM tadapi ca na ciraM 
-yatpriyAbhiH praNIta brahmaNyasaktacittA bhavata bhavabhayAmbhodhipAraM tarItum 
+yatpriyAbhiH praNItaM @ brahmaNyasaktacittA bhavata bhavabhayAmbhodhipAraM tarItum 
 || 
  
 <D993><A376> Das Leben ist unstät wie eine Welle, der Jugend Herrlichkeit währt 
@@ -10319,9 +10324,9 @@ grosse Gottheit ist.
  
 <F>995) R. ed. GORR. 2, 15, 22. 
  
-<S> AyurvarSazataM nRNAM parimitaM rAtrau tadardhaM gataM tasyArdhasya parasya 
+<S> AyurvarSazataM nRNAM parimitaM rAtrau tadardhaM gataM @ tasyArdhasya parasya 
 cArdhamaparaM bAlatvavRddhatvayoH | zeSaM vyAdhiviyogaduHkhasahitaM 
-sevAdibhirnIyate jIve vAritaraMgabudbudasame saukhyaM kutaH prANinAm || 
+sevAdibhirnIyate @ jIve vAritaraMgabudbudasame saukhyaM kutaH prANinAm || 
 [Seite1.187] 
  
 <D996><A378> Der Menschen Leben ist auf hundert Jahre abgemessen; die Hälfte 
@@ -10336,8 +10341,8 @@ SUBHA1SH. 82. ²a. {#rAjJA#} (d. i. {#rAtryA) tadardhIkRtaM#} SUBHA1SH. ²b.
 bandhusuhRdviyogasahitaiH#} SUBHA1SH. ²d. {#°taraMgacaJcalatare; rAgeNa kiM 
 dehinAm#} st. {#sau° ku° prA°#} SUBHA1SH. 
  
-<S> AyurvAyucalaM surezvaradhanurlolaM balaM yauvanaM vidyudvaccapalaM dhanaM 
-girinadIkallolavaccaJcalam | tAruNyaM karikarNatAlataralaM dehaM ca rogAkulaM 
+<S> AyurvAyucalaM surezvaradhanurlolaM balaM yauvanaM @ vidyudvaccapalaM dhanaM 
+girinadIkallolavaccaJcalam | tAruNyaM karikarNatAlataralaM dehaM ca rogAkulaM @ 
 jJAtvA sarvamidaM kurudhvamamalaM dharmaM sadA nizcalam || 
  
 <D997> Das Leben fährt wie der Wind dahin, Macht ist wie ein Regenbogen von 
@@ -10470,9 +10475,9 @@ eigne er sich Wissen, gutes Betragen, allerlei Künste und Anderes an.
  
 <F>1009) KA1M. NI1TIS. 5, 12. 
  
-<S> ArUDhasya citAM kRtAnumaraNodyogapriyAliGganaM 
+<S> ArUDhasya citAM kRtAnumaraNodyogapriyAliGganaM @ 
 puNDrekSudravapAnamulbaNamahAmohapraluptasmRteH | 
-vItAsoravataMsamAlyavalayAmodAzca yAdRgbhavedbhAvAnAM subhagaH svabhAvamahimA 
+vItAsoravataMsamAlyavalayAmodAzca yAdRgbhave- @ dbhAvAnAM subhagaH svabhAvamahimA 
 nizcetasastAdRzaH || 
  
 <D1010><A3719> Was dem, der den Scheiterhaufen bestieg, die Umarmung der ihm in 
@@ -10726,9 +10731,9 @@ sinnen nach und üben Mitleid gegen alle Geschöpfe.
  
 <F>1034) PASAN5GA1BH. 13, ²a. 
  
-<S> AlolAmalakAvalIM vilulitAM bibhraccalatkuNDalaM kiMcinmRSTavizeSakaM 
+<S> AlolAmalakAvalIM vilulitAM bibhraccalatkuNDalaM @ kiMcinmRSTavizeSakaM 
 tanutaraiH svedAmbhasaH sIkaraiH | tanvyA yatsuratAntatAntanayanaM vaktraM 
-rativyatyaye tattvAM pAtu cirAya kiM hariharabrahmAdibhirdaivataiH || 
+rativyatyaye @ tattvAM pAtu cirAya kiM hariharabrahmAdibhirdaivataiH || 
  
 <D1035><A391> Das Gesicht der Schlanken, das beim Liebesgenuss über dir schwebt, 
 das Gesicht mit den flatternden, in Unordnung gerathenen Locken, mit den 
@@ -10760,9 +10765,9 @@ Anmuth ist das Wasser darin.
  
 <F>1037) SA1H. D. 229. 
  
-<S> AvartaH saMzayAnAmavinayabhavanaM pattanaM sAhasAnAM doSANAM saMnidhAnaM 
+<S> AvartaH saMzayAnAmavinayabhavanaM pattanaM sAhasAnAM @ doSANAM saMnidhAnaM 
 kapaTazatamayaM kSetramapratyayAnAm | svargadvArasya vighno narakapuramukhaM 
-sarvamAyAkaraNDaM strIyantraM kena sRSTaM viSamamRtamayaM prANilokasya pAzaH || 
+sarvamAyAkaraNDaM @ strIyantraM kena sRSTaM viSamamRtamayaM prANilokasya pAzaH || 
  
 <D1038><A392> Wer hat diesen Strudel von Zweifeln geschaffen? Wer dieses Haus 
 voller Ungezogenheiten, diese Stadt voller Uebereilungen, dieses Lagerhaus 
@@ -10780,8 +10785,8 @@ Menschheit?
 {#strIrUpaM, kena loke viSamamRtayutaM (amRtamayaM) dharmanAzAya sRSTam, 
 prANinAM (mANinAM) mohapAzaH#} und {#prANimohAya pAzaH.#} 
  
-<S> AvAsaH kila kiMcideva dayitApArzve vilAsAlasaH karNe kokilakAkalIkalaravaH 
-smero latAmaNDapaH | goSThI satkavibhiH samaM katipayaiH sevyAH sitAMzoH karAH 
+<S> AvAsaH kila kiMcideva dayitApArzve vilAsAlasaH @ karNe kokilakAkalIkalaravaH 
+smero latAmaNDapaH | goSThI satkavibhiH samaM katipayaiH sevyAH sitAMzoH karAH @ 
 keSAMcitsukhayanti netrahRdaye caitre vicitrAH kSapAH || 
  
 <D1039><A393> Das müssige Weilen unter heiteren Spielen an der Seite der 
@@ -10825,8 +10830,8 @@ erfasst hätte.
  
 <F>1042) KA1M. NI1TIS. 3, 3. 
  
-<S> AzaGkya praNatiM paTAntapihitau pAdau karotyAdarAdvyAjenAgatamAvRNoti 
-hasitaM na spaSTamudvIkSate | mayyAlApavati prakopapizunaM sakhyA sahAbhASate 
+<S> AzaGkya praNatiM paTAntapihitau pAdau karotyAdarA- @ dvyAjenAgatamAvRNoti 
+hasitaM na spaSTamudvIkSate | mayyAlApavati prakopapizunaM sakhyA sahAbhASate @ 
 tasyAstiSThatu nirbharapraNayitA mAno 'pi ramyodayaH || 
  
 <D1043><A396> Erwartet sie einen Fussfall von meiner Seite, so bedeckt sie 
@@ -10838,9 +10843,9 @@ Schmollen nimmt einen reizenden Ausgang.
  
 <F>1043) AMAR. 42. S4ATAKA1V. 8. ²c. {#patIpavacanaM#} st. {#prakopapizunaM.#} 
  
-<S> AzAH kAJcanapuSpakuDmalakulacchannA na kAH kSmAtale 
+<S> AzAH kAJcanapuSpakuDmalakulacchannA na kAH kSmAtale @ 
 saujanyAmRtavarSibhistilakitaM sevyairna kiM maNDalam | panthAnaH 
-suciropacArarucirairvyAptA na ke saMstutaisteSamatra na santi nihnutaguNAH 
+suciropacArarucirairvyAptA na ke saMstutai- @ steSamatra na santi nihnutaguNAH 
 kAlena ye mohitAH || 
  
 <D1044> Welche Gegenden auf der Erde wären nicht mit einer Menge von 
@@ -10874,8 +10879,8 @@ Vieh, ein einziger in Zorn gerathener Brahmane ein ganzes Reich.
  
 <F>1046) MBH. 5, 1540. ²b. {#kadaryatAM#} ed. Calc. 
  
-<S> AzA nAma nadI manorathajalA tRSNAtaraMgAkulA rAgagrAhavatI vitarkavihagA 
-dhairyadrumadhvaMsinI | mohAvartasudustarAtigahanA prottuGgacintAtaTI tasyAH 
+<S> AzA nAma nadI manorathajalA tRSNAtaraMgAkulA @ rAgagrAhavatI vitarkavihagA 
+dhairyadrumadhvaMsinI | mohAvartasudustarAtigahanA prottuGgacintAtaTI @ tasyAH 
 pAragatA vizuddhamanaso nandantu yogIzvarAH || 
  
 <D1047><A397> Es giebt einen überaus tiefen Fluss, der Hoffnung heisst: die 
@@ -11099,9 +11104,9 @@ und ed. JOHNS. II, 55. S4UK. ed. Bomb. S. 22. S4A1RN5G. PADDH. ²b. {#asaMskRtaM
 asaMstutaM#} und {#apaNDitaM#} st.{#asaMgataM.#} ²d. {#yaH#} und {#taM#} 
 st.{#yat#} und {#tat, vasati#} st.{#bhavati, pariyeSTayanti.#} 
  
-<S> AsAreSu na harmyataH priyatamairyAtuM yadA zakyate 
+<S> AsAreSu na harmyataH priyatamairyAtuM yadA zakyate @ 
 zItotkampanimittamAyatadRzA gADhaM samAliGgyate | jAMtAH zItalasIkarAzca maruto 
-ratyantakhedacchido ghanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame || 
+ratyantakhedacchido @ ghanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame || 
  
 <D1067><A405> Wenn bei Regengüssen Liebhaber das Haus zu verlassen nicht im 
 Stande sind, dann drückt die Langäugige, weil sie vor Kälte zittert, den 
@@ -11171,8 +11176,8 @@ wie böse Geschwüre; dann werden sie ihm zugethan sein wie dem Feuer.
 <F>1072) KA1M. NI1TIS. 5, 85. ²c. {#AmuktAste#} der Text, {#Asa°#} der Comm. 
 [Seite1.203] 
  
-<S> AsvAditadviradazoNitazoNazobhAM saMdhyAruNAmiva kalAM zazalAJchanazsya | 
-jRmbhAvidAritamukhasya mukhAtsphurantiM |ko hartumicchati hareH paribhUya 
+<S> AsvAditadviradazoNitazoNazobhAM @ saMdhyAruNAmiva kalAM zazalAJchanazsya | 
+jRmbhAvidAritamukhasya mukhAtsphurantiM @ ko hartumicchati hareH paribhUya 
 daMSTrAm || 
  
 <D1073> Wer trüge wohl ein Verlangen einen Löwen gering zu achten und ihm, wenn 
@@ -11182,9 +11187,9 @@ Schimmer zeigt und der vom Zwielicht gefärbten Mondscheibe gleicht?
  
 <F>1073) MUDRA1R. 27. ²a. {#AsvAdita#} unsere Aenderung für {#AkhAdita.#} 
  
-<S> AsvAdya svayameva vacmi mahatIrmacchide vedanA mA bhUtkasyacidapyayaM 
+<S> AsvAdya svayameva vacmi mahatIrmacchide vedanA @ mA bhUtkasyacidapyayaM 
 paribhavo yAcJeti saMsAriNaH | pazya bhrAtariyaM hi 
-gauravajarAdhikkArakelisthalI mAnamlAnamasI guNavyatikaraprAgalbhyagarvacyutiH 
+gauravajarAdhikkArakelisthalI @ mAnamlAnamasI guNavyatikaraprAgalbhyagarvacyutiH 
 || 
  
 <D1074><A3739> Ich spreche von den heftigen, bis in's innerste Mark dringenden 
@@ -11208,9 +11213,9 @@ Himmel.
 <F>1075) HIT. ed. SCHIL. III, 145. ed. JOHNS. 150 ²b. {#svAmyarthe.#} ²c. 
 {#kRtAjJAzca.#} 
  
-<S> AhAraH phalamUlamAtmarucitaH zayyA mahI valkalaM saMvItAya paricchadaH 
+<S> AhAraH phalamUlamAtmarucitaH zayyA mahI valkalaM @ saMvItAya paricchadaH 
 kuzasAmitpuSpANi putrA mRgAM | vastrannAzrayadAnabhogavibhavA niryantraNAH 
-zAkhino mitrANItyadhikaM gRheSu gRhiNAM kiM nAma duHkhAdRte || 
+zAkhino @ mitrANItyadhikaM gRheSu gRhiNAM kiM nAma duHkhAdRte || 
  
 <D1076><A408> Früchte und Wurzeln bilden die wohlschmeckende Speise, 
 [Seite1.204] der Erdboden ist Lager, Baumrinde dient zur Bekleidung; Kus4a-Gras, 
@@ -11248,8 +11253,8 @@ zu sagen; lebt er denn wirklich?
 <F>1078) VET. in LA. (III) für {#kiM tu, kimu#} und {#kila.#} Vgl. Spr.{#nAznAti 
 svecchayA.#} 
  
-<S> AhAre viratiH samastaviSayagrAme nivRttiH paMrA nAsAgre nayanaM 
-yaccaikatAnaM manaH | maunaM cedamidaM ca zUnyamadhunA yadvizvamAbhAti te 
+<S> AhAre viratiH samastaviSayagrAme nivRttiH paMrA @ nAsAgre nayanaM 
+yaccaikatAnaM manaH | maunaM cedamidaM ca zUnyamadhunA yadvizvamAbhAti te @ 
 tadbhUyAH sakhi yoginI kimasi bhoH kiM vA viyoginyasi || 
  
 <D1079><A3740> Sprich Freundin, bist du eine fromme Nonne geworden oder weilt 
@@ -11260,8 +11265,8 @@ Schweigen beobachtest und dass dir jetzt diese ganze Welt leer erscheint?
  
 <F>1079) SA1H. D. 112. 
  
-<S> AhAre zucitA dhvanau madhuratA nIDe parAdhInatA bandhau nirmasatA vane 
-rasikatA vAcAlatA mAdhave | yasyaite guNarAzayaH pikavaraM tyaktvA kimete janA 
+<S> AhAre zucitA dhvanau madhuratA nIDe parAdhInatA @ bandhau nirmasatA vane 
+rasikatA vAcAlatA mAdhave | yasyaite guNarAzayaH pikavaraM tyaktvA kimete janA @ 
 vandante khalu khaJjanaM kRmibhujaM citrA gatiH karmaNAm || [Seite1.205] 
  
 <D1080><A411> Warum doch bezeugen die Menschen der von Würmern sich nährenden 
@@ -11274,8 +11279,8 @@ das Gebahren der Menschen!
  
 <F>1080) DHARMAV. 4 bei HAEB. 507. ²d. Die Bacstelze ist glückverheissend. 
  
-<S> Aharo garalayate pratidinaM hAre 'pi bhAsAyate candrazcaNDakarAyate 
-mRdugatirvato 'pi vajrAyate | AvAso vipinAyate malayajAleyaH sphuliGgAyate hA 
+<S> Aharo garalayate pratidinaM hAre 'pi bhAsAyate @ candrazcaNDakarAyate 
+mRdugatirvato 'pi vajrAyate | AvAso vipinAyate malayajAleyaH sphuliGgAyate @ hA 
 hanta priyaviprayogasamayaH saMhArakAlayate || 
  
 <D1081> Das Essen erscheint ihr täglich wie Gift, der Perlenschmuck wie ein 
@@ -11337,8 +11342,8 @@ Handlungen vollbringen.
  
 <F>1086) VR2DDHA-CA1N2. 8, 2. 
  
-<S> ikSurdhanva zarAH prasUnavitatiGgAvalI siJjinI yasyAjJAvazartinaH pramanaso 
-nirviSTarASTrvAdayaH | yadbANAbhihatA viriJcimurajinmurajinmRtyuMjayendrAdyo 
+<S> ikSurdhanva zarAH prasUnavitatiGgAvalI siJjinI @ yasyAjJAvazartinaH pramanaso 
+nirviSTarASTrvAdayaH | yadbANAbhihatA viriJcimurajinmurajinmRtyuMjayendrAdyo @ 
 vyAptAzeSasukhA iva tribhuvanaM pAyAdajeyaH smaraH || 
  
 <D1087> Es schütze die Dreiwelt der unbesiegbare Liebesgott, dessen Bogen ein 
@@ -11580,9 +11585,9 @@ vielleicht steht der Zweite noch höher als der Erste).
  
 <F>1109) MBH. 13, 1797. Vgl. Spr. {#cAndrAyaNasahasreNa.#} 
  
-<S> indraM vai SaNDhamAhurmalinamuDupatiM mAdhavaM gopanandaM vyAsaM 
+<S> indraM vai SaNDhamAhurmalinamuDupatiM mAdhavaM gopanandaM @ vyAsaM 
 matsItanUjaM gatarasamudadhiM pAvakaM sarvabhakSam | vezyAputraM vasiSThaM 
-janapadavacanaiH pANDvavAzcAnyajAtA itthaM saMcintya mahyaM kathaya narapate 
+janapadavacanaiH pANDvavAzcAnyajAtA @ itthaM saMcintya mahyaM kathaya narapate 
 kasya doSA na santi || [Seite1.211] 
  
 <D1110> Man sagt, dass Indra ein Eunuch, der Mond fleckig, Kr2s2n2a der Sohn 
@@ -11597,9 +11602,9 @@ Hdschr. ²c. {#°jAtAH#} die Hdschr. ²d. {#saMcintyamAhuH#} die Hdschr.
  
 <V>1110. Vgl. Spruch 2049. 
  
-<S> indrasyAzucisUkarasya ca sukhe duHkhe ca nAstyantaraM svechAkalpanayA nayoH 
+<S> indrasyAzucisUkarasya ca sukhe duHkhe ca nAstyantaraM @ svechAkalpanayA nayoH 
 khalu sudhA viSThA ca kAmyAzanam | rambhA cAzucisUkarI ca paramapremAspadaM 
-mRtyutaH saMtrAso 'pi samaH svakarmagatibhizcAnyo 'nyabhAvaH samaH || 
+mRtyutaH @ saMtrAso 'pi samaH svakarmagatibhizcAnyo 'nyabhAvaH samaH || 
  
 <D1111><A424> Zwischen den Freuden und Leiden Indra's und eines schmutzigen 
 Ebers besteht keine Unterschied: aus freiem Willen hat jener Nektar, dieser Koth 
@@ -11723,8 +11728,8 @@ Planeten.
 <HS>{#indro vai khaNDamAhuH#} s. Spruch 1110. {#ipsitaM manasaH saram#} s. 
 Spruch 1148. 
  
-<S> ime tAruNyazrInavaparimalAH prauDhasuratapratApaprArambhAH 
-smaravijayadAnapratibhuvaH | ciraM cetazaurA abhinavavikAraikaguravo 
+<S> ime tAruNyazrInavaparimalAH prauDhasurata- @ pratApaprArambhAH 
+smaravijayadAnapratibhuvaH | ciraM cetazaurA abhinavavikAraikaguravo @ 
 vilAsavyApArAH kimapi vijayante mRgadRzAm || 
  
 <D1123><A3752> Diese heitere Ausgelassenheit der gazellenäugigen Mädchen mit dem 
@@ -11753,8 +11758,8 @@ beim Zustandekommen des richtigen Benehmens Allem vorangeht.
  
 <F>1125) KA1M. NITIS. 1, 64. [Seite1.214] 
  
-<S> iyatyesminvA niravadhicamatkRtyazayo varAho vA rAhuHprabhavati 
-camatkAraviSayaH | mahImeko magnAM yadayamavahaddantazalalaiH ziraHzeSaH zatruM 
+<S> iyatyesminvA niravadhicamatkRtyazayo @ varAho vA rAhuHprabhavati 
+camatkAraviSayaH | mahImeko magnAM yadayamavahaddantazalalaiH @ ziraHzeSaH zatruM 
 nigilati paraM saMtyajati ca || 
  
 <D1126><A3753> Soll man grenzenlos und über die Maassen staunen über den 
@@ -11790,8 +11795,8 @@ sich fern aus Besorgniss, der Andere möchte ihnen einen Gegendienst erweisen.
 {#ihamunnatiH#} die andere Hdschr.; {#sAlinAM#} beide Hdschr. ²d. {#parata#} und 
 {#zakayA.#} 
  
-<S> iyaM pallI bhilleranucitasamArambharasikaiH samantAdAkIrNA 
-viSaviSamabANapraNayibhiH | tarorasya skandhe gamaya samayaM kIra nibhRtaM na 
+<S> iyaM pallI bhilleranucitasamArambharasikaiH @ samantAdAkIrNA 
+viSaviSamabANapraNayibhiH | tarorasya skandhe gamaya samayaM kIra nibhRtaM @ na 
 vANI kalyANI tadiha mukhadraiva zaraNam || 
  
 <D1129><A3755> Diese Ansiedlung ist ringsum von Wilden angefüllt, die Gefallen 
@@ -11806,8 +11811,8 @@ vallI#} st.{#pallI, samAnaMbha#} st. {#samArambha.#} ²b. {#samdAnAkrAM#} st.
 {#tatorasya#} und {#tavorasyo.#} ²d. {#vANi#}; {#tadIha#} st. {#tadiha#} (wie 
 schon SCHIEFNER stillsch weigend verbessert hat) heide Hdschr. ; {#zaraNAm.#} 
  
-<S> iyaM bAlA mAM pratyanavataratamindI varadalaprabhAcauraM cakSuH kSipati 
-kimabhipretamanaya | gato moho 'smAkaM smarazabarabANavyatikarajvarajvAlAH 
+<S> iyaM bAlA mAM pratyanavataratamindIvaradala- @ prabhAcauraM cakSuH kSipati 
+kimabhipretamanaya | gato moho 'smAkaM smarazabarabANavyatikara- @ jvarajvAlAH 
 zAntAstadapi na varAkI viramati || 
  
 <D1130><A429> Das Mädchen hier schleudert ohne Unterlass das Auge auf mich, ein 
@@ -12111,9 +12116,9 @@ tiefer.
  
 <F>1160) KA1M. NITIS. 13, 15. 
  
-<S> uccaireSa taruH phalaM ca pRthulaM dRSTvai hRSTaH zukaH pakvaM zAlivanaM 
+<S> uccaireSa taruH phalaM ca pRthulaM dRSTvai hRSTaH zukaH @ pakvaM zAlivanaM 
 vihAya jaDadhIstaM nAlikeraM gataH | tatrAruhya bubhukSitena manasA caJcUH kRtA 
-bhedane AzA tasya ca kevalaM vigAlitA caJcUgartA kUrcatAm || 
+bhedane @ AzA tasya ca kevalaM vigAlitA caJcUgartA kUrcatAm || 
  
 <D1161> Der Baum hier ist hoch und gross die Frucht; sobald ein Papagei diese 
 erblickt hatte, ward er froh, verliess das reife Reisfeld und begab sich in 
@@ -12128,9 +12133,9 @@ Stelle.²c.{#caJcU#} an beiden Stelled. ²d. {#AsyA#} st.{#AzA#} an einer Stelle
 {#ni#} st. {#ca#} an einer Stelle, {#vimanitA#} an einer Stelle, {#caJcU#} an 
 einer Stelle, {#kUrcitAM#} an einer Stelle. 
  
-<S> uccaiHshAnakRtodayairbahuvidhairjyotirbhirudyatprabhaiH zukrAdyaiH 
+<S> uccaiHshAnakRtodayairbahuvidhairjyotirbhirudyatprabhaiH @ zukrAdyaiH 
 kimamIbhiratra vitathAM prauDhiM dadhAnairapi | yAvallokatamo'pahena bhavatA 
-lakSmIrna vistAryate tAvaccandra kathaM prayAti paramAM vRddhiM sa ra tnAkaraH 
+lakSmIrna vistAryate @ tAvaccandra kathaM prayAti paramAM vRddhiM sa ra tnAkaraH 
 || 
  
 <D1162><A3763> Was bedeuten, zeigten sie auch falschen Hochmuth, jene vielen 
@@ -12189,8 +12194,8 @@ Hdschr.
  
 <HS>{#ujjvalaM mitrasaMyoge#} s. Spruch 1166. 
  
-<S> uDugaNaparivAro nAyako 'pyoSadhInAmamRtamayazarIraH kAntiyukto 'pi candraH | 
-bhavati vikalarazmiH maNDalaM prApya bhAnoH parasadanamupetaH ko na yAto 
+<S> uDugaNaparivAro nAyako 'pyoSadhInA- @ mamRtamayazarIraH kAntiyukto 'pi candraH | 
+bhavati vikalarazmiH maNDalaM prApya bhAnoH @ parasadanamupetaH ko na yAto 
 laghutvam || 
  
 <D1168> Sogar der mit hellem Lichte ausgestattete Mond, dessen Gefolge die 
@@ -12212,9 +12217,9 @@ theilhaftig.
  
 <HS>{#utkSipya TiTTibhaH pAdau#} s. Spruch {#svacittakalpito garvaH.#} 
  
-<S> utkhAtaM nidhizaGkayA kSititalaM kSititalaM dhmAtA girerdhAtavo nistIrNaH 
+<S> utkhAtaM nidhizaGkayA kSititalaM kSititalaM dhmAtA girerdhAtavo @ nistIrNaH 
 saritAM patirnRpatayo yatnena saMtoSitAH | mantrArAdhanatatpareNa manasA nItAH 
-zmazAne nizAH prAptaH kANavarATako 'pi na mayA tRSNe 'dhunA muJca mAm || 
+zmazAne nizAH @ prAptaH kANavarATako 'pi na mayA tRSNe 'dhunA muJca mAm || 
  
 <D1170><A439> In Erwartung eines Schatzes habe ich den Erdboden aufgegraben, des 
 Berges Erze geschmolzen, den Ocean durchschifft, die Fürsten mit Eifer zu 
@@ -12229,9 +12234,9 @@ dhmatA girerdhAvo, girirdhA°, #} ²b. {#nistirNas, yatnesaM°, santogitAH.#} ²
 [Seite1.223] 
  
 <S> 
-utkhArAnpratiropayankusumitAMzcinvallaghUnvardhayanprottuGgAnnamayanpRthUMzca 
+utkhArAnpratiropayankusumitAMzcinvallaghUnvardhaya- @ nprottuGgAnnamayanpRthUMzca 
 laghayanvizleSayansaMhatAn | kSudrAnkaNTakino bahirviracayanmlAnAnmuhuH 
-secayanmAlAkAra iva prayoganipuNo rAjA ciraM nandati || 
+secaya- @ nmAlAkAra iva prayoganipuNo rAjA ciraM nandati || 
  
 <D1171><A440> Lange währt die Freude eines Fürsten, wenn er, wie ein 
 kunsterfahrener Gärtner, Entwurzelte wieder an ihre Stelle setzt, von Blühenden 
@@ -12436,9 +12441,9 @@ Anstrengungen Früchte verleihen.
  
 <F>1189) RA1JA-TAR. ed. TR. 3, 198. ed. Calc. 202. 
  
-<S> uttiSTha kSaNamekamudvaha sakhe dAridryabhAraM mama zrAntastAvadahaM 
+<S> uttiSTha kSaNamekamudvaha sakhe dAridryabhAraM mama @ zrAntastAvadahaM 
 cirAnmaraNajaM seve tvadIyaM sukham | ityukto dhanavarjitena sahasA gatvA 
-zmazAne zavo dAridryAnmaraNaM varaM sukhamiti jJAtvaiva tUSNIM sthitaH || 
+zmazAne zavo @ dAridryAnmaraNaM varaM sukhamiti jJAtvaiva tUSNIM sthitaH || 
  
 <D1190><A446> «Steh auf, o Freund, und trage einen Augenblick die Last meiner 
 Armuth, indess ich Müder nach langem Harren deinen Freuden, die du dem Tode 
@@ -13076,9 +13081,9 @@ Sesamkörnern als Todtenspende dar.
  
 <F>1252) KA1VJA1D.2, 251. 
  
-<S> udyAneSu vicitrabhojanavidhistIvrAtitIvraM tapaH kaupInAvaraNaM 
+<S> udyAneSu vicitrabhojanavidhistIvrAtitIvraM tapaH @ kaupInAvaraNaM 
 suvastramamitaM bhikSATanaM maNDanam | AsannaM maraNaM ca maGgalasamaM yasyAM 
-samutpadyate tAM kAzIM parihRtya hatta vibudhairanyatra kiM sthIyate || 
+samutpadyate @ tAM kAzIM parihRtya hatta vibudhairanyatra kiM sthIyate || 
  
 <D1253><A3791> Warum meiden Weise Ka1s4i1 (Benares) und wohnen an einem andern 
 Orte, da doch in den Lustgärten von Ka1s4i1 es mannichfache Arten zu speisen 
@@ -13143,9 +13148,9 @@ und heisst die Wurzel von Allem.
 <F>1258) R. ed. Bomb. und SCHL. 2, 109, 12. ed. GORR.118, 
 ²b.{#tathauvAnRtikAjjanAt#} GORR. ²d. {#satyatA#} st.{#cocyate#} GORR. 
  
-<S> udvRttaH stanabhAra eSa tarale netre cale bhrUlate 
+<S> udvRttaH stanabhAra eSa tarale netre cale bhrUlate @ 
 rAgAdhiSThitamoSThapallavamidaM kurvantu nAma vyathAm | saubhAgyAkSarapaGktikeva 
-likhitA puSpAyudhena svayaM madhyasthApi karoti tApamadhikaM romAvalI kena sA || 
+likhitA puSpAyudhena svayaM @ madhyasthApi karoti tApamadhikaM romAvalI kena sA || 
  
 <D1259><A472> Diese wogende Busenfülle, die hinundherfahrenden Augen, die 
 unstäten Brauen-Lianen und die von Leidenschaft erregten (gerötheten) 
@@ -13240,8 +13245,8 @@ Verrückten, Schlangen, Trunkenbolden, Elephanten, Weibern und Fürsten zu traue
  
 <F>1268) KAVITA1MR2TAK.5. 
  
-<S> unmIlattrivalItaraMgavalayA prottuGgapInastanadvaMdvenodyatacakravAkamithunA 
-vakktrAmbujibdhAsinI | kAntAkAradharA nadIyamabhitaH krUrAzayA neSyate 
+<S> unmIlattrivalItaraMgavalayA prottuGgapInastana- @ dvaMdvenodyatacakravAkamithunA 
+vakktrAmbujibdhAsinI | kAntAkAradharA nadIyamabhitaH krUrAzayA neSyate @ 
 saMsArArNavamajjanaM yadi janA dUrAtparityajyatAm || 
  
 <D1269><A477> Dieser Fluss vor uns, der die Gestalt der Geliebten annahm -- die 
@@ -13305,7 +13310,7 @@ Hilfe und auf die Feinde Schaden regnet, wünscht man stets eine hohe Stellung.
  
 <F>1274) MA1RK. P. 20, 30. 
  
-<S> upakAraM smarantastu kRtajJatvavazaMvadAH | padavImupakartR2NAM yAnti 
+<S> upakAraM smarantastu kRtajJatvavazaMvadAH | padavImupakartRRNAM yAnti 
 nizcetanA api || nirvANamanunirvAti tapanaM tapanopalaH | indumindumaNiH kiM ca 
 zuSyantamanuzuSyati || 
  
@@ -13349,7 +13354,7 @@ Hilfe eines in der Hand befindlichen herauszieht.
 <F>1279) CAN2.22 bei HAEB. 314. 83 bei WEBER; S4A1RN5C. PADDH. RA1JANI1TI 21 
 (23). GALAN. Varr.58.²a.{#gRhIto hi.#} ²c {#pade lagnaM.#} ²d. {#kaNTakenaiva.#} 
  
-<HS>{#upakaraM karomyasya#} s. Spruch {#mayAsyopakRtaM pUrvam. upakArAcca 
+<HS>{#upakaraM karomyasya#} s. Spruch {#mayAsyopakRtaM pUrvam#}. {#upakArAcca 
 lokAnAm#} s. Spruch {#dravatvAtsarvalohAnAm.#} 
  
 <S> upakAriNi vizrabdhe zaddhamatau yaH samAcarati pApam | taM 
@@ -13395,8 +13400,9 @@ verbrennt ihm die Hand, wenn er es hält.
 svahastapAsitam#} und {#netuH svahastamAzritam.#} ²d. {#uddhRto#} 
 st.{#udvahato.#} Vgl. Spruch {#na kazciccaNDakopAnAm.#} 
  
-<HS>{#upagRhya tu vairANi#} s. nach Spruch {#nahi vairANi zAmyanti. 
-upacaritavyAH#} s. Spruch {#'varicaritavyAH.#} 
+<HS>{#upagRhya tu vairANi#} s. nach Spruch {#nahi vairANi zAmyanti#}.
+
+<HS>{#upacaritavyAH#} s. Spruch {#'varicaritavyAH#}.
  
 <S> upajApazcirArodhe 'vaskandastIvrapauruSam | durgasya laGghanopAyAzcatvAro 
 kathitA ime || 
@@ -13410,20 +13416,17 @@ genannt.
  
 <HS>{#upatiSThati tiSThantam#} s. nach Spruch {#suzIghramapi dhAvantam.#} 
  
-<S> upadezapradAtR2NAM narANAM hitamicchatAm | iha loke paratra ca vyasanaM 
+<S> upadezapradAtRRNAM narANAM hitamicchatAm | iha loke paratra ca vyasanaM 
 nopapadyate || 
  
 <D1285><A487> Männern, die guten Rath geben, weil sie das Wohl Anderer im Auge 
 haben, stösst weder in dieser, noch in jener Welt ein Unglück zu. 
  
-<F>1285) PAN4CAT. ed. KOSEG. IV, 71. ed. Bomb. 107. ²a. {#upadezopadAtR2NAM#} 
+<F>1285) PAN4CAT. ed. KOSEG. IV, 71. ed. Bomb. 107. ²a. {#upadezopadAtRRNAM#} 
 ed. Bomb. ²c {#parasminniha loke ca#} KOSEG. 
  
-<HS>{#upadezepadAtR2NAm#} s. Spruch 1285. 
- 
-<S> upadezo hi mUrkhANAM prakopaya na zAntaye | payaH pAnaM bhujaMgAnAM kevalaM 
-viSavardhanam || 
- 
+<S>upadezo na dAtavyo yAdRze tAdRze jane | pazya vAnaramUrkheNa sugRhI nirgRhI kRtA ||
+
 <D1286><A488> Man soll nicht dem ersten Besten einen Rath ertheilen: sieh, ein 
 Thor von Affe hat (ein Sperlingsweibchen), welches schön gebettet war, um sein 
 Haus gebracht. 
@@ -13431,7 +13434,7 @@ Haus gebracht.
 <F>1286) PAN4CAT. ed. KOSG. 1, 435. 439. ed. Bomb. 1, 390. IV, 97.101. 
 SUBHA1SH.200. ²b. {#nare#} st. {#jane.#} Vgl. Spr.{#vidvanevopadeSTavyaH.#} 
  
-<HS>{#upadezopadAtR2NAm#} s. Spruch 1285. 
+<HS>{#upadezopadAtRRNAm#} s. Spruch 1285. 
  
 <S> upadezo hi mUrkhANAM prakopAya na zAntaye | payaHpAnaM bhujaMgAnAM kevalaM 
 viSavardhanam || 
@@ -13444,8 +13447,8 @@ Genuss von Milch vermehrt nur das Gift der Schlangen.
 SUBHA1SH. 151. GALAN. Varr. 142 (auch hier die Umstellung). Vgl. Spruch 122 und 
 BHA1G. P. 4, 14, 9. [Seite1.245] 
  
-<S> upatabhayairyo yo mArgo hitArthakaro bhavetsa sa nipuNayA buddhyA sevyo 
-mahAnkRpaNo 'pi vA | karikaranibhau jyAghAtAGkau mahArthavizAradau 
+<S> upatabhayairyo yo mArgo hitArthakaro bhave- @ tsa sa nipuNayA buddhyA sevyo 
+mahAnkRpaNo 'pi vA | karikaranibhau jyAghAtAGkau mahArthavizAradau @ 
 racitavalayaiH strIvaddaddhau karau hi kirITinA || 
  
 <D1288><A490> Diejenigen, denen Gefahr droht, müssen jeden Weg, der zum Heil 
@@ -13572,7 +13575,7 @@ Liebesbotinnen sind nach vollbrachtem Geschäfte einem Grashalm gleich.
 <V>1299. ²c. {#sUtikA#} kann wohl in seiner gewöhnlichen Bedeutung «Wöchnerin» 
 belassen werden. 
  
-<S> upAdhyAyAndazAcArya AcAryANAM zataM pitA | sahamraM tu pitR2nmAtA 
+<S> upAdhyAyAndazAcArya AcAryANAM zataM pitA | sahamraM tu pitRRnmAtA 
 gauraveNAtiricyate || 
  
 <D1300><A3804> Zehn Lehrer überragt ein Erzieher an Würde, hundert Erzieher ein 
@@ -13696,9 +13699,9 @@ ihr ganzes Gewand, die Finsterniss, ob der Leidenschaft (Röthe) entsunken war.
 AUFRECHT in Z. d. d. m. G.14, 581. Aus unserer Hdschr. könnten wir nur 
 unbedeutende Schreibfehler mittheilen. 
  
-<S> upyante viSavallibIjaviSamAH ktlezAH priyAkhyA naraistebhyaH snehamayA 
+<S> upyante viSavallibIjaviSamAH ktlezAH priyAkhyA narai- @ stebhyaH snehamayA 
 bhavanti nacirAdvajrAgnigarbhAGkurAH | yebhyo 'mI zatazaH kukalahutabhugdAhaM 
-dahantaH zanairdehaM dIprazikhAsahasrazikharA rohanti zokadrumAH || 
+dahantaH zanai- @ rdehaM dIprazikhAsahasrazikharA rohanti zokadrumAH || 
  
 <D1312><A3808> Die Menschen säen Schmerzen, Liebes genannt, die fürchterlich 
 sind wie der Same der Giftpflanzen; aus diesem Samen spriessen alsbald Keime in 
@@ -13770,9 +13773,9 @@ eines schlechtgearteten Weibes dringt bald diese, bald jene Farbe
  
 <F>1317) RA1JA-TAR.6, 234. d. {#anyAnyA#} unsere Aenderung für {#anyonya.#} 
  
-<S> urvyAM ko 'pi mahIdharo laghutaro dorbhyAM dhRto lIlayA tena tvaM divi 
+<S> urvyAM ko 'pi mahIdharo laghutaro dorbhyAM dhRto lIlayA @ tena tvaM divi 
 bhUtale ca satataM govardhano gIyase | tvAM trailokyadharaM vahAmi kucayoragre 
-na tadgaNyate kiM vA kezava bhASaNena bahunA puNyairyazo labhyate || 
+na tadgaNyate @ kiM vA kezava bhASaNena bahunA puNyairyazo labhyate || 
 [Seite1.251] 
  
 <D1318> Dafür, dass du auf Erden spielend einen ganz leichten Berg (den 
@@ -13842,9 +13845,9 @@ dieser voll ist.
 <F>1323) DR2SHT2A1NTAS4.35 bei HAEB. 220. KA1VJAKAL. ²a. {#urjitaM saJjanaM#} 
 HAEB. ²c{#svasthaM#} unsere Verbesserung für {#khasthaM.#} 
  
-<S> UrNAM naiva dadAti naiva viSayo vAhasya dohasya vA tRptirnAsti mahodarasya 
+<S> UrNAM naiva dadAti naiva viSayo vAhasya dohasya vA @ tRptirnAsti mahodarasya 
 bahubhirghAsaiH palazairapi | hA kaSTaM kathamasya pRSThazikhare goNI 
-samAropyate ko gRhNAti kapardakairalamiti grAmpairgajo hasyate || 
+samAropyate @ ko gRhNAti kapardakairalamiti grAmpairgajo hasyate || 
  
 <D1324><A3812> «Er giebt keine Wolle und eignet sich weder zum Fahren, noch zum 
 Melken; sein grosser Bauch wird von vielem Futter, sei es auch Laub, nicht satt; 
@@ -14180,8 +14183,8 @@ Sonnengott den Himmelsplan.
  
 <F>1357) KA1VJA1D.2, 328. ²d. {#jaganntrayam#} st. {#nabhastalam.#} 
  
-<S> ekachattraM kSititalamidaM bhuJjate yannarendrAH svargAsthAne muditamanaso 
-yadramante munIndrAH | yannirvANe nirupamasukhaM martyamukhyA labhante 
+<S> ekachattraM kSititalamidaM bhuJjate yannarendrAH @ svargAsthAne muditamanaso 
+yadramante munIndrAH | yannirvANe nirupamasukhaM martyamukhyA labhante @ 
 dAnasyAyaM sphurati mahimA kevalasyAmalasya || 
  
 <D1358> Wenn Fürsten diese Erde als Alleinherrscher geniessen, wenn vorzügliche 
@@ -14232,9 +14235,9 @@ die Habgier eines Fürsten!
  
 <F>1362) RA1JA-TAR. ed. Tr. 5, 186. ed. Calc. 191. 
  
-<S> ekatrAsanasaMsthitiH parihRtA pratyudgamAddUratastAmbUlAnayanacchalena 
+<S> ekatrAsanasaMsthitiH parihRtA pratyudgamAddUrata- @ stAmbUlAnayanacchalena 
 rabhasAzleSo 'pi saMvidhnitaH | AlApo 'pi na vizrutaH parijanaM 
-vyApArayantyAntike kAntaM pratyupacAratazcaturayA kopaH kRtArthIkRtaH || 
+vyApArayantyAntike @ kAntaM pratyupacAratazcaturayA kopaH kRtArthIkRtaH || 
  
 <D1363><A524> Ein Zusammensitzen auf der Ruhebank hintertrieb sie, indem sie 
 schon aufstand, als er noch fern war, und ihm entgegenging; eine 
@@ -14259,8 +14262,8 @@ trotzige Schlange wird von Insecten, wenn ihrer viele sind, getödtet.
 ²b.{#atighAtinaH#} und {#vivAdinaH#} st. {#abhi°.#} ²d. {#nazyati, nazyate#} und 
 {#nAzito.#} 
  
-<S> ekaM nAma jaDAtmakasya muSitaM lAvaNyamindostayA netrAbhyAmasitpalasya ca 
-ruciH prAyeNa tanno mRSA | no jAnAti hRtAmasau padagatiM matto varAkaH karI 
+<S> ekaM nAma jaDAtmakasya muSitaM lAvaNyamindostayA @ netrAbhyAmasitpalasya ca 
+ruciH prAyeNa tanno mRSA | no jAnAti hRtAmasau padagatiM matto varAkaH karI @ 
 tanvaGgyA vidato 'pi yanmama hRtaM citastadatyadbhutam || [Seite1.260] 
  
 <D1365><A3825> Dass sie dem empfindungslosen Monde die Anmuth ohne Gleichen 
@@ -14345,9 +14348,9 @@ und demselben Zwecke dient wie das Schiff auf dem Meere.
  
 <F>1372) MBH.5, 1017. 
  
-<S> ekaM bhUmipatH karoti sacivaM rAjye pradhAnaM yadA taM mohAcchrayate madaH 
+<S> ekaM bhUmipatH karoti sacivaM rAjye pradhAnaM yadA @ taM mohAcchrayate madaH 
 sa ca madAddAsyena nirvidyate | nirviNNasya padaM karoti hRdaye tasya 
-svatantraspRhA svAtantryaspRhayA tataH sa nRpateH prANeSvabhidru hyati || 
+svatantraspRhA @ svAtantryaspRhayA tataH sa nRpateH prANeSvabhidru hyati || 
  
 <D1373><A528> Wenn ein Fürst Einen Minister an die Spitze der Regierung stellt, 
 dann kommt über diesen in seiner Verblendung ein Taumel; in diesem Taumel wird 
@@ -14410,9 +14413,9 @@ kArayet.#} Vgl. Spruch {#zatameko 'pi saMdhatte.#}
 <HS>{#ekastapo dviradhyAnam#} s. Spruch 1392. {#ekasthAne prasUte vAk#} s. 
 Spruch 1403. 
  
-<S> ekasmiJchayane parAGnukhatayA vItottaraM tAmyatoranyo 'nyasya hRdi sthite 
+<S> ekasmiJchayane parAGnukhatayA vItottaraM tAmyato- @ ranyo 'nyasya hRdi sthite 
 'pyanunaye saMrakSatorgauravam | daMpatyoH 
-zanakairapAGgavalanAnmizrIbhavaccakSuSorbhagno mAnakaliH 
+zanakairapAGgavalanAnmizrIbhavaccakSuSo- @ rbhagno mAnakaliH 
 sahAsarabhasavyAsaktakaNthagraham || 
  
 <D1378><A530> Mann und Frau ruhen auf demselben Lager mit abgewandtem Gesichte, 
@@ -14425,9 +14428,9 @@ leidenschaftlich umarmen.
 <F>1378) AMAR.19. SA1H. D. 81. ²a. {#ekasmiJchayane#} unsere Anederung für 
 {#ekasmin zayane.#} ²d. {#sahAsarabhasaM, °kaNThagrahaH.#} [Seite1.263] 
  
-<S> ekasmiJchayane vipakSaramaNInAmagrahe mugdhayA sadyaH kopaparAGnukhaM 
+<S> ekasmiJchayane vipakSaramaNInAmagrahe mugdhayA @ sadyaH kopaparAGnukhaM 
 zayitayA cATUni kurvannapi | AvegAdavadhIritaH priyatamastUSNIM 
-sthitastatkSaNAnmA bhUtsupta ivetyamandavalitagrIvaM punarvIkSitaH || 
+sthitastatkSaNA- @ nmA bhUtsupta ivetyamandavalitagrIvaM punarvIkSitaH || 
  
 <D1379><A531> Bei der Nennung des Namens der Nebenbuhlerin dreht die auf 
 demselben Lager ruhende Schöne plötzlich aus Aerger dem Geliebten den Rücken; 
@@ -14661,9 +14664,9 @@ sei im Verkehr mit Feinden in steter Angst.
  
 <F>1401) MBH. MBH. 1, 5559. 
  
-<S> ekAnte sukhamAsyatAM paratare cetaH samAdhIyatAM prANAtmA susamIkSyatAM 
+<S> ekAnte sukhamAsyatAM paratare cetaH samAdhIyatAM @ prANAtmA susamIkSyatAM 
 jagadidaM tadvyApitaM dRzyatAm | prAkkarma pravilopyatAM citibalAnnApyuttare 
-zliSyatAM prArabdhaM tviha bhujyatAmatha parabrahmAtmanAsthIyatAm || 
+zliSyatAM @ prArabdhaM tviha bhujyatAmatha parabrahmAtmanAsthIyatAm || 
  
 <D1402><A3836> Man fühle sich behaglich an einsamem Orte, richte seinen Geist 
 auf das Höhere, denke fleissig an die Allseele, sehe diese Welt als von ihr 
@@ -14744,9 +14747,9 @@ Brahmane.
  
 <F>1408) VR2DDHA-CA1N2.11, 12. ²c. {#RRtugAlA°#} eine Ausg. 
  
-<S> ekIbhUya sphuTamiva kimapyAcarIdbhaH pralInairebhirbhUtaiH smara kati jRtAH 
+<S> ekIbhUya sphuTamiva kimapyAcarIdbhaH pralInai- @ rebhirbhUtaiH smara kati jRtAH 
 svAnta te vipralambhaH | tasmAdeSAM tyaja paricayaM cintaya 
-svavyavasthAmAbhASaste kimu na viditaH paNDitaH khaNDitaH syAt || 
+svavyavasthA- @ mAbhASaste kimu na viditaH paNDitaH khaNDitaH syAt || 
  
 <D1409><A3839> Erinnere dich doch, o Herz, wie oft dich diese Gespenster (die 
 Sinne) angeführt, haben, indem sie sich vereinigten, gleichsam offen Etwas 
@@ -14770,9 +14773,9 @@ Hände: bei diesem nimmt die Hand den unteren Platz ein, bei jenem den oberen.
  
 <HS>{#ekena vanavRkSeNa#} s. Spruch 1418. {#ekena zuSkavRkSeNa#} s. Spruch 1412. 
  
-<S> ekena smitapATalAdhararuco jlpantyanalpAkSaraM vIkSante 'nyamitaH 
+<S> ekena smitapATalAdhararuco jlpantyanalpAkSaraM @ vIkSante 'nyamitaH 
 sphuTatkumudinIphullollasallocanAH | dUrodAracaritracitravibhavaM dhyAnti cAnyaM 
-dhiyA kenetthaM paramArthato 'rthavadiva premAsti vAmabruvAm || 
+dhiyA @ kenetthaM paramArthato 'rthavadiva premAsti vAmabruvAm || 
  
 <D1411><A546> Mit dem Einen schwatzen sie gar viel und zeigen dabei Lippen von 
 der Farbe einer aufgegangenen Pa1t2ala1-Blüthe; einen Andern blicken sie an mit 
@@ -15027,9 +15030,9 @@ Meer salzig.
  
 <F>1435) SUBHA1SH.27. ²c. ²d. {#zUnyaM ati#} die Hdschr. [Seite1.274] 
  
-<S> eko rAgiSu rAjate priyatamAdehArdhahArI haro nIrAgeSu 
+<S> eko rAgiSu rAjate priyatamAdehArdhahArI haro @ nIrAgeSu 
 punarvimuktalalanAsaGge na yasmAtparaH | 
-durvArasmarapannagAdhikaviSavyAsaktamugdho janaH zeSaH kAmaviDambito hi 
+durvArasmarapannagAdhikaviSavyAsaktamugdho janaH @ zeSaH kAmaviDambito hi 
 viSayAnbhoktuM na moktuM kSamaH || 
  
 <D1436><A3842> Unter den Leidenschaftlichen ragt S4iva allein hervor, da er der 
@@ -15112,8 +15115,8 @@ Ausspruch hat KA1LIDA1SA in KUMA1RAS.1, 3 gethan; nach {#indoH#} sind die Worte
 'vabhASe#} HAEB. ²c. {#dRSTaH#} unsere Aenderung für {#dRSTaM.#} ²d. 
 {#dAridrya#} unsere Aenderung für {#dAridra.#} 
  
-<S> eNaH krIDati sUkarazca khanati dvIpI ca garvAyate kroSTA krandati valgate ca 
-zazako vegAdrururdhAvati | niHzaGkaH karipotakastarulatAmunmoTate lIlayA haMho 
+<S> eNaH krIDati sUkarazca khanati dvIpI ca garvAyate @ kroSTA krandati valgate ca 
+zazako vegAdrururdhAvati | niHzaGkaH karipotakastarulatAmunmoTate lIlayA @ haMho 
 siMha vinA tvayAdya vipine kIdRgdazA vartate || 
  
 <D1442><A566> Die Antilope spielt, der Eber wühlt, der Panther brüstet sich, der 
@@ -15126,8 +15129,8 @@ Walde ist!
 ²c.{#potakaH karulatAmummoTate#} die eine, {#kariposakastUradalatAm#} die andere 
 Hdschr. 
  
-<S> eNakSIspRhayAlutA na kathamapyAste vivekodayAnnityaM pracyutizaGkayA 
-kSaNamapi svarge na modAmahe | apyanyeSu vinAzibhogaviSayAbhogeSu tRSNA na me 
+<S> eNakSIspRhayAlutA na kathamapyAste vivekodayA- @ nnityaM pracyutizaGkayA 
+kSaNamapi svarge na modAmahe | apyanyeSu vinAzibhogaviSayAbhogeSu tRSNA na me @ 
 svArNadyAH puline paraM haripadadhyAnaM mano vAJchati || 
  
 <D1443><A3843> Ein Verlangen nach Gazellenäugigen besteht durchaus nicht mehr, 
@@ -15156,9 +15159,9 @@ zusammenkämen.
  
 <F>1444) BHARTR2. ed. BOHL. und lith. Ausg. III 1, 29. ²d. {#eva#} st.{#iva.#} 
  
-<S> etattarkaya cakravAkahRyAzvAsAya tArAgaNagrAsAya 
+<S> etattarkaya cakravAkahRyAzvAsAya tArAgaNa- @ grAsAya 
 sphuradindumaNDalaparIhAsAya bhAsAM nidhiH | dikkAntAkucakumbhaGkumaranyAsAya 
-paGkeruhollAsAya sphuTavairikairavavatrAsAya vidyItate || 
+paGkeruho- @ llAsAya sphuTavairikairavavatrAsAya vidyItate || 
  
 <D1445> Bedenke dieses, dass der Lichtbehälter (die Sonne) erglänzt, um das Herz 
 der Cakrava1ka zu erheitern, um die Schaar der Sterne zu verschlingen, um die 
@@ -15203,9 +15206,9 @@ mit Aufopferung ihres Lebens des Gatten Wohl schafft.
  
 <F>1448) MBH.1, 6146. 
  
-<S> etallandhamidaM ca labhyamadhikaM tanmUlalabhyaM tato labhyaM 
+<S> etallandhamidaM ca labhyamadhikaM tanmUlalabhyaM tato @ labhyaM 
 cAparamityanAratamahi labhyaM dhanaM dhyAyasi | naitadvetsi 
-punarbhavantamacirAdAzApizAcI valAtsarvagrAsamiyaM grasiSyati 
+punarbhavantamacirAdAzApizAcI valA- @ tsarvagrAsamiyaM grasiSyati 
 mahAmohAndhakArAvRtam || 
  
 <D1449><A3844> «Dieses habe ich gewonnen und jenes kann ich noch hinzugewinnen; 
@@ -15334,9 +15337,9 @@ Schatzkammer (am Kelche) zehren.
 <F>1459) S4A1RN5G. PADDH. KAMALA1NJOKTI 11.²c. {#lakSmyA.#} ²d. {#upajivyate#} 
 (sic) st. {#upabhujyate.#} 
  
-<S> ete satpuruSaH parArthaghatakAH svArthaM parityajya ye sAmAnyAsti 
+<S> ete satpuruSaH parArthaghatakAH svArthaM parityajya ye @ sAmAnyAsti 
 parArthamudyamabhRtaH svArthAvirodhena ye | te 'mI mAnuSarAkSasAH parahitaM 
-svArthAya vighnanti ye ye tu ghnanti nirarthakaM parahitaM te ke na jAnImahe || 
+svArthAya vighnanti ye @ ye tu ghnanti nirarthakaM parahitaM te ke na jAnImahe || 
  
 <D1460><A576> Das sind edle Menschen, die mit Hintansetzung ihres Vortheils für 
 Andere sich abmühen; gewöhnliche aber sind die, welche ohne dem eigenen Vortheil 
@@ -15519,9 +15522,9 @@ lassen.
 KA1VJAPR.117. ²c. {#sukha#} st. {#graha;grastAH#} KA1VJAPR. ²d. 
 {#dhanibhirbhudhAH#} KA1VJAPR. 
  
-<S> ehyAgaccha samAzrayAsanamidaM kasmAccirAddRzyase kA vArttA atidurbalo 'si 
+<S> ehyAgaccha samAzrayAsanamidaM kasmAccirAddRzyase @ kA vArttA atidurbalo 'si 
 kuzalaM prIto 'smi te darzanAt | evaM nIcajane 'pi yujyati gRhaM prApte satAM 
-sarvadA dharmo 'yaM gRhamedhinAM nigaditaH smArtairlaghuH svargadaH || 
+sarvadA @ dharmo 'yaM gRhamedhinAM nigaditaH smArtairlaghuH svargadaH || 
  
 <D1478><A580> «Komm! Tritt heran! Nimm Platz auf diesem Sitze! Warum hat man 
 dich so lange nicht gesehen? Welche Neuigkeit? Du siehst sehr elend aus! Ich 
@@ -15606,9 +15609,9 @@ zugleich lodern!
 <F>1486) KATHA1S. 28, 32. Vgl. Spruch {#strItvaM kSIvatvamekAntaH.#} 
 [Seite1.285] 
  
-<S> aizvaryasya vibhUSaNaM sujanatA zauryasya vAksaMyamo jJAnasyepazamaH kulasya 
+<S> aizvaryasya vibhUSaNaM sujanatA zauryasya vAksaMyamo @ jJAnasyepazamaH kulasya 
 vinayo vittasya pAtre vyayaH | akrodhastapasaH kSamA prabhAviturdharmasya 
-nirvyAjatA sarveSAmapi sarvakAraNamidaM zIlaM paraM bhUSaNam || 
+nirvyAjatA @ sarveSAmapi sarvakAraNamidaM zIlaM paraM bhUSaNam || 
  
 <D1487><A581> Der Herrschaft Zierde ist Leutseligkeit, der Mannhaftigkeit -- der 
 Rede Zaum, des Wissens -- Ruhe des Gemüths, des Geschlechts -- gutes Betragen, 
@@ -15650,9 +15653,9 @@ Angelegenheiten der anderen Welt.
 <F>1490) MBH. 12, 12053.²a.{#aihalo°#} ed. Calc. ²b. {#bandhanam#} st. 
 {#vardhanam#} ed. Calc. ²c. {#pAralo°#} ed. Calc. 
  
-<S> oMkAre satpradIpe mRgaya gRhaya gRhapatiM sUkSmamevAntarasthaM saMyamya 
+<S> oMkAre satpradIpe mRgaya gRhaya gRhapatiM sUkSmamevAntarasthaM @ saMyamya 
 dvArabAhyaM pavanamavirataM nAyakaM cendriyANAm | vAgjAlaM kasya hetorviracayasi 
-girA dRzyate naiva kiMciddehasthaM pazya nAthaM bhramasi kimaparaM 
+girA dRzyate naiva kiMci- @ ddehasthaM pazya nAthaM bhramasi kimaparaM 
 zAstramohAndhakAre || [Seite1.286] 
  
 <D1491><A3857> Suche bei den wahren Leuchte, der Silbe om, den kleinen Hausherrn 
@@ -15799,8 +15802,8 @@ Schriftzüge in der Höhlung der Stirn angeben?
  
 <HS>{#kaTutvaM satyavAditvam#} s. Spruch {#paTutvaM satyavAditvam.#} 
  
-<S> kaThinahRdaye muJca bhrAntiM vyalIkakathAzritAM piznavacanairduHkhaM netuM 
-na yuktamimaM janam | kimidamatha vA satyaM mugdhe tvayAdya vinizcitaM 
+<S> kaThinahRdaye muJca bhrAntiM vyalIkakathAzritAM @ piznavacanairduHkhaM netuM 
+na yuktamimaM janam | kimidamatha vA satyaM mugdhe tvayAdya vinizcitaM @ 
 yadabhirucitaM tanme kRtvA priye sukhamAsyatAm || 
  
 <D1505><A585> Hartherzige, lass den auf falschen Berichten beruhenden Irrthum 
@@ -15859,8 +15862,9 @@ gehütet werden.
 <F>1510) R. ed. Bomb.3, 50, 6, ²b. 7, ²a. ed. GORR. 56, 14.²b. {#parAmRSet#} 
 GORR. ²d. {#paradArA mahIbhRtAm#} GORR. 
  
-<HS>{#kathamcidahni hRdaye#} s. nach Spruch {#rAjanrAjanyupAdhyAyaH. kathaM 
-tvayA na sevyante#} s. den folgenden Spruch. 
+<HS>{#kathamcidahni hRdaye#} s. nach Spruch {#rAjanrAjanyupAdhyAyaH#}.
+
+<HS>{#kathaM tvayA na sevyante#} s. den folgenden Spruch. 
  
 <S> kathaM nAma na sevyante yatnataH paramezvarAH | acireNaiva ye tuSTAH 
 pUrayanti manorathAn || 
@@ -15996,9 +16000,9 @@ gab, dass die Zusammenkunft bei Sonnenuntergang stattfinden würde).
  
 <V>1523. Vgl. Spruch {#saMketakAlamanasam#}(SA1H. D. 21.) 
  
-<S> kadA bhikSAbhaktaiH karakalitagaGgAmbutaralaiH zarIraM me 
+<S> kadA bhikSAbhaktaiH karakalitagaGgAmbutaralaiH @ zarIraM me 
 sthAsyatyuparatasamastendriyasukham | kadA 
-brahmAbhyAsasthiratanutayAraNyavihagAH patiSyanti sthANubhramahatadhiyaH 
+brahmAbhyAsasthiratanutayAraNyavihagAH @ patiSyanti sthANubhramahatadhiyaH 
 skandhazirasi || 
  
 <D1524><A593> Wann wird durch den Genuss erbettelten Brodes, das auf dem in der 
@@ -16082,8 +16086,8 @@ Geschenkes zu Stande gekommenes Bündniss heisst Upaha1ra.
 <F>1530) KA1M. NI1TIS.9.5. HIT. ed. SCHL. IV, 108. ed. JOHNS.114. ed. Calc.130 
 S.504. ²a. {#vikSeyaH.#} 
  
-<S> kapAle mArjAraH paya iti karAlloDhi zazinastarucchidraprotAnbisamiti karI 
-saMkalayati | ratAnte talpasthAnharati vanitApyaMzukamiti prabhAmattazcandro 
+<S> kapAle mArjAraH paya iti karAlloDhi zazina- @ starucchidraprotAnbisamiti karI 
+saMkalayati | ratAnte talpasthAnharati vanitApyaMzukamiti @ prabhAmattazcandro 
 jagadidamaho viplavayati || 
  
 <D1531><A3866> An den Mondstrahlen auf Schüssel leckt eine Katze, in der 
@@ -16211,9 +16215,9 @@ gestellten Fragen zu geben bereit bin.
  
 <F>1542) SUBHA1SH. 51. ²d. {#eSa#} die Hdschr. 
  
-<S> kare zlAdhyastyAgaH zirasi gurupAdapraNamanaM mukhe satyA vANI 
+<S> kare zlAdhyastyAgaH zirasi gurupAdapraNamanaM @ mukhe satyA vANI 
 vijayibhujayorvIryamatulam | hRdi svacchA vRttiH zrutamadhigataM ca 
-zravaNayorvinApyaizvaryeNa prakRtimahatAM maNDanamidam || 
+zravaNayo- @ rvinApyaizvaryeNa prakRtimahatAM maNDanamidam || 
  
 <D1543><A601> An der Hand preist man Freigebigkeit, am Kopfe eine Verbeugung zu 
 den Füssen des Lehrers, am Munde wahre Rede, an den Armen des Siegers 
@@ -16790,9 +16794,9 @@ verschlingen.
  
 <F>1600) SUBHA1SH. 83.²c.{#saMGkayA#} die Hdschr. ²d. {#grasicyati#} die Hdschr. 
  
-<S> kastUrIvarapattrabhaGganikaro bhraSTo na gaNDasthale no luptaM sakhi candanM 
+<S> kastUrIvarapattrabhaGganikaro bhraSTo na gaNDasthale @ no luptaM sakhi candanM 
 stanataTe dhautaM na netrAJjanam | rAgo na skhalitastavAdharapuTe 
-tAmbUlasaMvardhitaH kiM ruSTAsi gajendramandagamane kiM vA zizuste patiH || 
+tAmbUlasaMvardhitaH @ kiM ruSTAsi gajendramandagamane kiM vA zizuste patiH || 
  
 <D1601><A622> Die vielen mit schönstem Moschus aufgetragenen Zeichen auf deinen 
 Wangen sind nicht verschwunden; auch ist, o Freundin, der Sandel auf deiner 
@@ -16803,9 +16807,9 @@ ein Kind?
  
 <F>1601) S4R2N5GA1RAT. 7. ²c. {#sphalitas#} st.{#skhalitas.#} 
  
-<S> katvaM bhadra khalezvaro 'hamiha kiM ghore vane sthIyate zArdUlAdibhireva 
+<S> katvaM bhadra khalezvaro 'hamiha kiM ghore vane sthIyate @ zArdUlAdibhireva 
 hiMsrapazubhiH khAdyo 'hamityAzayA | kasmAtkaSTamidaM tvayA vyavasitaM 
-maddehamAMsAzinaH pratyutpannanRmAMsabhakSaNadhiyaste ghnantu sarvAnnarAn || 
+maddehamAMsAzinaH @ pratyutpannanRmAMsabhakSaNadhiyaste ghnantu sarvAnnarAn || 
  
 <D1602><A3889> «Wer bist du, mein Bester?» «Ich bin der Fürst der Bösen». «Wozu 
 weilst du hier im fürchterlichen Walde?» «In der Hoffnung, dass mich Tiger oder 
@@ -16816,9 +16820,9 @@ sie auf dieses Weise alle Menschen umbringen.»
  
 <F>1602) KAVITA1MR2TAK. 20. ²b. {#sArdUlA°#} gedr. [Seite1.307] 
  
-<S> kastvaM bhoH kathayAmi daivahatakaM mAM viddhi zAkhoTakaM vairAgyAdiva vakSi 
+<S> kastvaM bhoH kathayAmi daivahatakaM mAM viddhi zAkhoTakaM @ vairAgyAdiva vakSi 
 sAdhu viditaM kasmAdidaM kathyate | vAmenAtra vaTastamadhvagajanaH sarvAtmanA 
-sevate na cchAyApi paropakArakRtaye mArgAsthitasyApi me || 
+sevate @ na cchAyApi paropakArakRtaye mArgAsthitasyApi me || 
  
 <D1603><A3890> «Wer bist du, Freund» «Ich will es dir sagen: wisse, dass ich ein 
 vom Schicksal geschlagener S4a1khot2aka bin» «Du sprichst, als hättest du der 
@@ -16888,9 +16892,9 @@ dieses verriethen?
  
 <F>1609) RA1JA-TAR. ed. TR. 1, 230. ed. Calc. 231. 
  
-<S> kAMzcittucchayati prapUrayati vA kAMzcinnayatyunnatiM kAMzcitpAtavidhau 
+<S> kAMzcittucchayati prapUrayati vA kAMzcinnayatyunnatiM @ kAMzcitpAtavidhau 
 karoti ca punaH kAMzcinnayatyAkulAn | anyo'nyaM pratipakSasaMhatimimAM 
-lokasthitiM bodhayanneSa krIDati kUpayantraghaTikAnyAyaprasakto vidhiH || 
+lokasthitiM bodhaya- @ nneSa krIDati kUpayantraghaTikAnyAyaprasakto vidhiH || 
  
 <D1610><A3892> Das Schicksal leert oder füllt Einige, befördert Andere in die 
 Höhe, bringt Einige zu Fall und wieder Andere, die voll sind, führt es hinweg: 
@@ -16921,9 +16925,9 @@ Krähe und der Kokila Kokila.
 157. ²b. {#tvabhedaH#} st. {#ko bhedaH.#} ²c. {#prApte vasantasamaye, vasante 
 samupAyAte.#} Vgl. Spruch 805 und {#kokilo 'haM bhavAn.#} 
  
-<S> kAkaH padmavane dhRtiM na labhate haMso 'pi kUpodake zvAnaH siMhaguhAM gato 
+<S> kAkaH padmavane dhRtiM na labhate haMso 'pi kUpodake @ zvAnaH siMhaguhAM gato 
 na ramate nIco 'pi bhadrAsane | kustrI stpuruSaM gatA na ramate nIcaM janaM 
-vAJchati yA yasya prakRtiH svabhAvajanitA duHkhena sA mucyate || 
+vAJchati @ yA yasya prakRtiH svabhAvajanitA duHkhena sA mucyate || 
  
 <D1613> Eine Krähe fühlt sich nicht behaglich unter Lotusblumen und ein Flamingo 
 nicht im Wasser eines Brunnens; ein Hund findet kein Gefallen an der Höhle eines 
@@ -16998,8 +17002,8 @@ wird auch ein Thor durch den Umgang mit Weisen zu Vielem geschickt.
 {#mArakatIrdyutIH.#} ²c. ²d. {#tathA tatsaMnikarSeNa mUrkho bhavati paNDitaH#} 
 DAM5PATIS4. 
  
-<S> kA cintA mama jIvane yadi harirvizvaMbharo gIyate no cedarbhakajIvanAya 
-jananIstanyaM kathaM nirmame | ityAlocya muhurmuhuryadupate lakSmIpate kevalaM 
+<S> kA cintA mama jIvane yadi harirvizvaMbharo gIyate @ no cedarbhakajIvanAya 
+jananIstanyaM kathaM nirmame | ityAlocya muhurmuhuryadupate lakSmIpate kevalaM @ 
 tvatpAdAmbujasevanena satataM kAlo mayA nIyate || 
  
 <D1620> «Wozu soll ich mir Gedanken machen über meinen Lebensunterhalt, wenn ich 
@@ -17023,9 +17027,9 @@ maNirmaNiH.#} [Seite1.311]
  
 <HS>{#kAco maNirmaNiH kAcaH#} s. den vorangehenden Spruch. 
  
-<S> kAJcyA gADhatarAvanaddhavasanaprAntA kimarthaM punarmugdhAkSI svapitIti 
+<S> kAJcyA gADhatarAvanaddhavasanaprAntA kimarthaM puna- @ rmugdhAkSI svapitIti 
 tatparijanaM svairaM priye pRcchati | mAtaH svaptumapIha vArayati 
-mAmityAhitakroMdhayA paryasya svapanacchalena zayane datto 'vakAzastayA || 
+mAmityAhitakroMdhayA @ paryasya svapanacchalena zayane datto 'vakAzastayA || 
  
 <D1622><A630> Als ein Geliebter an die Dienerin der Geliebten leise die Frage 
 richtete, warum die Schönäugige mit dem Gürtel den Saum des Gewandes fest 
@@ -17046,9 +17050,9 @@ bunt! Oder wessen Sohn bist du? Woher bist du gekommen? Ueber diese Wahrheit,
  
 <F>1623) MOHAMUDGARA. ²b. {#citraH#} st.{#vicitraH.#} ²c. {#AyAtaH ta°.#} 
  
-<S> kAnInasya muneH svabAndhavavadhUvaidhavyavidhvaMsino naptAraH khalu 
+<S> kAnInasya muneH svabAndhavavadhUvaidhavyavidhvaMsino @ naptAraH khalu 
 golakasya tanayAH kuNDAH svayaM pANDavAH | te 'mI paJca samAnayoniratayasteSAM 
-guNotkIrtanAdakSayyaM sukRtaM bhavedavikalaM dharmasya sUkSmA gaiH || 
+guNotkIrtanA- @ dakSayyaM sukRtaM bhavedavikalaM dharmasya sUkSmA gaiH || 
  
 <D1624><A631> Die Pa1n2d2ava sind Enkel eines Weisen (Vja1sa), der von einem 
 Mädchen geboren wurde und den Wittwenstand des Weibes seines Verwandten brach, 
@@ -17061,9 +17065,9 @@ schwer zu fassen ist das Wesen des Verdienstes!
 <F>1624) DHARMAVIVEKA 3 bei HAEB. S.507. ²b. {#naptAraH#} unsere Verbesserung 
 für {#neptAraH.#} Vgl. Spruch {#yAtaH kSmAmakhilAm.#} [Seite1.312] 
  
-<S> kAntaM vakti kapotikAkulatayA nAthAntakAlo 'dhunA vyAdho 'dho 
+<S> kAntaM vakti kapotikAkulatayA nAthAntakAlo 'dhunA @ vyAdho 'dho 
 dhRtacApazAnitazaraH zyenaH paribhrAmyati | itthaM satyahinA sa daSTa iSuNA 
-zyeno 'pi tenAhatastUrNaM tau tu yamAlayaM prati gatau daivI vicitrA gatiH || 
+zyeno 'pi tenAhata- @ stUrNaM tau tu yamAlayaM prati gatau daivI vicitrA gatiH || 
  
 <D1625><A632> In der Angst ihres Herzens spricht eine Taube zum Geliebten: 
 «Gatte! Die Todesstunde ist jetzt gekommen: unten steht ein Jäger mit Bogen und 
@@ -17074,7 +17078,10 @@ Schicksals Gang!
  
 <F>1625) DHARMAVIVEKA 5 bei HAEB. S.507. ²d. {#tUrNaM#} unsere Verbesserung für 
 {#turNaM.#} 
- 
+
+<S> kAntAkaTAkSavizikhA na khananti yasya cittaM na nirdahati kopakRtAnutApaH |
+karSanti bhUriviSayAzca na lobhapAzairlokatrayaM jayati kRtsnamidaM sa vIraH ||
+
 <D1626><A633> Der ist ein Held und erobert diese ganze Dreiwelt, dessen Herz die 
 Pfeile der Geliebten, ihre Seitenblicke, nicht durchwühlen, Reue, die auf den 
 Zorn folgt, nicht versengt und die vielen Sinnesgegenstände an den Banden der 
@@ -17126,8 +17133,8 @@ Leib.
 sabhA ca.#} ²d. {#vinAgninaite#} st. {#vinAgninA paJca;tIvraH, tIvraM#} und 
 {#deham#} st. {#kAyam.#} Vgl. Spruch{#kugrAmavAsaH kujanasya sevA.#} 
  
-<S> kAnte katyapi vAsarANi gamayaM tvaM mIlayitvA dRzau svasti svasti nimIlayAmi 
-nayane yAvanna zUnyA dizaH | AyAtA vayamAgamiSyati suhRdvargasya bhAgyodayaiH 
+<S> kAnte katyapi vAsarANi gamayaM tvaM mIlayitvA dRzau @ svasti svasti nimIlayAmi 
+nayane yAvanna zUnyA dizaH | AyAtA vayamAgamiSyati suhRdvargasya bhAgyodayaiH @ 
 saMdezo vada kastavAbhilaSitastIrtheSu toyAJjaliH || 
  
 <D1631><A634> «Geliebte! Verlebe einige Tage, als wenn sie Augenblicke wären.» 
@@ -17150,9 +17157,9 @@ begaben, indem sie zu wiederholten Malen ihr Girren nachahmten.
  
 <F>1632) SA1H. D.41. 
  
-<S> kAntatyutpalalocaneti vipulazroNIbharetyutsukaH pInottuGgapayodhareti 
+<S> kAntatyutpalalocaneti vipulazroNIbharetyutsukaH @ pInottuGgapayodhareti 
 sumukhAmbhojeti subhrUriti | dRSTvA mAdyati modate 'bhiramate prastauti 
-vidvAnapi pratyakSAzuciputrikAM striyamaho mohasya duzcoSTitam || 
+vidvAnapi @ pratyakSAzuciputrikAM striyamaho mohasya duzcoSTitam || 
  
 <D1633><A635> Selbst der Verständige, wenn er eine Jungfrau erblickt, die genau 
 angesehen nichts weiter als eine unreine Puppe ist, nennt sie Geliebte, 
@@ -17165,9 +17172,9 @@ beginnt sein Spiel: Weh rufe ich über das tolle Gebahren des Unverstandes!
 {#utsukaH#} PRAB. ²c. {#'tirate;jAnannapi#} st.{#vidvAna pi.#} ²d. {#kAmasya#} 
 st. {#mohasya.#} [Seite1.314] 
  
-<S> kAnte sAgasi zayite priyasakhIveSaM vidhAyAgate bhrAntyAliGgya mayA 
+<S> kAnte sAgasi zayite priyasakhIveSaM vidhAyAgate @ bhrAntyAliGgya mayA 
 rahasyamuditaM tatsaMgamAkAGkSayA | mugdhe duSkarametadityatitarAmukktvA sahAsaM 
-balAdAliGgya cchalitAsmi tena kitavenAdya pradoSAgame || 
+balA- @ dAliGgya cchalitAsmi tena kitavenAdya pradoSAgame || 
  
 <D1634><A636> Heute in der Abenddämmerung hat mich der Schelm von Geliebten 
 hintergangen: ich hatte ihn, weil er gegen mich gefehlt, zu Bette geschickt; da 
@@ -17200,9 +17207,9 @@ Reichen: sie sind bekanntlich Thiere, wir dagegen vernünftige Wesen.
 <F>1636) S4A1NTIS4. 1, 15 bei HAEB. S.412. NI1TISAM5K. 57. ²a. {#kAle#} 
 st.{#kAmaM.#} ²d. {#kahlu#} st. {#kila#} 
  
-<S> kAmaM zIrNapalAzasaMhatikRtAM kanthAM vasAno vane 
+<S> kAmaM zIrNapalAzasaMhatikRtAM kanthAM vasAno vane @ 
 kuryAmambubhirapyayAcitasukhaiH prANAnubandhasthitim | sAGgaglAni savepitaM 
-sacakitaM sAntArnidAghajvaraM vaktuM na tvahamutsahe sakRpaNaM sakRpaNaM dehIti 
+sacakitaM sAntArnidAghajvaraM @ vaktuM na tvahamutsahe sakRpaNaM sakRpaNaM dehIti 
 dInaM vacaH || 
  
 <D1637><A638> Gern kleidete ich mich im Walde in ein elendes Gewand, das aus 
@@ -17448,9 +17455,9 @@ haust ein Räuber, der Liebesgott.
 SUBHA1SH.14.245.²b.{#kacaH#} [Seite1.319] und {#stana#} st. {#kuca.#} ²c. {#no#} 
 st.{#mA;pAnthaH.#} ²d. {#tatrAsti#} SUBHA1SH. 
  
-<S> kAminyAH kucadurgaparvatabhuvi tvaM mA manaHpAnthaka saMcAraM kuru 
+<S> kAminyAH kucadurgaparvatabhuvi tvaM mA manaHpAnthaka @ saMcAraM kuru 
 romarAjigahane tatrAsti nAbhyAM guhA | tallIno madhusUdanasya tanayastonAtra 
-caureNa bho nirvastrIkriyate divApi hi naro rAtau tu kiM kathyate || 
+caureNa bho @ nirvastrIkriyate divApi hi naro rAtau tu kiM kathyate || 
  
 <D1661> O Wanderer Herz, lustwandle nicht auf dem unwegsamen Berglande, den 
 Brüsten der Geliebten, auch nicht in dem Dickicht ihrer Härchenreihe; dort im 
@@ -17539,9 +17546,9 @@ theilt, vermöchte sogar die Dreiwelt zu beschützen.
 <F>1669) PAN4CAT. ed. KOSEG. II, 25. ed. Bomb. 24. ²c. {#saMbhAvyah#} st. 
 {#saMbhavet#} KOSEG. 
  
-<S> kArkazyaM stanayordRzostaralatAlIkaM mukhe dRzyate kauTilyaM kacasaMcaye 
+<S> kArkazyaM stanayordRzostaralatAlIkaM mukhe dRzyate @ kauTilyaM kacasaMcaye 
 pravacane mAndyaM trike sthUlatA | bhIrutvaM hRdaye sadaiva kathitaM 
-mAyAprayogaH priye yAsAM doSagaNo guNA mRgadRzAM tAH kiM narANAM priyAH || 
+mAyAprayogaH priye @ yAsAM doSagaNo guNA mRgadRzAM tAH kiM narANAM priyAH || 
  
 <D1670><A647> Härte wird man an ihrem Busen gewahr, unstätes Wesen an ihren 
 Augen, eine Stirn (Unwahrheit) an ihrem Gesicht (in ihrem Munde), Krausheit 
@@ -17583,9 +17590,9 @@ Menschen Leiden, die der Reichthum erzeugt.
  
 <F>1673) MBH. 3, 88, ²b. 89, ²a. 
  
-<S> kArpaNyena yazaH krudhA guNacayo dambhena satyaM kSudhvA maryAdA 
+<S> kArpaNyena yazaH krudhA guNacayo dambhena satyaM kSudhvA @ maryAdA 
 vyasanairdhAnAni vipadA sthairyaM pramAdairdvijaH | paizunyena kulaM madena 
-vinayo duzceSTayA pauruSaM dAridryeNa janAdaro mamatayA cAtmaprakAzo hataH || 
+vinayo duzceSTayA pauruSaM @ dAridryeNa janAdaro mamatayA cAtmaprakAzo hataH || 
  
 <D1674><A648> Geiz untergräbt den Ruhm, Zorn eine Menge von Tugenden, Heuchelei 
 die Wahrheit, Hunger den Wandel innerhalb der gesetzlichen Grenzen, 
@@ -17669,9 +17676,9 @@ BENFEY in Gott. gel. Anz.1862, S.1383. ²d. {#bhUtim#} unsere Verbesserung für
  
 <HS>{#kAryAnumeyAH sarvatra#} s. Spruch 1566. 
  
-<S> kAryANyuttamadaNDasAhasaphalAnyAyAsasAdhyAni ye buddhyA saMzamayanti 
+<S> kAryANyuttamadaNDasAhasaphalAnyAyAsasAdhyAni ye @ buddhyA saMzamayanti 
 nItikuzalAH sAmnaiva te mantriNaH | niHsArAlpaphalAni ye tvavidhinA vAJchanti 
-daNDodyamaisteSAM durnayaceSTitairnarapaterAropyate zrIstulAm || 
+daNDodyamai- @ steSAM durnayaceSTitairnarapaterAropyate zrIstulAm || 
  
 <D1682><A3916> Diejenigen, welche, der Staatsweisheit kundig, Angelegenheiten, 
 die die höchsten Strafen in ihrem Gefolge haben und nur mit grösser Anstrengung 
@@ -17729,9 +17736,9 @@ ergeben und gleicht an Geduld der Erde.
  
 <F>1686) SUBHA1SH. 5. ²d.{#SaTAmganA#} und {#°vadhUraheva#} die Hdschr. 
  
-<S> kArzyaM kSutprabhavaM kadannamazanaM zitoSNayoH pAtratA pAruSyaM ca 
+<S> kArzyaM kSutprabhavaM kadannamazanaM zitoSNayoH pAtratA @ pAruSyaM ca 
 ziroruheSu zayanaM mahyAstale kevale | etAnyeva gRhe vahantyavanatiM 
-yAntyunnatiM kAnane doSA eva guNIbhavanti munibhiryogye pade yojitAH || 
+yAntyunnatiM kAnane @ doSA eva guNIbhavanti munibhiryogye pade yojitAH || 
  
 <D1687> Von Hunger herrührende Magerkeit, schlechte Speise als Nahrung, das 
 Ertragen von Kälte und Hitze, Struppigkeit der Haare und das Schlafen auf dem 
@@ -17799,9 +17806,9 @@ Alles gleich, die Zeit macht, dass ein Mann bald spendet, bald bettelt.
 {#vipama.#} ²b. {#pariNama#} für {#parilAva, kAlaH#} für {#kAla.#} ²c. {#kAlaH#} 
 für {#kAla |.#} 
  
-<S> kAlaH saMprati vartate kaliyugaM satyA narA durlabhA dezAzca pralayaM gatAh 
+<S> kAlaH saMprati vartate kaliyugaM satyA narA durlabhA @ dezAzca pralayaM gatAh 
 lkarabharairlbhaM hatAH pArthivAH | nAnAcauragaNA muSanti pRthivImAryo janaH 
-kSIyate putrasyApi na vizvasanti pitaraH kaSTaM yuge vartate || 
+kSIyate @ putrasyApi na vizvasanti pitaraH kaSTaM yuge vartate || 
  
 <D1694> Jetzt ist das Kali genannte Zeitalter: wahrhaftige Männer sind schwer 
 anzutreffen, die Länder sind durch die grosse Last der Abgaben zu Grunde 
@@ -17904,9 +17911,9 @@ aufgebundenem Gewande und gemessenen Schrittes.
  
 <HS>{#kAle vaneSu hariNAH#} s. Spruch 1636. 
  
-<S> kAle saMtatavarSiNA jalamucaH sasyaiH samRddhA dharA bhUpAlA 
+<S> kAle saMtatavarSiNA jalamucaH sasyaiH samRddhA dharA @ bhUpAlA 
 nijadharmapAlanaparA viprAstrayInirbharAH | svAdukSIranatodhasaH pratidinaM gavo 
-nirastApadaH santaH zAntiparA bhavantu kRtinaH saujanyabhAjo janaH || 
+nirastApadaH @ santaH zAntiparA bhavantu kRtinaH saujanyabhAjo janaH || 
  
 <D1705> Die Wolken mögen zu rechter Zeit ununterbrochenen Regen entlassen, das 
 Land gebe eine reichliche Ernte, die Fürsten mögen sich bestreben, ihre Pflicht 
@@ -17958,9 +17965,9 @@ die Welt richter sich nach dem Einsichtsvollen.
  
 <F>1709) MBH. 12, 5068, ²b. 5069, ²a. d.%} {#prAjJe#} ed. Calc. 
  
-<S> kA vidyA kavitAM vinArthini jane tyAgaM vinA zrizca kA ko dharmazca kRpAM 
+<S> kA vidyA kavitAM vinArthini jane tyAgaM vinA zrizca kA @ ko dharmazca kRpAM 
 vinA narapatiH ko nAma nitiM vinA | kaH sU nurvinA kulavadhUH kA svAmibhaktiM 
-vinA bhogaH ko ramaNIM vinA kSititale kiM janma kIrtiM vinA || 
+vinA @ bhogaH ko ramaNIM vinA kSititale kiM janma kIrtiM vinA || 
  
 <D1710> Was ist Wissen ohne Dichtergabe? Was Reichthum ohne Spenden an 
 Bedürftige? Was Tugend ohne Mitleid? Was ist wohl ein Fürst ohne kluges 
@@ -17985,9 +17992,9 @@ JOHNS PT. 48. ed. Calc. 1830 S.18. ed. RODR. S.17. VET. in LA.(III) 4. VIKRAMAC.
 1. SUBHA1SH. 224. GALAN. Varr.179.²a.{#gIta#} st.{#kAvya.#} ²c. {#hi#} und 
 {#ca#} st.{#tu.#} ²d. {#ca#} st.{#vA.#} 
  
-<S> kAvye bhavyatame 'pi vijJanivahairAsvAdyamAne muhurdoSAnveSaNameva 
+<S> kAvye bhavyatame 'pi vijJanivahairAsvAdyamAne muhu- @ rdoSAnveSaNameva 
 matsarajuSAM naisargiko durgrahaH | kAsAre 'pi vikAsipaGkajacaye khelanmarAle 
-punaH krauJcazcaJcupuTena kuJcitavapuH zambUkamanveSate || 
+punaH @ krauJcazcaJcupuTena kuJcitavapuH zambUkamanveSate || 
  
 <D1712><A660> Sogar im schönsten Gedichte, an dem eine Schar von Kennern immer 
 und immer Wieder Genuss findet, nur nach Mängeln zu spüren ist eine 
@@ -18002,9 +18009,9 @@ unsere Aenderung fur {#samvUkam.#}
  
 <HS>{#kAzI vivarjayeccauryam#} s. Spruch 1715. 
  
-<S> kASThaM kalpataruH sumeruracalazcintAmaNiH prastaraH sUryastIvrakaraH zazI 
+<S> kASThaM kalpataruH sumeruracalazcintAmaNiH prastaraH @ sUryastIvrakaraH zazI 
 ca vikalaH kSAro hi vArAM nidhiH | kAmo naSTatanurbalirdAtisuto nandI puzuH 
-kAmago naitAMste tulayAmi bho raghupate kasyopamA dIyate || 
+kAmago @ naitAMste tulayAmi bho raghupate kasyopamA dIyate || 
  
 <D1713> Der alle Wünsche erfüllende Zauberbaum ist ein Stück Holz, der 
 (goldreiche) Meru ein unbeweglicher Berg, das Zauberjuwel ein Stein, die Sonne 
@@ -18047,9 +18054,9 @@ SUBHA1SH.{#kAzI vivarjayet#} PAN4CAT. ²b. {#nidrAluzca sa cau°#} und
 und auch {#rujAkrAnto#} st. {#caro°) jIvituM#} (auch){#jIvitaM yo 'tra 
 vAJchati#} PAN4CAT. 
  
-<S> kAsareSu saritsu sindhuSu tathA nIceSu nIragrahaM dhiktatrApi zironatiH 
+<S> kAsareSu saritsu sindhuSu tathA nIceSu nIragrahaM @ dhiktatrApi zironatiH 
 kimaparaM heyaM bhavenmAninAm | ityAlocya cAtakayuvA teSu 
-spRhAmAdarAdudgrIvastava vArivAha kurute dhArAdharAlokanam || 
+spRhAmAdarA- @ dudgrIvastava vArivAha kurute dhArAdharAlokanam || 
  
 <D1716><A661> «Pfui darüber, dass man sogar von niedrigen Teichen, Flüssen und 
 Strömen das Haupt beim Wasserschöpfen verneigt! Was sollten Stolze wohl eher 
@@ -18071,9 +18078,9 @@ Mitleid, Freundlichkeit und Wohlwollen.
 <F>1717) PRAS4NOTTARARATNAM. 18 in Monatsberr. d. k. pr. Ak. d. Ww. 1868, 
 S.100./ [Seite1.331] 
  
-<S> kiM ruddhaH priyayA kayAcidatha vA sakhyA mameddhejitaH kiM vA 
+<S> kiM ruddhaH priyayA kayAcidatha vA sakhyA mameddhejitaH @ kiM vA 
 kAraNagauravaM kimapi yannAdyAgato vallabhaH | ityAlocya mRgIdRza karatale 
-vinyasya vakktrAmbujaM dIrdhaM niHzvasitaM ciraM ca ruditaM kSiptAzca 
+vinyasya vakktrAmbujaM @ dIrdhaM niHzvasitaM ciraM ca ruditaM kSiptAzca 
 puSpazrajaH || 
  
 <D1718><A663> «Hat ihn eine Geliebte zurückgehalten oder meine Freundin 
@@ -18102,9 +18109,9 @@ ein Königthum ohne Rath? Was eine Rede ohne Wahrheit?
  
 <F>1720) KATHA1S. 33, 181. 
  
-<S> kiM vedaiH smRtibhiH purANapaThanaiH zAstrairmahAvistaraiH 
+<S> kiM vedaiH smRtibhiH purANapaThanaiH zAstrairmahAvistaraiH @ 
 svargagrAmakuTInivAsaphaladaiH karmakriyAvibhramaiH | mukktvaikaM 
-bhavauHkhabhAraracanAvidhvaMsikAlAnalaM svAtmAnandapadapravezakalanaM zeSA 
+bhavauHkhabhAraracanAvidhvaMsikAlAnalaM @ svAtmAnandapadapravezakalanaM zeSA 
 vaNigvRttayaH || 
  
 <D1721><A664> Was nützen uns die Veden? Was die Gesetzbücher? Was das Lesen der 
@@ -18148,25 +18155,24 @@ in der Gewalt der Zeit?
  
 <F>1723) KATHA1S.60, 140. Vgl. Spruch {#ko 'rthAnprApya na garvitaH.#} 
  
-<S> kiM syAdvarNacatuSTayena vanajaM varNaistribhirbhUSaNaM syAdAdyena mahI 
+<S> kiM syAdvarNacatuSTayena vanajaM varNaistribhirbhUSaNaM @ syAdAdyena mahI 
 trayeNa ca phalaM madhyadvaye prANadam | vyaste gotraturaMgaghAsakusumaM prAnte 
-ca saMbodhanaM ye jAnanti budhottamAH kSititale teSAmahaM kiMkaraH || 
+ca saMbodhanaM @ ye jAnanti budhottamAH kSititale teSAmahaM kiMkaraH || 
  
 <D1724> Was mag mit seinen vier Silben eine blaue Wasserlilie sein, mit dreien 
 ein Schmuck, mit der ersten die Erde, wieder mit dreien eine Frucht, mit den 
 zwei mittleren Leben verleihend, mit versetzten Silben Familie, Pferderfutter 
 und Blume, mit der Schlusssible ein Vocativ? Wer von den klügsten Männern auf 
 Erden dieses wissen sollte, dessen Diener will ich sein. 
- 
+({#kuvalaya, valaya, ku, kuvala, vala#} d. i. {#bala, kula, yava, vakula#} d. i. {#bakula, kuvalaya#}.)
+
 <F>1724) SUBHA1SH.283. ²d. {#noSAm#} st. {#teSAm#} die Hdschr. 
  
-<HS>{#kiM kandarpa karaM, vala#} d. i.{#bala, kula, yava, vakula#} d. 
-i.{#bakula, kuvalaya.) kiM kandarpa karaM kadarthayasi#} s. Spruch {#re kandarpa 
-karaM kadarthayasi.#} 
+<HS>{#kiM kandarpa karaM kadarthayasi#} s. Spruch {#re kandarpa karaM kadarthayasi#}.
  
-<S> kiM kandAH kandarembhyaH pralayamupagatA nirjharA vA giribhyaH pradhvastA vA 
+<S> kiM kandAH kandarembhyaH pralayamupagatA nirjharA vA giribhyaH @ pradhvastA vA 
 tarubhyaH sarasaphalabhRtoM valkalinyazca zAkhAH | vIkSyante yanmukhAni 
-prasabhamapagataprazrayANAM khalAnAM 
+prasabhamapagataprazrayANAM khalAnAM @ 
 duHkhopAttAlpavittasmayapavanavazAnnartitabhrUlatAni || 
  
 <D1725><A665> Sind etwa die Wurzeln aus den Schluchten oder die Giessbäche aus 
@@ -18298,9 +18304,9 @@ Dornen.
 <F>1736) MR2CCH. 126 und 140.²c.{#nitarAM#} st. {#sutarAM.#} ²d. {#vipine#} st. 
 {#sukSetre; kaNTakadrumAH.#} Vgl. die vorangehenden Sprüche. 
  
-<S> kiM kUrmasya bharavyathA na vapuSi kSmAM na kSipatyeSa yatkiM vA nAsti 
+<S> kiM kUrmasya bharavyathA na vapuSi kSmAM na kSipatyeSa ya- @ tkiM vA nAsti 
 parizcamo dinapaterAste na yannizcalaH | kiM tvaGgIkRtamutsRjanna sahasA zlAdhyo 
-jano lajjate nirvAhaH pratipannavastuSu satAmetaddhi gotravratam || 
+jano lajjate @ nirvAhaH pratipannavastuSu satAmetaddhi gotravratam || 
  
 <D1737><A672> Fühlt die Schildkröte etwa keinen Schmerz am Körper von der auf 
 ihr lastenden Bürde, dass sie die Erde nicht abwirft? Oder wird das Tagesgestirn 
@@ -18370,9 +18376,9 @@ verschwindet in Nichts vor der Wonne bei der Umarmung eines Freundes.
  
 <HS>{#kiM cAnyairna kulAcAraiH#} s. Spruch {#dhanairna ca kulAcAraiH.#} 
  
-<S> kiM citraM yadi vedazAstranipuNo vipro bhavetpaNDitaH kiM citraM yadi 
+<S> kiM citraM yadi vedazAstranipuNo vipro bhavetpaNDitaH @ kiM citraM yadi 
 nItizAstranipuNo rAjA bhaveddhArmikaH | taccitraM yadi rUpapauvanavatI sAdhvI 
-bhavetkAminI taccitraM yadi nirdhano 'pi puruSaH pApaM na kuryAktvacit || 
+bhavetkAminI @ taccitraM yadi nirdhano 'pi puruSaH pApaM na kuryAktvacit || 
  
 <D1743> Was hat man sich zu wundern, wenn ein im Veda und in den Wissenschaften 
 erfahrener Brahmane weise ist? Was hat man sich zu wundern, wenn ein in den 
@@ -18485,9 +18491,9 @@ Spruch) {#guNigaNagaNanArambhe#} HIT.
  
 <HS>{#kiM tena bhuvi jAtena#} s. den vorangeheden Spruch. 
  
-<S> kiM te namratayA kimunnatatayA kiM te ghanacchAyayA kiM te pallavalIlayA 
+<S> kiM te namratayA kimunnatatayA kiM te ghanacchAyayA @ kiM te pallavalIlayA 
 kimanayA cazoka puSpazriyA | yattvanmUlaniSaNNakhinnapathikaH stomaiH 
-stuvannanvahaM na svAdUni mRdUni khAdati phalAnyutkaNThamutkaNThitaH || 
+stuvannanvahaM @ na svAdUni mRdUni khAdati phalAnyutkaNThamutkaNThitaH || 
  
 <D1753><A680> Was nützt es, dass du dich neigst und dass du dich erhebst, was 
 nützt dein dichter Schatten, was das Spiel deiner jungen Blätter und jene Pracht 
@@ -18661,8 +18667,8 @@ Vis2n2u. Wonach soll man Verlangen tragen? Nach der höchsten Stätte.
 <V>1768. ²b. {|Im Pandit|} II, S. 228 wird {#sadAgamaH#} durch «the company (!) 
 of the good» übersetzt. [Seite1.342] 
  
-<S> kimAsevyaM puMsAM savidhanavadyaM dyusaritaH kimekAnte dhyeyaM caraNayugalaM 
-kaustubhabhRtaH | kimArAdhyaM puNyaM kimabhilaSaNIyaM ca karuNA yadAsaktyA ceto 
+<S> kimAsevyaM puMsAM savidhanavadyaM dyusaritaH @ kimekAnte dhyeyaM caraNayugalaM 
+kaustubhabhRtaH | kimArAdhyaM puNyaM kimabhilaSaNIyaM ca karuNA @ yadAsaktyA ceto 
 niravAdhivimuktau prabhavati || 
  
 <D1769><A3935> Welchen Ort sollen Männer besuchen? Die tadellose Nähe des 
@@ -18722,9 +18728,9 @@ Geringschätzung der Lehrer.
  
 <V>1773. ²b. Lies {#zuddham.#} 
  
-<S> kiM padmasya ruciM a hanti nayanAnandaM vidhatte na kiM vRddhiM vA 
+<S> kiM padmasya ruciM a hanti nayanAnandaM vidhatte na kiM @ vRddhiM vA 
 jhaSaketanasya kurute nAlokamAtreNa kim | vakktrendau tava satyayaM yadaparaH 
-zItAMzurujjambhate darpaH syAdamRtena cediha tadapyastyeva bimbAdhare || 
+zItAMzurujjambhate @ darpaH syAdamRtena cediha tadapyastyeva bimbAdhare || 
  
 <D1774><A3937> Wozu geht noch dieser andere kaltstrahlige Mond auf, da schon 
 dein Antlitzmond da ist, der die Farbe der Wasserrose vernichtet, den Augen 
@@ -18791,9 +18797,9 @@ verübte.
  
 <F>1779) PRAS4NOTTARARATNAM. 16 in Monatsberr. d. k. pr. Ak. d. W.1868. S.100. 
  
-<S> kiM se vakktramupetya cumbasi balAnnirlajja lajjAkRte vastrAntaM zaTha muJca 
+<S> kiM se vakktramupetya cumbasi balAnnirlajja lajjAkRte @ vastrAntaM zaTha muJca 
 mupathaiH kiM dhUrta nirvaJcase | kSINAhaM tava rAtrijAgaravazAttAmeva yAhi 
-priyAM nirmAlyojjhitapuSpadAmanikare kA SaTpadAnAM ratiH || 
+priyAM @ nirmAlyojjhitapuSpadAmanikare kA SaTpadAnAM ratiH || 
  
 <D1780><A688> Was kommst du zu mir und küssest mir gewaltsam den Mund, du 
 Schamloser, der du Scham nur heuchelst! Lass los, lass los den Saum des 
@@ -18827,9 +18833,9 @@ wie es sich gebührt, aufrichten.
  
 <HS>{#kIrtiH svargataraMgiNIbhiH#} s. den folgenden Spruch. 
  
-<S> kIrteH svargataraMgiNIbhirabhito vaikuNThamAplAvitaM kSauNinAtha tava 
+<S> kIrteH svargataraMgiNIbhirabhito vaikuNThamAplAvitaM @ kSauNinAtha tava 
 pratApatapanaiH saMtApitaH kSIradhiH | ityevaM dayitAyugena hariNA tvaM yAcitaH 
-svAzrayaM hRtpadmaM haraye svabhavanaM kaNThaM gire dattavAn || 
+svAzrayaM @ hRtpadmaM haraye svabhavanaM kaNThaM gire dattavAn || 
  
 <D1783><A3939> «Die Himmelsströme deines Ruhmes, o Fürst, haben Vaikun2t2ha 
 (Vis2n2u's Himmel) von allen Seiten überschwemmt und die Gluth deines 
@@ -19090,8 +19096,8 @@ vollbrachten) Werke.
 <F>1807) BRAHMAVAIV. P. bei BOHLEN zu BHARTR2.2, 93. Vielleicht ist {#yathA#} 
 st. {#mRdA#} zu lesen. [Seite1.350] 
  
-<S> kuraGgAH kalyANaM prativiTapamArogyamaTavi sravanti kSemaM te pulina kuzalaM 
-bhadramupalAH | nizAntAdasvantAtkathamapi viniSkrAntamadhunA mano 'smAMkaM 
+<S> kuraGgAH kalyANaM prativiTapamArogyamaTavi @ sravanti kSemaM te pulina kuzalaM 
+bhadramupalAH | nizAntAdasvantAtkathamapi viniSkrAntamadhunA @ mano 'smAMkaM 
 dIrghAmabhilaSati yuSmatparicitim || 
  
 <D1808><A698> Heil euch, Gazellen! Gesundheit jedem deiner Zweige, o Wald! Ruhe 
@@ -19114,9 +19120,9 @@ Unterrichten eines schlechten Schülers?
 <F>1809) VR2DDHA-CA1N.6, 14. Vgl. Spruch 79. 1797 und {#varaM na rAjyaM na 
 kurAjarAjyam.#} 
  
-<S> kurmaH kilbiSametadeva hRdaye kRtveti kautUhalAtsvairiNyaH kSitipAzca 
+<S> kurmaH kilbiSametadeva hRdaye kRtveti kautUhalA- @ tsvairiNyaH kSitipAzca 
 dhikcapalatAM krauryaM ca kuryuH sakRt | pApAkrAntadhiyo bhavantyatha yathA 
-nAntyAnspRzantyo 'pi tA dUyante na ca te svapitarau ghnanto 'pi zAntatrapAH || 
+nAntyAnspRzantyo 'pi tA @ dUyante na ca te svapitarau ghnanto 'pi zAntatrapAH || 
  
 <D1810><A3948> «Nur diese Sünde wollen wir begehen», so denken Buhldirnen und 
 Fürsten und begehen dieselbe, pfui rufe ich über den Leichtsinn (der Buhldirnen) 
@@ -19526,9 +19532,9 @@ st. {#uSNakAle.#}
  
 <HS>{#kUrmasamkocamAsthAya#} s. Spruch {#kaurmaM saMkocamAsthAya.#} [Seite1.358] 
  
-<S> kRcchreNAmedhyamadhye niyamitatanibhiH sthIyate garbhavAse kAntAvizleSaduH 
+<S> kRcchreNAmedhyamadhye niyamitatanibhiH sthIyate garbhavAse @ kAntAvizleSaduH 
 khavyatikaraviSamo yauvane copabhogaH | 
-vAmAkSiNAmavajJAvihasitavasatirbRddhabhAvo 'pyAsAdhuH | saMsAre re manuSyA 
+vAmAkSiNAmavajJAvihasitavasatirbRddhabhAvo 'pyAsAdhuH @ saMsAre re manuSyA 
 vadata yadi sukhaM svalpamapyasti kiMcit || 
  
 <D1851><A711> In des Mutterleibes unreiner Behausung wohnen wir in Pein mit 
@@ -19728,8 +19734,8 @@ anders machen.
 <F>1870) VET. in LA.(III) 12. GALAN. VAER. 231. ²d. {#piNDitais#} unsere 
 Verbesserung für {#paNDitaisH#}<g></g> GALAN. 
  
-<S> kRtA bhikSA raGkairvitarati nRpo nocitamaho kRSiH kliSTA vidyA 
-guruvinayavRttyAtiviSamA | kusIdAddAridryaM paragatAtmArthakaraNAnna manye 
+<S> kRtA bhikSA raGkairvitarati nRpo nocitamaho @ kRSiH kliSTA vidyA 
+guruvinayavRttyAtiviSamA | kusIdAddAridryaM paragatAtmArthakaraNA-- @ nna manye 
 vANijyAtkimapi sulabhaM vartanamiha || 
  
 <D1871><A718> Arme bitten um ein Almosen, der Fürst spendet aber leider keine 
@@ -19789,8 +19795,8 @@ Kampfe des Webers.
 pUrayatepsitam#} VIKR. ²c. {#viSNuzcakraM#} VIKR.²d. {#kolikosya yathA tathA#} 
 VIKR. 
  
-<S> kRto dUrAdeva smitamadhuramabhyadhuramabhyadgamavidhiH zirasyAjJA nyastA 
-prativacanamuccaiH praNAmitam | na dRSTeH zaithilyaM milana iti ceto dahati me 
+<S> kRto dUrAdeva smitamadhuramabhyadhuramabhyadgamavidhiH @ zirasyAjJA nyastA 
+prativacanamuccaiH praNAmitam | na dRSTeH zaithilyaM milana iti ceto dahati me @ 
 nigUDhAntaHkopAtkaThinahRdaye saMvRtiriyam || 
  
 <D1876><A721> Dass du, als ich noch fern war, schon aufstandst und mir 
@@ -19921,9 +19927,9 @@ zu machen.
  
 <F>1888) MBH. 5, 4509. [Seite1.365] 
  
-<S> kRtvA zastravibhISikAM katipayagrAmeSu dInAH prajA mathnanto 
+<S> kRtvA zastravibhISikAM katipayagrAmeSu dInAH prajA @ mathnanto 
 viTjalpatairupahatAH kSuNIbhujaste kila | vidvAMso 'pi vayaM kila 
-trijagatIsargasthitivyApadAmIzastatparicaryayA na gaNito yaireSa nArAyaNaH || 
+trijagatIsargasthitivyApadA- @ mIzastatparicaryayA na gaNito yaireSa nArAyaNaH || 
  
 <D1889><A726> Wer, Schrecken verbreitend durch Waffen, in wenigen Dorfer 
 armselige Unterthanen bedrückt, das sind, wie wir wissen, durch das Geschwätz 
@@ -19945,7 +19951,7 @@ Schwiegersohn war.
  
 <HS>{#kRpaNasya samo dAtA#} s. Spruch 1892. 
  
-<S> kRpANAnAthavRddhAnAM yadAzru parimArjati | harSaM saMjanayannR2NAM sa rAjJo 
+<S> kRpANAnAthavRddhAnAM yadAzru parimArjati | harSaM saMjanayannRRNAM sa rAjJo 
 dharma ucyate || 
  
 <D1891> Wenn man Elenden, Hilflosen und Greisen die Thränen trocknet und den 
@@ -19974,8 +19980,8 @@ ein grosses Vermögen hat.
 <F>1893) PAN4CAT. ed. KOSEG. II, 142. ed. Bomb. 133, ²b. {#sajjanairvajitaH 
 sadA#} KOSEG. ²c. {#lokair#} KOSEG. [Seite1.366] 
  
-<S> kRmikulacitaM lAlAklinnaM vigandhi jugupsitaM nirupamarasaprItyA 
-khAdannarAsthi nirAmiSam | surapatimapi zvA pArzvasthaM vilokya na zaGkate nahi 
+<S> kRmikulacitaM lAlAklinnaM vigandhi jugupsitaM @ nirupamarasaprItyA 
+khAdannarAsthi nirAmiSam | surapatimapi zvA pArzvasthaM vilokya na zaGkate @ nahi 
 gaNayati kSudro jantuH parigrahaphalgutAm || 
  
 <D1894><A728> Wenn ein Hund, der an einem von Würmern wimmelndem, mit Speichel 
@@ -19993,8 +19999,8 @@ GALAN. 11. S4A1NTIS4. 2, 8. S4ATAKA1V.82. NI1TISAM5K.65. SUBHA1SH. 307.
 sazaGkitamIkSate#} st. {#vi° na za°.#} ²d. {#na vigaNa°, gaNayati nahi; maitrI#} 
 und {#lokaH#} st. {#jantuH; parigrahaphalgunt#} und {#parigrahaphalaphalgutAm.#} 
  
-<S> kRzaH kANaH khaJjaH zravaNarahitaH pacchavikalo vraNI pUyaklinnaH 
-kRmilazatairAvRtatanuH | kSudhAkSamo jIrNaH piTharakapAlArditagalaH zunImanveti 
+<S> kRzaH kANaH khaJjaH zravaNarahitaH pacchavikalo @ vraNI pUyaklinnaH 
+kRmilazatairAvRtatanuH | kSudhAkSamo jIrNaH piTharakapAlArditagalaH @ zunImanveti 
 zvA hatamapi nihantyeva madanaH || 
  
 <D1895><A729> Ein magerer, einäugiger, lahmer, ohrenloser, am Schwanze 
@@ -20065,9 +20071,9 @@ reifer Einsicht, erwarten ihn von allen zusammen.
  
 <F>1901) JA1G2N4. 1, 349. ²a. {#svabhAvAcca.#} 
  
-<S> kecidbhojanabhaGganirbharadhiyaH kecicca nidrAlasAH 
+<S> kecidbhojanabhaGganirbharadhiyaH kecicca nidrAlasAH  @ 
 kecinmAlyavilopanaikanipuNAH kecicca gAnotsukAH | kciddyU{?} 
-takathAmRgavyamadirAnRtyAdibaddhAdarAH kecidvAjigajokSayAnarasikA dhanyAstu 
+takathAmRgavyamadirAnRtyAdibaddhAdarAH @ kecidvAjigajokSayAnarasikA dhanyAstu 
 dharme rataH || 
  
 <D1902> Einige denken nur daran, dass sie im Essen gestört werden könnten: 
@@ -20141,8 +20147,8 @@ Kummers Qualen?
 <F>1908) PAN4CAT. ed. KOSEG. II, 59. Vgl. Spruch {#prApte bhaye paritrANam#} und 
 {#zokarAtibhayatrANam.#} 
  
-<S> ke yUyaM no vayamapi ca vaH ke bhavAmo bhavAbdhau karmormINAM viSamavalanaiH 
-phenavatpuJjitAH smaH | tatkSepIyaH kSayiNi necaye cittamAdhAya putrAH 
+<S> ke yUyaM no vayamapi ca vaH ke bhavAmo bhavAbdhau @ karmormINAM viSamavalanaiH 
+phenavatpuJjitAH smaH | tatkSepIyaH kSayiNi necaye cittamAdhAya putrAH @ 
 sarvArambhairlagata jagatAmantarAtmanyanante || 
  
 <D1909><A734> Was könnt ihr und was können wir euch helfen in dem Meere Welt? 
@@ -20156,9 +20162,9 @@ st.{#api, kiM#} st. des zweiten {#ke.#} ²b. {#pheNavat.#} ²c. {#kSepAya;
 viSaye#} st. {#nicaye.#} ²d. {#nagata.#} ²c. ²d.{#dhIraH#} st.{#putrAH#} und 
 {#vizati#} st. {#lagata.#} 
  
-<S> keyUrA na vibhUSayanti puruSaM hArA na candrojjvalA na snAnaM na vilepanaM 
+<S> keyUrA na vibhUSayanti puruSaM hArA na candrojjvalA @ na snAnaM na vilepanaM 
 na kusumenAlaMkRtA mUrdhajAH | vANyekA samalaMkaroti puruSaM yA saMskRtA 
-dhAryate kSIyante 'khilabhUSaNAni satataM vAgbhUSaNaM bhUSaNam || 
+dhAryate @ kSIyante 'khilabhUSaNAni satataM vAgbhUSaNaM bhUSaNam || 
  
 <D1910><A735> Nicht Armbänder schmücken den Mann, nicht Perlenschnüre so 
 strahlend wie Mondeslicht, nicht Bäder, nicht Salben, nicht mit Blumen 
@@ -20212,9 +20218,9 @@ sein.
  
 <F>1914) MBH. 12, 12544. ²a. {#ka#} ed. Calc. 
  
-<S> kezAnAkulayandazo mukulayanvAso balAdAkSipannAtanvalakodgamaM 
+<S> kezAnAkulayandazo mukulayanvAso balAdAkSipa- @ nnAtanvalakodgamaM 
 prakaTayannAliGgya kampaM zanaiH | vAraM vAramudArazItkRtakRto 
-dantacchadAnpIDayanprAyaH zaizira eSa saMprati marutkAntAsu kAntAyate || 
+dantacchadAnpIDaya- @ nprAyaH zaizira eSa saMprati marutkAntAsu kAntAyate || 
  
 <D1915><A738> Der Wind, den wir jetzt in der kalten Jahreszeit haben, pflegt den 
 Schönen gegenüber den Liebsten zu spielen: er verwirrt ihnen das Haar, lässt sie 
@@ -20227,9 +20233,9 @@ dRzau.#} ²b. {#aGgeSu#} st. {#AliGgya, udvegakampaM gatau#} st.{#AliGgya kampaM
 zanaiH.#} ²c. {#sItkRta; mukho#} st.{#kRto.#} ²d. {#zaiziraH khalu#} st.{#prAyaH 
 zai°.#} [Seite1.371] 
  
-<S> kezAH saMyaminaH zrutarepi paraM pAraM gate lecane antarvakktramapi 
+<S> kezAH saMyaminaH zrutarepi paraM pAraM gate lecane @ antarvakktramapi 
 svabhAvazucibhiH kIrNaM dvijAnAM gaNaiH | muktAnAM satatAdhivAsaruciraM 
-vakSojakumbhadvayamithaM tanvi vapuH prazAntamapi te kSobhaM karotyeva naH || 
+vakSojakumbhadvaya- @ mithaM tanvi vapuH prazAntamapi te kSobhaM karotyeva naH || 
  
 <D1916><A736> Die Haare sind aufgebunden (zügeln ihre Leidenschaften); auch 
 reichen die Augen bis zur äussersten Grenze der Ohren (haben die heilige Schrift 
@@ -20456,8 +20462,8 @@ die Umarmungen, gieb mir nur kräftig die Küsse zurück, die ich dir einst gab.
 ²a.{#tayA#} st.{#tvayA, mayi#} st. {#yadi yadi kRto mayi.#} ²b. {#priyaM.#} 
  ²d. {#mahyaM#} st. {#uccaiH, anyatsamarpita#} st. {#uccaiH samapaya.#} 
  
-<S> kopAtkomalalolabAhulatikApAzena baddhvAdRDhaM nItvA kliniketanaM dayitayA 
-sAyaM sakhInAM puraH | bhUyo 'pyevamiti skhalanmRdugirA saMsUcya duzcoSTitaM 
+<S> kopAtkomalalolabAhulatikApAzena baddhvAdRDhaM @ nItvA kliniketanaM dayitayA 
+sAyaM sakhInAM puraH | bhUyo 'pyevamiti skhalanmRdugirA saMsUcya duzcoSTitaM @ 
 dhanyo hanyata eSa nihnutiparaH preyAnruvudatyA hasan || 
  
 <D1938><A751> Glücklich der Geliebte hier, den die Geliebte im Zorn mit ihren 
@@ -20470,8 +20476,8 @@ zu leugnen.
 <F>1938) AMAR. 8. Comm. zu DAS4AR. S.81. ²c. {#kala#} st.{#mRdu.#} ²d. 
 {#eSa;rudantyA.#} 
  
-<S> koopo yatra bhrukuTiracanA nigraho yatra maunaM yatrAnyo 'nyasmitamanunayo 
-dRSTipAtaH prasAdaH | tasya premNastadidamadhunA vaizasaM pazya jAtaM tvaM 
+<S> koopo yatra bhrukuTiracanA nigraho yatra maunaM @ yatrAnyo 'nyasmitamanunayo 
+dRSTipAtaH prasAdaH | tasya premNastadidamadhunA vaizasaM pazya jAtaM @ tvaM 
 pAdante luThasi na ca me manyumokSaH khalAyAH || 
  
 <D1939><A752> O sieh, wie unser schönes Liebensverhältniss von ehemals heute zu 
@@ -20505,9 +20511,9 @@ nicht trächtig ist?
 die Hdschr. ²d. {#na gdhI na rbhiNI#} die Hdschr. Vgl. den vorangehenden Spruch 
 und 1748. 
  
-<S> ko 'rthAnprApya na garvito viSayiNaH kasyApado 'staM gatAH strIbhiH kasya 
+<S> ko 'rthAnprApya na garvito viSayiNaH kasyApado 'staM gatAH @ strIbhiH kasya 
 na khaNDitaM bhuvi manaH ko nAma rAjJAM priyaH | kaH kAlasya na gocarAntaragataH 
-ko 'rthI gato gauravaM ko vA durjanavAgurAsu patitaH kSemeNa yAtaH pumAn || 
+ko 'rthI gato gauravaM @ ko vA durjanavAgurAsu patitaH kSemeNa yAtaH pumAn || 
  
 <D1942><A754> Giebt es einen Reichgewordenen, der nicht hochmüthig wäre? Giebt 
 es einen den Sinnesgenüssen fröhnenenden Menschen, dessen Ungemach ein Ende 
@@ -20526,9 +20532,9 @@ gocaratvamagamaH;bhujAntaraM na ca(hi)#} st. {#gocarAntara.#}
 ²d.{#durjanadurguNeSuH vAgrase prayatitaH#} st. {#vAgurAsu patitaH ;jAtaH#} st. 
 {#yAtaH pathi#} st. {#pumAn.#} 
  
-<S> ko lAbho guNisaMgamaH kimasukhaM prAjJetarApAzrayaH kA hAniH samaye 
+<S> ko lAbho guNisaMgamaH kimasukhaM prAjJetarApAzrayaH @ kA hAniH samaye 
 cyutirnipuNatA kA dharmatattve ratiH | kaH zUro vijitondriyaH priyatamA 
-kAnuvratA kiM dhanaM vidyA kiM sukhamapravAsagamanaM rAjyaM kimAjJAphalam || 
+kAnuvratA kiM dhanaM @ vidyA kiM sukhamapravAsagamanaM rAjyaM kimAjJAphalam || 
  
 <D1943><A755> Was ist Gewinn? Umgang mit Tugendhaften. Was Leid? Bei Thoren 
 Hilfe suchen müssen. Was Verlust? Zeitversäumniss. Was Bildung? Freude an wahrer 
@@ -20574,9 +20580,9 @@ Was ist wohl Tod? Verzweiflung am Schlechten.
  
 <F>1946) PRAS4NOTTARAM. 5 in Monatsberr. d. k. Pr. Ak. d. Ww. 1868, S.108. 
  
-<S> ko vIrasya manasvinaH svaviSayaH ko vA videzaH smRto yaM dezaM zrayate 
+<S> ko vIrasya manasvinaH svaviSayaH ko vA videzaH smRto @ yaM dezaM zrayate 
 tameva kurute bAhupratApArjitam | yaddaMSTrAnakhalAGgulapraharaNaH siMho vanaM 
-gAhate tasminneva hatadvipendrarudhiraistRSNAM chinattyAtmanaH || 
+gAhate @ tasminneva hatadvipendrarudhiraistRSNAM chinattyAtmanaH || 
  
 <D1947><A756> Was gilt dem verständigen Helden als Heimath und was wohl als 
 Fremde? Gerade das Land, das er betritt, macht er sich durch seiner Arme Macht 
@@ -20597,9 +20603,9 @@ Freude.
  
 <F>1948) PAN4CAT. ed. Bomb. III, 128. 
  
-<S> kozadvadvamiyaM dadhAti nalinI kAdambacaJcU kSataM dhatte cUtalatA navaM 
+<S> kozadvadvamiyaM dadhAti nalinI kAdambacaJcU kSataM @ dhatte cUtalatA navaM 
 kisalayaM yuMskokilAsvAditam | styAkarNya mithaH sakhIjanavacaH sA 
-dIrdhikAyAstaTe cailAntena tirodadhe stanataTaM bimbAdharaM pANinA || 
+dIrdhikAyAstaTe @ cailAntena tirodadhe stanataTaM bimbAdharaM pANinA || 
  
 <D1949><A3981> «Diese Wasserrose hat zwei Knospen, die eines Flamingos Schnabel 
 verwundet hat; die Mangoranke hat eine jungen Spross, an dem ein Kokila-Männchen 
@@ -20669,9 +20675,9 @@ Schandfleck des Silbers.
 <F>1955) MBH. 5, 1525, ²b. ²a. Es folgt noch folgender, offerhar späcter 
 hinzugefügter Halb-S4loka: {#jJeyaM trapumalaM sIsaM sIsasyApi malaM malam.#} 
  
-<S> kaupInaM zatakhaNDarjarataraM kanthA punastAdrzI naizcintyaM 
+<S> kaupInaM zatakhaNDarjarataraM kanthA punastAdrzI @ naizcintyaM 
 sukhasAdhyabhaikSamazanaM zayyA zmazAne vane | svAtantryeNa niraGkuzaM viharaNaM 
-svAntaM prazAntaM sadA sthairyaM yogamahotsave 'pi ca yadi trailokyarAjyena kim 
+svAntaM prazAntaM sadA @ sthairyaM yogamahotsave 'pi ca yadi trailokyarAjyena kim 
 || 
  
 <D1956><A757> Was liegt uns an der Herrschaft über die Dreiwelt, wenn wir einen 
@@ -20703,8 +20709,8 @@ SCHL. III, 48. ed. JOHNS.51. S4A1RN5G. PADDH. ²a.{#kaurma#} und {#kurma.#}
 kAle kAle ca ma°, prAptakAle tu. prAptakAlastu, saMprAptakAle; nItijJa#} st. 
 {#matimAn.#} ²d. {#krUra#} st.{#kRSNa.#} 
  
-<S> kauzeyaM kRmitaH suvarNamupalAddUrvApi golomataH paGkAttAmarasaM zazAGka 
-udadherindIvaraM gomayAt | kASThAdagniraheH phaNAdapi maNirgopittato rocanA jAtA 
+<S> kauzeyaM kRmitaH suvarNamupalAddUrvApi golomataH @ paGkAttAmarasaM zazAGka 
+udadherindIvaraM gomayAt | kASThAdagniraheH phaNAdapi maNirgopittato rocanA @ jAtA 
 lokamahArghatAM nijaguNaiH prAptAzca kiM janmanA || 
  
 <D1958><A759> Seide kommt von einem Wurm, Gold aus Stein, Du1rva1-Gras aus 
@@ -20732,8 +20738,9 @@ Fürst, nicht zu viel verausgaben.
 {#bandhuSu, bandhu, bAndhave 'pi#} und {#bandhuSu hi-#} st. {#bAndhaveSu.#} ²d. 
 {#abhivyaya; dhanavyayasteZSu na gaNyate budhaiH#} S4A1RN5G. PADDH. 
  
-<HS>{#kramagato hitamatiH (hitamAnI)#} s. Spruch {#mdhavI vAkpaTuH prAjJaH. 
-kramAdvetasavRttiH san#} s. Spruch {#samAkrAnto balavatA.#} 
+<HS>{#kramagato hitamatiH (hitamAnI)#} s. Spruch {#medhavI vAkpaTuH prAjJaH#}.
+ 
+<HS>{#kramAdvetasavRttiH san#} s. nach Spruch {#samAkrAnto balavatA#}.
  
 <S> kriyate 'bhyarhaNIyAya sujanAya yathAJjaliH | tataH sAdhutaraH kAryo 
 durjanAya hitArthinA || 
@@ -20983,9 +20990,9 @@ ward, weil sie so lange ihn bewohnt.
 <F>1984) PAN4CAT. ed. orn. I, 170. Vgl. Spruch {#trayaH sthAnaM na muJcanti.#} 
 [Seite1.385] 
  
-<S> kva gantAsi bhrAtaH kRtavasatayo yatra dhaninaH kimarthaM prANAnAM 
+<S> kva gantAsi bhrAtaH kRtavasatayo yatra dhaninaH @ kimarthaM prANAnAM 
 sthitimanuvidhAtuM kathamapi | dhanairyAJcAlabdhairnanu paribhavo 
-'bhyarthanaphalaM nikAro 'gre pazcAddhanamahaha bhostaddhi nidhanam || 
+'bhyarthanaphalaM @ nikAro 'gre pazcAddhanamahaha bhostaddhi nidhanam || 
  
 <D1985><A770> «Wohin gedenkst du, o Bruder, zu gehen?» «Wo reiche Leute wohnen.» 
 «Wozu?» «Um irgedwie mit erbetteltem Gelde das Leben zu fristen.» «Ist nicht 
@@ -20996,8 +21003,8 @@ Liebster, das ist ja der Tod!»
  
 <HS>{#kvacitkanthAdhArI#} s. Spruch 1987. 
  
-<S> kvacitsabhrUbhaGgaiH kvacidapi ca lajjApariNataiH kvacidbhItitrastaiH 
-kvacidapi ca lIlAvilAsitaiH | navoDhAnAmebhirvadanakamale netracalitaiH 
+<S> kvacitsabhrUbhaGgaiH kvacidapi ca lajjApariNataiH @ kvacidbhItitrastaiH 
+kvacidapi ca lIlAvilAsitaiH | navoDhAnAmebhirvadanakamale netracalitaiH @ 
 sphurallolAlInAM prakaraparipUrNA iva dizaH || 
  
 <D1986><A771> Wenn auf dem Lotusgesicht neuvermählter Frauen die unstäten Augen 
@@ -21014,8 +21021,8 @@ st. {#lolAlInAM;prakaradravakIrNA iha, prakaramitakIrNA iva; dRzaH#} st.
 {#dizaH#} (nur S4ATAKA1V., aber schon von SCHÜTZ vermuthet); 
 {#sphurallIlAjvAlAprakaTaparikIrNA iva bhuvaH.#} 
  
-<S> kvavcidbhUmIzayyaH kvacidapi ca paryaGkazAyanaH kvacicchAkAhAraH kvacidapi 
-ca zAlyodanaruciH | kvacitkanthAdhArI kvacidapi ca divyAmbaradharo manasvI 
+<S> kvavcidbhUmIzayyaH kvacidapi ca paryaGkazAyanaH @ kvacicchAkAhAraH kvacidapi 
+ca zAlyodanaruciH | kvacitkanthAdhArI kvacidapi ca divyAmbaradharo @ manasvI 
 kAryArthI gaNayati na duH khaM na ca sukham || 
  
 <D1987><A772> Ein verständiger Mann kümmert sich, wenn er ein bestimmtes Ziel zu 
@@ -21042,8 +21049,8 @@ sogar seine Gunst Gefahr.
 <F>1988) NI1TISA1RA 9 bei HAEB.505. ²c. {#anavasthita#} unsere Aenderung für 
 {#avyavasthita.#} Vgl. Spruch 259. 
  
-<S> kvacidvINAnAdaH kvacidapi ca hA heti ruditaM kva cidvidvadgroSThI kvacidapi 
-surAmantakalahaH | kvacidramyA rAmA kvacidapi jarAjarjaratanurna jAne saMsAraH 
+<S> kvacidvINAnAdaH kvacidapi ca hA heti ruditaM @ kva cidvidvadgroSThI kvacidapi 
+surAmantakalahaH | kvacidramyA rAmA kvacidapi jarAjarjaratanu- @ rna jAne saMsAraH 
 kimamRtamayaH kiM viSamayaH || 
  
 <D1989><A3991> Hier der Klang einer Laute und dort Wehgeschrei, hier eine 
@@ -21083,9 +21090,9 @@ Begleiter.»
 <F>1991) AMAR. 69. S4ATAKA1V.13. ²b.{#rati#} st. {#janaH#} S4ATAKA1V. 
 [Seite1.387] 
  
-<S> kva bhrAtazcalito 'si vaidyakagRhaM kiM tatra zAntyai rujAM kim te nAsti 
+<S> kva bhrAtazcalito 'si vaidyakagRhaM kiM tatra zAntyai rujAM @ kim te nAsti 
 sakhe gRhe priyatamA sarvaM gadaM hanti yA | vAtaM te 
-kucakumbhamardanavazAtpittaM ca vakktrAmRtAcchleSmANaM ca nihanti hanta 
+kucakumbhamardanavazAtpittaM ca vakktrAmRtA- @ cchleSmANaM ca nihanti hanta 
 suratavyApArajAtazramAt || 
  
 <D1992><A775> «Wohin eilst du, o Bruder?» «Zum Hause des Arztes.» «Was da?» «Ich 
@@ -21125,9 +21132,9 @@ der Leidenschaftlose fühlt sich behaglich.
 <F>1994) SUBHA1SH. 293. ²c. {#cintayatyevaM#} die Hdschr. ²d. {#nIrAgAH#} die 
 Hdschr. 
  
-<S> kva sa dazarathaH svarge bhUtvA mahendrasuhRdgataH kva sa jalanidhervelAM 
+<S> kva sa dazarathaH svarge bhUtvA mahendrasuhRdgataH @ kva sa jalanidhervelAM 
 baddhvA nRpaH sagarastathA | kva sa karatalAjjAto vainyaH kva 
-sUryatanurmanurnanu balavatA kAlenaite prabAdhya nimIlitAH || [Seite1.388] 
+sUryatanurmanu- @ rnanu balavatA kAlenaite prabAdhya nimIlitAH || [Seite1.388] 
  
 <D1995><A776> Wohin ist Das4aratha gegangen, der im Himmel des grossen Indra 
 Freund gewesen ist? Wohin König Sagara, der die Ufer des Meeres errichter hat? 
@@ -21171,9 +21178,9 @@ was man hier treibt und weshalb man über Etwas trauern soll.
 <F>1998) MBH. 12, 872, ²b. 873, ²a. ²b. {#iha sthitaH#} ed. Calc. ²d. NI1LAK. 
 ergänzt {#vicAre#} zu {#sthApayet.#} 
  
-<S> kve ndormaNDalamambudhiH kva ca raviH padmAkaraH kva sthitaH kvAbhrANAM 
+<S> kve ndormaNDalamambudhiH kva ca raviH padmAkaraH kva sthitaH @ kvAbhrANAM 
 paTalaM mayUranikaraH kvAliH kva vA mAlatI | dUraprasthitahaMsavRndamatulaM 
-kvAcchaM saro mAnasaM yadyasyAbhimataM svakarmavazato dUre 'pi tadvallabham || 
+kvAcchaM saro mAnasaM @ yadyasyAbhimataM svakarmavazato dUre 'pi tadvallabham || 
  
 <D1999> Welche Entfernung besteht nicht zwischen der Mondscheibe und dem Meere, 
 zwischen der Sonne und einem Teich mit Tagwasserrosen, zwischen einer 
@@ -21185,9 +21192,9 @@ lieb hat, das bleibt Einem lieb trotz aller Entferung.
 <F>1999) SUBHA1SH. 76.²a.{#kendo°#} die Hdschr. ²b. {#kva cA#} st.{#kva vA#} die 
 Hdschr. ²d. {#°vazatau#} die Hdschr. Vgl. Spruch 1996. [Seite1.389] 
  
-<S> kvaitadvakktrAravindaM kva tadadharamadhu kvAyatAste kaTAkSAH kvAlApAH 
+<S> kvaitadvakktrAravindaM kva tadadharamadhu kvAyatAste kaTAkSAH @ kvAlApAH 
 komalAste kva sa madanadhanurbhaGguro bhrUvilAsaH | itthaM khaTvAGgakoTau 
-prakaTitadazanaM maJjuguJjatsamIraM rAgAndhAnAmivoccairupahasati mahAmohajAlaM 
+prakaTitadazanaM maJjuguJjatsamIraM @ rAgAndhAnAmivoccairupahasati mahAmohajAlaM 
 kapAlam || 
  
 <D2000><A778> «Wo ist jener Antlitzlotus? Wo jener Lippenhonig? Wo sind jene 
@@ -21229,8 +21236,8 @@ Geliebte an ihren zur Reise sich rüstenden Geliebten richtet. )
 <F>2003) KA1VJA1D. 2, 149. ²a. {#kSaNadarzana°#} im Comm. erwähnte Lesart. 
 [Seite1.390] 
  
-<S> kSaNaM bAlo bhUtvA kSaNamapi yuvA kAmarasikaH kSaNaM vittairhInaH kSaNamapi 
-ca saMpUrNavibhavaH | jarAjIrNairaGgairnaTa iva valImaNDitatanurnaraH saMsArAnte 
+<S> kSaNaM bAlo bhUtvA kSaNamapi yuvA kAmarasikaH @ kSaNaM vittairhInaH kSaNamapi 
+ca saMpUrNavibhavaH | jarAjIrNairaGgairnaTa iva valImaNDitatanu- @ rnaraH saMsArAnte 
 vizati yamadhAnIyavanikAm || 
  
 <D2004><A779> Der Mensch ist eine Weile Kind und eine Weile verliebter Jüngling, 
@@ -21282,9 +21289,9 @@ Bettler Macht -- das Betteln, der S4u1dra Macht -- Brahmanendienst.
 <F>2008) BRAHMAVAIV. P., GANECAKHANDA 35 nach S4KDR. unter {#bala.#} Vgl. Spruch 
 {#balaM vidyA ca viprANAm.#} 
  
-<S> kSapAH kSAmIkRtya prasabhamapahRtyAmbu saritAM pratApyorvI kRtsnAM 
+<S> kSapAH kSAmIkRtya prasabhamapahRtyAmbu saritAM @ pratApyorvI kRtsnAM 
 tarugahanamucchoSya sakalam | kva saMpratyuSNAMzurgata iti 
-tadanveSaNaparAstaDiddIpAlokA dizi dizi carantIva jaladAH || 
+tadanveSaNaparA- @ staDiddIpAlokA dizi dizi carantIva jaladAH || 
  
 <D2009><A3993> «Wohin hat sich jetzt der Sonnengott begeben, nachdem er die 
 Nächte verkürzt, das Wasser der Flüsse gewaltsam entführt, die gesammte Erde 
@@ -21351,9 +21358,9 @@ stets heilbringend.
  
 <F>2014) MBH. 5, 1505. 
  
-<S> kSantaM na kSamayA gRhocitasukhaM tyaktaM na saMtoSataH soDhA 
+<S> kSantaM na kSamayA gRhocitasukhaM tyaktaM na saMtoSataH @ soDhA 
 duHsahazItavAtatapanaklezA na taptaM tapaH | dhyAtaM vittamaharnizaM 
-niyamitaprANairna zaMbhoH padaM tattatkarma kRtaM yadeva munibhistaistaiH 
+niyamitaprANairna zaMbhoH padaM @ tattatkarma kRtaM yadeva munibhistaistaiH 
 phalairvaJcitAH || 
  
 <D2015><A784> Wir haben Manches erduldet, aber dabei doch keine Geduld gezeigt; 
@@ -21373,9 +21380,9 @@ vaJcitam.#}
  
 <HS>{#kSantitulyaM tapo nAsti#} s. Spruch 2011. 
  
-<S> kSAntizcetkavacena kiM kimaribhiH krodho 'sti ceddehinAM jJAtizcedanalena 
+<S> kSAntizcetkavacena kiM kimaribhiH krodho 'sti ceddehinAM @ jJAtizcedanalena 
 kiM yadi suhRddivyauSadhaiH kiM phalam | kiM sarpairyadi durjanAH kimu 
-dhanairvidyAnavadyA yadi vrIDA cetkimu bhUSaNaiH sukavitA yadyasti rAjyena kim 
+dhanairvidyAnavadyA yadi @ vrIDA cetkimu bhUSaNaiH sukavitA yadyasti rAjyena kim 
 || [Seite1.393] 
  
 <D2016><A785> Wenn Nachsicht da ist, wozu dann der Panzer? Wozu Feinde, wenn 
@@ -21402,9 +21409,9 @@ für einen Hochgepriesenen (den Frühling).
  
 <F>2017) KA1VJA1D. 2, 178. 
  
-<S> kSipto hastAvalagnaH prasabhamabhiahto 'pyAdadanoM 'zukAntaM 
+<S> kSipto hastAvalagnaH prasabhamabhiahto 'pyAdadanoM 'zukAntaM @ 
 gRhNankezeSvapastazcaraNanipatito nekSitaH saMbhrameNa | AliGganyo 
-'vadhUtastripurayuvatibhiH sAzrunetrotpalAbhiH kAmIvArdrAparAdhaH sa dahatu 
+'vadhUtastripurayuvatibhiH sAzrunetrotpalAbhiH @ kAmIvArdrAparAdhaH sa dahatu 
 duritaM zAMbhavo vaH zarAgniH || 
  
 <D2018><A786> Das Feuer der Pfeile S4iva's (welche Tripura zerstörten) möge eure 
@@ -21487,9 +21494,9 @@ Milch vor dem Feuer.
 st. {#tasminn.#} ²d. {#agnau, nA-#} [Seite1.395] {#gnau#} und {#vahnau#} st. {#agne; 
 dahyati#} und {#tahyati#} st. {#rakSti.#} Vgl. Spruch 2026. 
  
-<S> kSIriNyaH santu gavo bhavatu vasumatI sarvasaMpannasasyA parjanyaH kAlavaeSI 
+<S> kSIriNyaH santu gavo bhavatu vasumatI sarvasaMpannasasyA @ parjanyaH kAlavaeSI 
 sakalajanamanonandino vAntu vAtAH | modantAM janmabhAjaH satatamabhimatA 
-brAhmaNAH santu santaH zrImantaH pAntu pRthvIM prazamitaripavo dharmaniSThAzca 
+brAhmaNAH santu santaH @ zrImantaH pAntu pRthvIM prazamitaripavo dharmaniSThAzca 
 bhUpAH || 
  
 <D2025><A3997> Mögen die Kühe milchreich sein, das Getraide überall auf Erden 
@@ -21501,9 +21508,9 @@ die Erde beschützen, nachdem sie die Feinde zur Ruhe gebracht haben werden.
 <F>2025) MR2CCH. 178. ²a. {#panna#} st.{#saMpanna, zasyA #} st. {#sasyA.#} ²d. 
 {#sarvAnpratihata#} st. {#pRthvIM prazamita.#} 
  
-<S> kSIreNAtmagatodakAya hi guNA dattAH purA te 'khilAH kSIre tApamavekSya tena 
+<S> kSIreNAtmagatodakAya hi guNA dattAH purA te 'khilAH @ kSIre tApamavekSya tena 
 payasA svAtmA kRzAnau hutaH | gantuM pAvakamunmanastadabhavaddRSTvA tu 
-mitrApadaM yuktaM tena jalena zAmyati satAM maitrI punastAdRzI || 
+mitrApadaM @ yuktaM tena jalena zAmyati satAM maitrI punastAdRzI || 
  
 <D2026><A790> Die Milch giebt ja zuvörderst dem Wasser, das sich zu ihm gesellt 
 hat, alle seine guten Eigenschaften; wird das Wasser die Qualen der Milch (beim 
@@ -21520,9 +21527,9 @@ unmanA samabhavat#} st. {#unmanastadabhavad, tma#} st. {#tu.#} ²d. {#yuktA;
 saMprati#} st.{#zAmyati; punastvIdRzI, punastrIdRzI#} und {#guNastvIdrzI#} st. 
 {#punastAdRzI.#} Vgl. Spruch 2024. 
  
-<S> kSutkSAmo 'pi jarAkRzo 'pi zathilaprayo 'pi kaSTAM dazAmapanno 'pi 
+<S> kSutkSAmo 'pi jarAkRzo 'pi zathilaprayo 'pi kaSTAM dazA- @ mapanno 'pi 
 vipannadIdhitirapi prANeSu gacchatsvapi | 
-mattebhendravibhinnakumbhakavalagrAsaikabaddhaspRhaH kiM jIrNaM tRNamatti 
+mattebhendravibhinnakumbhakavalagrAsaikabaddhaspRhaH @ kiM jIrNaM tRNamatti 
 mAnamahatAmagresaraH kesarI || 
  
 <D2027><A791> Frisst wohl der Stolzeste unter den Stolzen, der Löwe, der sein 
@@ -21581,8 +21588,8 @@ jene das Netz) die Einsicht.
 <F>2031) MBH. 5, 1160, 4340. ²a. {#kSudrekSeNeva.#} ²b. {#ubhau#} st.{#urU.#} 
 ²c.{#kAmazca rAjankrodhazca.#} ²d. Umgestellt {#tau prajJAnaM.#} [Seite1.397] 
  
-<S> kSudrAH santi sahasrazaH svabharANavyApAramAtrodyatAH svArtho yasya parArtha 
-eva sa pumAnekaH satAmgraNIH | duSpUrodarapUraNAya pibati srotaHpatiM vADavo 
+<S> kSudrAH santi sahasrazaH svabharANavyApAramAtrodyatAH @ svArtho yasya parArtha 
+eva sa pumAnekaH satAmgraNIH | duSpUrodarapUraNAya pibati srotaHpatiM vADavo @ 
 jImUtastu nidAghasaMbhRtajagatsaMtApavicchittaye || 
  
 <D2032><A794> Zu Tausenden findet man elende Wichte, die keinem andern Geschäfte 
@@ -21597,9 +21604,9 @@ Hdschr. ²d. {#tADita#} st. {#saMbhRta.#}
  
 <HS>{#kSudrekSeNeva jAlena#} s. Spruch 2031. 
  
-<S> kSudyAdhizca cikitsyatAM pratidinaM bhikSauSadhaM bhujyatAM svAdvanne na tu 
+<S> kSudyAdhizca cikitsyatAM pratidinaM bhikSauSadhaM bhujyatAM @ svAdvanne na tu 
 yatyatAm vidhivazAtpraptena saMtuSyatAm | zItoSNAdi viSahyatAM na tu vRthA 
-vAkyaM samuccAryatAmaudAsInyamabhIpsyatAM janakRpAnaiSThuryamutsRjyatAm || 
+vAkyaM samuccAryatA- @ maudAsInyamabhIpsyatAM janakRpAnaiSThuryamutsRjyatAm || 
  
 <D2033><A795> Dem Hunger und einer Krankheit wehre man; Tag für Tag esse man 
 erbetteltes Brod als Arzenei; um leckere Speise dagegen mühe man sich nicht ab; 
@@ -21631,8 +21638,8 @@ gut bestellt ist, wird ja, o Sohn der Kunti1, ohne Regen nimmer Frucht tragen.
 <F>2035) MBH. 5, 2823, ²b. 2824, ²a. [Seite1.398] 
  
 <S> 
-kSetragrAmavanAdripattanapurIdvIpakSamAmaNDalapratyAzAghanasUtrabaddhamanasAM | 
-tRSNe devi yadi prasIdasi tanoSyaGgAni tuGgAni cettadbho prANabhRtAM kutaH 
+kSetragrAmavanAdripattanapurIdvIpakSamAmaNDala- @ pratyAzAghanasUtrabaddhamanasAM | 
+tRSNe devi yadi prasIdasi tanoSyaGgAni tuGgAni ce- @ ttadbho prANabhRtAM kutaH 
 zamakathA brahmANDalakSairapi || 
  
 <D2036><A4000> Wenn du, o Göttin Gier, den Menschen wohlwillst und ihre Leiber 
@@ -21743,7 +21750,7 @@ fern.
 13 (12). PRASAN5GA1BH. 5, ²b. SUBHA1SH.63.²c. {#upAnamukha#} [Seite1.400] und 
 {#upAnatmukha.#} ²d. {#vApi varjanam#} und {#vA visarjanam.#} 
  
-<S> khalollApAH zoDhAH kathamapi tadArAdhanaparai rnigRhyAntarSpaM hasitamapi 
+<S> khalollApAH zoDhAH kathamapi tadArAdhanaparai @ rnigRhyAntarSpaM hasitamapi 
 zUnyena masasA | kRtazcittastambhaH pratihatadhiyAmaJjalirapi tvamAze moghAze 
 kimu paramato nartayasi mAm || 
  
@@ -21758,9 +21765,9 @@ noch mich zwingen zu tanzen?
 vitta°; cita#} st. {#citta; praNihita#} und {#prahasita#} st. {#pratihata.#} ²d. 
 {#mAdyAzaM kimaparam; paramatA#} st. {#paramato.#} 
  
-<S> khalvATo divasezvarasya kiraNaiH saMtApito mastake vAJchandezamanAtapaM 
+<S> khalvATo divasezvarasya kiraNaiH saMtApito mastake @ vAJchandezamanAtapaM 
 vidhivazAdbilvasya mUlaM gataH | tatrApyasya mahAphalena patatA bhagnaM sazabdaM 
-ziraH prAyo gacchati yatra bhAgyarahitastatraiva yAntyApadaH || 
+ziraH @ prAyo gacchati yatra bhAgyarahitastatraiva yAntyApadaH || 
  
 <D2048><A802> Einen Kahlköpfigen, dem die Strahlen des Tagesgestirns das Haupt 
 versengten, verlangte es nach einem schattigen Orte und er begab sich nach dem 
@@ -21775,9 +21782,9 @@ S4A1RN5G. PADDH. SUBHA1SH.308. ²a. {#saMtApite.#} ²b. {#atAtapaM#} st.
 uccairmahatA#} st.{#apyasya mahA.#} ²d. {#tatrApadAM (tatrApadA) bhAjanaM#} st. 
 {#tatraiva yA°.#} 
  
-<S> khyAtaH zakro bhagAGko vidhurapi malino mAdhavo gopajAto ezyAputraH 
+<S> khyAtaH zakro bhagAGko vidhurapi malino mAdhavo gopajAto @ ezyAputraH 
 vasiSThaH arujapadayamaH sarvabhakSyo hutAzaH | vyAso matsyodarIyaH salavaNa 
-udadhiH pANDavA jArajAtA rudraH pretAsthidhArI tribhuvanavasatAM kasya doSo na 
+udadhiH pANDavA jArajAtA @ rudraH pretAsthidhArI tribhuvanavasatAM kasya doSo na 
 jAtaH || 
  
 <D2049><A803> Von Indra weiss man, dass er mit Zeichen, die an einen von ihm 
@@ -21837,8 +21844,8 @@ Verachtung reicht?
 Ausg. II 63.²a.{#hima#} st.{#kaNa; sIkara, sItalAnI.#} ²d. {#sApamAna.#} 
 [Seite1.402] 
  
-<S> gaGgAtIre himagirizilAbaddhapadmAsanasya brahmadhyAnabhyasanavidhinA 
-yoganidrAM gatasya | kiM tairbhAvyaM mama sudivasairyeSu te nirvizaGkAH 
+<S> gaGgAtIre himagirizilAbaddhapadmAsanasya @ brahmadhyAnabhyasanavidhinA 
+yoganidrAM gatasya | kiM tairbhAvyaM mama sudivasairyeSu te nirvizaGkAH @ 
 kaNDUyante jaTharahariNAH zRGgamaGge madIye || 
  
 <D2054><A808> Werden wohl die schönen Tage für mich kommen, wo ich am Ufer der 
@@ -21928,8 +21935,8 @@ der Kräftige eine gleiche Kraft vor sich, dann wird er über die Maassen zornig
 <F>2061) PAN4CAT. ed. KOSEG. I, 139. ed. Bomb. 123. ²a. {#gallasthaleSu#} st. 
 {#gaNDasthalastha#} ed. Bomb. 
  
-<S> gataH kAlo yatra dvicaraNapazUnAM kSitibhujAM puraH svastItyukttvA 
-viSayasukhamAsvAditamabhUt | idAnImasmAkaM tRNamiva samastaM kalayatAmapekSA 
+<S> gataH kAlo yatra dvicaraNapazUnAM kSitibhujAM @ puraH svastItyukttvA 
+viSayasukhamAsvAditamabhUt | idAnImasmAkaM tRNamiva samastaM kalayatA- @ mapekSA 
 bhikSAyAmapi kimapi cetastrapayati || 
  
 <D2062><A813> Dahin ist jene Zeit, wo wir «Heil» rufend vor dem zweibeinigen 
@@ -21939,9 +21946,9 @@ Sorge um Almosen unser Herz mit einiger Scham.
  
 <F>2062) S4A1NTIS4. 4, 15 bei HAEB. 427. [Seite1.404] 
  
-<S> gataH kAlo yatra praNayini mayi premakuTilaH kaTAkSaH 
+<S> gataH kAlo yatra praNayini mayi premakuTilaH @ kaTAkSaH 
 kAlindIlaghulaharivRttiH prabhurabhUt | idAnImasmAkaM 
-jaraThakamaThIpRSThakaThinA manovRttistatkiM vyasanini mudhaiva kSapayasi || 
+jaraThakamaThIpRSThakaThinA @ manovRttistatkiM vyasanini mudhaiva kSapayasi || 
  
 <D2063><A814> Dahin ist jene Zeit, o Geliebte, wo ein krauser Seitenblick der 
 Liebe, beweglich wie eine leichte Welle der Yamuna1, über mich Gewalt hatte; 
@@ -21961,8 +21968,8 @@ Männer kennen lernt.
  
 <F>2064) VET. in LA.(III) 16. 
  
-<S> gataprAyaH kAyaH prakRticapalA sApi kamalA gRhAvAsaH pAzo virahavirasaH 
-saMgamarasaH | ataH sarvaM garvaM tyaja nijamanaHkarma kuzalaM bhajAzrAntaM 
+<S> gataprAyaH kAyaH prakRticapalA sApi kamalA @ gRhAvAsaH pAzo virahavirasaH 
+saMgamarasaH | ataH sarvaM garvaM tyaja nijamanaHkarma kuzalaM @ bhajAzrAntaM 
 zAntaM paramasukhadaM vaiSNavapadam || 
  
 <D2065> Der Körper ist beinahe hingeschwunden, auch ist die Göttin des Glücks 
@@ -22026,8 +22033,8 @@ Sohn, die dritte, o König, die Blutsverwandten; eine vierte giebt es nicht.
 <F>2070) R. ed. Bomb. und SCHL.2, 61, 24. Die Lesart der bengalischen Recension 
 giebt Spruch {#prathamA gatirAtmaiva.#} 
  
-<S> gate premAbandhe praNayabahumAne viglite nivRtte sadbhAve jana iva gacchati 
-puraH | tadutprekSyotprekSya priyasakhi gatAMstAMzca divasAnna jAne ko 
+<S> gate premAbandhe praNayabahumAne viglite @ nivRtte sadbhAve jana iva gacchati 
+puraH | tadutprekSyotprekSya priyasakhi gatAMstAMzca divasA- @ nna jAne ko 
 heturdalati zatadhA yanna hRdayam || 
  
 <D2071><A817> Der Liebe Band ist zerrissen, die aus der Zuneigung entspringende 
@@ -22137,9 +22144,9 @@ Einsicht hätte verleihen können.
 <F>2081) VR2DDHA-CA1N2.9, 3. ²c. Beide Ausgaben lesen {#dhanIko 
 nRpadIrdhajIvI.#} 
  
-<S> gandhADhyoM navamallikAM madhukarastyakttvA gato yUthikAM daivAttAM ca 
+<S> gandhADhyoM navamallikAM madhukarastyakttvA gato yUthikAM @ daivAttAM ca 
 vihAya campakavanaM pazcAtsarojaM gataH | baddhastatra nizAkareNa vidhinA 
-krandatyasau mUDhadhIH saMtoSeNa vinA parAbhavapadaM prApnoti kAmAturaH || 
+krandatyasau mUDhadhIH @ saMtoSeNa vinA parAbhavapadaM prApnoti kAmAturaH || 
  
 <D2082><A821> Eine Biene verlässt eine wohlriechende Navamallika1 und begiebt 
 sich zu einer Yu1thika1; da will das Schicksal, dass sie auch diese wieder 
@@ -22154,8 +22161,8 @@ candanataruH pazcAtsaroje gataH#} SUBHA1SH. ²c. {#rudraM#} (d. i.){#ruddhas#}
 {#tatra ni° sahasA krandati so mU°#} SUBHA1SH. ²d. {#mUDho janaH#} st. 
 {#kAmAturaH#} HAEB. [Seite1.408] 
  
-<S> gandhADhyAsau bhuvanaviditA ketakI svarNavarNA padmabhrAntyA capalamadhupaH 
-puSpamadhye papAta | andhIbhUtaH kusumarajasA kaNTakairlUnapakSaH sthAtuM gantuM 
+<S> gandhADhyAsau bhuvanaviditA ketakI svarNavarNA @ padmabhrAntyA capalamadhupaH 
+puSpamadhye papAta | andhIbhUtaH kusumarajasA kaNTakairlUnapakSaH @ sthAtuM gantuM 
 dvayamapi sakhe naiva zakto dvirephaH || 
  
 <D2083><A822> Weltbekannt ist die wohlriechende goldfarbige Ketaki1; eine 
@@ -22263,9 +22270,9 @@ Herrschaft erlangt hat, die früheren Sorgen.
  
 <F>2093) RA1JA-TAR. ed. TR. 5, 200. ed. Calc. 205. [Seite1.410] 
  
-<S> garbhasthaM gAyamAnaM zayanatalagataM mAturutsaGgasaMsthaM bAlaM vRddhaM 
+<S> garbhasthaM gAyamAnaM zayanatalagataM mAturutsaGgasaMsthaM @ bAlaM vRddhaM 
 yuvAnaM pariNatavayasaM niHsvamADhyaM khalAryam | vRkSAgre zailazRGge nabhasi 
-pathi jale paJjare koTare vA pAtAlaM vA praviSTaM harati sahasitaM durnivAryaH 
+pathi jale paJjare koTare vA @ pAtAlaM vA praviSTaM harati sahasitaM durnivAryaH 
 kRtAntaH || 
  
 <D2094> Der unwiderstehliche Todesgott rafft lachend Jeden hinweg: das Kind im 
@@ -22279,9 +22286,9 @@ begab.
 <F>2094) SUBHA1SH. 146. ²b.{#vAnyaM#} st. {#bAlaM#} und {#parimitavavayasaM#} 
 st. {#pariNatavayasaM#} die Hdschr. ²d. {#hasitaM#} st.{#sahasitaM#} die Hdschr. 
  
-<S> garvaM nodvahate na nindati paraM no bhASate niSThuramuktaH kenacidapriyaM 
+<S> garvaM nodvahate na nindati paraM no bhASate niSThura- @ muktaH kenacidapriyaM 
 ca sahate krodhaM ca nAlambate | zrutvA kAvyamalakSaNaM parakRtaM samtiSThate 
-mUkavaddoSAMzchAdayate na kurute pApaM satAM lakSaNam || 
+mUkava- @ ddoSAMzchAdayate na kurute pApaM satAM lakSaNam || 
  
 <D2095> Keinen Hochmuth an den Tag legen, Andere nicht tadeln, keine harten 
 Worte ausstossen, geduldig tragen und sich nicht dem Zorn hingeben, wenn Einem 
@@ -22355,9 +22362,9 @@ Weiss nimmt weder zu, noch ab.
  
 <F>2101) KA1VJAPR. 184. SA1H. D.338. ²b. {#kajvalA°.#} 
  
-<S> gADhAliGganavAmanIkRtakutakucaprodbhinnaromodgamA 
+<S> gADhAliGganavAmanIkRtakutakucaprodbhinnaromodgamA @ 
 sAndrasneharasAtirekavigalacchrImannitambAmbarA | mA mA mAnada mAti mAmalamiti 
-kSAmAkSarollApinI suptA kiM nu mRtA nu kiM manasi me lInA vilInA nu kim || 
+kSAmAkSarollApinI @ suptA kiM nu mRtA nu kiM manasi me lInA vilInA nu kim || 
  
 <D2102><A830><g></g> 
  
@@ -22371,9 +22378,9 @@ hier gleichbedeutend mit {#nIvI.#} ²c. {#vA mA#} st.{#mA mA#} und
 {#mAnitAmalamatiH kSAmAkSarAlApinI#} PRAS. ²d. {#na kiM#} st. des ersten {#nu 
 kiM#} PRAS. {#kiM#} st. {#me#} KA1VJAPR. 
  
-<S> gAtraM saMkucitaM gatirvigalitA bhraSTA ca dantAvalI dRSTirnazyati vardhate 
+<S> gAtraM saMkucitaM gatirvigalitA bhraSTA ca dantAvalI @ dRSTirnazyati vardhate 
 badhiratA vakktraM ca lAlAyate | vAkyaM nAdriyate na bAndhavajano bhAryA na 
-zuzrUSate hA kaSTaM puruSasya jIrNavayasaH putro 'pyAmitrAyate || 
+zuzrUSate @ hA kaSTaM puruSasya jIrNavayasaH putro 'pyAmitrAyate || 
  
 <D2103><A831> Der Körper ist zusammengeschrumpft, der Gang unsicher, die Reihe 
 der Zähne ausgefallen, das Gesicht schwindet, die Harthörigkeit nimmt zu, der 
@@ -22653,7 +22660,7 @@ selbst auf den Weg.
  
 <F>2128) S4A1RN5G. PADDH. GUNAPRAS4AM5SA1 1. ²a. {#dUratvaM#} st. {#dUtatvaM.#} 
  
-<S> guNAH khalu guNA eva na guNAH phalahetavaH | arthasaMcayakartR2Ni bhAgyAni 
+<S> guNAH khalu guNA eva na guNAH phalahetavaH | arthasaMcayakartRRNi bhAgyAni 
 pRthageva hi || 
  
 <D2129> Vorzüge sind bekanntlich nur Vorzüge und nicht die Ursache irgend eines 
@@ -22743,8 +22750,8 @@ einhergehenden Mönchen bewohnt ist?
 <F>2137) SUBHA1SH. 187. ²a. {#guNAH#} die Hdschr. ²b. {#guNatAM#} die Hdschr. 
 ²c. {#°kSapaNakaH#} die Hdschr. Vgl. Spr.1727. 
  
-<S> guNAyante doSAH sujanavadane durjanamukhe guNA doSAyante kimiti jagatAM 
-vismayapadam | yathA jImUto 'yaM lavaNaladhervAri madhuraM phaNI pItvA kSIraM 
+<S> guNAyante doSAH sujanavadane durjanamukhe @ guNA doSAyante kimiti jagatAM 
+vismayapadam | yathA jImUto 'yaM lavaNaladhervAri madhuraM @ phaNI pItvA kSIraM 
 vamati garalaM duHsahataram || 
  
 <D2138><A851> Was haben die Menschen für einen Grund sich darüber zu wundern, 
@@ -23345,8 +23352,8 @@ Hörner fehlen.
  
 <F>2195) PAN4CAT. ed. KOSEG. II, 64. ed. Bomb. 60. ²c. {#sadanaM#} KOSEG. 
  
-<S> gRhe paryantasthe draviNakaNamoSaM zrutavatA svavezmanyArakSA kriyata iti 
-mArgo 'yamucitaH | narAngehAdgehAtpratidivasamAkRSya nayataH kRtAntAtkiM zagkA 
+<S> gRhe paryantasthe draviNakaNamoSaM zrutavatA @ svavezmanyArakSA kriyata iti 
+mArgo 'yamucitaH | narAngehAdgehAtpratidivasamAkRSya nayataH @ kRtAntAtkiM zagkA 
 nahi bhavati re jAgRta janAH || 
  
 <D2196><A881> Hört Jemand, es sei im benachbarten Hause eine Kleinigkeit 
@@ -23383,9 +23390,9 @@ Lesart){#brahmaghne caiva mitraghne#} in ²a. ). ²c. {#sarvatra#} st.{#niSkRtir
 rAjan#} und{#lokeH#} (d. i.){#lokaiH)#} st.{#sadbhiH.#} ²d. {#niSTatti#} st. 
 {#niSkRtiH.#} Vgl. noch MBH.5, 3751. 
  
-<S> gotraM naiva nijaM kulaM na vimalaM jAtiM vimalaM jAtiM ca no sundarIM devaM 
+<S> gotraM naiva nijaM kulaM na vimalaM jAtiM vimalaM jAtiM ca no sundarIM @ devaM 
 naiva guruM ca no pitaraM no mAtaraM na prabhum | 
-mitrabhrAtRkalatraputrabhaginIvRddhAMzca no manyate kAryAkAryAvicAraNAM na 
+mitrabhrAtRkalatraputrabhaginIvRddhAMzca no manyate @ kAryAkAryAvicAraNAM na 
 kurute krodhapramattaH pumAn || 
  
 <D2199> Ein vom Zorn hingerissener Mann erwägt nicht, was er thun und was er 
@@ -23529,9 +23536,9 @@ warum ein Bösewicht an bedeutenden Menschen keine Freude hat.
 <F>2214) SUBHA1SH. 123. ²a. {#yajjavAsako#} die Hdschr.²b. ²c. {#yatra#} st. 
 {#yanna#} die Hdschr. 
  
-<S> gharmArtaM na tathA suzItalajalaiH snAna, M na myktAvalI na 
+<S> gharmArtaM na tathA suzItalajalaiH snAna, M na myktAvalI @ na 
 zrIkhaNDAvilepanaM sukhayati pratyaGgamapyarpitam | prItyai sajjanabhASitaM 
-prabhavati prAyo yathA cetasaH sadyuktyA ca puraskRtaM 
+prabhavati prAyo yathA cetasaH @ sadyuktyA ca puraskRtaM 
 sukRtinAmAkRSTimantrepamam || 
  
 <D2215><A886> Die Wonne, welche ein Bad in frischem Wasser, eine Perlenschnur, 
@@ -23582,8 +23589,8 @@ Wissen und Wandel fleckenlos dastehen.
 <F>2218) SUBHA1SH. 267. ²b. {#manIno#} die Hdschr. ²c. {#munIzvarAH jJeyAH#} die 
 Hdschr. 
  
-<S> ghRSTaM ghRSTaM punarapi punazcandanaM cArugandhi chinnaM chinnaM punarapi 
-punaH svAdadaM cekSudaNDam | dagdhaM dagdhaM punarapi punaH kAJcanaM kAntavarNaM 
+<S> ghRSTaM ghRSTaM punarapi punazcandanaM cArugandhi @ chinnaM chinnaM punarapi 
+punaH svAdadaM cekSudaNDam | dagdhaM dagdhaM punarapi punaH kAJcanaM kAntavarNaM @ 
 prANAnte 'pi prakRtivikRtirjAyate nottamAnAm || 
  
 <D2219> Sandel behält seinen lieblichen Geruch trotz alles Reibens, ein 
