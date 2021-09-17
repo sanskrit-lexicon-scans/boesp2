@@ -12,5 +12,10 @@ Greek.Translations.boesp-1-corrected.txt
 Greek.Translations.boesp-2-corrected.txt
 Greek.Translations.boesp-3-corrected.txt
 
+Also, 3 files of Greek text in notes and addenda:
+Greek.Notes.and.Addenda.in.boesp-1-corrected.txt
+Greek.Notes.and.Addenda.in.boesp-2-corrected.txt
+Greek.Notes.and.Addenda.in.boesp-3-corrected.txt
+
 
 
