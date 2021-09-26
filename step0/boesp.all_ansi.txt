@@ -1,4 +1,4 @@
-<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_09/26/21--> 
+<!--D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_09/26/21--> 
  
 <S> = Sanskrit 
  
