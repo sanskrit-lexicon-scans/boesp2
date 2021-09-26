@@ -1,4 +1,4 @@
-<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_09/19/21--> 
+<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_09/26/21--> 
  
 <S> = Sanskrit 
  
@@ -5263,7 +5263,7 @@ rajaHsravaNajanitairadharmAkhyairiti#}·
 i. e. «through the demerit produced· 
 thereby.» Hiernach wäre {#guNa#} so v.· 
 a. {#doSa#}, was sonst den Gegensatz zu· 
-jenem bidet.· 
+jenem bildet.· 
  
 <S> anRtaM satyamityAhuH satyaM cApi· 
 tathAnRtam | iti yAstAH kathaM vIra· 
@@ -18589,7 +18589,7 @@ bezwingt man sie sicher.·
  
 <F>1118) MBH. 3, 13944. R. ed. Bomb. 7,· 
 59, 2, 23. ²a. {#praduSTAnAM#} R.²b.· 
-{#dhAvatAm#} st. {#vartmasu#} R. ²e. ²d.· 
+{#dhAvatAm#} st. {#vartmasu#} R. ²c. ²d.· 
 {#kurvIti dhRtyA sArathyaM· 
 saMhRtyendriyagocaram#} R. Vgl. Spruch.· 
 1113.· 
@@ -26795,7 +26795,7 @@ heisst so viel als täglich sterben.·
  
 <F>1598) SUBHA1SH. 33.²b. {#vaidyo#} die· 
 Hdschr. ²c. Ein {#divase#} fehlt in der· 
-Hdschr. ²d. {#manara° =manora³#}.· 
+Hdschr. ²d. {#manara° = manora°#}.· 
  
 <S> kaSTA vRttiH parAdhInA kaSTo vAso· 
 nirAzrayaH | nirdhano vyavasAyazca· 
@@ -26951,14 +26951,14 @@ geplagt? Wer kein Unglück erfahren? Wer·
 empfindet ununterbrochenes Wohlbehagen?· 
  
 <F>1606) VR2DDHA-CA1n2. 3, 1.· 
-SUBHA1SH.120.²a. {#doSa#} und {#doSAH#}.· 
+SUBHA1SH.120. ²a. {#doSa#} und {#doSAH#}.· 
 ²b. {#ke#} bei {#pIDItaH#} und {#ko#}· 
 bei {#pIDitAH#}. ²c. {#prapte#}. ²d.· 
 {#saukhya#}. [Seite1.308]· 
 <W>1606. =VR2DDHA-CA1N2. Berl. Hdschrr.· 
 165. ²a. {#doSa#}. ²b. {#pIDataH#} ²c.· 
 ²d. {#kena taThyasataM prApte zriyaH· 
-kasya nirantarAH#}.[Page629] €Vgl.· 
+kasya nirantarAH#}. [Page629] Vgl.· 
 <ls>GALAN. Varr. 32.· 
  
 <S> kasya vaze prANigaNaH· 
@@ -30177,7 +30177,7 @@ heiligen Schrift.·
  
 <F>1777) PRAS4NOTTARAM.8 in Monatsberr.· 
 d. k. pr. Ak. d. Ww. 1868, S.108. ²a.· 
-{#bhUSaNAd#} WEBER´S Conjectur für· 
+{#bhUSaNAd#} WEBER'S Conjectur für· 
 {#bhUSaNA#}. [Seite1.344]· 
  
 <S> kiM maNDanaM sAkSaratA mukhasya· 
@@ -30429,8 +30429,8 @@ Vgl. Spruch {#dhavlAnyAtapatrANi#}.·
 den Text gesetzt· 
 {#°chattravAjivAraNavAhanAH#} und fasste· 
 das Ganze als adj. zu {#saMpadaH#}. Die· 
-Conjectur ist gut. nicht so die· 
-Auffassung:{#vAhana#} €[Page631] €würde· 
+Conjectur ist gut, nicht so die· 
+Auffassung:{#vAhana#} [Page631] würde· 
 hier «Tross» bedeuten; vgl. Spruch 1983.· 
  
 <V>1790. ²c. ²d. SCHLEGEL. hatte in den· 
@@ -36364,9 +36364,9 @@ nach Geschlecht; frage nach Leistungen,·
 nicht nach Wissen; frage nach Genuss,· 
 nicht nach Reichthum.· 
  
-<F>2119) SUBHA1SH. 137.²a. ²b. ²c²d.· 
+<F>2119) SUBHA1SH. 137.²a. ²b. ²c. ²d.· 
 {#pRcchasi#} st. {#pRccha hi#} die· 
-Hdschr.²b. {#sInaM#} st. {#zIlaM#} die· 
+Hdschr. ²b. {#sInaM#} st. {#zIlaM#} die· 
 Hdschr. ²c. {#siddhaM#} und {#vidyA#}· 
 die Hdschr. ²d. {#bhoga#} die Hdschr.· 
 Vgl. Spr. {#guNo bhUSayate#} {#rUpam#}.· 
@@ -36374,8 +36374,8 @@ Vgl. Spr. {#guNo bhUSayate#} {#rUpam#}.·
 Hdschrr. 28. Ueberall {#pRcchasi mA#}· 
 wie im <ls>SUBHA1SH. im Uebrigen wie bei· 
 uns. {#pRcchRsi#} wird auch <ls>GALANOS.· 
-(vgl. <ls>CA1N2. I 10) vorgelegen hahen.· 
-€[Page633] €da er <g></g> u.s.w· 
+(vgl. <ls>CA1N2. I 10) vorgelegen haben.· 
+[Page633] da er <g></g> u.s.w· 
 übersetzt.· 
  
 <S> guNavajjanasaMsargAdyAti svalpo 'pi· 
@@ -42057,9 +42057,9 @@ GALAN. Varr. 316. ²a.·
 <g></g> st. {#viprAH#} GALAN. ²d.· 
 {#AtmArthe#}.· 
 <W>2439. = <ls>VR2DDHA-CA1N2. Berl.· 
-Hdschrr. 194.²a. {#yasya jIvati#} und· 
+Hdschrr. 194. ²a. {#yasya jIvati#} und· 
 {#yasya jIvanti#} (Dr. <ls>KLATT· 
-[Page635] €ändert {#yasmiJjIvati#};· 
+[Page635] ändert {#yasmiJjIvati#};· 
 näher läge {#yasya jIvite#} st. {#jIvite· 
 yasya#}. ²b. {#mitrAzca#} st.· 
 {#mitrANi#}. ²d. {#hyAtmArthaM#} (über· 
@@ -43272,16 +43272,16 @@ panthAH#} SUBHA1SH.·
 <W>2505. In der Zeitschrift· 
 <ls>PRATNAKAMARANANDINI, Abth. The Hindu· 
 Commentator, S. 7. lautet der Spruch:· 
-€<Poem>{#vedA vibhinnA[H] smRtayo· 
+<Poem> {#vedA vibhinnA[H] smRtayo· 
 vibhinnA nAsau muniryasya mataM na· 
 bhinnam | dharmasya tattvaM nibhRtaM· 
 guhAyAM mahAjano yena gataH sa panthAH· 
-||#}</Poem> €Die erste Hälfte auch· 
+||#}</Poem> Die erste Hälfte auch· 
 <ls>BAHUDARS4ANA 36 mit der eben. ²b.· 
 {#tathA munInAM matayo vibhinnAH#}.· 
-{%c..%} Wie[Page636] €bei uns. Endlich· 
+²c. Wie [Page636] bei uns. Endlich· 
 noch in <ls>SUBHA1SH. 179 in folgender· 
-Gestalt: €<Poem>{#mArgA vibhinnA[H]· 
+Gestalt: <Poem> {#mArgA vibhinnA[H]· 
 zrutayo vibhinnA naiko muniryasya vacaH· 
 pramANam | dharmatattvaM nihitaM· 
 mahAjano yena gataH sa panthAH· 
@@ -49606,7 +49606,7 @@ und SUBHA1SH. ²c. ²d. vor ²a. ²b. in·
 SUBHA1SH. und bei GALAN.· 
 <W>2866. = <ls>VR2DDHA-CA1N2. Berl.· 
 Hdschrr. 81 (nur Schreibfehler wären zu· 
-vermerken). €Eine Variante von Spruch· 
+vermerken). Eine Variante von Spruch· 
 7579.· 
  
 <S> durbalAMstAta budhyethA· 
@@ -54791,14 +54791,14 @@ st. {#kuto#} <ls>NA1GA1N. {#buddho#} zu·
 lesen. <ls>WEBER fasst den Spruch anders· 
 auf; hier seine Worte: «In der· 
 «eifersüchtigen», leidenschaftlichen,· 
-nicht gerade «niedischen» Anrede der· 
+nicht gerade «neidischen» Anrede der· 
 {|Ma1ra|}-Frauen an {|Buddha|} ist· 
 {#unmIlya cakSuH kSaNam#} zu {#pazya#}· 
 zu ziehen: «an welche (Maid) denkst du,· 
 {|indem|} du Vertiefung heuchelst?· 
 {|Schlag|} doch nur einen Augenblick· 
-{|dein Auge auf undsieh uns an,|}· 
-die[Page639] €wir durch die Pfeile des· 
+{|dein Auge auf und sieh uns an,|}· 
+die [Page639] wir durch die Pfeile des· 
 Liebesgottes verwundet sind. Obgleich· 
 man dich...»· 
  
@@ -55154,7 +55154,7 @@ der eigene Wille Nichts.·
  
 <F>3195) R. ed. Bomb. 4, 25, 7. ed.· 
 GORR. 24, 7, ²a. ²b. {#na· 
-kAlasyAtmahetutvAnna buddhirna parAº#}· 
+kAlasyAtmahetutvAnna buddhirna parA°#}· 
 GORR.· 
  
 <S>na kAlo daNDamudyamya ziraH kRntati· 
@@ -58186,17 +58186,17 @@ nicht zum Munde hinaus, sondern lässt·
 ihn hinunter in's Herz gleiten und· 
 verdaut ihn darinnen.· 
  
-<F>3376) SUBHA1SH. 275.²a. {#taM#} st.· 
+<F>3376) SUBHA1SH. 275. ²a. {#taM#} st.· 
 {#na#} die Hdschr. ²b. {#ta#} st. {#tu#}· 
 die Hdschr.· 
 <W>3376. ²b. St. {#ta#} der Hdschr.· 
 hätte {#na#} gesetzt werden müssen; vgl.· 
 Spruch 4886. In der Uebersetszung ist· 
 demnach zu lesen: er speit ihn (es)· 
-nicht zum Munde hinzaus, lässt ihn (es)· 
+nicht zum Munde hinaus, lässt ihn (es)· 
 nicht hinunter in's Herz gleiten,· 
 sondern verdaut ihn (es) auf dem· 
-Wege[Page640] €dahin.· 
+Wege [Page640] dahin.· 
  
 <S> na mRtyusenAmAyAntIM jAtu· 
 kazcitprabAdhate | balAtsatyamRte tvekaM· 
@@ -62520,8 +62520,8 @@ I, 95. ed. RODR. S. 70. ²d.·
 Hdschrr. 212. ²a. {#nArIkelasamAkAlo#}· 
 und {#nArIkelaphalAkAlA#}. ²b. {#ke· 
 'pi#} st. {#anye 'pi badarAkArA#}. ²d.· 
-{#manoramA#} neben unserer[Page641]· 
-€Lesart.· 
+{#manoramA#} neben unserer [Page641]· 
+Lesart.· 
  
 <HS>{#nArIM vigatakAmAzca#} s. nach· 
 Spruch {#SaDete hyavamanyante#}.· 
@@ -73911,9 +73911,9 @@ Hdschrr. 67. fg. 4303, ²d.·
 (d.i.){#puSkalazca#} {#dhanAgamaM#}· 
 (auch {#dhane 'pi caH#}) zu lesen ist· 
 {#dhanAgamaH)#}. 4304, ²b. {#mahIte#}.· 
-²d. {#na#}[Page644] €{#rake patanaM· 
+²d. {#na#} [Page644] {#rake patanaM· 
 dhruvam#}. Es folgt noch ein dritter· 
-Spruch, der folgendermäassen lautet:· 
+Spruch, der folgendermaassen lautet:· 
 {#tasmAdbhUmIzvaro nityaM· 
 dharmakAmArthasiddhaye#} (auch)· 
 {#°vRddhayai#}) {#| guNavantaM· 
@@ -77074,7 +77074,7 @@ Geschäftsmann.·
 <F>4487) KA1M. NI1TIS. 5, 89. ²b.· 
 {#zAstrArthanizcayaH#} der Text.· 
 {#zAstrasya nirNayaH#} der Comm. ²d.· 
-{#ca vyava³#} st. {#saMvya°#} der Text;· 
+{#ca vyava°#} st. {#saMvya°#} der Text;· 
 {#avizvAsadharmiNAM hi manuSyANAM· 
 sarvathA saMvyavahArAbhAvaH prApnoti· 
 yathA 'saMvyavahAravAn, bhavati· 
@@ -78733,7 +78733,7 @@ Vgl. den folgenden Spruch.·
 <W>4583. Auch <ls>SUBHA1SH. 309. ²b.· 
 {#sayyA ca bhU#}. ²c. {#vastraM ca· 
 jIrNazatakhaNDayI ca kanthA#}.· 
-²d.[Page645] €{#viSayAnaparityajanti#}.· 
+²d. [Page645] {#viSayAnaparityajanti#}.· 
  
 <S> bhikSAzanaM bhavanamAyatanaikadezaH· 
 zayyAmahI parijano nijadehabhAraH |· 
