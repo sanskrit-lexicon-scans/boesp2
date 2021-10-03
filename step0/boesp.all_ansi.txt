@@ -1,4 +1,4 @@
-<!--D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_09/26/21--> 
+<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_10/03/21--> 
  
 <S> = Sanskrit 
  
@@ -112693,6 +112693,11 @@ seine Götter.» Dieser in der Welt·
 gangbare Spruch scheint mir durchaus· 
 wahr zu sein.· 
  
+<F>6567) R. ed. Bomb. 2, 104, 15. SCHL. 13.· 
+ 
+<S>zrutenaM tapasA zriyA vA vikameNa vA |· 
+jJAnAnyo 'bhibhavatyanyAnkarmaNA hi sa vai pumAn ||· 
+ 
 <F>6568) MBH. 5, 4517, ²b. 4518, ²a.· 
  
 <S> zrutena buddhirvyasanena mUrkhatA· 
@@ -113622,9 +113627,10 @@ auf eine bevorstehend Trennung hin, wie·
 die Geburt auf den künftigen· 
 unvermeidlichen Tod.· 
  
-<F>6625) HIT. ed. SCHL. IV, 72. JOHNS.· 
-77. ²a. ²b. fehlendem Schluss:· 
-{#janmAntarasahasrANiviyogaH saMgamaM· 
+<F>6625) HIT. ed. SCHL. IV, 72 JOHNS.· 
+77. ²a. ²b. fehlen, so dass ²c.²d. den· 
+Anfang bilden, mit folgendem Schluss:· 
+{#janmAntarasahasnAhi viyogaH saMgaM· 
 kSaNam#}.· 
  
 <S> saMlApitAnAM· 
@@ -113638,6 +113644,24 @@ Vertrauen zeigen, hintergehen, nachdem·
 man sie zuvor mit süssen Worten· 
 angeredet und mit erheuchelter· 
 Freundlichkeit bestrickt hat?· 
+ 
+<F>6626)HIT. ed. SCHL. I, 72 JOHNS. 79.· 
+ 
+<S> saMvadhirato 'pi bhujagA payasA na· 
+vazyastatpAlakAnapi nihinti balena· 
+simhaH | duSTaH· 
+prairupakakRtastadaniSTakArI vizvAsaleza· 
+iha naina budhaurvigheyaH ||· 
+ 
+<D6627><A5102> Zöge man eine Schlange· 
+auch mit Milch groß, sie würde doch· 
+nicht fügsam werden; einn Löwe tödtet· 
+gewaltsam sogar seine Hüter; ein Böser· 
+thut denen, die ihm einen Gefallen· 
+erwiesen, Etwas zu Leide; darum sollen· 
+Kluge hier im Leben auch nicht das· 
+geringste Vertauen haben.· 
+ 
  
 <F>6627) SAM3KR2TAPA1T2HOP. 48.· 
  
@@ -117049,7 +117073,7 @@ tamasi na pazyati dIpena vinA·
 sacakSurapi ||· 
  
 <D6832><A5165> Eine mit Hindernissen· 
-verbundene Angelegenheit vermag nur mit· 
+verbundene Angelegenheit vermag man nur mit· 
 Hilfe eines Gefährten zu vollführen:· 
 selbst ein Sehender vermag im Dunkeln· 
 einen Gegenstand nicht ohne Lampe zu· 
@@ -117060,10 +117084,26 @@ S. 10. ²a. {#arthaM sapratibandhaM#} ed.·
 Bomb. ²b. {#api#} st. {#adhi#}. ²d.· 
 WEBER möchte {#sucakSurapi#} lesen.· 
  
-<S> sapramAdena balinA mRtyurgaprANaM ca· 
+<S> sapramAdena balinA 
+ 
+ 
+ 
+<S>mRtyurgaprANaM ca· 
 nAharet |· 
 aprANAnprANavallokAnakIrtirharate sadA· 
 ||· 
+ 
+<D6834> Der Tod führt einen Lebenden· 
+hinweg, entführt aber keinen Entseelten;· 
+die Schmach dagegen führt stets todte,· 
+wie lebende Menschen hinweg.· 
+ 
+<F>6834) 
+ 
+<HS> {#sa banduryo 'nubadhrAti#} s. Spruch 4386· 
+ 
+<S> sa bandhuryoH vipannAnAmApaduharaNakSamaH |· 
+na tu bhItaparitrANavastUpAlambhapaNDitaH ||· 
  
 <D6835><A3172> Der ist ein Freund, der· 
 in's Unglück Gerathene aus der Noth zu· 
@@ -117771,7 +117811,7 @@ Unglück und denken nur an den in der·
 Zwischenzeit aus Unachtsamkeit· 
 geschehenen Fehltritt.· 
  
-<F>6878) RA1JA- TAR. ed. TR. 5, 318. ed.· 
+<F>6878) RA1JATAR. ed. TR. 5, 318. ed.· 
 Calc. 318.· 
  
 <S> saMpadyAste paraiH sAkaM vipadi· 
@@ -117784,6 +117824,17 @@ ihn mit den seinigen: in Gesellschaft·
 von Bienen blüht der Lotus behaglich und· 
 verdorrt in Gesellschaft von· 
 Wasserpflanzen.· 
+ 
+<F>6897) 
+ 
+<S> saMpaNNaM goSu saMbhAvyaM saMbhAvyam· 
+brAhmaNe tapaH | saMbhAvyam cApalaM· 
+strISu saMbhAvyam jJAtito bhayam ||· 
+ 
+<D6880> Bei Kühen kann man leckere· 
+Speisen erwarten, bei einem Brahmanen· 
+Kasteiungen, bei Frauen unstetes Wesen,· 
+von Verwandten kann man Gefahr erwarten.· 
  
 <F>6880) MBH. 5, 1317. R. ed. Bomb. 6,· 
 16, 9. GORR. 5, 88, 9. PAN5CAT. ed.· 
@@ -119890,6 +119941,20 @@ Entschlossenheit, Heldenmuth und·
 Beleidigern gegenüber Strenge sind, o· 
 Fürst, die Vorzüge von Fürsten.· 
  
+<F>7009) R. ed. Bomb. 4, 17, 29. GORR.· 
+16, 22. Bei GORR.: {#sAma dAnamahaMkAraH· 
+kSamA satyaM dhRtiH sthitiH | iti· 
+kSatraguNA rAma daNDazcApyapakAriNAm· 
+||#} Derselbe Spruch auch R. ed. Bomb.· 
+4, 17, 29 in folgender Fassung in ²a.· 
+²b.: {#damaH zamaH kSamA dharmo dhRtiH· 
+sattvaM parAkramaH#}.· 
+ 
+<D7010><A3239> Gute Worte versetzen· 
+einen Erzürnten, wie Wassertropfen· 
+heisse Butter, alsbals nur in noch· 
+grössere Aufregung.· 
+ 
 <F>7010) PAN5CAT. ed. KOSEG. III, 27.· 
 ed. Bomb. 28. ²b. {#zatroH#} st.· 
 {#tasya#} KOSEG. ²c. {#prataptasyeva#}· 
@@ -120192,6 +120257,22 @@ Freund, eine Gattin ist der Freund des·
 im Hause Weilenden, ein Arzt der Freund· 
 des Kranken, Spenden der Freund des· 
 Sterbenden.· 
+ 
+<F>7027) MBH. 3, 17349. 
+ 
+<S> sArdhaM manorathaza?aistava dhUrta· 
+kAntA saiva sthitA manasi· 
+kRtrimahAvaramyA | asmAkamasti na ca· 
+kAzcididihAvakAzastasmAtkRtaM caraNa· 
+pAtaviDambanAbhiH ||· 
+ 
+<D7028><A3247> Nur jene durch· 
+erheuchelte Zärtlichkeiten reizende· 
+Geliebte mit ihren hundert Gelüsten· 
+liegt dir, o Schelm, im Herzen, und für· 
+mich ist dort auch kein Plätzchen übrig;· 
+darum sollst du den Fussfall nicht· 
+entweihen!· 
  
 <F>7028) SA1H. D. 43. PAN5CAT. ed.· 
 KOSEG. IV, 9. ed. Bomb. 8. S4A1RN5G.· 
@@ -121029,29 +121110,12 @@ Wohlstand, hohe Stellung, Schamgefühl,·
 Zufriedenheit und Ruhm finden sich beim· 
 Rührigen, nicht beim Trägen.· 
  
-<F>7074) MBH. 12, 12518.· 
- 
-<S> sukhaM duHkhAntamAlasyaM dAkSyaM· 
-duHkhaM sukhodayam | bhUtiH· 
-zrIrgrIrdhRtiH kIrtirdakSe vasati nAlase· 
-||· 
- 
-<D7075><A5246> Freuden und Leiden· 
-verursachen den Menschen in gleicher· 
-Weise Beschwerden: die Haare auf dem· 
-Kopfe werden eingeölt (geliebt) und auch· 
-beschnitten.· 
- 
-<F>7075) MBH. 12, 830. 6495, ²a. ²a.· 
-²b. 3, 13848, ²b. {#13849#}, ²a. 12,· 
-1251. ²a. ²b. {#°viparyAso yadA· 
-samanupadyate#} (auch {#samuoaoadyate#})· 
-an der zweiten Stelle. {#viparyAsaH· 
-sukhe duHkhe sukhadhIH#} NI1LAK. an der· 
-zweiten Stelle. Nach der hier· 
-aufgenommenen Lesart ist im Wörterbuch· 
-unter {#viparyAsa#} 5) diese Stelle zu· 
-streichen und zu 4) zu Stellen.· 
+<F>7075) MBH. 12, 830. 6495, ²b. 6496· 
+²a. ²a. ²b. {#AlasyaM duHkhaM dAkSyaM#}· 
+und {#AlakSyaduHkhaM dAkSyaM#} (auch· 
+{#cApi#} st. {dAkSyaM#} an der zweiten· 
+Stelle ²c. ²d. {#bhUtistvevaM zriyA· 
+sArdhaM dakSe#} an der zweiten Stelle.· 
  
 <S> sukhaduHkhe same syAtAM jantUnAM· 
 klezahetuke | murdhri sthitAnAM kezAnAM· 
@@ -123328,12 +123392,30 @@ gehen ja mit der Jugend dahin.·
  
 <F>7210) KA1M. NI1TIS. 14, 58.· 
  
+<HS>{#strIratnaM duSkulAccApi#} s. Spruch 6545. 
+ 
+<S> strIratnabhogo 'asti narasya yasya· 
+niHsvo 'api mAM pratyavanI zvaro 'sau |· 
+rAjyasya sAro 'azanamaGganAzca· 
+tRSNanaloddipana dAru zeSam ||· 
+ 
+<D7211> Kann ein Mann eine Perle von· 
+Weib geniessen, so ist er, besässe er· 
+auch Nichts, in meinen Augen ein Fürst.· 
+Essen und Weiber sind das Beste am· 
+Königthum; alles Übrige ist Holz zum· 
+Anzünden eines Feuers, Gier genannt.· 
+ 
+<F>7211) VARA1H. BR2H. S. 74, 17. ²b. 
+{#s?aM prati, saMprati#} und taM prati#} 
+st. mAM prati. ²d. analAdIpin#}. 
+ 
 <HS>{#strIliGgiviprabAlAnAm#} s. Spruch· 
 7214.· 
  
 <S> strI vinazyati garveNa tapaH· 
 krodhena nazyati | gAvo dUrapracAreNa· 
-zUdrAnnena dvijettamaH ||· 
+zUdrAnnena dvijottamaH ||· 
  
 <D7212> Ein Weib geht durch Hochmuth zu· 
 Grunde, Kasteiungen gehen durch Zorn zu· 
@@ -123341,7 +123423,7 @@ Grunde, Kühe durch eine entfernte Weide,·
 ein vorzüglicher Brahmane durch Speisen· 
 von einem S4u1dra.· 
  
-<F>7212) SUBHA1SH. 11{?} Vgl. den· 
+<F>7212) SUBHA1SH. 119. Vgl. den· 
 folgenden Spruch. [Seite3.537]· 
  
 <S> strI vinazyati rUpeNa brAhmaNo· 
@@ -124962,17 +125044,33 @@ lässt, sinkt sie hinab; sobald sie ihn·
 wieder aufnimmt, gelangt sie wieder zur· 
 hohen Stellung.· 
  
+<F>7307) BHARTR2. in S4A1RN3G. PADDH.· 
+GUN2APRAS4AM3SA1. 15 (nur in einer· 
+Hdschr.). SCHIEFNER'S Verbesserungen:· 
+²b. {#patatpadhaH#} für {#paratyadhaH#}.· 
+²c. {#saMharanbhUyaH#} für· 
+{#saMharenbhUya#}.· 
+ 
+<S> svayaM doSaguNanveSI bhavetsarvatra sarvadA ||· 
+svayaM jJAteSu doSeSu zAsyate daNDapAtanam ||· 
+ 
+<D7308> Er (der Fürst) soll überall und· 
+immer das Vergehen und das Verdienst· 
+selbst aufsuchen: die Bestrafung eines· 
+Vergehens wird dann gutgeheissen, wenn· 
+er (der Fürst) es selbst erkannt hat.· 
+ 
 <F>7308) KA1M. NI1TIS. 8, 76.· 
  
 <S> svayamAhRtya bhuJjAnA balino 'pi· 
 svabhAvataH | gajendrAzca narendrAzca· 
 prAyaH sIdanti duHkhitAH ||· 
  
-<D7309> Er (der Fürst) soll überall und· 
-immer das Vergehen und das Verdienst· 
-selbst aufsuchen: die Bestrafung eines· 
-Vergehens wird dann gutgeheissen, wenn· 
-er (der Fürst) es selbst erkannt hat.· 
+<D7309><A5359> Elephanten und Fürsten,· 
+obgleich von Natur kräftig, pflegen in· 
+Trübsal und Noth zu gerathen, wenn sie· 
+sich ihre Nahrung selbst herbeischaffen· 
+müssen.· 
  
 <F>7309) MUDRA1R. 8.· 
  
@@ -125928,6 +126026,20 @@ oder er stürzt, von Pfeilen getroffen,·
 zu Boden; den von Dieben betretenen Weg· 
 aber schlägt ein Held nimmer ein.· 
  
+<F>7364) R. ed. GORR. 3, 57, 11; vgl. ed.· 
+Bomb. 51, 29.· 
+ 
+<HS> {#hanta vipakSe nirdiSTAH#} s. folgenden Spruch. 
+ 
+<S> hantavyapakSe nirdiSTAH yadi nAma· 
+vidhervayam | kimupAyA na santyanye· 
+darzitA yanmRgekSaNA ||· 
+ 
+<D7365><A3345> Wenn das Schicksal uns· 
+wirklich zum Tode bestimmt hat, giebt es· 
+dann keine andern Mittel, dass es uns· 
+eine Gazellenäugige vor Augen führte?· 
+ 
 <F>7365) PAN5CAT. ed. orn. I, 214. ²a.· 
 {#hanta vipakSe#}.· 
  
@@ -126382,6 +126494,19 @@ Thieren ein Leid anthut!·
 ed. Bomb. 105. ²a. {#eva#} st. {#api#}· 
 ed. Bomb. ²b. {#hiMsati#}.· 
  
+<HS> {#hiMsakAnyeva bhUtAni#} s. den· 
+vorangegangenen Spruch.· 
+ 
+<S> hiMsA balamasAdhunAM rAjJAM· 
+daNDavidhirbalam | zuzrUSA tu balaM· 
+strINAM kSamA guNavatAM balam ||· 
+ 
+<D7391><A5404> Leidzufügung ist die· 
+Macht der Schlechten, Anwendung von· 
+Strafen die Macht der Fürsten, gehorsam· 
+die Macht der Frauen, Nachsicht die· 
+Macht der Tugendhaften.· 
+ 
 <HS>{#hiMsAzUnyamayatnalabhyamazanam#}· 
 s. Spruch 5437.· 
  
@@ -126389,11 +126514,12 @@ s. Spruch 5437.·
 vadhyAnsaMpUjayIta ca | AtmAnamapi ca· 
 kruddhaH preSayedyanasAdanam ||· 
  
-<D7391><A5404> Leidzufügung ist die· 
-Macht der Schlechten, Anwendung von· 
-Strafen die Macht der Fürsten, gehorsam· 
-die Macht der Frauen, Nachsicht die· 
-Macht der Tugendhaften.· 
+<D7392> Im Zorn könnte man denjenigen· 
+Strafe anthun, die keine Strafe· 
+verdienen, und diejenigen ehren, welche· 
+Strafe verdienen; auch kann ein Zorniger· 
+sich selbst sogar in Yama's Behausung· 
+befördern.· 
  
 <F>7392) MBH. 3, 1070. ²c. {#prerayed#}· 
 st. {#preSayed#} ed. Calc.· 
