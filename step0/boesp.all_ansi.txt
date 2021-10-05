@@ -1,4 +1,4 @@
-<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_10/03/21--> 
+<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_10/05/21--> 
  
 <S> = Sanskrit 
  
@@ -48706,7 +48706,7 @@ mUlamazanam | kadaitatsaMpUrNaM mama·
 hRdayavRtterabhimataM bhaviSyatyatyugraM· 
 paramaparitoSopacitaye ||· 
  
-<D>2810><A4185> «Die Weltgegenden als· 
+<D2810><A4185> «Die Weltgegenden als· 
 Kleid, die Höhlung der Hand als· 
 Trinkschale, Gazellen als liebe Freunde,· 
 andächtige Vertiefung als Schlaf, der· 
@@ -112698,6 +112698,11 @@ wahr zu sein.·
 <S>zrutenaM tapasA zriyA vA vikameNa vA |· 
 jJAnAnyo 'bhibhavatyanyAnkarmaNA hi sa vai pumAn ||· 
  
+<D6568><5090> Wer an Wissen,· 
+Kasteiungen, Wohlfahrt oder Heldenmuth· 
+Andern überlegen ist, der ist ja in· 
+Wirklichkeit ein Mann· 
+ 
 <F>6568) MBH. 5, 4517, ²b. 4518, ²a.· 
  
 <S> zrutena buddhirvyasanena mUrkhatA· 
@@ -117084,11 +117089,18 @@ S. 10. ²a. {#arthaM sapratibandhaM#} ed.·
 Bomb. ²b. {#api#} st. {#adhi#}. ²d.· 
 WEBER möchte {#sucakSurapi#} lesen.· 
  
-<S> sapramAdena balinA 
+<S> sapramAdena balinA durbalasyApramAdinaH |· 
+new yuddhe balavato nAzo bhavettasya pramAdataH ||· 
  
+<D6833><A5166> Im Kampfe eines· 
+Schwachen, der auf seiner Hut ist, mit· 
+einem Starken, der nicht auf seiner· 
+Hut ist, unterliegt der Starke in Folge· 
+seiner Sorglosigkeit.· 
  
+<F>6833) DAM3PATI1S4. 33. ²b {#durbalasyApra°#} · 
  
-<S>mRtyurgaprANaM ca· 
+<S>saprANaM harate mRtyurgaprANaM ca· 
 nAharet |· 
 aprANAnprANavallokAnakIrtirharate sadA· 
 ||· 
@@ -117098,7 +117110,7 @@ hinweg, entführt aber keinen Entseelten;·
 die Schmach dagegen führt stets todte,· 
 wie lebende Menschen hinweg.· 
  
-<F>6834) 
+<F>6834) PRASAN3GA1BH. 11, ²b.· 
  
 <HS> {#sa banduryo 'nubadhrAti#} s. Spruch 4386· 
  
@@ -117825,7 +117837,11 @@ von Bienen blüht der Lotus behaglich und·
 verdorrt in Gesellschaft von· 
 Wasserpflanzen.· 
  
-<F>6897) 
+<F>6879) DR2S2TA1NTAS4. 19 bei HARB in· 
+KA1VYAKAL und KA1VYAS. ²a. {#pareH#}. ²c.· 
+{#bhRGgaiH#} unsere Aenderung für {#bhRGgaH#}· 
+und {#mRGgaH#} (wofür in der ersten Auflage· 
+{#mRdraM#} gesetzt worden war).· 
  
 <S> saMpaNNaM goSu saMbhAvyaM saMbhAvyam· 
 brAhmaNe tapaH | saMbhAvyam cApalaM· 
@@ -119478,7 +119494,7 @@ Herz alsbald redlich wird, und das ist·
 ein Weib, wenn beim Anblick desselben· 
 eines Buhlen Herz alsbald unruhig wird.· 
  
-<F>6982) PRASAN3GA1BH. 13, ²b. 
+<F>6982) PRASAN3GA1BH. 13, ²b.· 
  
 <S> sAkAro niHspRho vAgmI· 
 nAnAzAstravicakSNaH | pracittAvagantA ca· 
@@ -120258,7 +120274,7 @@ im Hause Weilenden, ein Arzt der Freund·
 des Kranken, Spenden der Freund des· 
 Sterbenden.· 
  
-<F>7027) MBH. 3, 17349. 
+<F>7027) MBH. 3, 17349.· 
  
 <S> sArdhaM manorathaza?aistava dhUrta· 
 kAntA saiva sthitA manasi· 
@@ -123392,7 +123408,7 @@ gehen ja mit der Jugend dahin.·
  
 <F>7210) KA1M. NI1TIS. 14, 58.· 
  
-<HS>{#strIratnaM duSkulAccApi#} s. Spruch 6545. 
+<HS>{#strIratnaM duSkulAccApi#} s. Spruch 6545.· 
  
 <S> strIratnabhogo 'asti narasya yasya· 
 niHsvo 'api mAM pratyavanI zvaro 'sau |· 
@@ -123406,9 +123422,9 @@ Essen und Weiber sind das Beste am·
 Königthum; alles Übrige ist Holz zum· 
 Anzünden eines Feuers, Gier genannt.· 
  
-<F>7211) VARA1H. BR2H. S. 74, 17. ²b. 
-{#s?aM prati, saMprati#} und taM prati#} 
-st. mAM prati. ²d. analAdIpin#}. 
+<F>7211) VARA1H. BR2H. S. 74, 17. ²b.· 
+{#s?AM prati, saMprati#} und taM prati#}· 
+st. {#mAM prati#}. ²d. {#analAdIpin#}.· 
  
 <HS>{#strIliGgiviprabAlAnAm#} s. Spruch· 
 7214.· 
@@ -126029,7 +126045,7 @@ aber schlägt ein Held nimmer ein.·
 <F>7364) R. ed. GORR. 3, 57, 11; vgl. ed.· 
 Bomb. 51, 29.· 
  
-<HS> {#hanta vipakSe nirdiSTAH#} s. folgenden Spruch. 
+<HS> {#hanta vipakSe nirdiSTAH#} s. folgenden Spruch.· 
  
 <S> hantavyapakSe nirdiSTAH yadi nAma· 
 vidhervayam | kimupAyA na santyanye· 
