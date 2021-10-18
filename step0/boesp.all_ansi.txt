@@ -11189,15 +11189,15 @@ zermalmte; gemeinen Menschen Dienste·
 erweisen heisst, o König, ein Siegel in· 
 Sand drücken.· 
  
-<S> avijitya ya AtmAnamamAtyAnvijigISate· 
-| amitrAnvAjitAmAtyaH so 'vazaH· 
-parihIyate ||· 
- 
 <F>677) HIT. ed. SCHL. IV, 10. ed.· 
 JOHNS. 13. ²a. ²b. {#adhikAriNa yo· 
 yuktaH kathaM tasyAsti khaNDanam#}. ²d.· 
 {#vAlukamiva, vAlukAmiva mUtritam,· 
 sUtritam#}.· 
+ 
+<S> avijitya ya AtmAnamamAtyAnvijigISate· 
+| amitrAnvAjitAmAtyaH so 'vazaH· 
+parihIyate ||· 
  
 <D678><A3623> Wer, bevor er den Sieg· 
 über sich selbst erfochten hat, seine· 
@@ -11275,7 +11275,7 @@ schliesst man nur von den Zähnen auf·
 einen Unterschied zwischen After- und· 
 Mundöffnung.· 
  
-<F>282) SUBHA1SH. 258. ²a.· 
+<F>682) SUBHA1SH. 258. ²a.· 
 {#avidyatazaSasavizeSA#} die Hdschr. ²b.· 
 {#svajana#} st. {#zvasana#} die Hdschr.· 
 ²d. {#upamIyate#} die Hdschr.· 
@@ -36656,7 +36656,7 @@ die Vorzüge Würdiger: bei Nacht strahlt·
 der Kerze Flammenglanz, nicht aber nach· 
 Sonnenaufgang.· 
  
-<F>1121) PAN5CAT. ed. KOSEG. I, 319. ed.· 
+<F>2121) PAN5CAT. ed. KOSEG. I, 319. ed.· 
 Bomb. 287. [Seite1.416]· 
  
 <S> guNavadaguNavadvA kurvatA kAryajAtaM· 
@@ -48488,7 +48488,7 @@ vom Himmel herab, das ein ganzes Heer·
 von Tugenden vor sich hertreibt und dem· 
 Gatten Ruhm bringt.· 
  
-<D2796><A1156> Dann giebt es aber auch· 
+<D2795><A1156> Dann giebt es aber auch· 
 wieder ein böses Weib, das einem Andern· 
 zugethan ist, seine frühere Neigung· 
 aufgegeben hat und seine Abneigung gegen· 
@@ -90888,7 +90888,7 @@ Spruch 5226.·
  
 <S> yadyapi na bhavati hAniH parakIyAM· 
 carati rAsabhe drAkSAm | asamaJjasaM ca· 
-daSTvA kasya na parikhidyate cetaH ||· 
+dRSTvA kasya na parikhidyate cetaH ||· 
  
 <D5281> Obgleich es Einem auch keinen· 
 Schaden thut, wenn ein Esel fremden Wein· 
@@ -90899,14 +90899,7 @@ Ungebührlichkeit mit Schmerz erfüllt.·
 <F>5281) SUBHA1SH. 296. ²b. {#rAsabho#}· 
 die Hdschr.· 
  
-<S> yadyapi bhvAtaraH kvuddhA bhAryA ca· 
-kAraNAntare | svabhAvataste prIyante· 
-netraH prIyate janaH ||· 
- 
-<F>5281) SUBHA1SH. 296. ²b. {#rAsabho#}· 
-die Hdschr.· 
- 
-<S> yadyapi bhvAtaraH kvuddhA bhAryA ca· 
+<S> yadyapi bhrAtaraH kruddhA bhAryA ca· 
 kAraNAntare | svabhAvataste prIyante· 
 netraH prIyate janaH ||· 
  
@@ -117306,7 +117299,7 @@ Da schrieb er den Brief nicht (gebeugt)·
 und der Befehl des Vaters wurde nicht· 
 verletzt.· 
  
-<F>8646) SUBHA1SH. 280. ²a.· 
+<F>6846) SUBHA1SH. 280. ²a.· 
 {#samAdizan#} die Hdschr. ²b.· 
 {#samAjJayA#} die Hdschr. Vgl. Spr.· 
 4042.· 
@@ -117323,7 +117316,7 @@ Freundschaft wohl an, bei einem Fürsten·
 Dienst, unter den Gewerben der Handel,· 
 im Hause ein himmlisches Weib.· 
  
-<F>8647) VR2DDHA-CA1N2. 2, 20.· 
+<F>6847) VR2DDHA-CA1N2. 2, 20.· 
  
 <S> samAyAMti yadA· 
 lakSmIrnArikelaphalAmbuvat | viniryAti· 
@@ -119287,7 +119280,7 @@ Beifallsbezeugung: wohl legt Gold durch·
 Bestreichung mit Sarasa grösseren Glanz· 
 an den Tag.· 
  
-<F>6868) DR2SHT2A1NTAS4. 26 bei HAEB. in· 
+<F>6968) DR2SHT2A1NTAS4. 26 bei HAEB. in· 
 KA1VJAKAL. und KA1VJAS.· 
  
 <S> saha dIrdhA mama zvAsairimAH· 
