@@ -50556,9 +50556,9 @@ Bösewichter erlernt haben?·
  
 <F>2914) HIT. ed. SCHL. II, 154. JOHNS.· 
 163. SUBHA1SH. 277. ²a. {#utthita#} st.· 
-{#ucchrita#} SUBHA1SH. ²b.· 
-· 
-· 
+{#ucchrita#} SUBHA1SH.· 
+{#pANiyArdga°#}; {#prodyATitordyAzano#} · 
+SUBHA1SH. ²b.· 
 {#gADhAliGgiMnaratpraH priyakathAlApeSu· 
 baddhAdaraH#} SUBHA1SH. {#dattottara#}· 
 st. {#dattAdaraH#}. ²c. {#bhUta#} st.· 
@@ -121917,7 +121917,6 @@ Leiden verleihende frühere That zu·
 ändern.· 
  
 <D7120> Der Kluge, der den Leiden zu· 
-· 
 entgehen wünscht, übe demnach Gutes, da· 
 dieses jene abwehrt, nicht der Kummer,· 
 der nur den Leib zu Grunde richtet.· 
