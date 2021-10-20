@@ -16,6 +16,18 @@ The utility utf8_cp1252.py converts from utf8 to cp1252.
 The ea.py program provides frequency list of extended ascii characters
 from utf8-encoded files.
 
+boesp_utf8.txt  is the latest utf8 version. It is to be kept in sync
+with boesp.all_ansi.txt, as far as possible.
+Initialization:
+python cp1252_utf8.py boesp.all_ansi.txt boesp_utf8.txt
+
+Changes will be made to a sequence of versions of boesp_utf8.txt
+These are put into 'changes' directory with the names
+boesp_nn.txt.
+boesp_00.txt is a copy of the initial version of boesp_utf8.txt
+cp boesp_utf8.txt changes/boesp_00.txt
+
+
 
 ##---------------------------------------------------------
 # convert from cp1252 encoding (Thomas uses this with Kedit)
