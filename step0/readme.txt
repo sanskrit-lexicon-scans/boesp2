@@ -27,6 +27,8 @@ boesp_nn.txt.
 boesp_00.txt is a copy of the initial version of boesp_utf8.txt
 cp boesp_utf8.txt changes/boesp_00.txt
 
+The changelog.txt file provides a summary of the sequence of changes
+made to the utf8 version.
 
 
 ##---------------------------------------------------------

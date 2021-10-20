@@ -24017,10 +24017,10 @@ andere erschienen: wahr ist das·
 Sprichwort, dass, wo einmal ein Riss· 
 ist, die Uebel sich mehren.· 
  
-<H>Räthsel.· 
- 
 <F>1427) KATHA1S.28, 181. Vgl. Spruch· 
 1383.· 
+ 
+<H>Räthsel.· 
  
 <S> ekona viMzatirnAryaH krIDAM kartuM· 
 vane gatAH | viMzatirgRhamAyAtAH zeSo· 
@@ -24031,12 +24031,12 @@ Wald um zu spielen; zwanzig kehrten·
 wieder heim, der Rest ward von einem· 
 Tiger aufgefressen.· 
  
-<H>Auflösung.· 
- 
 <F>1428) SUBHA1SH.324. Unsere· 
 Aenderungen: ²a. {#ekonA#} für {#ekona,· 
 nAryaH#} für {#nArI#}. ²c. {#AyAtAH#}· 
 für {#AyAtiH#}.· 
+
+<H>Auflösung.· 
  
 <HS>{#eko nA viMzatirnAryaH#} u. s. w.· 
 Ein Mann und zwanzig Frauen u. s. w.· 
@@ -48488,7 +48488,7 @@ vom Himmel herab, das ein ganzes Heer·
 von Tugenden vor sich hertreibt und dem· 
 Gatten Ruhm bringt.· 
  
-<D2795><A1156> Dann giebt es aber auch· 
+<D2796><A1156> Dann giebt es aber auch· 
 wieder ein böses Weib, das einem Andern· 
 zugethan ist, seine frühere Neigung· 
 aufgegeben hat und seine Abneigung gegen· 
@@ -48496,7 +48496,7 @@ den Gatten wie Gift in sich trägt, eine·
 wahre Schlange die den Tod bringt, wenn· 
 sie nicht richtig gefasst wird.· 
  
-<F>2765.96) KATHA1S. 34, 180. fg. 2796,· 
+<F>2795.96) KATHA1S. 34, 180. fg. 2796,· 
 ²b. BROCKHAUS nimmt {#apararaktA#} und· 
 {#agataspRhA#} an. Diese Sprüche· 
 schliessen sich an Spruch 2462 an.· 

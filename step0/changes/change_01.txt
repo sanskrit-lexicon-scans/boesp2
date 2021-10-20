@@ -1,0 +1,39 @@
+; labeling changes
+48491 old <D2795><A1156> Dann giebt es aber auch· 
+48491 new <D2796><A1156> Dann giebt es aber auch· 
+;
+48499 old <F>2765.96) KATHA1S. 34, 180. fg. 2796,· 
+48499 new <F>2795.96) KATHA1S. 34, 180. fg. 2796,· 
+;
+; Reposition <H>Räthsel.
+24020 old <H>Räthsel.· 
+24020 new <F>1427) KATHA1S.28, 181. Vgl. Spruch· 
+;
+24021 old  
+24021 new 1383.· 
+;
+24022 old <F>1427) KATHA1S.28, 181. Vgl. Spruch· 
+24022 new  
+;
+24023 old 1383.· 
+24023 new <H>Räthsel.· 
+;
+; second reposition of H
+24034 old <H>Auflösung.· 
+24034 new <F>1428) SUBHA1SH.324. Unsere· 
+;
+24035 old  
+24035 new Aenderungen: ²a. {#ekonA#} für {#ekona,· 
+;
+24036 old <F>1428) SUBHA1SH.324. Unsere· 
+24036 new nAryaH#} für {#nArI#}. ²c. {#AyAtAH#}· 
+;
+24037 old Aenderungen: ²a. {#ekonA#} für {#ekona,· 
+24037 new für {#AyAtiH#}.· 
+;
+24038 old nAryaH#} für {#nArI#}. ²c. {#AyAtAH#}· 
+24038 new 
+;
+24039 old für {#AyAtiH#}.· 
+24039 new <H>Auflösung.· 
+;
