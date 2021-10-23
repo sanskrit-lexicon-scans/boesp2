@@ -1,0 +1,1332 @@
+; --------------------------------------------
+; SALOMONIS (1)
+; --------------------------------------------
+; SAM3KHJAPRAVACANA (1)
+; F 7015
+120043 old SAM3KHJAPRAVACANA 4, 5. ²b. {#ye#} st.· 
+120043 new SA1M3KHJAPRAVACANA 4, 5. ²b. {#ye#} st.· 
+;
+; --------------------------------------------
+; SAM3KR2TAPA1T2HOP (1)
+; F 7411
+126832 old 23. GORR. 114, 11. SAM3KR2TAPA1T2HOP 57.· 
+126832 new 23. GORR. 114, 11. SAM3SKR2TAPA1T2HOP. 57.· 
+;
+; --------------------------------------------
+; SAM3KR2TAPA1T2HOP. (1)
+; F 6627
+113664 old <F>6627) SAM3KR2TAPA1T2HOP. 48.· 
+113664 new <F>6627) SAM3SKR2TAPA1T2HOP. 48.· 
+;
+; --------------------------------------------
+; SAM3SKR2TA1-T2HOP. (1)
+; F 6147
+105609 old SUBHA1SH. 61. SAM3SKR2TA1-T2HOP. 61.· 
+105609 new SUBHA1SH. 61. SAM3SKR2TAPA1T2HOP. 61.· 
+;
+; --------------------------------------------
+; SAM3SKR2TA1T2HOP. (1)
+; F 3876
+66734 old SAM3SKR2TA1T2HOP. 53. VARARUCI,· 
+66734 new SAM3SKR2TAPA1T2HOP. 53. VARARUCI,· 
+;
+; --------------------------------------------
+; SAM3SKR2TAP. (3)
+; F 2519
+43620 old st. {#sAntvaM#} SAM3SKR2TAP. ²c.· 
+43620 new st. {#sAntvaM#} SAM3SKR2TAP. ²c.· 
+;
+; F 2519
+43621 old {#pUjyAMzca saMyajed#} SAM3SKR2TAP. ²d.· 
+43621 new {#pUjyAMzca saMyajed#} SAM3SKR2TAP. ²d.· 
+;
+; F 2519
+43622 old {#yAceta#} st. {#ca yAcet#} SAM3SKR2TAP.· 
+43622 new {#yAceta#} st. {#ca yAcet#} SAM3SKR2TAP.· 
+;
+; --------------------------------------------
+; SAM3SKR2TAPA1HOP. (3)
+; F 3927
+67590 old <F>3927) SAM3SKR2TAPA1HOP. 44.· 
+67590 new <F>3927) SAM3SKR2TAPA1T2HOP. 44.· 
+;
+; F 6346
+108990 old <F>6346) SAM3SKR2TAPA1HOP. 51.· 
+108990 new <F>6346) SAM3SKR2TAPA1T2HOP. 51.· 
+;
+; F 7411
+126834 old SAM3SKR2TAPA1HOP. Die Lesart {#Atma#}· 
+126834 new SAM3SKR2TAPA1T2HOP. Die Lesart {#Atma#}· 
+;
+; --------------------------------------------
+; SAM3SKR2TAPA1T2H. (2)
+; F 3
+92 old GALAN. 55. SAM3SKR2TAPA1T2H. 62. ²b.· 
+92 new GALAN. 55. SAM3SKR2TAPA1T2H. 62. ²b.· 
+;
+; F 710
+11712 old <F>710) SAM3SKR2TAPA1T2H. 32.· 
+11712 new <F>710) SAM3SKR2TAPA1T2H. 32.· 
+;
+; --------------------------------------------
+; SAM3SKR2TAPA1T2OP. (1)
+; F 1551
+26241 old JOHNS. 174. SAM3SKR2TAPA1T2OP. 51. ²c.· 
+26241 new JOHNS. 174. SAM3SKR2TAPA1T2HOP. 51. ²c.· 
+;
+; --------------------------------------------
+; SAM3SKR2TAPA1T2ROP. (2)
+; F 4976
+86058 old SAM3SKR2TAPA1T2ROP. 55. VR2DDHA-CA1N2.· 
+86058 new SAM3SKR2TAPA1T2HOP. 55. VR2DDHA-CA1N2.· 
+;
+; F 4985
+86238 old vipadA grastaM#} SAM3SKR2TAPA1T2ROP.· 
+86238 new vipadA grastaM#} SAM3SKR2TAPA1T2HOP.· 
+;
+; --------------------------------------------
+; SAM3SKR2TAPA1THOP. (3)
+; F 815
+13461 old <F>815) SAM3SKR2TAPA1THOP. 41. d.· 
+13461 new <F>815) SAM3SKR2TAPA1T2HOP. 41. d.· 
+;
+; F 2521
+43652 old 16, 6., SAM3SKR2TAPA1THOP. 56.· 
+43652 new 16, 6., SAM3SKR2TAPA1T2HOP. 56.· 
+;
+; F 6979
+119444 old 20. GORR. 114, 6. SAM3SKR2TAPA1THOP. 57.· 
+119444 new 20. GORR. 114, 6. SAM3SKR2TAPA1T2HOP. 57.· 
+;
+; --------------------------------------------
+; SAM3SKR2THOP. (1)
+; F 1460
+24692 old SAM3SKR2THOP. 47. S4A1RN5G. PADDH.· 
+24692 new SAM3SKR2TAPA1T2HOP. 47. S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; SAM3SKRR2TAPA1T2HOP. (1)
+; F 6840
+117200 old SAM3SKRR2TAPA1T2HOP. 36. [Seite3.457]· 
+117200 new SAM3SKR2TAPA1T2HOP. 36. [Seite3.457]· 
+;
+; --------------------------------------------
+; SAM3SKRTAPA1HOP. (1)
+; F 1255
+21054 old SAM3SKRTAPA1HOP. 52. ²a. {#nityodyatasya· 
+21054 new SAM3SKR2TAPA1T2HOP. 52. ²a. {#nityodyatasya· 
+;
+; --------------------------------------------
+; SAM3SKRTAPA1T2HOP. (1)
+; F 5151
+88801 old 16, 7. SAM3SKRTAPA1T2HOP. 56. ²a. ²b.· 
+88801 new 16, 7. SAM3SKR2TAPA1T2HOP. 56. ²a. ²b.· 
+;
+; --------------------------------------------
+; SAM3SKRTAPA1THOP. (2)
+; F 913
+15058 old SAM3SKRTAPA1THOP. 57. ²a. {#anuzocasva#}· 
+15058 new SAM3SKR2TAPA1T2HOP. 57. ²a. {#anuzocasva#}· 
+;
+; F 5418
+93122 old SAM3SKRTAPA1THOP. 36.· 
+93122 new SAM3SKR2TAPA1T2HOP. 36.· 
+;
+; --------------------------------------------
+; SAM3SRR2TAPA1T2HOP. (1)
+; F 2876
+49938 old HOEFER 73. SAM3SRR2TAPA1T2HOP. 54. ²a.· 
+49938 new HOEFER 73. SAM3SKR2TAPA1T2HOP. 54. ²a.· 
+;
+; --------------------------------------------
+; SAMSKR2TAPA1THOP. (1)
+; F 2901
+50337 old WEBER; bei HOEFER 72. SAMSKR2TAPA1THOP.· 
+50337 new WEBER; bei HOEFER 72. SAM3SKR2TAPA1T2HOP.· 
+;
+; --------------------------------------------
+; SAN5KR2TAPA1T2HOP. (1)
+; F 5975
+102655 old GALAN. 7. SAN5KR2TAPA1T2HOP. 62.· 
+102655 new GALAN. 7. SAM3SKR2TAPA1T2HOP. 62.· 
+;
+; --------------------------------------------
+; SAN5SKR2TAPA1HOP. (1)
+; F 3566 print change
+61498 old vyanuzocataH#} SAN5SKR2TAPA1HOP.· 
+61498 new vyanuzocataH#} SAM3SKR2TAPA1T2HOP.· 
+;
+; --------------------------------------------
+; SAN5SKR2TAPA1T2HOP. (1)
+; F 5795 print change
+99416 old SAN5SKR2TAPA1T2HOP. 53. S4KDR. unter· 
+99416 new SAM3SKR2TAPA1T2HOP. 53. S4KDR. unter· 
+;
+; --------------------------------------------
+; SAPTARANA (1)
+; F 6246 print change
+107338 old <F>6246) SAPTARANA 4 und VA1NRJASHT2AKA· 
+107338 new <F>6246) SAPTARATA 4 und VA1NARJASHT2AKA· 
+;
+; --------------------------------------------
+; SAPTARATNA (4)
+; --------------------------------------------
+; SAPTARATRA (1)
+; F 6073 print change
+104416 old <F>6073) SAPTARATRA 5 bei HAEB.· 
+104416 new <F>6073) SAPTARATNA 5 bei HAEB.· 
+;
+; --------------------------------------------
+; SARASV. (2)
+; --------------------------------------------
+; SARASVARTIKAN2T2HA1BHARAN2A (1)
+; F 6782
+116223 old <F>6782) SARASVARTIKAN2T2HA1BHARAN2A 2,· 
+116223 new <F>6782) SARASVATI1KAN2T2HA1BHARAN2A 2,· 
+;
+; --------------------------------------------
+; SARASVATI1KAN2T2HA1BHARAN2A. (1)
+; --------------------------------------------
+; SARASVATI1KAN2T2HA1BUARAN2A (1)
+; F 4887
+84523 old <F>4887) SARASVATI1KAN2T2HA1BUARAN2A 2,· 
+84523 new <F>4887) SARASVATI1KAN2T2HA1BHARAN2A 2,· 
+;
+; --------------------------------------------
+; SARASVATI1KANT2HA1BHA1RAN2A (1)
+; F 4084
+70411 old <F>4084) SARASVATI1KANT2HA1BHA1RAN2A 2,· 
+70411 new <F>4084) SARASVATI1KAN2T2HA1BHARAN2A 2,· 
+;
+; --------------------------------------------
+; SARASVATIKAN2T2HA1BHARN2A (1)
+; F 7501
+128293 old <F>7501) SARASVATIKAN2T2HA1BHARN2A i,· 
+128293 new <F>7501) SARASVATI1KAN2T2HA1BHARAN2A i,· 
+;
+; --------------------------------------------
+; SARASVATIKAN2THA1BHARAN2A (1)
+; F 7528
+128737 old <F>7528) SARASVATIKAN2THA1BHARAN2A 4, 22· 
+128737 new <F>7528) SARASVATI1KAN2T2HA1BHARAN2A 4, 22· 
+;
+; --------------------------------------------
+; SARASVATIKATIKAN2T2ABHARAN2A (1)
+; F 7527
+128721 old <F>7527) SARASVATIKATIKAN2T2ABHARAN2A 2,· 
+128721 new <F>7527) SARASVATI1KAN2T2HA1BHARAN2A 2,· 
+;
+; --------------------------------------------
+; SARVADARS4AMAS. (1)
+; F 7319
+125240 old <F>7319) BR2HASPATI in SARVADARS4AMAS.· 
+125240 new <F>7319) BR2HASPATI in SARVADARS4ANAS.· 
+;
+; --------------------------------------------
+; SARVADAS4ANAS. (1)
+; F 3967
+68318 old <F>3967) SARVADAS4ANAS. 15. ²c.· 
+68318 new <F>3967) SARVADARS4ANAS. 15. ²c.· 
+;
+; --------------------------------------------
+; SCBHA1SH. (1)
+; F 4677
+80903 old SCBHA1SH. ²b. {#hRdaye cApi halAhalaM· 
+80903 new SUBHA1SH. ²b. {#hRdaye cApi halAhalaM· 
+;
+; --------------------------------------------
+; SCHAL. (1)
+; F 5290
+91029 old <F>5290) HIT. ed. SCHAL. I, 47. JOHNS.· 
+91029 new <F>5290) HIT. ed. SCHL. I, 47. JOHNS.· 
+;
+; --------------------------------------------
+; SCHBHA1SH. (1)
+; F 2156
+37259 old <F>2156) SCHBHA1SH. 279. ²a. {#bhrAta#}· 
+37259 new <F>2156) SUBHA1SH. 279. ²a. {#bhrAta#}· 
+;
+; --------------------------------------------
+; SCHI. (4)
+; F 13
+231 old <F>13) PRAB. 94. HIT. ed. SCHI. IV, 82.· 
+231 new <F>13) PRAB. 94. HIT. ed. SCHL. IV, 82.· 
+;
+; F 22
+374 old SCHI. IV, 47. ed. JOHNS. 51. ²a.· 
+374 new SCHL. IV, 47. ed. JOHNS. 51. ²a.· 
+;
+; F 110
+1876 old <F>110) HIT. ed. SCHI. IV, 81. ed.· 
+1876 new <F>110) HIT. ed. SCHL. IV, 81. ed.· 
+;
+; F 123
+2086 old <F>123) HIT. ed. SCHI. IV, 77. ed.· 
+2086 new <F>123) HIT. ed. SCHL. IV, 77. ed.· 
+;
+; --------------------------------------------
+; SCHIEFNEG (1)
+; F 2596
+45027 old VISHAJÖPAHA1SA (vgl. SCHIEFNEG und WEBER· 
+45027 new VISHAJÖPAHA1SA (vgl. SCHIEFNER und WEBER· 
+;
+; --------------------------------------------
+; SCHIEYNER (1)
+; F 1989
+34097 old lokastathApyataM#} bei SCHIEYNER und· 
+34097 new lokastathApyataM#} bei SCHIEFNER und· 
+;
+; --------------------------------------------
+; SCHIL. (1)
+; F 1075
+17922 old <F>1075) HIT. ed. SCHIL. III, 145. ed.· 
+17922 new <F>1075) HIT. ed. SCHL. III, 145. ed.· 
+;
+; --------------------------------------------
+; SCHIRFNER (2)
+; F 5197
+89515 old GALAN. 75. bei SCHIRFNER und WEBER S.· 
+89515 new GALAN. 75. bei SCHIEFNER und WEBER S.· 
+;
+; F 5544
+95174 old bei SCHIRFNER und WEDER S. 23. ²a.· 
+95174 new bei SCHIEFNER und WEBER S. 23. ²a.· 
+;
+; --------------------------------------------
+; SCHL (2)
+; F 1964
+33663 old <F>1964) HIT. ed. SCHL ad II, 21. ²a.· 
+33663 new <F>1964) HIT. ed. SCHL. ad II, 21. ²a.· 
+;
+; F 4630
+79939 old <F>4630) HIT. ed. SCHL, II, 118. JOHNS.· 
+79939 new <F>4630) HIT. ed. SCHL. II, 118. JOHNS.· 
+;
+; --------------------------------------------
+; SCHL. GORR. (0)
+; --------------------------------------------
+; SCHL. II. (5)
+; --------------------------------------------
+; SCHL. III. (1)
+; --------------------------------------------
+; SCHL. IV (98)
+; --------------------------------------------
+; SCHL. IV. (4)
+; --------------------------------------------
+; SCHL. JOHNS. (0)
+; --------------------------------------------
+; SCHL. PT. (2)
+; F 1249
+20941 old Bomb. 129. HIT. ed. SCHL. PT. 35. ed.· 
+20941 new Bomb. 129. HIT. ed. SCHL. Pr. 35. ed.· 
+;
+; F 1255
+21052 old ed. SCHL. PT. 30. ed. JOHNS. 31. S4A1RN5G.· 
+21052 new ed. SCHL. Pr. 30. ed. JOHNS. 31. S4A1RN5G.· 
+;
+; --------------------------------------------
+; SCHLEGEL. (4)
+; V1 1790
+30645 old <V1>1790. ²c. ²d. SCHLEGEL. hatte in den· 
+30645 new <V1>1790. ²c. ²d. SCHLEGEL hatte in den· 
+;
+; F 6877
+117798 old {#susthitaMnyo#} (welches SCHLEGEL. und· 
+117798 new {#susthitaMnyo#} (welches SCHLEGEL und· 
+;
+; F 6897
+118137 old SCHLEGEL. und LASSEN, trennen {#°chAye· 
+118137 new SCHLEGEL und LASSEN, trennen {#°chAye· 
+;
+; F 6948
+118947 old SCHLEGEL und LASSEN zu HIT. I, 180.· 
+118947 new SCHLEGEL. und LASSEN zu HIT. I, 180.· 
+;
+; --------------------------------------------
+; SCHOL. (6)
+; --------------------------------------------
+; SHAD2RATNA (6)
+; --------------------------------------------
+; SHAVIS4RSHA1NJOKTI (1)
+; F 4018 print change
+69169 old PADHATI, VR2{?} SHAVIS4RSHA1NJOKTI 29· 
+69169 new PADDHATI, VR2KSHAVIS4ESHA1NJOKTI 29· 
+;
+; --------------------------------------------
+; SHCIEFNER (1)
+; F 1422
+23930 old <F>1422) BHARTR2. bei SHCIEFNER und WEBER· 
+23930 new <F>1422) BHARTR2. bei SCHIEFNER und WEBER· 
+;
+; --------------------------------------------
+; SIBJA1SH. (1)
+; F 5502
+94477 old <F>5502) SIBJA1SH. 33. ²c. {#puMsAM#}· 
+94477 new <F>5502) SUBHA1SH. 33. ²c. {#puMsAM#}· 
+;
+; --------------------------------------------
+; SIEGFRIED GOLDSCHMIDT (1)
+; V3 6634
+113773 old SIEGFRIED GOLDSCHMIDT in· 
+113773 new SIEGFRIED GOLDSCHMIDT in· 
+;
+; --------------------------------------------
+; SIM3HA1SANADV. (2)
+; --------------------------------------------
+; SMR2TI. (2)
+; --------------------------------------------
+; STHA1NA1VSTHA1KATHANA. (1)
+; F 2931
+50866 old PRIJAPRA_ STHA1NA1VSTHA1KATHANA. ²a.· 
+50866 new PRIJAPRASTHA1NA1VASTHA1KATHANA. ²a.· 
+;
+; --------------------------------------------
+; SUBA1SH. (3)
+; F 939
+15521 old SUBA1SH. ²c. {#ca#} st. {#tu#} KOSEG.· 
+15521 new SUBHA1SH. ²c. {#ca#} st. {#tu#} KOSEG.· 
+;
+; F 1250
+20959 old nAsti#} CA1N2. {#dAridraM#} SUBA1SH. ²c.· 
+20959 new nAsti#} CA1N2. {#dAridraM#} SUBHA1SH. ²c.· 
+;
+; F 4830
+83532 old <F>4830) SUBA1SH. 258. ²a. {#mAnadhAtA#}· 
+83532 new <F>4830) SUBHA1SH. 258. ²a. {#mAnadhAtA#}· 
+;
+; --------------------------------------------
+; SUBAH1SH. (5)
+; F 4082
+70380 old <F>4082) SUBAH1SH. 277. CARR 431. ²b.· 
+70380 new <F>4082) SUBHA1SH. 277. CARR 431. ²b.· 
+;
+; F 4428
+76385 old <F>4428) SUBAH1SH. 266. ²a.· 
+76385 new <F>4428) SUBHA1SH. 266. ²a.· 
+;
+; F 4431
+76434 old <F>4431) SUBAH1SH. 68. 227. ²a. {#bAla· 
+76434 new <F>4431) SUBHA1SH. 68. 227. ²a. {#bAla· 
+;
+; F 6160
+105859 old <F>6160) SUBAH1SH. 187. ²a. {#°jAtiH#}· 
+105859 new <F>6160) SUBHA1SH. 187. ²a. {#°jAtiH#}· 
+;
+; F 6419
+110146 old <F>6419) SUBAH1SH. 75. ²d.· 
+110146 new <F>6419) SUBHA1SH. 75. ²d.· 
+;
+; --------------------------------------------
+; SUBH. PRAS. (0)
+; --------------------------------------------
+; SUBHA1 (2)
+; F 3862
+66488 old SUBHA1sh. 124. ²c. ²d. vor ²a. ²b. bei· 
+66488 new SUBHA1SH. 124. ²c. ²d. vor ²a. ²b. bei· 
+;
+; F 6141
+105515 old <F>6141) SUBHA1 37. ²b. {#vinAtmanaH#}· 
+105515 new <F>6141) SUBHA1SH. 37. ²b. {#vinAtmanaH#}· 
+;
+; --------------------------------------------
+; SUBHA1. (3)
+; F 3558
+61362 old <F>3558) SUBHA1. 298. ²a. {#mRdutA#} die· 
+61362 new <F>3558) SUBHA1SH. 298. ²a. {#mRdutA#} die· 
+;
+; F 3689
+63488 old <F>3689) SUBHA1. 292. ²c. {#satyaM#} die· 
+63488 new <F>3689) SUBHA1SH. 292. ²c. {#satyaM#} die· 
+;
+; F 6939
+118813 old <F>6939) SUBHA1. 138. ²a. {#sarvaH#} die· 
+118813 new <F>6939) SUBHA1SH. 138. ²a. {#sarvaH#} die· 
+;
+; --------------------------------------------
+; SUBHA1BH. (1)
+; F 2505
+43403 old bhinnaM#} SUBHA1BH. ²b. {#naiko· 
+43403 new bhinnaM#} SUBHA1SH. ²b. {#naiko· 
+;
+; --------------------------------------------
+; SUBHA1HA1SH. (1)
+; F 1714
+29076 old SUBHA1HA1SH. ²c. ²d. {#zraddhA· 
+29076 new SUBHA1SH. ²c. ²d. {#zraddhA· 
+;
+; --------------------------------------------
+; SUBHA1OSH. (1)
+; F 5573
+95695 old VIKRAMAC. 124. SUBHA1OSH. 154. ²a.· 
+95695 new VIKRAMAC. 124. SUBHA1SH. 154. ²a.· 
+;
+; --------------------------------------------
+; SUBHA1S. (2)
+; F 1090
+18237 old kartuM#} SUBHA1S. ²c. {#tato#} st.· 
+18237 new kartuM#} SUBHA1SH. ²c. {#tato#} st.· 
+;
+; F 1190
+19994 old VIKRAMAC 154, ²b. SUBHA1S. 25. ²a.· 
+19994 new VIKRAMAC 154, ²b. SUBHA1SH. 25. ²a.· 
+;
+; --------------------------------------------
+; SUBHA1SH. AUFRECHT (1)
+; F 7259
+124268 old {#taccittaM#} SUBHA1SH. AUFRECHT lässt· 
+124268 new {#taccittaM#} SUBHA1SH. AUFRECHT lässt· 
+;
+; --------------------------------------------
+; SUBHA1SH. CA1N2. (0)
+; --------------------------------------------
+; SUBHA1SH. GA1RUD2A-P. (0)
+; --------------------------------------------
+; SUBHA1SH. HAEB. (0)
+; --------------------------------------------
+; SUBHA1SH. HARIV. (0)
+; --------------------------------------------
+; SUBHA1SH. KOSEG. SUBHA1SH. (0)
+; --------------------------------------------
+; SUBHA1SH. PAN5CAT. (0)
+; --------------------------------------------
+; SUBHA1SH. PRASAN5GA1BH. (0)
+; --------------------------------------------
+; SUBHA1SH. S4A1RN5G. PADDH. (0)
+; --------------------------------------------
+; SUBHA1SH. VIKRAMAC. (0)
+; --------------------------------------------
+; SUBHA1SH. VR2DDHA-CA1N2. (0)
+; --------------------------------------------
+; SUBHA1SU. (10)
+; F 12
+217 old <F>12) SUBHA1SU. 83. ²b. {#yoSitaH#}· 
+217 new <F>12) SUBHA1SH. 83. ²b. {#yoSitaH#}· 
+;
+; F 31
+497 old <F>31) SUBHA1SU. 164. 185.· 
+497 new <F>31) SUBHA1SH. 164. 185.· 
+;
+; F 101
+1727 old {#dhananirdanaM#} SUBHA1SU. ²c.· 
+1727 new {#dhananirdanaM#} SUBHA1SH. ²c.· 
+;
+; F 101
+1730 old {#sarvametannirartham#} SUBHA1SU.,· 
+1730 new {#sarvametannirartham#} SUBHA1SH.,· 
+;
+; F 4872
+84242 old <F>4872) SUBHA1SU. 116. ²b.· 
+84242 new <F>4872) SUBHA1SH. 116. ²b.· 
+;
+; F 4896
+84719 old <F>4896) SUBHA1SU. 76. ²d. {#kaSTa#} die· 
+84719 new <F>4896) SUBHA1SH. 76. ²d. {#kaSTa#} die· 
+;
+; F 4910
+84956 old jIvati#} SUBHA1SU. {#jIvatu#} (das schon· 
+84956 new jIvati#} SUBHA1SH. {#jIvatu#} (das schon· 
+;
+; F 5176
+89158 old <F>5176) SUBHA1SU. 271.· 
+89158 new <F>5176) SUBHA1SH. 271.· 
+;
+; F 5197
+89521 old SUBHA1SU. ²d. {#°capalaiH#}.· 
+89521 new SUBHA1SH. ²d. {#°capalaiH#}.· 
+;
+; F 5368
+92295 old <F>5368) VR2DDHA-KA1N2. 15, 1. SUBHA1SU.· 
+92295 new <F>5368) VR2DDHA-KA1N2. 15, 1. SUBHA1SH.· 
+;
+; --------------------------------------------
+; SUBHA4SH. (3)
+; F 1089
+18210 old {#balavAn#} SUBHA4SH. ²a. b. lauten bei· 
+18210 new {#balavAn#} SUBHA1SH. ²a. b. lauten bei· 
+;
+; F 1089
+18215 old {#apramAdI ca#} SUBHA4SH. ²d.· 
+18215 new {#apramAdI ca#} SUBHA1SH. ²d.· 
+;
+; F 1089
+18217 old SUBHA4SH.· 
+18217 new SUBHA1SH.· 
+;
+; --------------------------------------------
+; SUBHASH. (1)
+; F 1007
+16690 old <F>1007) SUBHASH. 53. ²c. {#vani#} st.· 
+16690 new <F>1007) SUBHA1SH. 53. ²c. {#vani#} st.· 
+;
+; --------------------------------------------
+; SUBRA1SH (1)
+; F 4835
+83623 old <F>4835) SUBRA1SH 298. ²b.· 
+83623 new <F>4835) SUBHA1SH 298. ²b.· 
+;
+; --------------------------------------------
+; SUBUA1SU. (1)
+; F 4857
+83991 old VIKRAMAC. 57. SUBUA1SU. 179. ²a.· 
+83991 new VIKRAMAC. 57. SUBHA1SH. 179. ²a.· 
+;
+; --------------------------------------------
+; SUDARS4ANA (1)
+; --------------------------------------------
+; SUDHA1SH. (1)
+; F 1138
+19062 old <F>1138) SUDHA1SH. 240. ²a. {#naya· 
+19062 new <F>1138) SUBHA1SH. 240. ²a. {#naya· 
+;
+; --------------------------------------------
+; SUHA1SH. (1)
+; F 4662
+80651 old 61. SUHA1SH. 76. ²c. {#puratAM#} st.· 
+80651 new 61. SUBHA1SH. 76. ²c. {#puratAM#} st.· 
+;
+; --------------------------------------------
+; SURHA1SH. (1)
+; F 1090
+18236 old SURHA1SH. ²b. {#sahasramapi lakSamIkSate· 
+18236 new SUBHA1SH. ²b. {#sahasramapi lakSamIkSate· 
+;
+; --------------------------------------------
+; SURHA4SH. (1)
+; F 1089
+18208 old RA4JANI1TI, SURHA4SH. 299. GALAN.· 
+18208 new RA1JANI1TI, SUBHA1SH. 299. GALAN.· 
+;
+; --------------------------------------------
+; TEZA. (7)
+; --------------------------------------------
+; TH. AUFERECHT (1)
+; F 7551
+129094 old 39 (mitgetheilt von TH. AUFERECHT in Z.· 
+129094 new 39 (mitgetheilt von TH. AUFRECHT in Z.· 
+;
+; --------------------------------------------
+; TH. AUFRECHET (2)
+; F 7458
+127616 old TH. AUFRECHET in Z. d. d. m. G. 25,· 
+127616 new TH. AUFRECHT in Z. d. d. m. G. 25,· 
+;
+; F 7522
+128626 old (mitgetheilt von TH. AUFRECHET in Z. d.· 
+128626 new (mitgetheilt von TH. AUFRECHT in Z. d.· 
+;
+; --------------------------------------------
+; TR. AUFRECHT (1)
+; F 2009
+34509 old mitgetheilt von TR. AUFRECHT in Z. d. d.· 
+34509 new mitgetheilt von TH. AUFRECHT in Z. d. d.· 
+;
+; --------------------------------------------
+; TRILOCANA (1)
+; F 1162
+19465 old <F>1162) TRILOCANA in S4A1RN5G. PADDH.· 
+19465 new <F>1162) TRILOCANA in S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; TROVER (3)
+; F 1111
+18609 old TROVER in RA1JA-TAR. 1, 506. ²b.· 
+18609 new TROYER in RA1JA-TAR. 1, 506. ²b.· 
+;
+; F 3322
+57467 old {#jAlikaH#} lesen möchte; TROVER meint,· 
+57467 new {#jAlikaH#} lesen möchte; TROYER meint,· 
+;
+; F 7423
+127087 old TROVER, dass {#°vikRtiM#} daselbst· 
+127087 new TROYER, dass {#°vikRtiM#} daselbst· 
+;
+; --------------------------------------------
+; TULLEB. (1)
+; F 4229
+72897 old <F>4229) MA1LAV. ed. TULLEB. 94. ed.· 
+72897 new <F>4229) MA1LAV. ed. TULLB. 94. ed.· 
+;
+; --------------------------------------------
+; U1RDHVA1MNA1JAS. (1)
+; --------------------------------------------
+; UDBHATA (1)
+; F 4794.95
+82886 old S4KDR. unter {#gavAzana#} ist UDBHATA· 
+82886 new S4KDR. unter {#gavAzana#} ist UDBHAT2A· 
+;
+; --------------------------------------------
+; UGJVAL. (1)
+; F 621
+10274 old saMbhRtaM#} UGJVAL. ²d. {#caturaM#} st.· 
+10274 new saMbhRtaM#} UJJVAL. ²d. {#caturaM#} st.· 
+;
+; --------------------------------------------
+; UJJVAL. (9)
+; --------------------------------------------
+; UJJVAL. ZU UN2A1DIS. (0)
+; F 1892
+32291 old <F>1892) VJA1SA bei UJJVAL. ZU· 
+32291 new <F>1892) VJA1SA bei UJJVAL. zu· 
+; F 1817
+31084 old <F>1817) BHA1GAVR2TTI bei UJJVAL. ZU· 
+31084 new <F>1817) BHA1GAVR2TTI bei UJJVAL. zu· 
+; F 1688
+28614 old 7. SUBHA1SH. 69. UTPALA ZU VARA1H. BR2H.· 
+28614 new 7. SUBHA1SH. 69. UTPALA zu VARA1H. BR2H.· 
+; F 1939
+33153 old <F>1939) AMAR. 34. Comm. ZU DAS4AR.· 
+33153 new <F>1939) AMAR. 34. Comm. zu DAS4AR.· 
+; --------------------------------------------
+; UJJVAL. ZU UNA1DIS. (0)
+; --------------------------------------------
+; UJJVALADATTA (1)
+; --------------------------------------------
+; UNA1DIS. (2)
+; F 562
+9219 old UNA1DIS. S. 150. ²a. {#api#} AUFRECHT'S· 
+9219 new UN2A1DIS. S. 150. ²a. {#api#} AUFRECHT'S· 
+;
+; F 1892
+32292 old UNA1DIS. 2, 79. S4A1RN5G. PADDH.· 
+32292 new UN2A1DIS. 2, 79. S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; UND (3)
+; F 70
+1118 old <F>70) PRAB. 30. SARVADARS4ANAS. 3 UND· 
+1118 new <F>70) PRAB. 30. SARVADARS4ANAS. 3 und· 
+;
+; F 176
+2926 old 181 UND 199. ²a. {#atyAsaM#} und· 
+2926 new 181 und 199. ²a. {#atyAsaM#} und· 
+;
+; F 5352
+92020 old 99. JOHNS. 108. ²a. {#sanmAno#} UND· 
+92020 new 99. JOHNS. 108. ²a. {#sanmAno#} und· 
+;
+; --------------------------------------------
+; UPHAM (1)
+; --------------------------------------------
+; US4NAS (1)
+; F 3722
+64078 old <F>3722) HARIV. 1175. Wird US4NAS· 
+64078 new <F>3722) HARIV. 1175. Wird US4ANAS· 
+;
+; --------------------------------------------
+; UTPALA ZU VARA1H. BR2H. (1)
+;
+; --------------------------------------------
+; UTPALA. (1)
+; --------------------------------------------
+; UTTARACA1TAKA1SHT2AKA (4)
+; --------------------------------------------
+; UTTARARA1MAC. (1)
+; --------------------------------------------
+; VA1NAGJASHTAKA (1)
+; F 1149
+19245 old 22. ed. JOHNS. 24. VA1NAGJASHTAKA 1 bei· 
+19245 new 22. ed. JOHNS. 24. VA1NARJASHT2AKA 1 bei· 
+;
+; --------------------------------------------
+; VA1NAR. (1)
+; --------------------------------------------
+; VA1NARA1SATAKA (1)
+; F 1959
+33568 old <F>1959) VA1NARA1SATAKA 3 bei HAEB. 244.· 
+33568 new <F>1959) VA1NARA1SHT2AKA 3 bei HAEB. 244.· 
+;
+; --------------------------------------------
+; VA1NARA1SHT2AK (1)
+; F 6500
+111559 old <F>6500) VA1NARA1SHT2AK 6 bei HAEB. in· 
+111559 new <F>6500) VA1NARA1SHT2AKA 6 bei HAEB. in· 
+;
+; --------------------------------------------
+; VA1NARA1SHT2AKA (5)
+; --------------------------------------------
+; VA1NARJASHT2. (2)
+; --------------------------------------------
+; VA1NARJASHT2AKA (6)
+; --------------------------------------------
+; VA1NARJASHTAKA (1)
+; F 6284
+107959 old VA1NARJASHTAKA 6 bei HAEB. in KA1VJAKAL.· 
+107959 new VA1NARJASHT2AKA 6 bei HAEB. in KA1VJAKAL.· 
+;
+; --------------------------------------------
+; VA1NRJASHT2AKA (1)
+; --------------------------------------------
+; VAJRASU1KI (1)
+; F 6272
+107759 old VAJRASU1KI 218. DAM3PATIS4. 24.· 
+107759 new VAJRASU1CI 218. DAM3PATIS4. 24.· 
+;
+; --------------------------------------------
+; VALLABHADEVA (2)
+; --------------------------------------------
+; VARA1H. BR2SH. (1)
+; --------------------------------------------
+; VARA1H. BRH. (1)
+; F 5808
+99694 old <F>5808) VARA1H. BRH. S. 47, 14.· 
+99694 new <F>5808) VARA1H. BR2H. S. 47, 14.· 
+;
+; --------------------------------------------
+; VARA1H. JOGAJA1RA1 (1)
+; F 3899
+67158 old <F>3899) VARA1H. JOGAJA1RA1 2, 5 in Ind.· 
+67158 new <F>3899) VARA1H. JOGAJA1TRA1 2, 5 in Ind.· 
+;
+; --------------------------------------------
+; VARA1H. JOGAJA1TRA1 (5)
+; --------------------------------------------
+; VARAR. NI1TIS. (1)
+; --------------------------------------------
+; VEDDHA-CA1N2. (1)
+; F 245
+4064 old <F>245) VEDDHA-CA1N2. 15, 10. SUBHA1SH.· 
+4064 new <F>245) VR2DDHA-CA1N2. 15, 10. SUBHA1SH.· 
+;
+; --------------------------------------------
+; VENI1SAM3H. (1)
+; --------------------------------------------
+; VET (1)
+; F 4987
+86282 old JOHNS. 25. VET in LA. (III) 24.· 
+86282 new JOHNS. 25. VET. in LA. (III) 24.· 
+;
+; --------------------------------------------
+; VET. MUDR. (0)
+; --------------------------------------------
+; VETA1LA2BH. NITIPR. (1)
+; F 1754
+29943 old VETA1LA2BH. NITIPR. 12 bei HAEB. S. 528.· 
+29943 new VETA1LABH. NI1TIPR. 12 bei HAEB. S. 528.· 
+;
+; --------------------------------------------
+; VIDJA1PATI (1)
+; --------------------------------------------
+; VII (1)
+; --------------------------------------------
+; VIJJA1KA1 (1)
+; F 2309
+39843 old <F>2309) VIJJA1KA1 in S4A1RN5G. PADDH.· 
+39843 new <F>2309) VIJJA1KA1 in S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; VIJJA1KA1. (1)
+; F 4353
+75080 old VIJJA1KA1. ²a. {#priyasakha°;· 
+75080 new VIJJA1KA1. ²a. {#priyasakha°;· 
+;
+; --------------------------------------------
+; VIKAMAC. (1)
+; F 1822
+31180 old <F>1822) VIKAMAC. 15. ²c.· 
+31180 new <F>1822) VIKAMAC. 15. ²c.· 
+;
+; --------------------------------------------
+; VIKARAMAC. (3)
+; F 3262
+56483 old <F>3262) VIKARAMAC. 81. Vgl. Spruch· 
+56483 new <F>3262) VIKRAMAC. 81. Vgl. Spruch· 
+;
+; F 3880
+66825 old st. {#puruSakAro 'pi#} VIKARAMAC.· 
+66825 new st. {#puruSakAro 'pi#} VIKRAMAC.· 
+;
+; F 6512
+111782 old {#subhagastu#} VIKARAMAC. ²b. {#zAstrANi· 
+111782 new {#subhagastu#} VIKRAMAC. ²b. {#zAstrANi· 
+;
+; --------------------------------------------
+; VIKHAMAC. (2)
+; F 2392
+41376 old {#mRgaiH#} st. {#mRtaiH#} VIKHAMAC. ²d.· 
+41376 new {#mRgaiH#} st. {#mRtaiH#} VIKRAMAC. ²d.· 
+;
+; F 4300
+74149 old 212. VIKHAMAC. 250, ²b. ²b. {#kRtvaiva#}· 
+74149 new 212. VIKRAMAC. 250, ²b. ²b. {#kRtvaiva#}· 
+;
+; --------------------------------------------
+; VIKRAMA1C. (1)
+; F 7034
+120389 old VET. in LA. (III) 27. VIKRAMA1C. 53.· 
+120389 new VET. in LA. (III) 27. VIKRAMAC. 53.· 
+;
+; --------------------------------------------
+; VIKRAMA4. (1)
+; F 4701
+81269 old <F>4701) VIKRAMA4. 26. Unsere· 
+81269 new <F>4701) VIKRAMAC. 26. Unsere· 
+;
+; --------------------------------------------
+; VIKRAMA4K. (1)
+; F 1232
+20631 old <F>1232) VIKRAMA4K. 249. KAVIBHAT2T2A,· 
+20631 new <F>1232) VIKRAMAC. 249. KAVIBHAT2T2A,· 
+;
+; --------------------------------------------
+; VIKRAMAC (3)
+; F 1190
+19994 old VIKRAMAC 154, ²b. SUBHA1S. 25. ²a.· 
+19994 new VIKRAMAC. 154, ²b. SUBHA1S. 25. ²a.· 
+;
+; F 1307
+21908 old JOHNS. 164. ed. Bomb. S. 99. VIKRAMAC 76.· 
+21908 new JOHNS. 164. ed. Bomb. S. 99. VIKRAMAC. 76.· 
+;
+; F 1343
+22546 old <F>1343) VIKRAMAC, 234. Unsere· 
+22546 new <F>1343) VIKRAMAC. 234. Unsere· 
+;
+; --------------------------------------------
+; VIKRAMAC. HIT. (0)
+; --------------------------------------------
+; VIKRAMAC. SUBHA1SH (0)
+; F 5786
+99252 old {#naimittikakalAcAryaH#} SUBHA1SH ²d.· 
+99252 new {#naimittikakalAcAryaH#} SUBHA1SH. ²d.· 
+; --------------------------------------------
+; VIKRAMAC. SUBHA1SH. (0)
+; --------------------------------------------
+; VIKRAMAC5. (1)
+; F 4249
+73209 old <F>4249) VIKRAMAC5. 91. S4A1RN5G. PADDH.· 
+73209 new <F>4249) VIKRAMAC. 91. S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; VIKRAMAE4. (1)
+; F 5927
+101765 old VIKRAMAE4. 154. S4A1RN5G. PADDH.· 
+101765 new VIKRAMAC. 154. S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; VIKRAMAK7. (1)
+; F 1224
+20501 old VIKRAMAK7. 71. KAVITA1MR2TAK. 55. ²b.· 
+20501 new VIKRAMAK. 71. KAVITA1MR2TAK. 55. ²b.· 
+;
+; --------------------------------------------
+; VIKRAMAN5. (1)
+; F 6035
+103727 old <F>6035) VIKRAMAN5. 260. S4A1RN5G.· 
+103727 new <F>6035) VIKRAMAC. 260. S4A1RN5G.· 
+;
+; --------------------------------------------
+; VIKRAMORV. (1)
+;
+; --------------------------------------------
+; VIKRAMORVAS4I (1)
+; F 7357
+125922 old <F>7357) VIKRAMORVAS4I 96.· 
+125922 new <F>7357) VIKRAMORVAS4I1 96.· 
+;
+; --------------------------------------------
+; VIKRAMORVAS4I1 (2)
+; --------------------------------------------
+; VIKRAMORY (1)
+; F 6931
+118704 old <F>6931) VIKRAMORY 163.· 
+118704 new <F>6931) VIKRAMORV. 163.· 
+;
+; --------------------------------------------
+; VIKRMORV. (1)
+; F 6404
+109904 old <F>6404) VIKRMORV. 156. ²a. {#damayati#}· 
+109904 new <F>6404) VIKRAMORV. 156. ²a. {#damayati#}· 
+;
+; --------------------------------------------
+; VILHAN2A (1)
+; --------------------------------------------
+; VIRAKAMAC. (1)
+; F 1941
+33187 old <F>1941) VIRAKAMAC. 220. ²b. {#yo na#}· 
+33187 new <F>1941) VIKRAMAC. 220. ²b. {#yo na#}· 
+;
+; --------------------------------------------
+; VIS4VANA1THA (4)
+; --------------------------------------------
+; VISHN2US4ARMAN (1)
+; F 4764
+82306 old <F>4764) VISHN2US4ARMAN in S4A1RN5G.· 
+82306 new <F>4764) VISHN2US4ARMAN in S4A1RN5G.· 
+;
+; --------------------------------------------
+; VJAHA1RAPRADI1PA (1)
+; F 2034
+35069 old <F>2034) VJAHA1RAPRADI1PA im S4KDR.· 
+35069 new <F>2034) VJAVAHA1RAPRADI1PA im S4KDR.· 
+;
+; --------------------------------------------
+; VP. KA1M. NI1TIS. (0)
+; --------------------------------------------
+; VR2DDH-CA1N2. (2)
+; F 3129
+54205 old <F>3129) VR2DDH-CA1N2. 12, 15. ²b.· 
+54205 new <F>3129) VR2DDHA-CA1N2. 12, 15. ²b.· 
+;
+; F 6092
+104739 old <F>6092) VR2DDH-CA1N2. 5, 15 (14). 12,· 
+104739 new <F>6092) VR2DDHA-CA1N2. 5, 15 (14). 12,· 
+;
+; --------------------------------------------
+; VR2DDH-KA1N2. (1)
+; F 2193
+37856 old <F>2193) VR2DDH-KA1N2. 11, 5. ²b.· 
+37856 new <F>2193) VR2DDHA-CA1N2. 11, 5. ²b.· 
+;
+; --------------------------------------------
+; VR2DDHA CA1N2. (1)
+; F 3933
+67672 old <F>3933) VR2DDHA CA1N2. 16. 8. SUBHA1SH.· 
+67672 new <F>3933) VR2DDHA-CA1N2. 16. 8. SUBHA1SH.· 
+;
+; --------------------------------------------
+; VR2DDHA- CA1N2. (2)
+; F 4086
+70456 old <F>4086) VR2DDHA- CA1N2. 15, 16. ²d.· 
+70456 new <F>4086) VR2DDHA-CA1N2. 15, 16. ²d.· 
+;
+; F 4126
+71178 old <F>4126) VR2DDHA- CA1N2. 14, 3. ²b.· 
+71178 new <F>4126) VR2DDHA-CA1N2. 14, 3. ²b.· 
+;
+; --------------------------------------------
+; VR2DDHA-CA1N1. (1)
+; F 5352
+92019 old VR2DDHA-CA1N1. 1, 8. HIT. ed. SCHL. I,· 
+92019 new VR2DDHA-CA1N2. 1, 8. HIT. ed. SCHL. I,· 
+;
+; --------------------------------------------
+; VR2DDHA-CA1N2 (3)
+; F 4800
+82970 old WEDER; VR2DDHA-CA1N2 2, 11.· 
+82970 new WEDER; VR2DDHA-CA1N2. 2, 11.· 
+;
+; F 6775
+116088 old ed. Ran3gap. VR2DDHA-CA1N2, Berl.· 
+116088 new ed. Ran3gap. VR2DDHA-CA1N2. Berl.· 
+;
+; F 7581
+129528 old <F>7581) VR2DDHA-CA1N2, Berl. Hdschrr.· 
+129528 new <F>7581) VR2DDHA-CA1N2. Berl. Hdschrr.· 
+;
+; --------------------------------------------
+; VR2DDHA-CA1N2. GALANOS (1)
+; --------------------------------------------
+; VR2DDHA-CA1N2. SUBHA1SH. (0)
+; --------------------------------------------
+; VR2DDHA-CA1N3. (1)
+; F 3786
+65172 old <F>3786) VR2DDHA-CA1N3. 5, 5. PAN5CAT.· 
+65172 new <F>3786) VR2DDHA-CA1N2. 5, 5. PAN5CAT.· 
+;
+; --------------------------------------------
+; VR2DDHA-CA1N5. (1)
+; F 5785
+99233 old <F>5785) VR2DDHA-CA1N5. Berl. Hdschrr.· 
+99233 new <F>5785) VR2DDHA-CA1N2. Berl. Hdschrr.· 
+;
+; --------------------------------------------
+; VR2DDHA-CN2. (1)
+; F 7088
+121330 old {#vA#} VR2DDHA-CN2. {#saM#} st. {#vA#}· 
+121330 new {#vA#} VR2DDHA-CA1N2. {#saM#} st. {#vA#}· 
+;
+; --------------------------------------------
+; VR2DDHA-K1A1N2. (1)
+; F 1085
+18124 old <F>1085) VR2DDHA-K1A1N2. 9, 13. ²c.· 
+18124 new <F>1085) VR2DDHA-CA1N2. 9, 13. ²c.· 
+;
+; --------------------------------------------
+; VR2DDHA-K2A1N2. (2)
+; F 6799
+116509 old tapadAnayoH#} VR2DDHA-K2A1N2.)· 
+116509 new tapadAnayoH#} VR2DDHA-CA1N2.)· 
+;
+; F 7333
+125490 old <F>7333) VR2DDHA-K2A1N2. 9, 12.· 
+125490 new <F>7333) VR2DDHA-CA1N2. 9, 12.· 
+;
+; --------------------------------------------
+; VR2DDHA. CA1N. (0)
+; F 1295
+21715 old <F>1295) VR2DDHA. CA1N2. 3, 19. ²d.· 
+21715 new <F>1295) VR2DDHA-CA1N2. 3, 19. ²d.· 
+; --------------------------------------------
+; VR2DDHA0-CA1N2. (2)
+; F 6096
+104810 old <F>6096) VR2DDHA0-CA1N2. 9, 6. Vgl.· 
+104810 new <F>6096) VR2DDHA-CA1N2. 9, 6. Vgl.· 
+;
+; F 6650
+114091 old VR2DDHA0-CA1N2. 4, 11 (10). GALAN. Varr.· 
+114091 new VR2DDHA-CA1N2. 4, 11 (10). GALAN. Varr.· 
+;
+; --------------------------------------------
+; VR2DDHA0CA1N2. (2)
+; F 4567
+78767 old <F>4567) VR2DDHA0CA1N2. 6, 3. ²b.· 
+78767 new <F>4567) VR2DDHA-CA1N2. 6, 3. ²b.· 
+;
+; F 6109
+104992 old 72. bei GALAN. <g></g> 9. VR2DDHA0CA1N2.· 
+104992 new 72. bei GALAN. <g></g> 9. VR2DDHA-CA1N2.· 
+;
+; --------------------------------------------
+; VR2DDHACA1N2. SUBHA1SH. (0)  <<<  line breaks wrongly handled
+; 
+2173 old VR2DDHACA1N2. 16, 11. S4UK. Pet. Hdschr.· 
+;
+2173 new VR2DDHA-CA1N2. 16, 11. S4UK. Pet. Hdschr.· 
+; ---------------------------------------------
+; 
+9563 old VR2DDHACA1N2. 7, 1. HIT. ed. SCHL. I,· 
+;
+9563 new VR2DDHA-CA1N2. 7, 1. HIT. ed. SCHL. I,· 
+; ---------------------------------------------
+; 
+15818 old WEBER, VR2DDHACA1N2. 1, 6. HALA1J.· 
+;
+15818 new WEBER, VR2DDHA-CA1N2. 1, 6. HALA1J.· 
+; ---------------------------------------------
+; 
+29542 old VR2DDHACA1N2. 8, 19. CA1N2. Z, 1 bei· 
+;
+29542 new VR2DDHA-CA1N2. 8, 19. CA1N2. Z, 1 bei· 
+; ---------------------------------------------
+; 
+37693 old VR2DDHACA1N2. 6, 19. NI1TISAM3K. GALAN.· 
+;
+37693 new VR2DDHA-CA1N2. 6, 19. NI1TISAM3K. GALAN.· 
+; ---------------------------------------------
+; 
+48149 old VR2DDHACA1N2. 14, 2. ²c. ²d. vor ²a. ²b.· 
+;
+48149 new VR2DDHA-CA1N2. 14, 2. ²c. ²d. vor ²a. ²b.· 
+; ---------------------------------------------
+; 
+52764 old VR2DDHACA1N2. 7, 2. 12, 21. GALAN. Varr.· 
+;
+52764 new VR2DDHA-CA1N2. 7, 2. 12, 21. GALAN. Varr.· 
+; ---------------------------------------------
+; 
+59319 old VR2DDHACA1N2. 2, 6. S4KDR. unter· 
+;
+59319 new VR2DDHA-CA1N2. 2, 6. S4KDR. unter· 
+; ---------------------------------------------
+; 
+67073 old VR2DDHACA1N2. 12, 6. SUBHA1SH. 187. ²a.· 
+;
+67073 new VR2DDHA-CA1N2. 12, 6. SUBHA1SH. 187. ²a.· 
+; ---------------------------------------------
+; 
+75047 old <F>4352) VR2DDHACA1N2. 16, 17. SUBHA1SH.· 
+;
+75047 new <F>4352) VR2DDHA-CA1N2. 16, 17. SUBHA1SH.· 
+; ---------------------------------------------
+; 
+76359 old VR2DDHACA1N2. 6, 20. S4KDR. unter· 
+;
+76359 new VR2DDHA-CA1N2. 6, 20. S4KDR. unter· 
+; ---------------------------------------------
+; 
+76361 old {#sunidro laghucetanaH#} VR2DDHACA1N2.· 
+;
+76361 new {#sunidro laghucetanaH#} VR2DDHA-CA1N2.· 
+; ---------------------------------------------
+; 
+84337 old {#viSavratyaja#} VR2DDHACA1N2. ²c. ²d.· 
+;
+84337 new {#viSavratyaja#} VR2DDHA-CA1N2. ²c. ²d.· 
+; ---------------------------------------------
+; 
+85875 old Hdschr. des VR2DDHACA1N2. ²d. {#tasmA· 
+;
+85875 new Hdschr. des VR2DDHA-CA1N2. ²d. {#tasmA· 
+; ---------------------------------------------
+; 
+96743 old {#naraH#} st. {#bhavet#} VR2DDHACA1N2.· 
+;
+96743 new {#naraH#} st. {#bhavet#} VR2DDHA-CA1N2.· 
+; ---------------------------------------------
+; 
+103292 old VR2DDHACA1N2. Berl. Hdschrr. 110. ²a.· 
+;
+103292 new VR2DDHA-CA1N2. Berl. Hdschrr. 110. ²a.· 
+; ---------------------------------------------
+; 
+105207 old <F>6121) VR2DDHACA1N2. Berl. Hdschr.· 
+;
+105207 new <F>6121) VR2DDHA-CA1N2. Berl. Hdschr.· 
+; ---------------------------------------------
+; 
+105214 old {#lalATAkSara°#} VR2DDHACA1N2. ²c.· 
+;
+105214 new {#lalATAkSara°#} VR2DDHA-CA1N2. ²c.· 
+; ---------------------------------------------
+; 
+108900 old hastasahasreNa#} VR2DDHACA1N2.· 
+;
+108900 new hastasahasreNa#} VR2DDHA-CA1N2.· 
+; ---------------------------------------------
+; 
+108904 old VR2DDHACA1N2. und SUBHA1SH. Vgl. Spruch· 
+;
+108904 new VR2DDHA-CA1N2. und SUBHA1SH. Vgl. Spruch· 
+; ---------------------------------------------
+; 
+117216 old Aednerung für {#kRta#} (VR2DDHACA1N2.)· 
+;
+117216 new Aednerung für {#kRta#} (VR2DDHA-CA1N2.)· 
+; ---------------------------------------------
+; 
+117221 old VR2DDHACA1N2. lassen noch folgenden· 
+;
+117221 new VR2DDHA-CA1N2. lassen noch folgenden· 
+; ---------------------------------------------
+; 
+120530 old VR2DDHACA1N2. Berl. Hdschrr. ²d.· 
+;
+120530 new VR2DDHA-CA1N2. Berl. Hdschrr. ²d.· 
+; ---------------------------------------------
+; 
+120619 old susiddhamauSadhaM#} VR2DDHACA1N2. ²c.· 
+;
+120619 new susiddhamauSadhaM#} VR2DDHA-CA1N2. ²c.· 
+; ---------------------------------------------
+; 
+121287 old VR2DDHACA1N2. Berl. Hdschrr. 150.· 
+;
+121287 new VR2DDHA-CA1N2. Berl. Hdschrr. 150.· 
+; ---------------------------------------------
+; 
+121324 old VR2DDHACA1N2. 10, 3. SUBHA1SH. 260. ²c.· 
+;
+121324 new VR2DDHA-CA1N2. 10, 3. SUBHA1SH. 260. ²c.· 
+; ---------------------------------------------
+; 
+127790 old {#AyAntim#} VR2DDHACA1N2. ²b.· 
+;
+127790 new {#AyAntim#} VR2DDHA-CA1N2. ²b.· 
+; ---------------------------------------------
+; --------------------------------------------
+; VR2DDHACA1N3. (1)
+; F 1568
+26521 old VR2DDHACA1N3. 13, 18. ²b.· 
+26521 new VR2DDHA-CA1N1. 13, 18. ²b.· 
+;
+; --------------------------------------------
+; VR2DDHAKA1N2. (2)
+; F 694
+11464 old VR2DDHAKA1N2. 6, 21. GALAN. Varr. 131.· 
+11464 new VR2DDHA-CA1N2. 6, 21. GALAN. Varr. 131.· 
+;
+; F 5638
+96740 old (gemeint ist {#AyAti)#} VR2DDHAKA1N2.· 
+96740 new (gemeint ist {#AyAti)#} VR2DDHA-CA1N2.· 
+;
+; --------------------------------------------
+; VR2DHDHA-CA1N2. (1)
+; F 6573
+112786 old <F>6573) VR2DHDHA-CA1N2. 6, 1. ²a.· 
+112786 new <F>6573) VR2DDHA-CA1N2. 6, 1. ²a.· 
+;
+; --------------------------------------------
+; VRDDHA-CA1N. (0)
+; --------------------------------------------
+; VRDDHA-CA1N2. (3)
+; F 268
+4418 old VRDDHA-CA1N2. 13, 7. PAN5CAT. ed. KOSEG.· 
+4418 new VR2DDHA-CA1N2. 13, 7. PAN5CAT. ed. KOSEG.· 
+;
+; V3 2419
+41809 old {#bandhanakalaM#} VRDDHA-CA1N2. ²d.· 
+41809 new {#bandhanakalaM#} VR2DDHA-CA1N2. ²d.· 
+;
+; F 5860
+100657 old ed. Ran3gap. VRDDHA-CA1N2. 6, 12. HIT.· 
+100657 new ed. Ran3gap. VR2DDHA-CA1N2. 6, 12. HIT.· 
+;
+; --------------------------------------------
+; VRDDHACA1N2. (1)
+; F 1221
+20429 old VRDDHACA1N2. 1, 12, PAN5CAT. ed. Bomb.· 
+20429 new VR2DDHA-CA1N2. 1, 12, PAN5CAT. ed. Bomb.· 
+;
+; --------------------------------------------
+; VRT. (2)
+; F 4798
+82925 old <F>4798) VRT. in L. A.(III) 27.· 
+82925 new <F>4798) VET. in LA. (III) 27.· 
+;
+; F 4987
+86291 old 'pi pramattaH#} VRT. ²c. {#prAyaso#}.· 
+86291 new 'pi pramattaH#} VET. ²c. {#prAyaso#}.· 
+;
+; --------------------------------------------
+; VRTA1LAP. (1)
+; F 6081
+104538 old <F>6081) VRTA1LAP. in Z. d. d. m. G. 23,· 
+104538 new <F>6081) VETA1LAP. in Z. d. d. m. G. 23,· 
+;
+; --------------------------------------------
+; WEBBER. (1)
+; F 2957
+51372 old <F>2957) CA1N2. 88 bei WEBBER. ²d.· 
+51372 new <F>2957) CA1N2. 88 bei WEBER. ²d.· 
+;
+; --------------------------------------------
+; WEBER. GALAN. (1)
+; --------------------------------------------
+; WEDER (4)
+; F 4800
+82970 old WEDER; VR2DDHA-CA1N2 2, 11.· 
+82970 new WEBER; VR2DDHA-CA1N2. 2, 11.· 
+;
+; F 5828
+100091 old WEDER S. 25. ²a. {#parataH tiSTha#} die· 
+100091 new WEBER S. 25. ²a. {#parataH tiSTha#} die· 
+;
+; F 5949
+102175 old SCHIEFNER und WEDER S. 25.· 
+102175 new SCHIEFNER und WEBER S. 25.· 
+;
+; --------------------------------------------
+; WEDER. (1)
+; F 5532
+94957 old <F>5532) CA1N2. 32 bei WEDER.· 
+94957 new <F>5532) CA1N2. 32 bei WEBER.· 
+;
+; --------------------------------------------
+; WESTERGARD (1)
+; F 6180.81
+106224 old (vgl. die Noten), bei WESTERGARD S. 49.· 
+106224 new (vgl. die Noten), bei WESTERGAARD S. 49.· 
+;
+; --------------------------------------------
+; WILL. (2)
+; --------------------------------------------
+; WR2DDHA-CA1N2. (1)
+; F 6078
+104497 old WR2DDHA-CA1N2. Berl. Hdschrr. 209. ²a.· 
+104497 new VR2DDHA-CA1N2. Berl. Hdschrr. 209. ²a.· 
+;
+; --------------------------------------------
+; WW. (2)
+; F 4670
+80785 old Monatsberr. d. K. Pr. Ak. d. WW. 1868,· 
+80785 new Monatsberr. d. K. Pr. Ak. d. Ww. 1868,· 
+;
+; F 6521
+111955 old ²d. k. pr. Ak. WW. 1868, S. 108.· 
+111955 new ²d. k. pr. Ak. Ww. 1868, S. 108.· 
+;
+; --------------------------------------------
+; XI. (1)
+; --------------------------------------------
+; XIV. (1)
+;

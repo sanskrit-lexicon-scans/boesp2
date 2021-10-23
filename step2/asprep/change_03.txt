@@ -1,0 +1,752 @@
+; 
+1385 old 11. GORR. 76, 16. {%²a. ²b. %} {#°jo· 
+;
+1385 new 11. GORR. 76, 16. ²a. ²b. {#°jo· 
+; ---------------------------------------------
+; 
+1387 old {#hRdayAccApi jA°#} SCHL. {%²c. ²d. %}· 
+;
+1387 new {#hRdayAccApi jA°#} SCHL. ²c. ²d. · 
+; ---------------------------------------------
+; 
+1597 old PADDH. ²a. {#ajAmiva prajAM#}. {%²a. ²b.· 
+;
+1597 new PADDH. ²a. {#ajAmiva prajAM#}. ²a. ²b.·
+1598 old %} {#mohAdyo hanyAt#}. ²c. {#prItir#}· 
+1598 new {#mohAdyo hanyAt#}. ²c. {#prItir#}· 
+; ---------------------------------------------
+; 
+121779 old SUBHA1SH. 261. {%a.} {#suguptasyApi,· 
+;
+121779 new SUBHA1SH. 261. ²a. {#suguptasyApi,· 
+; ---------------------------------------------
+28947 old d.%} {#prAjJe#} ed. Calc.· 
+28947 new ²d. {#prAjJe#} ed. Calc.· 
+;
+71406 old KUVALAJ. 139, ²a. a.%} {#purAsId#}· 
+71406 new KUVALAJ. 139, ²a. ²a. {#purAsId#}· 
+;
+72646 old a.%} {#Agamayarti = Anayati#} NI1LAK. Im· 
+72646 new ²a. {#Agamayarti = Anayati#} NI1LAK. Im· 
+;
+; 
+263 old ²a. ed. GORR. 24, 37, ²b. 38, {%a. a.%}· 
+;
+263 new ²a. ed. GORR. 24, 37, ²b. 38, ²a. ²a.· 
+; ---------------------------------------------
+; 
+77107 old <F>4470) PRASAN5GA1BH. 13, ²a. a.%} Das· 
+;
+77107 new <F>4470) PRASAN5GA1BH. 13, ²a. ²a. Das· 
+; ---------------------------------------------
+; 
+77122 old <F>4471) S4UK. Pet. Hdschr. 38, ²a. a.%}· 
+;
+77122 new <F>4471) S4UK. Pet. Hdschr. 38, ²a. ²a.· 
+; ---------------------------------------------
+; 
+110241 old 4008, ²a. 13, 5130, ²b. 5131, {%a. a.%}· 
+;
+110241 new 4008, ²a. 13, 5130, ²b. 5131, ²a. ²a.· 
+; ---------------------------------------------
+; 
+110571 old in der Reihenfolge {%c. b. a. d. a.%}· 
+;
+110571 new in der Reihenfolge ²c. ²b. ²a. ²d. ²a.· 
+; ---------------------------------------------
+; 
+111091 old <F>6472) KUVALAJ. 37, {%a. a.%}· 
+;
+111091 new <F>6472) KUVALAJ. 37, ²a. ²a.· 
+; ---------------------------------------------
+;
+114253 old <F>6660) MBH. 12, 5063, ²b. 5064, {%a.· 
+114253 new <F>6660) MBH. 12, 5063, ²b. 5064, ²a.· 
+;
+114254 old a.%} Statt {#sakhyaM#} könnte man· 
+114254 new ²a. Statt {#sakhyaM#} könnte man· 
+; ---------------------------------------------
+; 
+115013 old 30. 73. GORR. 12, ²b. 13, {%a. a.%}· 
+;
+115013 new 30. 73. GORR. 12, ²b. 13, ²a. ²a.· 
+; ---------------------------------------------
+; 
+115512 old JOHNS. 182. PRASAN5GA1BH. 7, {%b. a.%}· 
+;
+115512 new JOHNS. 182. PRASAN5GA1BH. 7, ²b. ²a.· 
+; ---------------------------------------------
+; 
+116895 old <F>6821) MBH. 12, 876, ²b. 877, {%a. a.%}· 
+;
+116895 new <F>6821) MBH. 12, 876, ²b. 877, ²a. ²a.· 
+; ---------------------------------------------
+; 
+121524 old <F>7098) PRASAN5GA1BH. 3, {%b. a.%}· 
+;
+121524 new <F>7098) PRASAN5GA1BH. 3, ²b. ²a.· 
+; ---------------------------------------------
+; 
+122135 old ed. Bomb. 45. KUVALAJ. 60, {%b. a.%}· 
+;
+122135 new ed. Bomb. 45. KUVALAJ. 60, ²b. ²a.· 
+; ---------------------------------------------
+;
+123372 old <F>7208) MBH. 5, 1519, ²b. 1520, {%a.· 
+123372 new <F>7208) MBH. 5, 1519, ²b. 1520, ²a.· 
+123373 old a.%} {#strIdhUrtake striyAM dhUrte· 
+123373 new ²a. {#strIdhUrtake striyAM dhUrte· 
+; ---------------------------------------------
+; xxx
+; 
+55998 old ²d. vor {%a. b.%}).· 
+;
+55998 new ²d. vor ²a. ²b.).· 
+; ---------------------------------------------
+; 
+56949 old ²c. ²d. vor {%a. b.%}).· 
+;
+56949 new ²c. ²d. vor ²a. ²b.).· 
+; ---------------------------------------------
+; 
+105396 old <F>6133) SUBHA1SH. 285. {%a. b.%}· 
+;
+105396 new <F>6133) SUBHA1SH. 285. ²a. ²b.· 
+; ---------------------------------------------
+; 
+106787 old <F>6215) PAN5CAT. 1, 14, 80. {%a. b.%}· 
+;
+106787 new <F>6215) PAN5CAT. 1, 14, 80. ²a. ²b.· 
+; ---------------------------------------------
+; 
+108285 old {%a. b.%} {#vyapadezena#} (auch {#°deze· 
+;
+108285 new ²a. ²b. {#vyapadezena#} (auch {#°deze· 
+; ---------------------------------------------
+; 
+108897 old {%a. b.%} {#°hastena#} st. {#°hasteSu#}· 
+;
+108897 new ²a. ²b. {#°hastena#} st. {#°hasteSu#}· 
+; ---------------------------------------------
+; 
+109281 old {%a. b.%} {#ekAzcanimittake 'nRte· 
+;
+109281 new ²a. ²b. {#ekAzcanimittake 'nRte· 
+; ---------------------------------------------
+; 
+111725 old <F>6509) MBH. 12, 5310. {%a. b.%}· 
+;
+111725 new <F>6509) MBH. 12, 5310. ²a. ²b.· 
+; ---------------------------------------------
+; 
+112727 old 71. ed. Calc. 1830. S. 360. {%a. b.%}· 
+;
+112727 new 71. ed. Calc. 1830. S. 360. ²a. ²b.· 
+; ---------------------------------------------
+; 
+115630 old {#saMhato#} st. {#saMdhito#}. {%a. b.%}· 
+;
+115630 new {#saMhato#} st. {#saMdhito#}. ²a. ²b.· 
+; ---------------------------------------------
+; 
+116006 old PRASAN5GA1BH. 12. {%a. b.%}· 
+;
+116006 new PRASAN5GA1BH. 12. ²a. ²b.· 
+; ---------------------------------------------
+; 
+117058 old SUBHA1SH. 110. ²c. ²d. vor {%a. b.%} in· 
+;
+117058 new SUBHA1SH. 110. ²c. ²d. vor ²a. ²b. in· 
+; ---------------------------------------------
+; 
+118557 old <F>6923) KUVALAJ. 164, {%a. b.%}· 
+;
+118557 new <F>6923) KUVALAJ. 164, ²a. ²b.· 
+; ---------------------------------------------
+; 
+119115 old ²b. {#saukhyaSThazanaM#}. {%a. b.%}· 
+;
+119115 new ²b. {#saukhyaSThazanaM#}. ²a. ²b.· 
+; ---------------------------------------------
+; 
+119690 old <F>6994) VET. in LA. (III) 22. {%a. b.%}· 
+;
+119690 new <F>6994) VET. in LA. (III) 22. ²a. ²b.· 
+; ---------------------------------------------
+; 
+120214 old Bomb. 58. {%a. b.%}· 
+;
+120214 new Bomb. 58. ²a. ²b.· 
+; ---------------------------------------------
+; 
+121706 old 5277, ²b. 5278, {%a. b.%} {#phalitaH#}· 
+;
+121706 new 5277, ²b. 5278, ²a. ²b. {#phalitaH#}· 
+; ---------------------------------------------
+; 
+122939 old {%a. b.%} {#vahichatrUn#} (auch· 
+;
+122939 new ²a. ²b. {#vahichatrUn#} (auch· 
+; ---------------------------------------------
+; 
+124040 old <F>7246) SUBHA1SH. 10. {%a. b.%}· 
+;
+124040 new <F>7246) SUBHA1SH. 10. ²a. ²b.· 
+; ---------------------------------------------
+; 
+125700 old <F>7345) PRASAN5GA1BH. 16, {%a. b.%}· 
+;
+125700 new <F>7345) PRASAN5GA1BH. 16, ²a. ²b.· 
+; ---------------------------------------------
+; 
+127048 old ed. Bomb. III, 151. {%a. b.%}· 
+;
+127048 new ed. Bomb. III, 151. ²a. ²b.· 
+; ---------------------------------------------
+; 
+127492 old <F>7450) MBH. 12, 850. {%a. b.%}· 
+;
+127492 new <F>7450) MBH. 12, 850. ²a. ²b.· 
+; ---------------------------------------------
+; 
+128164 old <F>7494) BAHUDARS4ANA 6. {%a. b.%}· 
+;
+128164 new <F>7494) BAHUDARS4ANA 6. ²a. ²b.· 
+; ---------------------------------------------
+27328 old {#svarNa#} hat. {%a. b. c.%} {#kAkasya· 
+27328 new {#svarNa#} hat. ²a. ²b. ²c. {#kAkasya· 
+44263 old vA°#}. {%c.d.%} {#°janAnandAdAyinI gIH· 
+44263 new vA°#}. ²c. ²d. {#°janAnandAdAyinI gIH· 
+51626 old dhikpauruSamanarthakam#}. {%c. d.%}· 
+51626 new dhikpauruSamanarthakam#}. ²c. ²d.· 
+51923 old patiH#} st. {#yatiH; 'lAland#}. {%b. c.· 
+51923 new patiH#} st. {#yatiH; 'lAland#}. ²b. ²c.· 
+51924 old d.%} Im SUBHA1SH. steht der Anfang von· 
+51924 new ²d. Im SUBHA1SH. steht der Anfang von· 
+52636 old <F>3034) KAVITA1MR2TAK. 68, {%b. c.%}· 
+52636 new <F>3034) KAVITA1MR2TAK. 68, ²b. ²c.· 
+54322 old {%a. b. c.%} folgendermaassen lauten:· 
+54322 new ²a. ²b. ²c. folgendermaassen lauten:· 
+55384 old in {%d.,%} nämlich {#mahottamaH#} und· 
+55384 new in ²d., nämlich {#mahottamaH#} und· 
+55595 old {#kauzalAnna#} ed. Bomb. {%c. d.%}· 
+55595 new {#kauzalAnna#} ed. Bomb. ²c. ²d.· 
+55685 old PADDH. ²b. {#na ca lakSeNa#}. {%c. d.%}· 
+55685 new PADDH. ²b. {#na ca lakSeNa#}. ²c. ²d.· 
+55778 old Bomb. Im S4KDR. lauten {%c. d.:%} {#tayA· 
+55778 new Bomb. Im S4KDR. lauten ²c. ²d.: {#tayA· 
+55992 old WEBER. GALAN. Varr. 38. {%c. d.%}· 
+55992 new WEBER. GALAN. Varr. 38. ²c. ²d.· 
+57187 old {#anudyogena#} S4A1RN5G. PADDH. {%c.· 
+57187 new {#anudyogena#} S4A1RN5G. PADDH. ²c.· 
+57188 old d.%} {#anuyogaM#} (blosser Druckfehler)· 
+57188 new ²d. {#anuyogaM#} (blosser Druckfehler)· 
+57765 old ed. Bomb. ²b. {#suhRjjanaH#} GORR. {%c.· 
+57765 new ed. Bomb. ²b. {#suhRjjanaH#} GORR. ²c.· 
+57766 old d.%} {#gatirbhavati satstrINAM· 
+57766 new ²d. {#gatirbhavati satstrINAM· 
+57800 old {%b.:%} {#tAM prati prahitaM manaH;#}· 
+57800 new ²b.: {#tAM prati prahitaM manaH;#}· 
+58849 old {%c. d.%} {#udetyudIyamAne ca ravAviva· 
+58849 new ²c. ²d. {#udetyudIyamAne ca ravAviva· 
+105053 old <F>6112) S4UK. Pet. Hdschr. 43, {%b.· 
+105053 new <F>6112) S4UK. Pet. Hdschr. 43, ²b.· 
+105054 old b.%} {#sAdhuguNagrahIH#} die Hdschr. ²c.· 
+105054 new ²b. {#sAdhuguNagrahIH#} die Hdschr. ²c.· 
+105439 old <F>6136) S4UK. Pet. Hdschr. 62, {%a.· 
+105439 new <F>6136) S4UK. Pet. Hdschr. 62, ²a.· 
+105440 old b.%} {#na ca#} st. {%ca na%} die Hdschr.· 
+105440 new ²b. {#na ca#} st. ca na die Hdschr.· 
+105691 old <F>6151) MR2CCH. 115. {%b. c.%}· 
+105691 new <F>6151) MR2CCH. 115. ²b. ²c.· 
+106179 old {#samAgamo#} für {#saMgamo#}. {%c. d.%}· 
+106179 new {#samAgamo#} für {#saMgamo#}. ²c. ²d.· 
+107383 old {#vRkSA sthitvA#} SUBHA1SH. {%c. d.%}· 
+107383 new {#vRkSA sthitvA#} SUBHA1SH. ²c. ²d.· 
+107524 old TeluguCharr. 73. {%a. b. c.%} {#vRdhA#}· 
+107524 new TeluguCharr. 73. ²a. ²b. ²c. {#vRdhA#}· 
+108464 old {#tannRzaMsaM#} ed. Bomb. {%c. d.%}· 
+108464 new {#tannRzaMsaM#} ed. Bomb. ²c. ²d.· 
+109132 old Bomb. 98. {%a. b. = c. d.%} von Spruch· 
+109132 new Bomb. 98. ²a. ²b. = ²c. ²d. von Spruch· 
+109589 old KAVITA1MR2TAK. {%c. d.%}· 
+109589 new KAVITA1MR2TAK. ²c. ²d.· 
+110544 old 32. ²b. {#pApAtprAmucyate#} R. {%c. d.%}· 
+110544 new 32. ²b. {#pApAtprAmucyate#} R. ²c. ²d.· 
+111409 old KOSEG. I, 269. ed. Bomb. 239. {%a. b.· 
+111409 new KOSEG. I, 269. ed. Bomb. 239. ²a. ²b.· 
+111410 old c.%} {#priyaM vA yadi vA dveSyaM zubhaM· 
+111410 new ²c. {#priyaM vA yadi vA dveSyaM zubhaM· 
+112058 old <F>6526) SUBHA1SH. 190. {%a. b. c.%}· 
+112058 new <F>6526) SUBHA1SH. 190. ²a. ²b. ²c.· 
+112525 old MA1RK. P. 29, 39, ²b. {#40#}, {%a. c.· 
+112525 new MA1RK. P. 29, 39, ²b. {#40#}, ²a. ²c.· 
+112526 old d.%} {#sIdatA yatkRtaM tena tatpApaM sa· 
+112526 new ²d. {#sIdatA yatkRtaM tena tatpApaM sa· 
+112868 old <F>6578) VIKRAMAC. 158. ²c. ²d. = {%c.· 
+112868 new <F>6578) VIKRAMAC. 158. ²c. ²d. = ²c.· 
+112869 old d.%} von Spruch {#saMkSepAtkathyate· 
+112869 new ²d. von Spruch {#saMkSepAtkathyate· 
+113035 old <F>6587) PRASAN5GA1Bh. 12, {%b. c.%}· 
+113035 new <F>6587) PRASAN5GA1Bh. 12, ²b. ²c.· 
+113687 old zweite Spruch auch 2423. 6628, {%c. d.%}· 
+113687 new zweite Spruch auch 2423. 6628, ²c. ²d.· 
+114013 old paribhraSTA#} SUBHA1SH. {%c. d.%}· 
+114013 new paribhraSTA#} SUBHA1SH. ²c. ²d.· 
+114360 old PAN5CAT. ed. KOSEG. III, 55. {%c. d.%}· 
+114360 new PAN5CAT. ed. KOSEG. III, 55. ²c. ²d.· 
+114605 old SUBHA1SH. 63. ²c. ²d. vor {%a. b. b.%}· 
+114605 new SUBHA1SH. 63. ²c. ²d. vor ²a. ²b. ²b.· 
+114746 old <V3>6691. = BAHUDARS4ANA 44. {%a. b.· 
+114746 new <V3>6691. = BAHUDARS4ANA 44. ²a. ²b.· 
+114747 old c.%} {#saMcintyaM mRtyuM ca· 
+114747 new ²c. {#saMcintyaM mRtyuM ca· 
+114781 old mohAdavamanyate#} ed. Bomb. {%c. d.%}· 
+114781 new mohAdavamanyate#} ed. Bomb. ²c. ²d.· 
+114828 old <F>6696) PRASAN5GA1BH. 10, {%a. c.%}· 
+114828 new <F>6696) PRASAN5GA1BH. 10, ²a. ²c.· 
+115661 old {%a. d.%} {#mRdgandhaM#} unsere· 
+115661 new ²a. ²d. {#mRdgandhaM#} unsere· 
+116089 old Hdschrr. 296. {%a. b. c.%} {#sadyamAMsaM· 
+116089 new Hdschrr. 296. ²a. ²b. ²c. {#sadyamAMsaM· 
+116143 old Bomb.) und {#etAM#}(GORR.) {%c. d.%}· 
+116143 new Bomb.) und {#etAM#}(GORR.) ²c. ²d.· 
+116829 old {%c. d.%} lesen einige Autoritäten des· 
+116829 new ²c. ²d. lesen einige Autoritäten des· 
+117044 old {%c. d.%} {#narastArayate teSAM gaMgA· 
+117044 new ²c. ²d. {#narastArayate teSAM gaMgA· 
+118018 old {%b. c. d.%} {#lAbho 'lAbhaH kSayAvyayau· 
+118018 new ²b. ²c. ²d. {#lAbho 'lAbhaH kSayAvyayau· 
+118056 old 1, 21. HAEB. 15. SUBHA1SH. 144. {%a.· 
+118056 new 1, 21. HAEB. 15. SUBHA1SH. 144. ²a.· 
+118057 old b.%} {#madayanti viDambayanti#} wechselt· 
+118057 new ²b. {#madayanti viDambayanti#} wechselt· 
+118181 old {%a. b. c.%} {#kharaH#} st. {#khalaH#}· 
+118181 new ²a. ²b. ²c. {#kharaH#} st. {#khalaH#}· 
+118385 old <F>6912) SUBHA1SH. 170. {%b. d.%}· 
+118385 new <F>6912) SUBHA1SH. 170. ²b. ²d.· 
+118688 old <F>6930) MBH. 13, 5719, ²b. 5720, {%a.· 
+118688 new <F>6930) MBH. 13, 5719, ²b. 5720, ²a.· 
+118689 old b.%} {#cAplutaM#} ed. Calc. ²c. {#cApi#}· 
+118689 new ²b. {#cAplutaM#} ed. Calc. ²c. {#cApi#}· 
+119748 old {#sacchlokAnAm#} KAV. {%b. c.%}· 
+119748 new {#sacchlokAnAm#} KAV. ²b. ²c.· 
+121045 old {%a. c. d.%} {#arthair#} st. {#annair#}· 
+121045 new ²a. ²c. ²d. {#arthair#} st. {#annair#}· 
+121185 old <F>7079) MBH. 3, 15384, ²b. 15385, {%a.· 
+121185 new <F>7079) MBH. 3, 15384, ²b. 15385, ²a.· 
+121186 old d.%} {#zasyAnAm#} ed. Calc. Vgl. den· 
+121186 new ²d. {#zasyAnAm#} ed. Calc. Vgl. den· 
+121329 old sukham#} SUBHA1SH. {%c. d.%} {#ca#} st.· 
+121329 new sukham#} SUBHA1SH. ²c. ²d. {#ca#} st.· 
+122940 old {#°chatrUt#} kAryamAsAdya) HIT. {%c.· 
+122940 new {#°chatrUt#} kAryamAsAdya) HIT. ²c.· 
+122941 old d.%} {#yathA vRddhena sarpeNa maNDUkA· 
+122941 new ²d. {#yathA vRddhena sarpeNa maNDUkA· 
+123694 old <F>7227) MBH. 4, 611, ²b. 612, {%a. d.%}· 
+123694 new <F>7227) MBH. 4, 611, ²b. 612, ²a. ²d.· 
+124087 old (eingeschoben). {%a. b. c. d.%} {#iva#}· 
+124087 new (eingeschoben). ²a. ²b. ²c. ²d. {#iva#}· 
+124089 old {#sahan#} st. {#hasan#}. {%c. d.%}· 
+124089 new {#sahan#} st. {#hasan#}. ²c. ²d.· 
+124466 old Bomb. I, 314. IV, 99. ²c. ²d. vor {%a.· 
+124466 new Bomb. I, 314. IV, 99. ²c. ²d. vor ²a.· 
+124467 old b. b.%} {#nAtrApi#} (auch {#nAma na#})· 
+124467 new ²b. ²b. {#nAtrApi#} (auch {#nAma na#})· 
+124988 old {#svabhAvenopa°#} SUBHA1SH. {%c. d.%}· 
+124988 new {#svabhAvenopa°#} SUBHA1SH. ²c. ²d.· 
+125269 old {#palArdhakam#} gedruckt. {%c. d.%}· 
+125269 new {#palArdhakam#} gedruckt. ²c. ²d.· 
+125397 old 105. VIKRAMAC. 273. ²c. ²d. vor {%a.· 
+125397 new 105. VIKRAMAC. 273. ²c. ²d. vor ²a.· 
+125398 old b.%} in VIKRAMAC. ²a. {#khidyate#}. ²b.· 
+125398 new ²b. in VIKRAMAC. ²a. {#khidyate#}. ²b.· 
+125518 old prItA#}. {%c. d.%} {#pAdazaucena govinda· 
+125518 new prItA#}. ²c. ²d. {#pAdazaucena govinda· 
+126067 old GORR. 4, 34, 15. {%b. c. d.%}· 
+126067 new GORR. 4, 34, 15. ²b. ²c. ²d.· 
+127767 old Berl. Hdschrr. 93. {%a. b. c.%}· 
+127767 new Berl. Hdschrr. 93. ²a. ²b. ²c.· 
+128566 old auch BAHUDARS4ANA-CA1N2. {%c. d.%}· 
+128566 new auch BAHUDARS4ANA-CA1N2. ²c. ²d.· 
+129023 old {%c. d.%} müsste vor ²a. ²b. stehen. ²d.· 
+129023 new ²c. ²d. müsste vor ²a. ²b. stehen. ²d.· 
+;  unbalanced {%X%}
+76918 old <F>4460) KUVALAJ. 140, ²a (116, )²a).%}· 
+76918 new <F>4460) KUVALAJ. 140, ²a (116, ²a).· 
+; unbalanced {#X#}
+121125 old {#cApi#} st. {dAkSyaM#} an der zweiten· 
+121125 new {#cApi#} st. {#dAkSyaM#} an der zweiten· 
+;
+123418 old {#s?AM prati, saMprati#} und taM prati#}· 
+123418 new {#sAM prati, saMprati#} und {#taM prati#}·
+;----------------------------------------------
+; mostly ² not preceded by a space 
+13625 old pazozca; ko 'pi na vi²#} st. {#pazozca· 
+13625 new pazozca; ko 'pi na vi#} st. {#pazozca· 
+17949 old KA1VJAKAL2A1PA. a² {#rucitaM, racitaM#}· 
+17949 new KA1VJAKAL2A1PA. ²a. {#rucitaM, racitaM#}· 
+18271 old kSamA#} st. {#kSamA damaH#}.²d.· 
+18271 new kSamA#} st. {#kSamA damaH#}. ²d.· 
+18274 old {#dambhArtho 'pi hi se°#}.²c.· 
+18274 new {#dambhArtho 'pi hi se°#}. ²c.· 
+18337 old 305.²a. {#svapati#}. ²b.· 
+18337 new 305. ²a. {#svapati#}. ²b.· 
+18469 old KA1VJAPR. 86.²a. {#akramAzca#}. ²b.· 
+18469 new KA1VJAPR. 86. ²a. {#akramAzca#}. ²b.· 
+18717 old 59, 2, 23. ²a. {#praduSTAnAM#} R.²b.· 
+18717 new 59, 2, 23. ²a. {#praduSTAnAM#} R. ²b.· 
+19188 old {#°phalitAH#} DAM3PATIS4.²c. {#yAti#}.· 
+19188 new {#°phalitAH#} DAM3PATIS4. ²c. {#yAti#}.· 
+19266 old 218. KA1VJAKAL.²b. {#viSantIti#} HAEB.· 
+19266 new 218. KA1VJAKAL. ²b. {#viSantIti#} HAEB.· 
+20734 old ed. Bomb. S. 19. GALAN Varr. 160.²a. ²b.· 
+20734 new ed. Bomb. S. 19. GALAN Varr. 160. ²a. ²b.· 
+20763 old <F>1239) SUBHA1SH. 147.²a. ²b.· 
+20763 new <F>1239) SUBHA1SH. 147. ²a. ²b.· 
+20803 old 58. GALAN. 62.²a. {#udbhAsitA°,· 
+20803 new 58. GALAN. 62. ²a. {#udbhAsitA°,· 
+20959 old nAsti#} CAN2. {#dAridraM#} SCBA1SH.²c.· 
+20959 new nAsti#} CAN2. {#dAridraM#} SCBA1SH. ²c.· 
+21282 old S4ATAKA1V. 73.²a. {#nilayAM#} st.· 
+21282 new S4ATAKA1V. 73. ²a. {#nilayAM#} st.· 
+21427 old (23). GALAN. Varr. 58.²a. {#gRhIto hi#}.· 
+21427 new (23). GALAN. Varr. 58. ²a. {#gRhIto hi#}.· 
+21470 old 3 (5). GALAN. Varr. 119.²b. {#guNAH#}.· 
+21470 new 3 (5). GALAN. Varr. 119. ²b. {#guNAH#}.· 
+21825 old d. JOHNS. 10.²a. {#cintayan#}. ²b.· 
+21825 new ²d. JOHNS. 10. ²a. {#cintayan#}. ²b.· 
+21845 old Bomb.²c. ²d. {#yo 'nya upAyaH#} st.· 
+21845 new Bomb. ²c. ²d. {#yo 'nya upAyaH#} st.· 
+22238 old vA#} fehlt.²b. {#nAsya#} st. {#nAsti;· 
+22238 new vA#} fehlt. ²b. {#nAsya#} st. {#nAsti;· 
+22335 old 192.²a. {#RRNaM#}. ²b.· 
+22335 new 192. ²a. {#RRNaM#}. ²b.· 
+22371 old GALAN. Varr. 178.²a. {#R1NazeSaM· 
+22371 new GALAN. Varr. 178. ²a. {#R1NazeSaM· 
+23188 old {#zayitayA#} bei CHEZY.²c. {#AvezAd#}· 
+23188 new {#zayitayA#} bei CHEZY. ²c. {#AvezAd#}· 
+23331 old fehlt.²b. {#vihInaH#} ohne {#api#}. ²c.· 
+23331 new fehlt. ²b. {#vihInaH#} ohne {#api#}. ²c.· 
+23374 old KOSEG. V, 88. ed. Bomb. 103.²b. und ²d.· 
+23374 new KOSEG. V, 88. ed. Bomb. 103. ²b. und ²d.· 
+23582 old Bomb. 5.²a. ²b. {#ekasthAne prasUle· 
+23582 new Bomb. 5. ²a. ²b. {#ekasthAne prasUle· 
+23770 old Varr. 102.²a. ²b. {#ekena zuSkavRkSeNa· 
+23770 new Varr. 102. ²a. ²b. {#ekena zuSkavRkSeNa· 
+24266 old <F>1440) S4AN5GA1RAT. 4. KA1VJAKAL.²b.· 
+24266 new <F>1440) S4AN5GA1RAT. 4. KA1VJAKAL. ²b.· 
+24437 old Bomb. 297. VR2DDHA-CA1N2. 3, 5.²c.· 
+24437 new Bomb. 297. VR2DDHA-CA1N2. 3, 5. ²c.· 
+24480 old <F>1449) PRAB. 76.²a. {#labhyaM la°#}· 
+24480 new <F>1449) PRAB. 76. ²a. {#labhyaM la°#}· 
+24666 old 11.²c. {#lakSmyA#}. ²d. {#upajivyate#}· 
+24666 new 11. ²c. {#lakSmyA#}. ²d. {#upajivyate#}· 
+25130 old SUBHA1SH. 180.²a {#svajanatA#}. ²b.· 
+25130 new SUBHA1SH. 180. ²a {#svajanatA#}. ²b.· 
+25175 old <F>1490) MBH. 12, 12053.²a. {#aihalo°#}· 
+25175 new <F>1490) MBH. 12, 12053. ²a. {#aihalo°#}· 
+25258 old <F>1494) SUBHA1SH. 41.²a. {#dAkSiNaM#}· 
+25258 new <F>1494) SUBHA1SH. 41. ²a. {#dAkSiNaM#}· 
+25289 old {#vihiMsantyapakAriNaH#} GORR.²c.· 
+25289 new {#vihiMsantyapakAriNaH#} GORR. ²c.· 
+25336 old <F>1499) SUBHA1SH. 174.²a. {#kaMzo· 
+25336 new <F>1499) SUBHA1SH. 174. ²a. {#kaMzo· 
+25359 old SCHL. und GORR.²c. {#yadeko#} st. {#eko· 
+25359 new SCHL. und GORR. ²c. {#yadeko#} st. {#eko· 
+25501 old <F>1509) SUBHA1SH. 248.²b. {#surabhI#}· 
+25501 new <F>1509) SUBHA1SH. 248. ²b. {#surabhI#}· 
+25515 old ²a. ed. GORR. 56, 14.²b. {#parAmRSet#}· 
+25515 new ²a. ed. GORR. 56, 14. ²b. {#parAmRSet#}· 
+25610 old {#kathaM sthApayate#} die Hdschr.²d.· 
+25610 new {#kathaM sthApayate#} die Hdschr. ²d.· 
+25702 old <F>1521) SUBHA1SH. 196.²b. {#bhogyo#}· 
+25702 new <F>1521) SUBHA1SH. 196. ²b. {#bhogyo#}· 
+25797 old suradhunI#} st. {#amarataTinI#} S. D.²b.· 
+25797 new suradhunI#} st. {#amarataTinI#} S. D. ²b.· 
+25798 old {#kaupIne#} BH.²c. {#triNayana#}. ²d.· 
+25798 new {#kaupIne#} BH. ²c. {#triNayana#}. ²d.· 
+25863 old <F>1529) SUBHA1SH. 130.²a. {#kapaTaM· 
+25863 new <F>1529) SUBHA1SH. 130. ²a. {#kapaTaM· 
+26107 old II 65. SUBHA1SH. 56. 315.²a.· 
+26107 new II 65. SUBHA1SH. 56. 315. ²a.· 
+26144 old 12.²a. {#karoti#}. ²c. {#tadevAsya#} st.· 
+26144 new 12. ²a. {#karoti#}. ²c. {#tadevAsya#} st.· 
+26411 old <F>1562) SUBHA1SH. 237.²b. {#zubhAH#}· 
+26411 new <F>1562) SUBHA1SH. 237. ²b. {#zubhAH#}· 
+26480 old SCHL. IV, 100. ed. JOHNS. 105.²a.· 
+26480 new SCHL. IV, 100. ed. JOHNS. 105. ²a.· 
+26521 old VR2DDHACA1N3. 13, 18.²b.· 
+26521 new VR2DDHACA1N3. 13, 18. ²b.· 
+26772 old <F>1585) SUBHA1SH. 143.²b. {#nAbhaM#}· 
+26772 new <F>1585) SUBHA1SH. 143. ²b. {#nAbhaM#}· 
+26950 old <F>1596) SUBHA1SH. 120.²b. {#dAridraH#}· 
+26950 new <F>1596) SUBHA1SH. 120. ²b. {#dAridraH#}· 
+26976 old <F>1598) SUBHA1SH. 33.²b. {#vaidyo#} die· 
+26976 new <F>1598) SUBHA1SH. 33. ²b. {#vaidyo#} die· 
+27009 old <F>1600) SUBHA1SH. 83.²c. {#saMGkayA#}· 
+27009 new <F>1600) SUBHA1SH. 83. ²c. {#saMGkayA#}· 
+27082 old S4A1RN5G. PADDH. VR2KSHA1NJOKTI 62.²b.· 
+27082 new S4A1RN5G. PADDH. VR2KSHA1NJOKTI 62. ²b.· 
+27246 old KUVALAJ. 144, ²a. (171.²b.) SUBHA1SH.· 
+27246 new KUVALAJ. 144, ²a. (171. ²b.) SUBHA1SH.· 
+27274 old <F>1613) SUBHA1SH. 25.²b. {#gate#} und· 
+27274 new <F>1613) SUBHA1SH. 25. ²b. {#gate#} und· 
+27724 old <F>1635) SUBHA1SH. 138.²a. {#mArjArI#}· 
+27724 new <F>1635) SUBHA1SH. 138. ²a. {#mArjArI#}· 
+27821 old <F>1640) SUBHA1SH. 171.²c. {#patra#} st.· 
+27821 new <F>1640) SUBHA1SH. 171. ²c. {#patra#} st.· 
+27836 old <F>1641) SUBHA1SH. 171.²c. {#patra#} st.· 
+27836 new <F>1641) SUBHA1SH. 171. ²c. {#patra#} st.· 
+27955 old <F>1650) MBH. 12, 6610. SUBHA1SH. 228.²a.· 
+27955 new <F>1650) MBH. 12, 6610. SUBHA1SH. 228. ²a.· 
+27991 old 9. ed. GORR. 118, 9.²a. ²b. {#rAjavRttaM· 
+27991 new 9. ed. GORR. 118, 9. ²a. ²b. {#rAjavRttaM· 
+28364 old <F>1675) SUBHA1SH. 299.²a. {#prANaM#}· 
+28364 new <F>1675) SUBHA1SH. 299. ²a. {#prANaM#}· 
+28616 old UTPALA.²b. {#saMharati#} UTPALA. ²c.· 
+28616 new UTPALA. ²b. {#saMharati#} UTPALA. ²c.· 
+28787 old {#cAnupayAn#} SA1V.²c. {#putrastu#} M.· 
+28787 new {#cAnupayAn#} SA1V. ²c. {#putrastu#} M.· 
+28990 old Varr. 179.²a. {#gIta#} st. {#kAvya#}. ²c.· 
+28990 new Varr. 179. ²a. {#gIta#} st. {#kAvya#}. ²c.· 
+29076 old SUBHA1HA1SH.²c. ²d. {#zraddhA· 
+29076 new SUBHA1HA1SH. ²c. ²d. {#zraddhA· 
+29215 old 74. GALAN. 66. SUBHA1SH. 234.²a.· 
+29215 new 74. GALAN. 66. SUBHA1SH. 234. ²a.· 
+29441 old Varr. 37.²a. {#nara#}. ²b.· 
+29441 new Varr. 37. ²a. {#nara#}. ²b.· 
+29579 old <F>1736) MR2CCH. 126 und 140.²c.· 
+29579 new <F>1736) MR2CCH. 126 und 140. ²c.· 
+29605 old SUBHA1SH. 316.²a. {#karmasya#} und· 
+29605 new SUBHA1SH. 316. ²a. {#karmasya#} und· 
+29825 old 37.²c. {#tu#} st. {#na; sAmAnya#}. ²d.· 
+29825 new 37. ²c. {#tu#} st. {#na; sAmAnya#}. ²d.· 
+30105 old <F>1763) VIKRAMAC. 138.²b. {#tatparAH#}· 
+30105 new <F>1763) VIKRAMAC. 138. ²b. {#tatparAH#}· 
+30336 old 74. ed. JOHNS. 75.²b. {#zaktAnupakA°#}.· 
+30336 new 74. ed. JOHNS. 75. ²b. {#zaktAnupakA°#}.· 
+30513 old <F>1784) SUBHA1SH. 218.²a.· 
+30513 new <F>1784) SUBHA1SH. 218. ²a.· 
+30554 old bhadanidrabhAvAH#} an einer Stelle.²d.· 
+30554 new bhadanidrabhAvAH#} an einer Stelle. ²d.· 
+30804 old SUBHA1SH.²b. {#kutaH sukham#} SUBHA1SH.· 
+30804 new SUBHA1SH. ²b. {#kutaH sukham#} SUBHA1SH.· 
+30915 old WILLIAMS 129.²b. {#padmAnyeva#}. ²c.· 
+30915 new WILLIAMS 129. ²b. {#padmAnyeva#}. ²c.· 
+31069 old <F>1816) SUBHA1SH. 286.²a. {#devAH#} die· 
+31069 new <F>1816) SUBHA1SH. 286. ²a. {#devAH#} die· 
+31102 old ed. orn. 237. ed. Bomb. 242.²c²d. vor ²a.· 
+31102 new ed. orn. 237. ed. Bomb. 242. ²c. ²d. vor ²a.· 
+31163 old <F>1821) SUBHA1SH. 90.²a. {#savRddham#}· 
+31163 new <F>1821) SUBHA1SH. 90. ²a. {#savRddham#}· 
+31322 old <F>1831) SUBHA1SH. 114.²b.· 
+31322 new <F>1831) SUBHA1SH. 114. ²b.· 
+31360 old GORR.²c. {#nirlakSaNo lakSaNavAn#} GORR.· 
+31360 new GORR. ²c. {#nirlakSaNo lakSaNavAn#} GORR.· 
+31446 old {#'nurAginaH#} der Text.²c.· 
+31446 new {#'nurAginaH#} der Text. ²c.· 
+31749 old <F>1859) SUBHA1SH. 199.²a. {#saMsargAm#}· 
+31749 new <F>1859) SUBHA1SH. 199. ²a. {#saMsargAm#}· 
+31837 old ed. SCHL. II, 152. ed. JOHNS. 160.²a.· 
+31837 new ed. SCHL. II, 152. ed. JOHNS. 160. ²a.· 
+31943 old {#raGkair#} d. Bo, b.²b. {#kliSTAvRSTyA· 
+31943 new {#raGkair#} d. Bo, b. ²b. {#kliSTAvRSTyA· 
+31996 old ed. Bomb.²b. {#hiMsane pratihiMsanam#}· 
+31996 new ed. Bomb. ²b. {#hiMsane pratihiMsanam#}· 
+32016 old {#viSNuzcakraM#} VIKR.²d. {#kolikosya· 
+32016 new {#viSNuzcakraM#} VIKR. ²d. {#kolikosya· 
+32097 old <F>1880) SUBHA1SH. 269.²b. {#jJAtaraH#}· 
+32097 new <F>1880) SUBHA1SH. 269. ²b. {#jJAtaraH#}· 
+32132 old KOSEG.²c{#vairaM#} st. {#naiva#} KOSEG.· 
+32132 new KOSEG. ²c{#vairaM#} st. {#naiva#} KOSEG.· 
+32488 old <F>1902) SUBHA1SH. 255.²c.· 
+32488 new <F>1902) SUBHA1SH. 255. ²c.· 
+32664 old {#majjAM#}. c². {#bandhakyA#}. ²d. {#na· 
+32664 new {#majjAM#}. ²c. {#bandhakyA#}. ²d. {#na· 
+32921 old <g></g>GALAN.²c. {#suvidyAnAM#}.· 
+32921 new <g></g>GALAN. ²c. {#suvidyAnAM#}.· 
+33187 old <F>1941) VIRAKAMAC. 220.²b. {#yo na#}· 
+33187 new <F>1941) VIRAKAMAC. 220. ²b. {#yo na#}· 
+33617 old <F>1961) PAN5CAT. ed. orn. I, 56.²c.· 
+33617 new <F>1961) PAN5CAT. ed. orn. I, 56. ²c.· 
+33789 old <F>1972) SUBHA1SH. 232.²a. {#vuaghra#}· 
+33789 new <F>1972) SUBHA1SH. 232. ²a. {#vuaghra#}· 
+33858 old <F>1977) SUBHA1SH. 83.²b. {#vivipAtu#}· 
+33858 new <F>1977) SUBHA1SH. 83. ²b. {#vivipAtu#}· 
+33986 old HAEB. 413.²c. {#na na#} st. {#nanu#}. ²d.· 
+33986 new HAEB. 413. ²c. {#na na#} st. {#nanu#}. ²d.· 
+34098 old WEBER.²b. und ²c. umgestellt. ²b. Für· 
+34098 new WEBER. ²b. und ²c. umgestellt. ²b. Für· 
+34309 old <F>1999) SUBHA1SH. 76.²a. {#kendo°#} die· 
+34309 new <F>1999) SUBHA1SH. 76. ²a. {#kendo°#} die· 
+34586 old {#puNyena#} st. {#duHkhena#}. ²c.²d.· 
+34586 new {#puNyena#} st. {#duHkhena#}. ²c. ²d.· 
+34752 old JOHNS. 94. ed. Calc. 1830. S. 226.²a.· 
+34752 new JOHNS. 94. ed. Calc. 1830. S. 226. ²a.· 
+35177 old ed. Bomb. 17. S4A1RN5G. PADDH.²a.· 
+35177 new ed. Bomb. 17. S4A1RN5G. PADDH. ²a.· 
+35239 old dessen MBH.²b. ²d. {#pazyasi#} MBH.· 
+35239 new dessen MBH. ²b. ²d. {#pazyasi#} MBH.· 
+35257 old ²b. SUBHA1SH. 63.²c. {#upAnamukha#}· 
+35257 new ²b. SUBHA1SH. 63. ²c. {#upAnamukha#}· 
+35420 old Ausg. II 63.²a. {#hima#} st. {#kaNa;· 
+35420 new Ausg. II 63. ²a. {#hima#} st. {#kaNa;· 
+35527 old <F>2059) SUBHA1SH. 205.²a. {#goddhanaM#}· 
+35527 new <F>2059) SUBHA1SH. 205. ²a. {#goddhanaM#}· 
+35548 old DAIVA1KHJA1NA 9 (11). ²a. und.²b.· 
+35548 new DAIVA1KHJA1NA 9 (11). ²a. und. ²b.· 
+35828 old <F>2076) SUBHA1SH. 214.²a. {#rAjapathI#}· 
+35828 new <F>2076) SUBHA1SH. 214. ²a. {#rAjapathI#}· 
+35959 old BHRAMARA1SHT2AKA 1 bei HAEB. 240.²b.· 
+35959 new BHRAMARA1SHT2AKA 1 bei HAEB. 240. ²b.· 
+36202 old tu#} die Hdschr.²d. {#punaH#} st.· 
+36202 new tu#} die Hdschr. ²d. {#punaH#} st.· 
+36319 old PRASAN5GA1BH. 17, ²a. SUBHA1SH. 319.²a.· 
+36319 new PRASAN5GA1BH. 17, ²a. SUBHA1SH. 319. ²a.· 
+36463 old {#alpajJazcAlpa°#} SUBHA1SH.²d.· 
+36463 new {#alpajJazcAlpa°#} SUBHA1SH. ²d.· 
+36614 old <F>2119) SUBHA1SH. 137.²a. ²b. ²c. ²d.· 
+36614 new <F>2119) SUBHA1SH. 137. ²a. ²b. ²c. ²d.· 
+36896 old <F>2136) SUBHA1SH. 196.²a. {#na#} st.· 
+36896 new <F>2136) SUBHA1SH. 196. ²a. {#na#} st.· 
+37018 old 3264.²a. {#sarva#} st. {#sarvatra#}. ²b.· 
+37018 new 3264. ²a. {#sarva#} st. {#sarvatra#}. ²b.· 
+37525 old HIT. ed. SCHL. I, 101. ed. JOHNS. 112.²c.· 
+37525 new HIT. ed. SCHL. I, 101. ed. JOHNS. 112. ²c.· 
+38102 old <F>2208) SUBHA1SH. 278.²a. {#labhate#}· 
+38102 new <F>2208) SUBHA1SH. 278. ²a. {#labhate#}· 
+38190 old {#yajjavAsako#} die Hdschr.²b. ²c.· 
+38190 new {#yajjavAsako#} die Hdschr. ²b. ²c.· 
+39111 old 5, 20 (19). ²a. {#lakSmI#} SUBHA1SH.²b.· 
+39111 new 5, 20 (19). ²a. {#lakSmI#} SUBHA1SH. ²b.· 
+39568 old {#ciMvuke, romANi#}.²b. {#na bhakSyasi#}· 
+39568 new {#ciMvuke, romANi#}. ²b. {#na bhakSyasi#}· 
+51280 old {#saMgamanutthato#} die Hdschr.²d.· 
+51280 new {#saMgamanutthato#} die Hdschr. ²d.· 
+51623 old ²a. SCHL. 22. GORR. 60, 25.²a. {#atra#}· 
+51623 new ²a. SCHL. 22. GORR. 60, 25. ²a. {#atra#}· 
+51974 old <F>2993) SUBHA1SH. 85.²a. {#zurA#} die· 
+51974 new <F>2993) SUBHA1SH. 85. ²a. {#zurA#} die· 
+52112 old {#zarkaropamAH#} die Hdschr.²d.· 
+52112 new {#zarkaropamAH#} die Hdschr. ²d.· 
+52215 old <F>3007) MBH. 5, 1030.²a.· 
+52215 new <F>3007) MBH. 5, 1030. ²a.· 
+52940 old Gott. gel. Anzz. 1860. S. 738.²a. {#mado· 
+52940 new Gott. gel. Anzz. 1860. S. 738. ²a. {#mado· 
+52943 old {#nihita#} PAN5CAT.²d. {#bhavanti· 
+52943 new {#nihita#} PAN5CAT. ²d. {#bhavanti· 
+53181 old 131.²a. {#arthena#} st. {#dhanena#}. ²a.· 
+53181 new 131. ²a. {#arthena#} st. {#dhanena#}. ²a.· 
+53224 old 16, 13. SUBHA1SH. 287.²a. {#dhAnyeSu#}· 
+53224 new 16, 13. SUBHA1SH. 287. ²a. {#dhAnyeSu#}· 
+54041 old einer Stelle.²b. {#yasya ko 'pi#} CA1N2.· 
+54041 new einer Stelle. ²b. {#yasya ko 'pi#} CA1N2.· 
+54394 old {#kastUrikAM#} die Hdschr.²c.· 
+54394 new {#kastUrikAM#} die Hdschr. ²c.· 
+54605 old KA1VJAKAL.²a. {#dhik dhik; nivizeSa#}· 
+54605 new KA1VJAKAL. ²a. {#dhik dhik; nivizeSa#}· 
+54900 old an einer Stelle.²c. {#dizo pavasanaM#}.· 
+54900 new an einer Stelle. ²c. {#dizo pavasanaM#}.· 
+55010 old für {#dIpite#} die Hdschr.²d.· 
+55010 new für {#dIpite#} die Hdschr. ²d.· 
+55556 old werden.²c. {#pratimitre#}. ²d. {#cama#}· 
+55556 new werden. ²c. {#pratimitre#}. ²d. {#cama#}· 
+55909 old <F>3226) MBH. 3, 1679 = SA1V. 5, 49.²a.· 
+55909 new <F>3226) MBH. 3, 1679 = SA1V. 5, 49. ²a.· 
+56142 old <F>3240) SUBHA1SH. 99.²a.· 
+56142 new <F>3240) SUBHA1SH. 99. ²a.· 
+56232 old 1 (Bl. 210, ²b, 3) v. u.).²c. {#me#} st.· 
+56232 new 1 (Bl. 210, ²b, 3) v. u.). ²c. {#me#} st.· 
+56233 old {#kiM#} AMAR.²d. {#zrotratAM kimu· 
+56233 new {#kiM#} AMAR. ²d. {#zrotratAM kimu· 
+56432 old {#kalyANAtguNAt#} ed. Calc.²c. {#eSAm#}· 
+56432 new {#kalyANAtguNAt#} ed. Calc. ²c. {#eSAm#}· 
+56467 old 45. ed. RODR. S. 301.²a. {#grAvnA#}. ²b.· 
+56467 new 45. ed. RODR. S. 301. ²a. {#grAvnA#}. ²b.· 
+56620 old Bomb. 308.²a. {#hi#} st. {#su#}. ²c.· 
+56620 new Bomb. 308. ²a. {#hi#} st. {#su#}. ²c.· 
+56939 old 92. ²a. {#nadItIreSu ye#} SUBHA1SH.²c.· 
+56939 new 92. ²a. {#nadItIreSu ye#} SUBHA1SH. ²c.· 
+57114 old {#daNdam#} PAN5CAT.²c. {#vardhitum#} st.· 
+57114 new {#daNdam#} PAN5CAT. ²c. {#vardhitum#} st.· 
+57283 old {#taTodezAstagAdapaH#}.²c.· 
+57283 new {#taTodezAstagAdapaH#}. ²c.· 
+57393 old {#dharme#}. ²b. und ²c. umgestellt.²c.· 
+57393 new {#dharme#}. ²b. und ²c. umgestellt. ²c.· 
+57413 old 311.²a. {#gAyakA#}. ²b. {#vAdi#} st.· 
+57413 new 311. ²a. {#gAyakA#}. ²b. {#vAdi#} st.· 
+57832 old <F>3341) S4A1RN5G. PADDH. NI1TI 68.²a.· 
+57832 new <F>3341) S4A1RN5G. PADDH. NI1TI 68. ²a.· 
+57939 old <F>3349) SUBHA1SH. 276.²a. {#premaM#}· 
+57939 new <F>3349) SUBHA1SH. 276. ²a. {#premaM#}· 
+58164 old ²a. Auch in SUBHA1SH. 312.²a.· 
+58164 new ²a. Auch in SUBHA1SH. 312. ²a.· 
+58220 old SUBHA1SH.²d. {#na namanti bhajanti ca#}· 
+58220 new SUBHA1SH. ²d. {#na namanti bhajanti ca#}· 
+58632 old <F>3389) SUBHA1SH. 108.²a. {#zikhyaH#}· 
+58632 new <F>3389) SUBHA1SH. 108. ²a. {#zikhyaH#}· 
+58804 old SUBHA1SH. 153.²a. {#nApiko#}. ²c.· 
+58804 new SUBHA1SH. 153. ²a. {#nApiko#}. ²c.· 
+58986 old <F>3411) SUBHA1SH. 266.²a.· 
+58986 new <F>3411) SUBHA1SH. 266. ²a.· 
+59130 old {#°zanizcarArkAH#} die Hdschr.²c.· 
+59130 new {#°zanizcarArkAH#} die Hdschr. ²c.· 
+59132 old .²d. {#°vANAH#} die Hdschr. [Seite2.246]· 
+59132 new . ²d. {#°vANAH#} die Hdschr. [Seite2.246]· 
+59191 old 290.²a. {#na vidyA ke°#} SUBHA1SH. ²b.· 
+59191 new 290. ²a. {#na vidyA ke°#} SUBHA1SH. ²b.· 
+61775 old {#rAjyacyuto#} GORR.²d. {#tRNatulyo· 
+61775 new {#rAjyacyuto#} GORR. ²d. {#tRNatulyo· 
+61910 old {#uccam#}.²b. {#mahIpateH#}. ²c.· 
+61910 new {#uccam#}. ²b. {#mahIpateH#}. ²c.· 
+62216 old 3611.²a. {#yathA#} st. {#pazcAt;· 
+62216 new 3611. ²a. {#yathA#} st. {#pazcAt;· 
+62527 old 9. GORR. 69, 9.²c. ²d. {#putrAH· 
+62527 new 9. GORR. 69, 9. ²c. ²d. {#putrAH· 
+62825 old st. {#nArthAH#} die Hdschr.²b.· 
+62825 new st. {#nArthAH#} die Hdschr. ²b.· 
+62916 old S4A1RN5G. PADDH. NI1TI 13.²b. {#na zaThA· 
+62916 new S4A1RN5G. PADDH. NI1TI 13. ²b. {#na zaThA· 
+63084 old {#na#} fehlt.²c. {#niHzaGko#} Vgl.· 
+63084 new {#na#} fehlt. ²c. {#niHzaGko#} Vgl.· 
+63912 old 3714.²a. {#°daNDAddhi#} MBH. an einer· 
+63912 new 3714. ²a. {#°daNDAddhi#} MBH. an einer· 
+64099 old SUBHA1SH. 61. 303.²a. {#loka#} st.· 
+64099 new SUBHA1SH. 61. 303. ²a. {#loka#} st.· 
+64227 old S4A1RN5G. PADDH.²a. {#ca#} st. {#hi#}.· 
+64227 new S4A1RN5G. PADDH. ²a. {#ca#} st. {#hi#}.· 
+64553 old KOSEG.²c. ²d. {#meghaiH saMchannAH#} ed.· 
+64553 new KOSEG. ²c. ²d. {#meghaiH saMchannAH#} ed.· 
+64923 old lith. Ausg. II 9.²a. {#bahupuruSamAno,· 
+64923 new lith. Ausg. II 9. ²a. {#bahupuruSamAno,· 
+66489 old Allen mit Ausnahme von SUBHA1SH.²a.· 
+66489 new Allen mit Ausnahme von SUBHA1SH. ²a.· 
+66737 old SUBHA1SH. 101.²a. {#hi#} st. {#ca,· 
+66737 new SUBHA1SH. 101. ²a. {#hi#} st. {#ca,· 
+67073 old VR2DDHACA1N2. 12, 6. SUBHA1SH. 187.²a.· 
+67073 new VR2DDHACA1N2. 12, 6. SUBHA1SH. 187. ²a.· 
+67309 old II und GALAN. 74.²a. {#vikacaM#} und· 
+67309 new II und GALAN. 74. ²a. {#vikacaM#} und· 
+67880 old saMbandhAtAM#}. ²c. {#upakArazca#}.²d.· 
+67880 new saMbandhAtAM#}. ²c. {#upakArazca#}. ²d.· 
+69330 old <F>4025) SUBHA1SH. 69.²a. {#medinI#} und· 
+69330 new <F>4025) SUBHA1SH. 69. ²a. {#medinI#} und· 
+73881 old KAVITA1MR2.TAK. 36. ²a. {#niHphalo#}.²b.· 
+73881 new KAVITA1MR2.TAK. 36. ²a. {#niHphalo#}. ²b.· 
+74851 old strI#} st. {#zrI; durbhagAH#}.²b.· 
+74851 new strI#} st. {#zrI; durbhagAH#}. ²b.· 
+75945 old ²a. ??.²d. = M. 8, 168, ²c. ²d.· 
+75945 new ²a. ²c. ²d. = M. 8, 168, ²c. ²d.· 
+76599 old <F>4441) SUBHA1SH. 236. ²a. b.²c. {#vAlA· 
+76599 new <F>4441) SUBHA1SH. 236. ²a. ²b. ²c. {#vAlA· 
+76758 old {#virakta#}.²b. {#viyayeSva°; api#} st.· 
+76758 new {#virakta#}. ²b. {#viyayeSva°; api#} st.· 
+82687 old S4ATAKA1V.²d. {#dazadi; sapadi#} st.· 
+82687 new S4ATAKA1V. ²d. {#dazadi; sapadi#} st.· 
+96481 old KAVITA1MR2TAK. 26 (²b. {#suke#} st.· 
+96481 new KAVITA1MR2TAK. 26 (²b. {#suke#} st.· 
+110805 old {%b%} (90, {%b%})²c. {#taruNi#} st.· 
+110805 new ²b. (90, ²b.) ²c. {#taruNi#} st.· 
+113629 old 77. ²a. ²b. fehlen, so dass ²c.²d. den· 
+113629 new 77. ²a. ²b. fehlen, so dass ²c. ²d. den· 
