@@ -98,3 +98,6 @@ CA1N2. = CAN2KJA-S4ATAKAM
 MA1LAV. = ed. Bomb.
 NA1GA1NANDA
 VEN2I1SAM3HA1RA = Ausg. von GRILL
+; -------------------------------------------------------
+; Additions
+DA1YABH. = DA1YABHA1GA

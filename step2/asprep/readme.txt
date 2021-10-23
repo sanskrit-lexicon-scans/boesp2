@@ -71,3 +71,21 @@ python as_2a.py as_1-rev.txt pwgbib.txt as_2a-rev.txt
 14914 total count for abbreviations found in PWG
 3006 total count for abbreviations not found in PWG
 
+# change_05
+With these changes, the AS-oddities are removed for capital-letter words (LS words).
+python ../updateByLine.py temp_boesp_04.txt change_05.txt temp_boesp_05.txt
+1747 changes
+
+cp change_05.txt ../../step0/changes/
+in step0, sh install.sh 04 05
+
+There are a few minor pre-corrections in change_05.
+The rest are two selective changes:
+ J -> Y  (example GR2HJA -> GR2HYA; but RA1JA unchanged)
+ N5 -> N3 (example S4R2N5GA1R -> S4R2N3GA1R; but PAN5CAT. unchanged)
+File as_j_n5_words.txt has all the J and N5 words, both those to change and
+those to remain unchanged.
+python change_j_n5.py temp_boesp_04.txt as_j_n5_words.txt temp_change_j_n5.txt
+ (these changes added to change_05.txt)
+
+
