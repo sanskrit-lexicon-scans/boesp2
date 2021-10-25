@@ -1,5 +1,8 @@
 # coding=utf-8
-""" change_asgroup.py
+""" as_1.py 
+ Each entry is a sequence of 'groups'.
+ And each group has an 'identfier'
+ Generate frequency list of AS 'phrases'
 """
 from __future__ import print_function
 import xml.etree.ElementTree as ET
@@ -140,37 +143,40 @@ def read_words(filein):
  words = []
  for line in lines:
   parts = line.split(' : ')
-  if len(parts) == 3:
-   word,count,info = parts
-  else:
-   word = parts[0]
+  word = parts[0]
+  #print('word="%s"'%word)
   words.append(word)
+ print(len(words),'words from',filein)
  return words
 
 def get_instances(word,entries):
- if word.endswith('.'):
-  temp = word.replace('.','[.]')
-  regexraw = r'\b%s' %temp
- else:
-  temp = word + '[^A-Z0-9.]'
-  regexraw = r'\b%s' %temp
- regex = re.compile(regexraw)
  ans = []
  for entry in entries:
   for igroup,group in enumerate(entry.groups):
    tag = entry.tags[igroup]
-   if tag not in ['F','V1','V2','V3']:
+   if tag not in ['F','V1','V2','V3','D']:
     continue
    tagnum = entry.tagnums[igroup]
    iline0 = entry.grouplines[igroup] # 
    for iline,line in enumerate(group):
-    m = re.search(regex,line)
-    if m != None:
+    linewords = re.split(r'\b',line)
+    lnum = iline0 + iline + 1
+    #if (lnum == 16981) and (word == 'A1rja'):
+    # print('linewords=',linewords)
+    if word in linewords:
      lnum = iline0 + iline + 1
      ans.append((lnum,line,tag,tagnum))
  return ans
 
-def write(outrecs,fileout):
+def write(outrecs0,fileout):
+ """
+ for x in outrecs0:
+  print(x[0])
+  print(x[1])
+  print(x[1][0])
+  print(x[1][0][0])
+ """
+ outrecs = sorted(outrecs0,key = lambda x: int(x[1][0][0]))
  with codecs.open(fileout,"w","utf-8") as f:
   outarr = []
   for word,wordlines in outrecs:
@@ -194,11 +200,13 @@ if __name__=="__main__":
  fileout = sys.argv[3] # boesp.xml
  lines = read_lines(filein)
  words = read_words(filein1)
- #words = words[0:5]  # debug
+ #words = words[0:20]  # debug
  entries = list(generate_entries(lines))
  outrecs = []
  for word in words:
   wordlines = get_instances(word,entries)
-  outrecs.append((word,wordlines))
+  #print('dbg:',word,'occurs',len(wordlines),'times')
+  if len(wordlines)> 0:
+   outrecs.append((word,wordlines))
 
  write(outrecs,fileout)

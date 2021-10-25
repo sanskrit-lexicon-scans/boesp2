@@ -1,0 +1,1450 @@
+; 
+118184 old st. {#krUrataraH#} PRASAn3GA1BH. ²c.· 
+118184 new st. {#krUrataraH#} PRASAN3GA1BH. ²c.· 
+;
+; --------------------------------------------
+; A1rja (1)
+; D 1025
+16981 old A1rja als ein mit Adel, Schönheit,· 
+16981 new A1rya als ein mit Adel, Schönheit,· 
+;
+; --------------------------------------------
+; Adis2t2a (1)
+; D 5066
+87488 old solches Bündniss Adis2t2a.· 
+87488 new solches Bündniss A1dis2t2a.· 
+;
+; --------------------------------------------
+; Ahalja1 (1)
+; D 1772
+30274 old (Indra) mit der Büsserin Ahalja1 Umgang· 
+30274 new (Indra) mit der Büsserin Ahalya1 Umgang· 
+;
+; --------------------------------------------
+; Aloe7holz (1)
+; D 956
+15783 old offenbar: wenn Aloe7holz in's Feuer· 
+15783 new offenbar: wenn Aloëholz in's Feuer· 
+;
+; --------------------------------------------
+; Anasu1ja1 (1)
+; F 3560
+61393 old vimRzantyaham#} (Anasu1ja1 spricht) {#|· 
+61393 new vimRzantyaham#} (Anasu1ya1 spricht) {#|· 
+;
+; --------------------------------------------
+; B4 (2) B' ?
+; F 136
+2308 old CA1N2. bei GALAN. B4, 1. [Seite1.27]· 
+2308 new CA1N2. bei GALAN. B, 1. [Seite1.27]· 
+;
+; F 899
+14832 old Bomb. 44. CA1N2. bei GALAN. B4, 2.· 
+14832 new Bomb. 44. CA1N2. bei GALAN. B, 2.· 
+;
+; --------------------------------------------
+; Bha1radva1ga (1)
+; D 1222
+20455 old <D1222><A5385> Die Bha1radva1ga sagen,· 
+20455 new <D1222><A5385> Die Bha1radva1ja sagen,· 
+;
+; --------------------------------------------
+; Bhi1shma (1)
+; D 747
+12297 old Schlechte verändern sich Gute: Bhi1shma· 
+12297 new Schlechte verändern sich Gute: Bhi1s2ma· 
+;
+; --------------------------------------------
+; R2shi (3)
+; D 47
+740 old R2shi.· 
+740 new R2s2i.· 
+;
+; D 101
+1713 old einem Todtenopfer für einen R2shi, bei· 
+1713 new einem Todtenopfer für einen R2s2i, bei· 
+;
+; D 1314
+22024 old <D1314> Die R2shi hatten beide Welten im· 
+22024 new <D1314> Die R2s2i hatten beide Welten im· 
+;
+; --------------------------------------------
+; Jamuna1 (2)
+; D 139
+2349 old Stätte, wo Gan3ga1 und Jamuna1 sich· 
+2349 new Stätte, wo Gan3ga1 und Yamuna1 sich· 
+;
+; D 184
+3076 old ist die Jamuna1 voll, so geht sie in's· 
+3076 new ist die Yamuna1 voll, so geht sie in's· 
+;
+; --------------------------------------------
+; Ganes4a (1)
+; D 164
+2735 old von Hunger geplagt, des Ganes4a Maus zu· 
+2735 new von Hunger geplagt, des Gan2es4a Maus zu· 
+;
+; --------------------------------------------
+; a1 (2) -> a11  (accent grave)
+; F 187
+3124 old BURNOUF übersetzt: quant a1 ceux qui· 
+3124 new BURNOUF übersetzt: quant a11 ceux qui· 
+;
+; D 2925
+50755 old Erscheinung (den Buchstaben a1): bei· 
+50755 new Erscheinung (den Buchstaben a11): bei· 
+;
+; --------------------------------------------
+; --------------------------------------------
+; Ba1hi1ka (1)
+; V1 278
+4595 old <V1>278. Lies {|Ba1hi1ka|}· 
+4595 new <V1>278. Lies {|Ba1lhi1ka|}· 
+;
+; --------------------------------------------
+; S4akata1ra (1)
+; D 341
+5557 old S4akuni und S4akata1ra geben, o Fürst,· 
+5557 new S4akuni und S4akat2a1ra geben, o Fürst,· 
+;
+; --------------------------------------------
+; Ka1taka (5)
+; D 379
+6186 old was kreischest du, o Bruder Ka1taka,· 
+6186 new was kreischest du, o Bruder Ca1taka,· 
+;
+; D 1913
+32688 old Vogel Ka1taka zu des Regenspenders· 
+32688 new Vogel Ca1taka zu des Regenspenders· 
+;
+; D 6038
+103785 old Ka1taka, dessen Leben durch deine· 
+103785 new Ca1taka, dessen Leben durch deine· 
+;
+; D 6043
+103877 old Darum lässt der Vogel Ka1taka, der ja· 
+103877 new Darum lässt der Vogel Ca1taka, der ja· 
+;
+; D 7240
+123948 old Vogelschnabels (des Ka1taka) zu füllen?· 
+123948 new Vogelschnabels (des Ca1taka) zu füllen?· 
+;
+; --------------------------------------------
+; Lanka1 (1)
+; D 416
+6800 old Lanka1 (Ra1ma) in Brand; der Feind· 
+6800 new Lan3ka1 (Ra1ma) in Brand; der Feind· 
+;
+; --------------------------------------------
+; Vis2n2u (89)
+; D 416
+6801 old Mura's (Vis2n2u) quirlte es und der· 
+6801 new Mura's (Vis2n2u) quirlte es und der· 
+;
+; D 512
+8334 old Fieber, Liebe zu Vis2n2u Macht über· 
+8334 new Fieber, Liebe zu Vis2n2u Macht über· 
+;
+; D 671
+11106 old Vis2n2u's auf der grossen Schlange.· 
+11106 new Vis2n2u's auf der grossen Schlange.· 
+;
+; D 777
+12814 old Vis2n2u ruht im grossen Ocean (dem Vater· 
+12814 new Vis2n2u ruht im grossen Ocean (dem Vater· 
+;
+; D 810
+13358 old Vis2n2u wohnen, und keinen Andern wollen· 
+13358 new Vis2n2u wohnen, und keinen Andern wollen· 
+;
+; D 929
+15319 old (Vis2n2u's) und dann wieder als Juwel im· 
+15319 new (Vis2n2u's) und dann wieder als Juwel im· 
+;
+; D 1035
+17151 old brauchst du Vis2n2u, S4iva, Brahman und· 
+17151 new brauchst du Vis2n2u, S4iva, Brahman und· 
+;
+; D 1087
+18161 old Brahman, Vis2n2u, S4iva, Indra und· 
+18161 new Brahman, Vis2n2u, S4iva, Indra und· 
+;
+; D 1095
+18328 old Hier schläft ja Vis2n2u und hier auch· 
+18328 new Hier schläft ja Vis2n2u und hier auch· 
+;
+; D 1126
+18843 old der Eber (Vis2n2u als Eber) oder der· 
+18843 new der Eber (Vis2n2u als Eber) oder der· 
+;
+; D 1185
+19914 old Juwelen bat der Gott Vis2n2u das Meer.· 
+19914 new Juwelen bat der Gott Vis2n2u das Meer.· 
+;
+; D 1297
+21742 old des Feindes des Mura (d. i. Vis2n2u's· 
+21742 new des Feindes des Mura (d. i. Vis2n2u's· 
+;
+; D 1404
+23602 old (Kr2s2n2a-Vis2n2u) ist durch das· 
+23602 new (Kr2s2n2a-Vis2n2u) ist durch das· 
+;
+; D 1425
+23974 old <D1425><A557> Ein Gott: Vis2n2u oder· 
+23974 new <D1425><A557> Ein Gott: Vis2n2u oder· 
+;
+; D 1529
+25859 old ja Niemand: ein Weber in Vis2n2u's· 
+25859 new ja Niemand: ein Weber in Vis2n2u's· 
+;
+; D 1577
+26636 old <D1577> Im Zeitalter Kali lässt Vis2n2u· 
+26636 new <D1577> Im Zeitalter Kali lässt Vis2n2u· 
+;
+; D 1620
+27400 old ich Vis2n2u, den Allernährer, lobsinge?· 
+27400 new ich Vis2n2u, den Allernährer, lobsinge?· 
+;
+; D 1714
+29071 old verehrt, dem wird durch Vis2n2u's Gnade· 
+29071 new verehrt, dem wird durch Vis2n2u's Gnade· 
+;
+; D 1731
+29484 old Feinde Mura's (Vis2n2u) Freude schafft.· 
+29484 new Feinde Mura's (Vis2n2u) Freude schafft.· 
+;
+; D 1764
+30116 old Vis2n2u ungekannt in dessen Bauche ruht· 
+30116 new Vis2n2u ungekannt in dessen Bauche ruht· 
+;
+; D 1768
+30177 old hehren Vis2n2u. Wonach soll man· 
+30177 new hehren Vis2n2u. Wonach soll man· 
+;
+; D 1769
+30204 old Einsamkeit) denken? An Vis2n2u's· 
+30204 new Einsamkeit) denken? An Vis2n2u's· 
+;
+; D 1769
+30206 old sein lassen? Das Gute. An Vis2n2u's· 
+30206 new sein lassen? Das Gute. An Vis2n2u's· 
+;
+; D 1783
+30491 old (Vis2n2u's Himmel) von allen Seiten· 
+30491 new (Vis2n2u's Himmel) von allen Seiten· 
+;
+; D 1783
+30494 old Als mit diesen Worten Vis2n2u mit seinen· 
+30494 new Als mit diesen Worten Vis2n2u mit seinen· 
+;
+; D 1788
+30587 old Vis2n2u, wenn er sich schlecht kleidete,· 
+30587 new Vis2n2u, wenn er sich schlecht kleidete,· 
+;
+; D 1875
+32010 old nur an Vis2n2u's Discus und an Garud2a· 
+32010 new nur an Vis2n2u's Discus und an Garud2a· 
+;
+; D 1945
+33293 old Hingebung an S4iva und Vis2n2u. Welches· 
+33293 new Hingebung an S4iva und Vis2n2u. Welches· 
+;
+; D 1980
+33897 old Vis2n2u) umfängt die Lakshmi1 mit Armen,· 
+33897 new Vis2n2u) umfängt die Lakshmi1 mit Armen,· 
+;
+; D 2065
+35653 old gewährendes Stätte Vis2n2u's.· 
+35653 new gewährendes Stätte Vis2n2u's.· 
+;
+; D 2256
+38912 old S4iva in Ra1jagr2ha, Vis2n2u in· 
+38912 new S4iva in Ra1jagr2ha, Vis2n2u in· 
+;
+; D 2316
+40004 old <D2316> Vis2n2u, der Herr der Welten,· 
+40004 new <D2316> Vis2n2u, der Herr der Welten,· 
+;
+; D 2384
+41188 old Vis2n2u war?· 
+41188 new Vis2n2u war?· 
+;
+; D 2495
+43231 old das Sprechen über Vis2n2u.· 
+43231 new das Sprechen über Vis2n2u.· 
+;
+; D 2527
+43767 old <D2527> Wie sollte die Gattin Vis2n2u's· 
+43767 new <D2527> Wie sollte die Gattin Vis2n2u's· 
+;
+; D 2600
+45114 old zu Schanden machst, da du ja Vis2n2u,· 
+45114 new zu Schanden machst, da du ja Vis2n2u,· 
+;
+; D 2643
+45855 old <D2643><A4147> Vis2n2u, der Herr der· 
+45855 new <D2643><A4147> Vis2n2u, der Herr der· 
+;
+; D 2644
+45880 old <D2644><A175> Jener Vis2n2u war sogar· 
+45880 new <D2644><A175> Jener Vis2n2u war sogar· 
+;
+; D 2670
+46295 old im Andern ist nur der eine Vis2n2u;· 
+46295 new im Andern ist nur der eine Vis2n2u;· 
+;
+; D 2773
+48071 old welche an der Verehrung (Vis2n2u's)· 
+48071 new welche an der Verehrung (Vis2n2u's)· 
+;
+; D 2773
+48075 old Reichthum dazu da um Vis2n2u zu· 
+48075 new Reichthum dazu da um Vis2n2u zu· 
+;
+; D 2940
+51072 old <D2940> Wie unter der Göttern Vis2n2u zu· 
+51072 new <D2940> Wie unter der Göttern Vis2n2u zu· 
+;
+; D 3142
+54423 old Daitya-Feind (d. i. Vis2n2u) trägt auf· 
+54423 new Daitya-Feind (d. i. Vis2n2u) trägt auf· 
+;
+; D 3328
+57580 old thue Vis2n2u in's Herz und richte seine· 
+57580 new thue Vis2n2u in's Herz und richte seine· 
+;
+; D 3452
+59669 old Freund als Vis2n2u, keinen ärgern Feind· 
+59669 new Freund als Vis2n2u, keinen ärgern Feind· 
+;
+; D 3768
+64838 old Gattin Vis2n2u's.· 
+64838 new Gattin Vis2n2u's.· 
+;
+; D 3773
+64948 old Vis2n2u, die Perle der Künste ist der· 
+64948 new Vis2n2u, die Perle der Künste ist der· 
+;
+; D 3791
+65258 old Vis2n2u's Stellung, Vis2n2u nach S4iva's· 
+65258 new Vis2n2u's Stellung, Vis2n2u nach S4iva's· 
+;
+; D 3815
+65723 old Burg, den Vis2n2u, wie man weiss, zum· 
+65723 new Burg, den Vis2n2u, wie man weiss, zum· 
+;
+; D 3951
+67992 old <D3951><A4512> Diejenigen, die Vis2n2u· 
+67992 new <D3951><A4512> Diejenigen, die Vis2n2u· 
+;
+; F 3974
+68458 old beim Quirlen des Meeres Vis2n2u, dass· 
+68458 new beim Quirlen des Meeres Vis2n2u, dass· 
+;
+; D 4036
+69552 old mittlere Gebiet Vis2n2u's (den· 
+69552 new mittlere Gebiet Vis2n2u's (den· 
+;
+; D 4086
+70441 old meinem Liebsten (Vis2n2u) einen Schlag· 
+70441 new meinem Liebsten (Vis2n2u) einen Schlag· 
+;
+; D 4205
+72513 old Seelenruhe und Vis2n2u Sohn Vasudeva's· 
+72513 new Seelenruhe und Vis2n2u Sohn Vasudeva's· 
+;
+; V2 4205
+72524 old nach {|Vis2n2u|} hinzuzufügen.· 
+72524 new nach {|Vis2n2u|} hinzuzufügen.· 
+;
+; D 4497
+77582 old welches Vis2n2u in eine ungeheure Enge· 
+77582 new welches Vis2n2u in eine ungeheure Enge· 
+; --------------------------------------------
+; s99 (1)
+; V3 755
+12424 old 64. ed. JOHNS. 67. GALAN. Varr. s99. ²a.· 
+12424 new 64. ed. JOHNS. 67. GALAN. Varr. 299. ²a.· 
+;
+; --------------------------------------------
+; Lakshmi1 (8)
+; D 777
+12815 old seiner Gattin Lakshmi1).· 
+12815 new seiner Gattin Laks2mi1).· 
+;
+; D 806
+13291 old es kurz zu sagen, Lakshmi1 zum rothen· 
+13291 new es kurz zu sagen, Laks2mi1 zum rothen· 
+;
+; D 1404
+23595 old die andere (Lakshmi1) unstät; der eine· 
+23595 new die andere (Laks2mi1) unstät; der eine· 
+;
+; D 1620
+27406 old Jadu, o Gatte der Lakshmi1, stets die· 
+27406 new Jadu, o Gatte der Laks2mi1, stets die· 
+;
+; D 1980
+33897 old Vis2n2u) umfängt die Lakshmi1 mit Armen,· 
+33897 new Vis2n2u) umfängt die Laks2mi1 mit Armen,· 
+;
+; D 4785
+82679 old Lakshmi1 entstürzte, sich berührenden· 
+82679 new Laks2mi1 entstürzte, sich berührenden· 
+;
+; D 4887
+84521 old denen Lakshmi1 den Sieg erringt.· 
+84521 new denen Laks2mi1 den Sieg erringt.· 
+;
+; D 6859
+117524 old Vis2n2u die Lakshmi1, S4iva das Gift:· 
+117524 new Vis2n2u die Laks2mi1, S4iva das Gift:· 
+;
+; --------------------------------------------
+; Purusha1ntara (1)
+; D 1036
+17165 old heisst Purusha1ntara (Stellvertretung).· 
+17165 new heisst Purus2a1ntara (Stellvertretung).· 
+;
+; --------------------------------------------
+; Dakshin2a1tja (1)
+; F 1045
+17358 old dass die {|Dakshin2a1tja|} dem Spruche· 
+17358 new dass die {|Da1ks2in2a1tya|} dem Spruche· 
+;
+; --------------------------------------------
+; Vja1sa (3)
+; D 1110
+18568 old eines Kuhhirten, Vja1sa der Sohn eines· 
+18568 new eines Kuhhirten, Vya1sa der Sohn eines· 
+;
+; D 1624
+27480 old eines Weisen (Vja1sa), der von einem· 
+27480 new eines Weisen (Vya1sa), der von einem· 
+;
+; D 2049
+35339 old Vja1sa entsprang aus dem Bauche eines· 
+35339 new Vya1sa entsprang aus dem Bauche eines· 
+;
+; --------------------------------------------
+; Vasisht2ha (3)
+; D 1110
+18571 old Vasisht2ha der Sohn einer Buhldirne sei,· 
+18571 new Vasis2t2ha der Sohn einer Buhldirne sei,· 
+;
+; D 1562
+26408 old Vasisht2ha ihm das Horoskop gestellt· 
+26408 new Vasis2t2ha ihm das Horoskop gestellt· 
+;
+; D 2049
+35336 old Hirten. Vasisht2ha der einer Buhlerin,· 
+35336 new Hirten. Vasis2t2ha der einer Buhlerin,· 
+;
+; --------------------------------------------
+; Kantaka1rika1 (1)
+; D 1159
+19390 old und geruchlose Kantaka1rika1, Dornen?· 
+19390 new und geruchlose Kan2t2aka1rika1, Dornen?· 
+;
+; --------------------------------------------
+; Svajam3bhu (1)
+; D 1335
+22421 old der Sohn Svajam3bhu's erkärt hat, das· 
+22421 new der Sohn Svayambhu's erkärt hat, das· 
+;
+; --------------------------------------------
+; Nirva1na (1)
+; D 1358 print change
+22773 old Besten der Sterblichen im Nirva1na· 
+22773 new Besten der Sterblichen im Nirva1n2a· 
+;
+; --------------------------------------------
+; S4esha (1)
+; D 1404
+23598 old Schlangendämon S4esha bildet das Lager,· 
+23598 new Schlangendämon S4es2a bildet das Lager,· 
+;
+; --------------------------------------------
+; Sam3joga (1)
+; D 1407
+23651 old zu gemeinsamem Vorgehen Sam3joga· 
+23651 new zu gemeinsamem Vorgehen Sam3yoga· 
+;
+; --------------------------------------------
+; Bhinda1 (1) Not in mw 
+; D 1461
+;
+; --------------------------------------------
+; Calc85 (1)
+; F 1473
+24898 old Calc85.· 
+24898 new Calc. 85.· 
+;
+; --------------------------------------------
+; S4am3bhu (1) print change (cf. MW)
+; D 1525
+25789 old Gauri1, Zerstörer von Tripura, S4am3bhu,· 
+25789 new Gauri1, Zerstörer von Tripura, S4ambhu,· 
+;
+; --------------------------------------------
+; Ra1kshasa (5)
+; D 1565
+26457 old Nachtwandler (der Ra1kshasa Khara wird· 
+26457 new Nachtwandler (der Ra1ks2asa Khara wird· 
+;
+; D 1848
+31572 old Ra1kshasa (dem Minister Nanda's) that.· 
+31572 new Ra1ks2asa (dem Minister Nanda's) that.· 
+;
+; D 2844
+49340 old Festungsgraben, die Ra1kshasa zu· 
+49340 new Festungsgraben, die Ra1ks2asa zu· 
+;
+; D 2955
+51326 old Ra1kshasa (Ra1van2a); die heiligen drei· 
+51326 new Ra1ks2asa (Ra1van2a); die heiligen drei· 
+;
+; D 3238
+56099 old Nachtwandler (Ra1kshasa), in der Welt· 
+56099 new Nachtwandler (Ra1ks2asa), in der Welt· 
+;
+; --------------------------------------------
+; S4a1rn3g (1)
+; F 1583
+26744 old <F>1583) S4a1rn3g. PADDH.· 
+26744 new <F>1583) S4A1RN3G. PADDH.· 
+;
+; --------------------------------------------
+; Valmi1ki (1)
+; D 1586
+26781 old <D1586><A3885> Ich preise Valmi1ki, den· 
+26781 new <D1586><A3885> Ich preise Va1lmi1ki, den· 
+;
+; --------------------------------------------
+; Lakshman2a (1)
+; D 1587
+26795 old <D1587> Wer vermag, o Lakshman2a, mit· 
+26795 new <D1587> Wer vermag, o Laks2man2a, mit· 
+;
+; --------------------------------------------
+; Kekati1 (1) ? not in MW
+; D 1719
+;29170 old steht? Sieh, die Kekati1-Blüthe steht in· 
+;29170 new steht? Sieh, die Kekati1-Blüthe steht in· 
+;
+; --------------------------------------------
+; --------------------------------------------
+; Yudhisht2hira (1)
+; D 1814
+31035 old es, o Yudhisht2hira, hier auf Erden in· 
+31035 new es, o Yudhis2t2hira, hier auf Erden in· 
+;
+; --------------------------------------------
+; Dhr2sht2adyumna (1)
+; D 1879
+32078 old brachte vor Zeiten den Dhr2sht2adyumna· 
+32078 new brachte vor Zeiten den Dhr2s2t2adyumna· 
+;
+; --------------------------------------------
+; Rokana1 (1)
+; D 1958
+33538 old Rokana1 aus Kuhgalle; alle diese haben· 
+33538 new Rocana1 aus Kuhgalle; alle diese haben· 
+;
+; --------------------------------------------
+; Pa1n2d2uiden (1) mixed word ?
+; D 2049
+;35341 old Pa1n2d2uiden wurden von Nebenmännern· 
+;35341 new Pa1n2d2uiden wurden von Nebenmännern· 
+;
+; --------------------------------------------
+; Z4 (1)  ?
+; F 2143
+37017 old CA1N2. Z4, 4 bei GALAN. GALAN. varr.· 
+37017 new CA1N2. Z, 4 bei GALAN. GALAN. varr.· 
+;
+; --------------------------------------------
+; Ca1nda1la (6)
+; D 2273
+39190 old <D2273> Unter tausend Ca1nda1la, so· 
+39190 new <D2273> Unter tausend Ca1n2d2a1la, so· 
+;
+; D 2615
+45363 old ist man so lange ein Ca1nda1la, bis man· 
+45363 new ist man so lange ein Ca1n2d2a1la, bis man· 
+;
+; D 6597
+113215 old Hähnen und Ca1nda1la gilt für gleich,· 
+113215 new Hähnen und Ca1n2d2a1la gilt für gleich,· 
+;
+; D 6599
+113251 old wie eines Ca1nda1la Brunnen, den ein· 
+113251 new wie eines Ca1n2d2a1la Brunnen, den ein· 
+;
+; D 6912
+118380 old Ca1nda1la und in jedem Stande Brahmanen:· 
+118380 new Ca1n2d2a1la und in jedem Stande Brahmanen:· 
+;
+; D 6912
+118382 old Ca1nda1la und auch unter den Ca1ndala· 
+118382 new Ca1n2d2a1la und auch unter den Ca1n2d2a1la· 
+;
+; --------------------------------------------
+; Vais4ja (3)
+; D 2456
+42482 old Kriegern der Mächtige, unter den Vais4ja· 
+42482 new Kriegern der Mächtige, unter den Vais4ya· 
+;
+; D 2457
+42497 old kräftig ist, den Vais4ja, wenn er reich· 
+42497 new kräftig ist, den Vais4ya, wenn er reich· 
+;
+; D 2709
+46951 old Sieg, dem Vais4ja Reichthum, den S4u1dra· 
+46951 new Sieg, dem Vais4ya Reichthum, den S4u1dra· 
+;
+; --------------------------------------------
+; S4udra (2)
+; D 2464
+42609 old abgehen, und selbst einen S4udra ehrt· 
+42609 new abgehen, und selbst einen S4u1dra ehrt· 
+;
+; D 6163
+105903 old Besitz, nur bei den S4udra nach der· 
+105903 new Besitz, nur bei den S4u1dra nach der· 
+;
+; --------------------------------------------
+; Me4l (1) French?
+; F 2568
+44486 old Re4musat, |} Me4l. asiat. I, 393. Vgl.· 
+44486 new Re4musat, |} Me4l. asiat. I, 393. Vgl.· 
+;
+; --------------------------------------------
+; Re4musat (1) French?
+; F 2568
+44486 old Re4musat, |} Me4l. asiat. I, 393. Vgl.· 
+44486 new Re4musat, |} Me4l. asiat. I, 393. Vgl.· 
+;
+; --------------------------------------------
+; Sa1la (1)
+; D 2572
+44553 old Sa1la, die Zierde der Wälder, den· 
+44553 new Sa1la, die Zierde der Wälder, den· 
+;
+; --------------------------------------------
+; Pra1ki1na1s (1)  Is the 's' a German plural?
+; F 2590
+44907 old {|Pra1ki1na1s|} zugeschrieben. ²a.· 
+44907 new {|Pra1ci1na1s|} zugeschrieben. ²a.· 
+;
+; --------------------------------------------
+; Na1ra1jan2a (1)
+; D 2790
+48397 old zum Gotte Na1ra1jan2a.· 
+48397 new zum Gotte Na1ra1yan2a.· 
+;
+; --------------------------------------------
+; Triku1ta (1)
+; D 2844
+49339 old Triku1ta zur Burg, das Meer zum· 
+49339 new Triku1t2a zur Burg, das Meer zum· 
+;
+; --------------------------------------------
+; Ma1ndha1tar (4) MW = Ma1ndha1tr2
+; --------------------------------------------
+; Lu2sten (1)
+; D 2884
+50058 old Lu2sten fröhnen oder alles Vermögens· 
+50058 new Lu7sten fröhnen oder alles Vermögens· 
+;
+; --------------------------------------------
+; fru6her (1)
+; D 2898
+50273 old fru6her nicht davon gesprochen, auch· 
+50273 new fru7her nicht davon gesprochen, auch· 
+;
+; --------------------------------------------
+; Ka1n2d2a1la (1)
+; D 2909
+50459 old ein Ka1n2d2a1la genannt.· 
+50459 new ein Ca1n2d2a1la genannt.· 
+;
+; --------------------------------------------
+; Kr2pana (1)
+; D 2925
+50752 old <D2925><A1227> Der Geizhals (Kr2pana)· 
+50752 new <D2925><A1227> Der Geizhals (Kr2pan2a)· 
+;
+; --------------------------------------------
+; Kran2a (1)
+; D 2939
+51047 old bringt keinen Segen. Kran2a's, Bali's· 
+51047 new bringt keinen Segen. Karn2a's, Bali's· 
+;
+; --------------------------------------------
+; Vikrama1ditja (1)
+; D 2939
+51048 old und Vikrama1ditja's Ruhm besteht ja noch· 
+51048 new und Vikrama1ditya's Ruhm besteht ja noch· 
+;
+; --------------------------------------------
+; S4olka (2)
+; F 3323
+57484 old der folgenden {|S4olka|} mit deneselben· 
+57484 new der folgenden {|S4loka|} mit deneselben· 
+;
+; F 4128.29
+71226 old folgenden {|S4olka|} {?}· 
+71226 new folgenden {|S4loka|} {?}· 
+;
+; --------------------------------------------
+; Ca1nakya (1)
+; D 3326
+57534 old <D3326><A4310> Ca1nakya tödtete den· 
+57534 new <D3326><A4310> Ca1n2akya tödtete den· 
+;
+; --------------------------------------------
+; Su1kimukha (1)
+; D 3578
+61721 old Su1kimukha, zur Erkenntniss, dass man· 
+61721 new Su1ci1mukha, zur Erkenntniss, dass man· 
+;
+; --------------------------------------------
+; ca1n2 (2)
+; F 3583
+61803 old <F>3583) VR2DDHA-ca1n2. 17, 7. ²a. Statt· 
+61803 new <F>3583) VR2DDHA-CA1N2. 17, 7. ²a. Statt· 
+;
+; F 5246
+90311 old <F>5246) ca1n2. 22 bei WEBER;· 
+90311 new <F>5246) CA1N2. 22 bei WEBER;· 
+;
+; --------------------------------------------
+; Nilakan2t2ha (1)
+; F 3646
+62792 old {|Nilakan2t2ha's|} Erklärungen lauten:· 
+62792 new {|Ni1lakan2t2ha's|} Erklärungen lauten:· 
+;
+; --------------------------------------------
+; Abhi1ra (1)
+; D 3969
+68352 old einer Hirtenstation der Abhi1ra· 
+68352 new einer Hirtenstation der A1bhi1ra· 
+;
+; --------------------------------------------
+; Pra1n3kas (1)
+; F 4032
+69466 old Spruch den {|Pra1n3kas|} zugeschrieben· 
+69466 new Spruch den {|Pra1n5cas|} zugeschrieben· 
+;
+; --------------------------------------------
+; Kamala1ya1 (1)
+; D 4086
+70447 old vgl. Kamala1ya1) haut man Tag für Tag· 
+70447 new vgl. Kamala1laya1) haut man Tag für Tag· 
+;
+; --------------------------------------------
+; Hiranyakas4ipu (1)
+; D 4139
+71359 old Hiranyakas4ipu baute sich in alten· 
+71359 new Hiran2yakas4ipu baute sich in alten· 
+;
+; --------------------------------------------
+; Jata1ks2a (1)
+; D 4169
+71911 old Sita1, der Tod Jata1ks2a's, das Bündniss· 
+71911 new Sita1, der Tod Jata1ks2a's, das Bündniss· 
+;
+; --------------------------------------------
+; Sita1 (1) ? not in MW
+; D 4169
+71911 old Sita1, der Tod Jata1ks2a's, das Bündniss· 
+71911 new Sita1, der Tod Jat2a1ks2a's, das Bündniss· 
+;
+; --------------------------------------------
+; Vishn2u (1)
+; V3 4205
+72521 old nach «Vishn2u» hinzufügen.· 
+72521 new nach «Vis2n2u» hinzufügen.· 
+;
+; --------------------------------------------
+; Gan3gadata (1)
+; D 4482
+77300 old Schlange), dass Gan3gadata (der Frosch)· 
+77300 new Schlange), dass Gan3gadatta (der Frosch)· 
+;
+; --------------------------------------------
+; Ja1ya (1)
+; D 4572
+78850 old Ja1ya.· 
+78850 new Ja1ya1.· 
+;
+; --------------------------------------------
+; E4 (1)  E' ?
+; F 4651
+80430 old GALAN. CA1N2. E4, 9 und Varr. 314; zum· 
+80430 new GALAN. CA1N2. E, 9 und Varr. 314; zum· 
+;
+; --------------------------------------------
+; Vira1ta (1)
+; D 4734
+81779 old Dhanam3jaya (Arjuna, der die dem Vira1ta· 
+81779 new Dhanam3jaya (Arjuna, der die dem Vira1t2a· 
+;
+; --------------------------------------------
+; Hds2chr (1) german abbrev.
+; F 4872
+84244 old die Hdschr. ²d. {#makArAt#} die Hds2chr.· 
+84244 new die Hdschr. ²d. {#makArAt#} die Hdschr.· 
+;
+; --------------------------------------------
+; Ujjajini1 (1)
+; F 4894
+84667 old {|arjuna, |} König von {|Ujjajini1, |}· 
+84667 new {|arjuna, |} König von {|Ujjayini1, |}· 
+;
+; --------------------------------------------
+; S4 (5) local abbrev. for S4a1rn5g.
+; F 4948
+;85588 old {#sadhvI strI#} S4. P. ²c. {#mRtA sA· 
+; --------------------------------------------
+; H4dschr (1)
+; F 4975
+86045 old H4dschr.· 
+86045 new Hdschr.· 
+;
+; --------------------------------------------
+; ni1tis (1)
+; F 5066
+87490 old <F>5066) KA1M. ni1tis. 9, 15. HIT. ed.· 
+87490 new <F>5066) KA1M. NI1TIS. 9, 15. HIT. ed.· 
+;
+; --------------------------------------------
+; Uttarakosala1 (1)
+; D 5249
+90356 old Uttarakosala1 geworden? Mit solchen· 
+90356 new Uttarakosala1 geworden? Mit solchen· 
+;
+; --------------------------------------------
+; pan5car (1)
+; F 5264
+90627 old <F>5264) pan5car. 2, 2, 25, ²b. 26, ²a.· 
+90627 new <F>5264) PAN5CAR. 2, 2, 25, ²b. 26, ²a.· 
+;
+; --------------------------------------------
+; Ga1n2di1va (1)
+; D 5295
+91114 old auf dem Bogen Ga1n2di1va schwingenden· 
+91114 new auf dem Bogen Ga1n2d2i1va schwingenden· 
+;
+; --------------------------------------------
+; a4 (1)
+; F 5308
+91341 old <F>5308) MBH. 12, 8203. °a4. {#mohayet#}· 
+91341 new <F>5308) MBH. 12, 8203. ²a. {#mohayet#}· 
+;
+; --------------------------------------------
+; Ran3gapura (1) not in mw
+; F 5365
+;92234 old Ausg. von Ran3gapura. ²c. {#cApi#}. ²d.· 
+;
+; --------------------------------------------
+; Ran3gap (18)
+; F 5510
+; --------------------------------------------
+; Subha1sh (1)
+; F 5721
+98079 old (Subha1sh.); {#kalahaprakRti#} st. {#pA°· 
+98079 new (SUBHA1SH.); {#kalahaprakRti#} st. {#pA°· 
+;
+; --------------------------------------------
+; subha1sh (1)
+; F 5762
+98781 old subha1sh. 158. ²a. ²b. {#agnistaskaro· 
+98781 new SUBHA1SH. 158. ²a. ²b. {#agnistaskaro· 
+;
+; --------------------------------------------
+; Pa1riga1ta (1)
+; D 5897
+101292 old Pa1riga1ta, deine Rede ist die alle· 
+101292 new Pa1rija1ta, deine Rede ist die alle· 
+;
+; --------------------------------------------
+; Ca1n2da1la (2)
+; D 5952
+102240 old in der Hand in den von Ca1n2da1la· 
+102240 new in der Hand in den von Ca1n2d2a1la· 
+;
+; D 6504
+111626 old Ca1n2da1la wird zu einem Brahmanen,· 
+111626 new Ca1n2d2a1la wird zu einem Brahmanen,· 
+;
+; --------------------------------------------
+; Ca1n2d2ala (1)
+; D 6167
+105970 old ein Ca1n2d2ala ist der beste Mann, wenn· 
+105970 new ein Ca1n2d2a1la ist der beste Mann, wenn· 
+;
+; --------------------------------------------
+; Atimukta1 (1) not in MW
+; D 6234
+107104 old Rolle der Winde Atimukta1.· 
+107104 new Rolle der Winde Atimukta1.· 
+;
+; --------------------------------------------
+; Pura1na (1)
+; D 6271
+107732 old Werke und die Pura1na, o Schöne,· 
+107732 new Werke und die Pura1n2a, o Schöne,· 
+;
+; --------------------------------------------
+; S4ira1sha (1)
+; D 6330
+108696 old S4ira1sha-Blüthe zu durchschneiden, der· 
+108696 new S4iri1s2a-Blüthe zu durchschneiden, der· 
+;
+; --------------------------------------------
+; Namus4i (1)
+; D 6407
+109945 old die des Namus4i, des Bali und auch die· 
+109945 new die des Namuci, des Bali und auch die· 
+;
+; --------------------------------------------
+; Paras4ra1ma (1)
+; D 6816
+116807 old (Paras4ra1ma) bleibt er nicht einmal bei· 
+116807 new (Paras4ura1ma) bleibt er nicht einmal bei· 
+;
+; --------------------------------------------
+; Mi1ma1sa1 (1)
+; D 7045
+120593 old Mi1ma1sa1, zerstampfte flugs ein· 
+120593 new Mi1ma1m3sa1, zerstampfte flugs ein· 
+;
+; --------------------------------------------
+; Pa1n2d2va (1)
+; D 7129
+122060 old <D7129> Die Pa1n2d2va, die schmucken· 
+122060 new <D7129> Die Pa1n2d2ava, die schmucken· 
+;
+; --------------------------------------------
+; T2it2t2ibha (1) print change (cf mw, pwg)
+; D 7269
+124460 old gedämpft werden? Der Vogel T2it2t2ibha· 
+124460 new gedämpft werden? Der Vogel Tit2ibha· 
+;
+; --------------------------------------------
+; Ma1n2davya (1)
+; D 7485
+128030 old Br2haspati ein gutes Omen, Ma1n2davya den· 
+128030 new Br2haspati ein gutes Omen, Ma1n2d2avya den· 
+;
+; --------------------------------------------
+; Dra1vida (1)
+; D 7563
+129258 old Tochter zu heirathen in Dra1vida: die· 
+129258 new Tochter zu heirathen in Dra1vid2a: die· 
+;
+; ------------------------------------------
+; Dhr2tara1sht2ra (1)
+; D 2724
+47218 old nicht, o Dhr2tara1sht2ra, diese sollst· 
+47218 new nicht, o Dhr2tara1s2t2ra, diese sollst· 
+;
+; ------------------------------------------
+; Vibhi1shana
+; D 774
+12757 old mit Vibhi1shana that.· 
+12757 new mit Vibhi1s2an2a that.· 
+;
+; --------------------------------------------
+; W (4)
+; F 87
+;1457 old Pet. W. u. {#meru#} 1, {%e%}) lautet der· 
+;
+; F 1779
+;30420 old Monatsberr. d. k. pr. Ak. d. W. 1868.· 
+;
+; F 4062
+;70051 old Monatsberr. d. K. Pr. Ak. d. W. 1868,· 
+;
+; D 6700
+;114875 old Finsterniss. {%A. W. von Schlegel.%}· 
+;
+; --------------------------------------------
+; B (12)
+; F 136
+;2308 old CA1N2. bei GALAN. B, 1. [Seite1.27]· 
+;
+; F 899
+;14832 old Bomb. 44. CA1N2. bei GALAN. B, 2.· 
+;
+; F 1503
+25402 old Monatsberr. d. kön. Ak. d. Ww. in B. 1868· 
+25402 new Monatsberr. d. kön. Ak. d. Ww. in B. 1868 S. 100.· 
+25403 old S. 100.· 
+25403 new 
+;
+; F 1508
+25486 old Monatsberr. d. kon. Ak. d. Ww. in· 
+25486 new Monatsberr. d. kon. Ak. d. Ww. in B. 1868, S. 100. ²b.· 
+25487 old B. 1868, S. 100. ²b. {#nopasarpyate#}.· 
+25487 new {#nopasarpyate#}.· 
+;
+; D 1567
+;26496 old ist bei Geburt, z. B. in einer vornehmen· 
+;
+; D 2522
+43667 old Wichten hoch angeschlagen wird, wie z.· 
+43667 new Wichten hoch angeschlagen wird, wie · 
+43668 old B. der Genuss an der Herrschaft über die· 
+43668 new z. B. der Genuss an der Herrschaft über die· 
+;
+; D 4562
+;78680 old wird, wie z. B. die Milch in der· 
+;
+; F 6148
+;105646 old est ut verbum) {#vyapaiti#} cum B.· 
+;
+; D 6630
+;113701 old trachten, wie z. B. zwischen Hund und· 
+;
+; V3 6741
+;115556 old <V3>6741. Auch in Verz. d. B. H. No. 901.· 
+;
+; F 7557
+;129183 old 92. GALAN. CA1N2. B. 4. ²a. {#rAjAno#}· 
+;
+; F 7594
+;129727 old GALAN. CA1N2. B' 5.· 
+;
+; --------------------------------------------
+; ASHT2A1M3GAHR2DAYASAM3HITA1 (1)
+; V3 701
+11578 old ASHT2A1M3GAHR2DAYASAM3HITA1; s.· 
+11578 new ASHT2A1N3GAHR2DAYASAM3HITA1; s.· 
+;
+; --------------------------------------------
+; BATT (1)
+; F 1089
+18209 old BATT.(63.) ²9 {#priyavAk#} st.· 
+18209 new Varr. 63. ²b. {#priyavAk#} st.· 
+18210 old {#balavAn#} SUBHA1SH. ²a. b. lauten bei· 
+18210 new {#balavAn#} SUBHA1SH. ²a. ²b. lauten bei· 
+;
+; --------------------------------------------
+; BR (3) 
+; F 1144  BR. = BRA1HMAN2., PRAS. = PRASAN3GA1BH.
+;19150 old {#bhArata#} BR. und PRAS. ²c.· 
+;
+; F 3890  
+;66991 old saMpravizya#} und AIT. BR. 7, 13.· 
+;
+; F 5355
+;92071 old <F>5355) M. 9, 107. Vgl. AIT. BR. 7, 13.· 
+;
+; --------------------------------------------
+; DAS4AK (2)
+; F 1191
+20016 old DAS4AK. S. 86.· 
+20016 new DAS4AR. S. 86.· 
+;
+; F 1738 print change
+29628 old <F>1738) Comm. zu DAS4AK. S. 150.· 
+29628 new <F>1738) Comm. zu DAS4AR. S. 150.· 
+;
+; --------------------------------------------
+; CANDRODAYAVAN2ANA (1)
+; F 1311
+21975 old CANDRODAYAVAN2ANA. Mitgetheilt von TH.· 
+21975 new CANDRODAYAVARN2ANA. Mitgetheilt von TH.· 
+;
+; --------------------------------------------
+; BH (2)
+; F 1525  BH. = BHARTR2.
+;25798 old {#kaupIne#} BH. ²c. {#triNayana#}. ²d.· 
+;
+; F 1525   BH. = BHARTR2.
+;25799 old {#prasIdetyAkrozan#} BH. Vgl. Spruch· 
+;
+; --------------------------------------------
+; YOGAYA1TRA11 (2)
+; F 1567
+26504 old <F>1567) YOGAYA1TRA11, 3 in Ind.· 
+26504 new <F>1567) YOGAYA1TRA1 1, 3 in Ind.· 
+;
+; F 1707
+28915 old <F>1707) YOGAYA1TRA11, 20 in Ind. St. 10,· 
+28915 new <F>1707) YOGAYA1TRA1 1, 20 in Ind. St. 10,· 
+;
+; --------------------------------------------
+; PT (1)
+; F 1619
+27386 old PT. 41. DAM3PATI1S4. 9. ²b.· 
+27386 new Pr. 41. DAM3PATI1S4. 9. ²b.· 
+;
+; --------------------------------------------
+; BHNFEY (1)
+; F 1885
+32177 old BENFEY'S. ²c. {#dIrghau#} BHNFEY'S· 
+32177 new BENFEY'S. ²c. {#dIrghau#} BENFEY'S· 
+;
+; --------------------------------------------
+; S4AM3KARA1CA1RJA (1)
+; F 2033
+35046 old <F>2033) S4AM3KARA1CA1RJA,· 
+35046 new <F>2033) S4AM3KARA1CA1RYA,· 
+;
+; --------------------------------------------
+; NI (1)
+; F 2042
+;35192 old gajonmattaM raNDA ca °NI#} die Hdschr.· 
+;
+; --------------------------------------------
+; KAVIDBHAT2T2A (1)
+; F 2049
+35347 old <F>2049) KAVIDBHAT2T2A, PADYASAM3GRAHA 13· 
+35347 new <F>2049) KAVIBHAT2T2A, PADYASAM3GRAHA 13· 
+;
+; --------------------------------------------
+; BR2SH (1)
+; F 2407 print change
+41615 old <F>2407) M. 3, 58. VARA1H. BR2SH. S. 74,· 
+41615 new <F>2407) M. 3, 58. VARA1H. BR2H. S. 74,· 
+;
+; --------------------------------------------
+; PRATNAKAMARANANDINI (1) ? cannot find in mw.
+; V3 2505
+43408 old PRATNAKAMARANANDINI, Abth. The Hindu· 
+43408 new PRATNAKAMRANANDINI1, Abth. The Hindu· 
+;
+; --------------------------------------------
+; PRATNAKAMBANANDINI1 (1) ? cannot find in mw.
+; V2 2505
+43426 old PRATNAKAMBANANDINI1, Abth. The Hindu· 
+43426 new PRATNAKAMRANANDINI1, Abth. The Hindu· 
+;
+; --------------------------------------------
+; BHARAT2AKAVA1TR2M3S4 (1) ? cannot find in mw.
+; F 2664
+46213 old <F>2664) BHARAT2AKAVA1TR2M3S4. in Z. d.· 
+46213 new <F>2664) BHARATAKADVA1TR2M3S4. in Z. d.· 
+;
+; --------------------------------------------
+; VP (4) 
+; F 2803
+;48600 old <F>2803) VP. bei KULL. zu M. 3, 105.· 
+;
+; F 5053
+87300 old <F>5053) MBh. 1, 3512. VP. bei KULL. zu· 
+87300 new <F>5053) MBH. 1, 3512. VP. bei KULL. zu· 
+;
+; F 5053
+;87304 old VP. {#tasmAdtitRSaM tyajet#} KA1M.· 
+;
+; F 5273
+;90779 old <F>5273) VP. im Comm. zu SA1M3KHYAPR. 6,· 
+;
+; --------------------------------------------
+; BA1LAB (1)
+; F 2966
+;51501 old <F>2966) BA1LAB. 31. VR2DDHA-CA1N2. 13,· 
+;
+; --------------------------------------------
+; SCHLEGR (1)
+; F 3072
+53248 old wofür SCHLEGR'I {#dhanyo 'nyairaku°#} in· 
+53248 new wofür SCHLEGEL {#dhanyo 'nyairaku°#} in· 
+;
+; --------------------------------------------
+; T (1) ? not legible
+; F 3197
+55374 old VIKRAMAC. 63. SUBHA1SH. 259. CA1N2. T'· 
+55374 new VIKRAMAC. 63. SUBHA1SH. 259. CA1N2. T?· 
+;
+5711 old <F>349) {#CA1N2#}. 69 bei WEBER. ²d.· 
+5711 new <F>349) CA1N2. 69 bei WEBER. ²d.· 
+; --------------------------------------------
+; VISHNUS4ARMAN (1)
+; F 3421
+59163 old VISHNUS4ARMAN). ²d. {#calate#}.· 
+59163 new VISHN2US4ARMAN). ²d. {#calate#}.· 
+;
+; --------------------------------------------
+; SA1MA1NYAVRK2SHA1NYOKTI (1)
+; F 3896
+67094 old SA1MA1NYAVRK2SHA1NYOKTI 8. ²b.· 
+67094 new SA1MA1NYAVR2KSHA1NYOKTI 8. ²b.· 
+;
+; --------------------------------------------
+; SAM3KIRN2AKA1KHYA1NA (1)
+; F 3904
+67234 old SAM3KIRN2AKA1KHYA1NA 26 (25).· 
+67234 new SAM3KI1RN2AKA1KHYA1NA 26 (25).· 
+;
+; --------------------------------------------
+; WEBEE (1)
+; F 3924
+67542 old WEBEE; NI1TISAM3K.;· 
+67542 new WEBER; NI1TISAM3K.;· 
+;
+; --------------------------------------------
+; BHARAT2AKADVA1TR2M3S4IKA1 (3) mw has ..triṃśikā
+; also PWG under Barawaka, has dvātriṃśikā print change
+; F 3978
+68532 old <F>3978) BHARAT2AKADVA1TR2M3S4IKA1 in· 
+68532 new <F>3978) BHARAT2AKADVA1TRIM3S4IKA1 in· 
+;
+; F 6060
+104184 old <F>6060) BHARAT2AKADVA1TR2M3S4IKA1 in· 
+104184 new <F>6060) BHARAT2AKADVA1TRIM3S4IKA1 in· 
+;
+; F 6134
+105411 old <F>6134) BHARAT2AKADVA1TR2M3S4IKA1 in· 
+105411 new <F>6134) BHARAT2AKADVA1TRIM3S4IKA1 in· 
+;
+; --------------------------------------------
+; VARARUCKI (1)
+; F 4149
+71541 old <F>4149) VARARUCKI, NI1TIRATNA 5 bei· 
+71541 new <F>4149) VARARUCI, NI1TIRATNA 5 bei· 
+;
+; --------------------------------------------
+; TAK (1)
+; F 4285
+73881 old KAVITA1MR2.TAK. 36. ²a. {#niHphalo#}. ²b.· 
+73881 new KAVITA1MR2TAK. 36. ²a. {#niHphalo#}. ²b.· 
+;
+; --------------------------------------------
+; BEHAN2A (1)
+; F 4773
+82464 old <F>4773) BEHAN2A in S4A1RN3G. PADDH.· 
+82464 new <F>4773) BILHAN2A in S4A1RN3G. PADDH.· 
+;
+; --------------------------------------------
+; NA1BADA (1)
+; F 4822
+83363 old Angeblich ein Ausspruch NA1BADA'S. In· 
+83363 new Angeblich ein Ausspruch NA1RADA'S. In· 
+;
+; --------------------------------------------
+; S4A1RN (2)
+; F 4825
+83444 old S4A1RN%G. PADDH. PRASAN3GA1BH. 10, ²a.· 
+83444 new S4A1RN5G. PADDH. PRASAN3GA1BH. 10, ²a.· 
+;
+; F 5356
+92084 old II, 127. JOHNS. 132. S4A1RN%G. PADDH.· 
+92084 new II, 127. JOHNS. 132. S4A1RN5G. PADDH.· 
+;
+; --------------------------------------------
+; ASUT2A1VAKRA (1)
+; F 4877
+84334 old <F>4877) ASUT2A1VAKRA 1, 1 bei CARLO· 
+84334 new <F>4877) ASHT2A1VAKRA 1, 1 bei CARLO· 
+;
+; --------------------------------------------
+; S410NTIS4 (1)
+; F 5046
+87174 old <F>5046) S410NTIS4 3, 12 bei HAEB. 422.· 
+87174 new <F>5046) S4A1NTIS4. 3, 12 bei HAEB. 422.· 
+;
+; --------------------------------------------
+; BRNFRY (1)
+; F 5076
+87643 old {#hRdisthA#} BRNFRY'S Verbesserung für· 
+87643 new {#hRdisthA#} BENFEY'S Verbesserung für· 
+;
+; --------------------------------------------
+; VIKRMAC (1)
+; F 5573
+95698 old cApi#} (VIKRMAC). ²c. {#mRtyuloke;· 
+95698 new cApi#} (VIKRAMAC.). ²c. {#mRtyuloke;· 
+;
+; --------------------------------------------
+; WRBER (2)
+; F 5638
+96737 old <F>5638) CA1N2. 42 bei WRBER;· 
+96737 new <F>5638) CA1N2. 42 bei WEBER;· 
+;
+; F 5847
+100423 old WRBER; VR2DDHA-CA1N2. 2, 12. Berl.· 
+100423 new WEBER; VR2DDHA-CA1N2. 2, 12. Berl.· 
+;
+; --------------------------------------------
+; KA1T2AVEMA (1) ? not in MW
+; F 5715
+;97952 old KA1T2AVEMA {#rUpANi#}, liest aber nicht· 
+;
+; --------------------------------------------
+; PANCAT (1)
+; F 6581
+112933 old dharmArthayorvaraH ||#} Im PANCAT.:· 
+112933 new dharmArthayorvaraH ||#} Im PAN5CAT.:· 
+;
+; --------------------------------------------
+; BAHUD (1) = local abbrv. for BAHUDARS4ANA
+; F 7146
+;122329 old 97. ²c. {#Apat#} st. {#vipat#} BAHUD.· 
+;
+; --------------------------------------------
+; S4ATAKA1VALI (2) ? not in mw, pwg
+; F 7231
+123767 old in KA1VYAKAL. S4ATAKA1VALI S. 28.· 
+123767 new in KA1VYAKAL. S4ATAKA1VALI1 S. 28.· 
+;
+; F 7233
+123814 old in KA1VYAKAL. S4ATAKA1VALI S. 30. ²a.· 
+123814 new in KA1VYAKAL. S4ATAKA1VALI1 S. 30. ²a.· 
+;
+; --------------------------------------------
+; S4ATAKA1VALI1 (1) ? not in mw, pwg
+; F 7251
+;124125 old HAEB. 2, 97. S4ATAKA1VALI1 S. 92. ²a.· 
+;
+; --------------------------------------------
+; S4RI1DHARASV (1) = ? śrīdharasvāmin
+; F 7428
+127159 old 114. S4RI1DHARASV. zu BHAG. 1, 36. Comm.· 
+127159 new 114. S4RI1DHARASV. zu BHAG. 1, 36. Comm.· 
+;
+; --------------------------------------------
+; AUFECHT (1)
+; F 7527
+128724 old {#mahIyo#}. ²b. {#abhyudeti#} AUFECHT'S· 
+128724 new {#mahIyo#}. ²b. {#abhyudeti#} AUFRECHT'S· 
+;
+; 
+75485 old {#kulInamatha vonnatam#}.</F>· 
+;
+75485 new {#kulInamatha vonnatam#}.· 
+; ---------------------------------------------
+; 
+75500 old ²a. {#pArthivo#} st. {#nRpatir#}.</F>· 
+;
+75500 new ²a. {#pArthivo#} st. {#nRpatir#}.· 
+; ---------------------------------------------
+; 
+75525 old Spruch {#mInaH snAnaparaH#}.</F>· 
+;
+75525 new Spruch {#mInaH snAnaparaH#}.· 
+; ---------------------------------------------
+; 
+75538 old <F>4377) MBH. 12, 12050.</F>· 
+;
+75538 new <F>4377) MBH. 12, 12050.· 
+; ---------------------------------------------
+; 
+75554 old {#zazavacca#} MBH.</F> [Seite2-447]· 
+;
+75554 new {#zazavacca#} MBH. [Seite2-447]· 
+; ---------------------------------------------
+; 
+75569 old {#mahadbhayadam#}.</F>· 
+;
+75569 new {#mahadbhayadam#}.· 
+; ---------------------------------------------
+; 
+75586 old fg.</F>· 
+;
+75586 new fg.· 
+; ---------------------------------------------
+; 
+75620 old jaTharasyApi durlabhaH#} SUBHA1SH.</F>· 
+;
+75620 new jaTharasyApi durlabhaH#} SUBHA1SH.· 
+; ---------------------------------------------
+; 
+75638 old {#ucyate#}.</F> [Seite2.448]· 
+;
+75638 new {#ucyate#}. [Seite2.448]· 
+; ---------------------------------------------
+; 
+129233 old {#nirvRtiH#} eine Hdschr.</F>· 
+;
+129233 new {#nirvRtiH#} eine Hdschr.· 
+; ---------------------------------------------
+; 
+129243 old 3309.</F>· 
+;
+129243 new 3309.· 
+; ---------------------------------------------
+; 
+129265 old vi°#} gedr.</F>· 
+;
+129265 new vi°#} gedr.· 
+; ---------------------------------------------
+; 
+129276 old <F>7564) CARR 424.</F>· 
+;
+129276 new <F>7564) CARR 424.· 
+; ---------------------------------------------
+; 
+129291 old <F>7565) BAHUDARS4ANA 108.</F>· 
+;
+129291 new <F>7565) BAHUDARS4ANA 108.· 
+; ---------------------------------------------
+; F 1236
+20714 old in L. A. (III) 6. S4UK. 11 (nach BENFEY).· 
+20714 new in LA. (III) 6. S4UK. 11 (nach BENFEY).· 
+;
+; F 1090
+18235 old Bomb. 82. SURHA1sh. 72. ²a. {#ICCHATi#}· 
+18235 new Bomb. 82. SUBHA1SH. 72. ²a. {#icchati#}· 
+;
+; F 4368
+75379 old und GALAN. 25. lith. Aush. I 26. PRAB.· 
+75379 new und GALAN. 25. lith. Ausg. I 26. PRAB.· 
+;
+; D 5195
+89404 old Lakshmana, niedergeschlagen, und es· 
+89404 new Laks2man2a, niedergeschlagen, und es· 
+;
+; D 5557
+95401 old gethan, dann ist er, o Yudhishthira,· 
+95401 new gethan, dann ist er, o Yudhis2t2hira,· 
+;
+; ---------------------------------------------
+; correct F755 and V3-755
+12418 old  
+12418 new <g></g>, bei GALAN. HIT. ed. SCHL. III,· 
+;-----------------
+12419 old <V3>755. = NI1TIS4A1STRA in· 
+12419 new 64. ed. JOHNS. 67. GALAN. Varr. 299. ²a.· 
+;-----------------
+12420 old Telugu-Charr. 42. Als neue Variante ist· 
+12420 new {#asaMtuSTo dvijo naSTaH#}. ²b.· 
+;-----------------
+12421 old nur {#nirlajjeva#} in ²d. zu· 
+12421 new {#saMtuSTA iva pArthivAH, saMtuSTa iva· 
+;-----------------
+12422 old verzeichnen.· 
+12422 new pArthivaH, saMtuSTAzca mahIbhRtaH,· 
+;-----------------
+12423 old <g></g>, bei GALAN. HIT. ed. SCHL. III,· 
+12423 new saMtuSTAH pArthivAH sadA#}. ²d.· 
+;-----------------
+12424 old 64. ed. JOHNS. 67. GALAN. Varr. 299. ²a.· 
+12424 new {#nirlajjAH sukula°, nirlajjA ca· 
+;-----------------
+12425 old {#asaMtuSTo dvijo naSTaH#}. ²b.· 
+12425 new kulAGganA, kulAGganAH#}.· 
+;-----------------
+12426 old {#saMtuSTA iva pArthivAH, saMtuSTa iva· 
+12426 new   
+;-----------------
+12427 old pArthivaH, saMtuSTAzca mahIbhRtaH,· 
+12427 new <V3>755. = NI1TIS4A1STRA in· 
+;-----------------
+12428 old saMtuSTAH pArthivAH sadA#}. ²d.· 
+12428 new Telugu-Charr. 42. Als neue Variante ist· 
+;-----------------
+12429 old {#nirlajjAH sukula°, nirlajjA ca· 
+12429 new nur {#nirlajjeva#} in ²d. zu· 
+;-----------------
+12430 old kulAGganA, kulAGganAH#}.· 
+12430 new verzeichnen.· 
+;-----------------
+12431 old  
+12431 new 
+;-----------------

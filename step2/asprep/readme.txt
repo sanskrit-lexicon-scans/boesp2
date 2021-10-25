@@ -88,4 +88,74 @@ those to remain unchanged.
 python change_j_n5.py temp_boesp_04.txt as_j_n5_words.txt temp_change_j_n5.txt
  (these changes added to change_05.txt)
 
+#change_06
+
+python ../updateByLine.py temp_boesp_05.txt change_06.txt temp_boesp_06.txt
+1 changes
+
+cp change_06.txt ../../step0/changes/
+in step0, sh install.sh 05 06
+
+# as_3 words containing lower-case letter following by digit.
+# Details:
+* skip H, HS, and S groups
+* exclude sanskrit text in {#..#}
+* Define 'words' by re.split(r'\b')
+* exclude words that begin with Seite, Page
+* exclude words like ANNNN, DNNNN  (in tags)
+* include words that
+   Begin with an upper or lower case letter ([A-Za-z])
+   Then have 0 or more lower-case letters [a-z]
+   Then have a digit
+   Then end with 0 or more lower-case letters or digits [a-z0-9]
+
+python as_3.py temp_boesp_05.txt as_3.txt
+  388 words
+python change_from_words.py temp_boesp_06.txt as_3.txt temp_change_as_3.txt
+# redo word list after revisions:
+python as_3.py temp_boesp_06.txt as_3-rev.txt
+  334 words
+  
+# as_4 words mainly like those detected by change_asgroup.
+# Details:
+* include only groups F, V1, V2, V3
+* exclude sanskrit text in {#..#}
+* Define 'words' by re.split(r'\b')
+* exclude words that begin with Seite, Page
+* exclude tag like ANNNN, DNNNN  (in tags)
+* exclude tag words <V1>, <V2>, <V3>, <F>, <S>, <H>, <HS>
+* exclude roman-numerals:
+   I, II, III, IV, IX,
+   VI,
+   XI, XIV, XVI,XVIII
+* exclude one-letter word 'G'  (occurs only in 'Z. d. d. m. G.'
+* include words that
+   Begin with an upper-case letter [A-Z]
+   contain only 0 or more upper-case letters and digits [A-Z0-9]
+   
+python as_4.py temp_boesp_06.txt as_4.txt
+558 records written to as_4.txt
+25187 words including frequency
+as_4_query.txt  # words from as_4.txt to be checked
+python change_from_words.py temp_boesp_06.txt as_4_query.txt temp_change_as_4_query.txt
+Redo after some changes
+python as_4.py temp_boesp_06.txt as_4-rev.txt
+534 records written to as_4-rev.txt
+25183 words including frequency
+
+Also, remove obsolete </F> tags (14)
+
+Also, revise F755, V3 - 755
+ Manually create temp_boesp_05a.txt
+ python diff_to_changes.py temp_boesp_05.txt temp_boesp_05a.txt temp_changes_f755.txt
+ and add the result change_06
+
+
+# ----------------------------------------------------
+# change_07
+--- changes of SH to S2 in selected words.
+Manually review as_4-rev.txt, picking out the 'SH' words to change
+Resulting file is as_4-rev_SH.txt
+
+python change_from_words_SH_S2.py  temp_boesp_06.txt as_words_SH.txt temp_change_as_SH_S2.txt
 
