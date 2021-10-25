@@ -89,9 +89,9 @@ python change_j_n5.py temp_boesp_04.txt as_j_n5_words.txt temp_change_j_n5.txt
  (these changes added to change_05.txt)
 
 #change_06
-
+268 changes
 python ../updateByLine.py temp_boesp_05.txt change_06.txt temp_boesp_06.txt
-1 changes
+
 
 cp change_06.txt ../../step0/changes/
 in step0, sh install.sh 05 06
@@ -159,3 +159,8 @@ Resulting file is as_4-rev_SH.txt
 
 python change_from_words_SH_S2.py  temp_boesp_06.txt as_words_SH.txt temp_change_as_SH_S2.txt
 
+python ../updateByLine.py temp_boesp_06.txt change_07.txt temp_boesp_07.txt
+1857 changes
+
+cp change_07.txt ../../step0/changes/
+in step0, sh install.sh 06 07
