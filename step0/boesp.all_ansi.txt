@@ -1,4 +1,5 @@
-<!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_10/05/21--> 
+<!--This_File_is_D:\BOESP-PREP\STEP0\BOESP.ALL_ANSI.TXT,_Last_update_10/26/21--> 
+ 
  
 <S> = Sanskrit 
  
@@ -189,7 +190,7 @@ bhaktamAjanmaparisevitam | na vyaJjane·
 ruciryasya tyAjyo nRpa ivAturaH ||· 
  
 <D11><A3363> Ein Fürst und ein Kranker· 
-sind aufzugeben. wenn jener gegen einen· 
+sind aufzugeben, wenn jener gegen einen· 
 ihm ergebenen Diener, der er von der· 
 Geburt an gehegt, dieser gegen eine· 
 Speise, die er von Geburt an gern· 
@@ -428,7 +429,7 @@ Gleichmüthigen und stets Zufriedenen ist·
 die ganze Welt voller Freuden.· 
  
 <F>26) BHARTR2. lith. Ausg. I, 3, 100.· 
-²d. die grammmatisch richtigere Form· 
+²d. die grammatisch richtigere Form· 
 {#sakhamayyo#} würde gegen die Metrum· 
 verstossen; vgl. den Schluss von Spruch· 
 {#yadA na kurute bhAvaM#}.· 
@@ -600,8 +601,8 @@ man sich der Tugend, da die Lebensdauer·
 sich nicht bestimmen lässt.· 
  
 <F>38) MBH. 12,9942. Der erste Vers auch· 
-6536,a, der zweite (mit der Variante· 
-{#anityaM khalu jIvitam#}) auch 6538,a.· 
+6536, ²a, der zweite (mit der Variante· 
+{#anityaM khalu jIvitam#}) auch 6538, ²a.· 
  
 <S> akRtopadravaH kazcinmahAnapi na· 
 pUjyate | pUjayanti narA nAgAnna· 
@@ -615,7 +616,7 @@ Garud2a, den Schlangenvernichter.·
  
 <F>39) PAN5CAT. ed. KOSEG. 1, 474. ²c.· 
 ²d. {#nAgAnna#} BENFEY'S Verbesserung· 
-für {#nAgAnnaM#}. Vgl. spr.· 
+für {#nAgAnnaM#}. Vgl. Spr.· 
 {#aprakaTIkRtazaktiH#}. [Seite1.8]· 
  
 <S> akRtyaM naiva kartavyaM prANatyAge· 
@@ -936,7 +937,7 @@ GILDEMEISTER (Orient und Occident II.·
 172 fgg.) das Wort durch {%Schlange%}· 
 oder {%eine Art Schlange%} zu erklären.· 
 Wie wir von SCHIEFNER erfahren, fassen· 
-die Tibeter das Wortin dieser Verbindung· 
+die Tibeter das Wort in dieser Verbindung· 
 gleichfalls als {%Maulthierweibchen%},· 
 worauf wir aber kein grosses Gewicht· 
 legen wollen. NI1LAK. zu MBH. 12, 5277:· 
@@ -1594,7 +1595,7 @@ Male.·
  
 <F>95) PAN5CAT. ed. KOSEG. I, 250. ed.· 
 orn. 186. ed. Bomb. 219. S4A1RN3G.· 
-PADDH. ²a. {#ajAmiva prajAM#}. ²a. ²b.·
+PADDH. ²a. {#ajAmiva prajAM#}. ²a. ²b.· 
 {#mohAdyo hanyAt#}. ²c. {#prItir#}· 
 st. {#tRptir#}. ²d. {#na#} nach, nicht· 
 vor {#dvitIyA#}. [Seite1.19]· 
@@ -1695,7 +1696,7 @@ zalabhastatra dahane, dahanaM#}. ²b.·
 {#'pyajJAtvA vaDiza, ghRtam#} st.· 
 {#yutam, aznanti, na mIno 'pi jJAtvA#}· 
 [Seite1.20] {#vRtavalizamaznAti#}. ²c.· 
-{#'pyeMtadvayamapi vi°; hete, 'pyevaM#}· 
+{#'pyeMtadvayamapi vi°; hyete, 'pyevaM#}· 
 und {#'pyetAn#} st. {#'pyete; jaTilA#}· 
 und {#paTalAn#} st. {#jaTilAn#}. ²d.· 
 {#kAmAnnahaha#}.· 
@@ -2367,7 +2368,7 @@ beständiges Besuchen Gleichgiltigkeit:·
 im Gebirge Malaja gebraucht eine· 
 Bettlerin Sandelbaum als Feuerung.· 
  
-<F>140) SUBHA1S2. 138. Die Heschr. hat:· 
+<F>140) SUBHA1S2. 138. Die Hdschr. hat:· 
 ²a. {#°paricaye tyavajJA#}. ²b.· 
 {#satatagamananirAdaro#}. ²c.· 
 {#malayo#}. ²d. {#candanaM#}. Vgl. den· 
@@ -12423,12 +12424,12 @@ pArthivaH, saMtuSTAzca mahIbhRtaH,·
 saMtuSTAH pArthivAH sadA#}. ²d.· 
 {#nirlajjAH sukula°, nirlajjA ca· 
 kulAGganA, kulAGganAH#}.· 
-  
+ 
 <V3>755. = NI1TIS4A1STRA in· 
 Telugu-Charr. 42. Als neue Variante ist· 
 nur {#nirlajjeva#} in ²d. zu· 
 verzeichnen.· 
-
+ 
 <HS>{#asanto nAbhyarthyAH#} s. Spruch· 
 {#priyA nyAyyA#}· 
  
@@ -19718,7 +19719,7 @@ tulyaparAkramaiH#} PAN5CAT. ed. Bomb,·
 . Vgl. Spr. {#jayetkadaryaM dAnena,· 
 bhaedayedbhIrum, mitraM svacchatayA· 
 ripum#} und {#zUramaJjalipAtena#}.· 
-
+ 
 <V3>1174. = VR2DDHA-CA1N2. Berl.· 
 Hdschrr. 106. ²a. {#uttamaH#} eine· 
 Hdschr. ²b. {#zUro#} und {#zUra#} die· 
@@ -24035,7 +24036,7 @@ Tiger aufgefressen.·
 Aenderungen: ²a. {#ekonA#} für {#ekona,· 
 nAryaH#} für {#nArI#}. ²c. {#AyAtAH#}· 
 für {#AyAtiH#}.· 
-
+ 
 <H>Auflösung.· 
  
 <HS>{#eko nA viMzatirnAryaH#} u. s. w.· 
@@ -25400,7 +25401,7 @@ und geduldige Mann?·
  
 <F>1503) PRAS4NOTTARARATNAM. 20 in· 
 Monatsberr. d. kön. Ak. d. Ww. in B. 1868 S. 100.· 
-
+ 
  
 <S> kaH prArthito 'pi dAsyati· 
 tRNatuSaparimANamAtramapyadhikam |· 
@@ -28093,7 +28094,7 @@ pflegt, fährt sicher, durch ihre Seufzer·
 getödtet, zur Hölle.· 
  
 <F>1659) S4UK. Pet. Hdschr. 20, ²b.· 
-Unsere Aederungen: ²a. {#AyAntIM#} st.· 
+Unsere Aenderungen: ²a. {#AyAntIM#} st.· 
 {#AyAnti#}. ²d. {#tanni°#} st.· 
 {#taMnisvAsahato#}.· 
  
@@ -30804,7 +30805,7 @@ Lebenserwerb.·
 SUBHA1S2. ²b. {#kutaH sukham#} SUBHA1S2.· 
 ²c. {#kurAje#} und{#kumunir#} st.· 
 {#kurAjye#} SUBHA1S2. ²d. {#jIvitam#}· 
-SUBHA1S2. Im GA1RUD2A-P. (S4KDR. unter·
+SUBHA1S2. Im GA1RUD2A-P. (S4KDR. unter· 
 {#mitra#}) lautet ein Vers {#kumitre· 
 nAsti vizvAsaH kurAje jIvitam#}.· 
  
@@ -36382,7 +36383,7 @@ rahogataH | araNye niHzalAke vA·
 mantrayedavibhAvitaH ||· 
  
 <D2107><A883> Man halte Rath, wo man· 
-nicht beoachtet wird: entweder auf einem· 
+nicht beobachtet wird: entweder auf einem· 
 Berge, oder an einem abgelegenen Orte· 
 auf der Zinne eines Palastes, oder an· 
 einem sicheren Platze im Walde.· 
@@ -36769,7 +36770,7 @@ Duft der Ketaki1 riechen, machen sie·
 sich von selbst auf den Weg.· 
  
 <F>2128) S4A1RN3G. PADDH.· 
-GUN2APRAS4AM3SA1 1. ²a. {#dUratvaM#} st.·
+GUN2APRAS4AM3SA1 1. ²a. {#dUratvaM#} st.· 
 {#dUtatvaM#}.· 
  
 <V3>2128. = VR2DDHA-CA1N2. Berl.· 
@@ -51667,7 +51668,7 @@ yo na kamitumichata sa loke nAvasIdati#}·
 prazamaM nayet | utthAtitvena nItyA ca· 
 mAnuSaM kAryatattvavit ||· 
  
-<D2977><A1252> Wer gang weiss, was er zu· 
+<D2977><A1252> Wer genau weiss, was er zu· 
 thun hat, der bringt das, was vom· 
 Schicksal kommt, durch seine Arbeit und· 
 Seelenruhe, was aber vom Menschen kommt,· 
@@ -51683,7 +51684,7 @@ mUrkhaH ||·
  
 <D2978><A1253> Wer, wenn ihm durch des· 
 Schicksals Willen Reichthümer zugefallen· 
-sind, werder ein Verlangen nach Genuss,· 
+sind, weder ein Verlangen nach Genuss,· 
 noch ein Begehren nach jener Welt (die· 
 durch Freigebigkeit gewonnen wird)· 
 zeigt, der ist ein Schätze hütender· 
@@ -86291,7 +86292,7 @@ vasati vicarandUrato#} (auch {#dUrago)·
 'pi pramattaH#} VET. ²c. {#prAyaso#}.· 
 ²d. Vgl. Spruch 4580, ²d.· 
  
-<S> mainI pAdaprahAre 'pi na kSamI nIca· 
+<S> maunI pAdaprahAre 'pi na kSamI nIca· 
 eva saH | AkRSTazastro mitre 'pi na· 
 tejasvI khalo hi saH ||· 
  
@@ -123415,7 +123416,7 @@ Königthum; alles Übrige ist Holz zum·
 Anzünden eines Feuers, Gier genannt.· 
  
 <F>7211) VARA1H. BR2H. S. 74, 17. ²b.· 
-{#sAM prati, saMprati#} und {#taM prati#}·
+{#sAM prati, saMprati#} und {#taM prati#}· 
 st. {#mAM prati#}. ²d. {#analAdIpin#}.· 
  
 <HS>{#strIliGgiviprabAlAnAm#} s. Spruch· 
