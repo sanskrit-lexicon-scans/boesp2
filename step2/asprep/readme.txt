@@ -1,4 +1,12 @@
-
+step2/asprep
+Note:  This work should be considered complete.
+ It led to creation of step0/changes/boesp_07.txt
+ The file as_words.txt may be of use. It was created manually and
+ aims to be a list of words with AS (letter-number) coding.
+ The capital letter words are probably literary source words.
+ The words with lower-case letters are primarily Sanskrit proper names
+ which appear in the 'D' (German) sections.
+ 
 # changes. First, correct cases where there is no space between period and num
  Example:  KATHA1S.68 -> KATHA1S. 68
 python change_dotnum.py ../../step0/boesp_utf8.txt change_02.txt

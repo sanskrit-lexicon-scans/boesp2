@@ -1,0 +1,75 @@
+; change_08.txt represents the changes between boesp_07 and boesp_08.
+; boesp_08 was in fact a copy of boesp.ansi_all.txt created manually by Thomas
+; at commit 7a232aeb3bfbe46c9cca049d5a8485c044992e3a.
+1 old <!--This_File_is_D:\BOESP\BOESP.ALL_ANSI.TXT,_Last_update_10/05/21--> 
+1 new <!--This_File_is_D:\BOESP-PREP\STEP0\BOESP.ALL_ANSI.TXT,_Last_update_10/26/21--> 
+; ----------------
+2 old  
+2 ins  
+;-----------------
+192 old sind aufzugeben. wenn jener gegen einen· 
+192 new sind aufzugeben, wenn jener gegen einen· 
+;-----------------
+431 old ²d. die grammmatisch richtigere Form· 
+431 new ²d. die grammatisch richtigere Form· 
+;-----------------
+603 old 6536,a, der zweite (mit der Variante· 
+603 new 6536, ²a, der zweite (mit der Variante· 
+;-----------------
+604 old {#anityaM khalu jIvitam#}) auch 6538,a.· 
+604 new {#anityaM khalu jIvitam#}) auch 6538, ²a.· 
+;-----------------
+618 old für {#nAgAnnaM#}. Vgl. spr.· 
+618 new für {#nAgAnnaM#}. Vgl. Spr.· 
+;-----------------
+939 old die Tibeter das Wortin dieser Verbindung· 
+939 new die Tibeter das Wort in dieser Verbindung· 
+;-----------------
+1597 old PADDH. ²a. {#ajAmiva prajAM#}. ²a. ²b.·
+1597 new PADDH. ²a. {#ajAmiva prajAM#}. ²a. ²b.· 
+;-----------------
+1698 old {#'pyeMtadvayamapi vi°; hete, 'pyevaM#}· 
+1698 new {#'pyeMtadvayamapi vi°; hyete, 'pyevaM#}· 
+;-----------------
+2370 old <F>140) SUBHA1S2. 138. Die Heschr. hat:· 
+2370 new <F>140) SUBHA1S2. 138. Die Hdschr. hat:· 
+;-----------------
+12426 old   
+12426 new  
+;-----------------
+12431 old 
+12431 new  
+;-----------------
+19721 old 
+19721 new  
+;-----------------
+24038 old 
+24038 new  
+;-----------------
+25403 old 
+25403 new  
+;-----------------
+28096 old Unsere Aederungen: ²a. {#AyAntIM#} st.· 
+28096 new Unsere Aenderungen: ²a. {#AyAntIM#} st.· 
+;-----------------
+30807 old SUBHA1S2. Im GA1RUD2A-P. (S4KDR. unter·
+30807 new SUBHA1S2. Im GA1RUD2A-P. (S4KDR. unter· 
+;-----------------
+36385 old nicht beoachtet wird: entweder auf einem· 
+36385 new nicht beobachtet wird: entweder auf einem· 
+;-----------------
+36772 old GUN2APRAS4AM3SA1 1. ²a. {#dUratvaM#} st.·
+36772 new GUN2APRAS4AM3SA1 1. ²a. {#dUratvaM#} st.· 
+;-----------------
+51670 old <D2977><A1252> Wer gang weiss, was er zu· 
+51670 new <D2977><A1252> Wer genau weiss, was er zu· 
+;-----------------
+51686 old sind, werder ein Verlangen nach Genuss,· 
+51686 new sind, weder ein Verlangen nach Genuss,· 
+;-----------------
+86294 old <S> mainI pAdaprahAre 'pi na kSamI nIca· 
+86294 new <S> maunI pAdaprahAre 'pi na kSamI nIca· 
+;-----------------
+123418 old {#sAM prati, saMprati#} und {#taM prati#}·
+123418 new {#sAM prati, saMprati#} und {#taM prati#}· 
+;-----------------
