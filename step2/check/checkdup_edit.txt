@@ -1,0 +1,213 @@
+; 118 ; 119
+118 new:
+<S> aJjalisthAni puSyANi vAsayanti karadvayam |· 
+ahosumanasAM prItirvAmadakSiNayoH samA ||·
+119 ok
+; -------------------------------------------------
+; 418 ; 419  ok Verses have same first line.
+; -------------------------------------------------
+; 462 ; 463  ok Verses have same first line.
+; -------------------------------------------------
+; 518 ; 519  ok Verses have same first line.
+; -------------------------------------------------
+; 730 ; 731 ; 732; 733 ok Verses have same first line.
+; -------------------------------------------------
+; 871,872 ; 873 ok  871-2 has two verses ok;   873 same first line
+; -------------------------------------------------
+; 1112 ; 1113
+1112  'b' is wrong and corrected.
+1113 ok
+; -------------------------------------------------
+; 1261 ; 1262 ok Verses have same first line.
+; -------------------------------------------------
+; 1475 ; 1476 ok Verses have same first line.
+; -------------------------------------------------
+; 1702 ; 1703 ok Verses have same first line.
+; -------------------------------------------------
+; 1919 ; 1920
+1919 new:
+<S> kokilAlAnAM svaro rUpaM nArIrUpaM pativratam |· 
+vidyA rUpaM kurUpANAM kSamA rUpaM tapasvinAm ||· 
+1920 ok
+; -------------------------------------------------
+; 2072 ; 2073 ok Verses have same first line.
+;-------------------------------------------------
+; -------------------------------------------------
+Volume 2
+; -------------------------------------------------
+; -------------------------------------------------
+; 2284 ; 2285
+2284 new:
+<S> cittajJaH zIlasaMpanno vAgmI dakSaH priyaMvadaH |· 
+yaToktavAdI smRtimAndUtaH syAtsaptabhirguNaiH ||· 
+2285 ok
+; -------------------------------------------------
+; 2574 ; 2575
+2574 ok
+2575 HS new:
+<HS> {#tIrthazrame surasthAne #} und {#tIrthAzramAzrayasthAne#} s. den vorangehenden Spruch.· 
+2575 S new
+<S> tIrthAsevanamaunabhAgapi timiH saktaH svakulyAzane · 
+vAtAzAngrasate zikhI ghanapayomAtrAzano 'pyanvaham |· 
+vizvastAJjalacAriNaH prakaTitadhyAno 'pi bhuGkte bakaH · 
+satkarmAcaraNe 'pi dozavikRtau na pratyayaH pApinAm ||· 
+; -------------------------------------------------
+; 2675 ; 2676; 2677 ok Verses have same first line.
+; -------------------------------------------------
+; 3186 ; 3187; 3188 ; 3189 ok Verses have same first line.
+; -------------------------------------------------
+; 3190 ; 3191
+3190 ok
+3191 new:
+<S> na kasyacitkazcidiha svabhAvAdbhavatyudAro 'bhimataH khalo vA |· 
+loke gurutvaM viparItatAM vA svaceSTitAnyeva naraM nayanti ||· 
+; -------------------------------------------------
+; 3219 ; 3220
+3219 ok
+3220 new
+<S> na gRhaM gRhamityAhurgRhiNI gRhamucyate |· 
+gRhaM hi gRhiNIhInamaraNyasadRzaM matam ||· 
+; -------------------------------------------------
+; 3285 ; 3286  ok Verses have same first line.
+; -------------------------------------------------
+; 3431 ; 3432 ; 3433  ok Verses have same first line.
+; -------------------------------------------------
+; 3490 ; 3491 ; 3492  ok Verses have same first line.
+; -------------------------------------------------
+; 3627 ; 3628
+3627 new
+<S> nArAjake janapade baddhaghaNTA viSANinaH |· 
+aTanti rAjamArgeSu kuJjarAH SaSTihAyanAH ||· 
+3628 ok
+; -------------------------------------------------
+; 3665 ; 3666 ok Verses have same first line.
+; -------------------------------------------------
+; 3784 ; 3785
+3784 ok
+3785 has 2 verses. first wrongly duplicates 3784 and is removed.
+; -------------------------------------------------
+; 3999 ; 4000
+3999 new HS
+<HS> {#paliteSu ca dRSTeSu#} s. den folgenden Spruch.
+3999 new S
+<S> palitezvapi dRSTeSu puMsaH kA nAma kAmitA |· 
+bhaizajyamiva manyante yadanyamanasaH striyaH ||· 
+4000 ok
+; -------------------------------------------------
+; 4091 ; 4092
+4091 ok
+4092 new
+<S> puMsAmasamarthAnAmupadravAtmano bhavetkopaH |· 
+piTharaM kvathadatimAtraM nijapArzvAneva dahatitarAm ||· 
+; -------------------------------------------------
+; 4120 ; 4121
+4120 ok
+4121 new
+<S> punaH kRtvAdbhutaM karma pUrvAbhyAsena mAnavAH |· 
+suralokaM prayAntyeva bhAgyavanto jitendriyAH ||· 
+; -------------------------------------------------
+; 4192 ; 4192
+HS and S are duplicated.  duplicates removed.
+; -------------------------------------------------
+; 4358 ; 4359 ; 4360 ok Verses have same first line.
+; -------------------------------------------------
+; 4482 ; 4483 ok Verses have same first line.
+; -------------------------------------------------
+; -------------------------------------------------
+; Volume 3
+; -------------------------------------------------
+; -------------------------------------------------
+; 5054 ; 5055 ok Verses have same first line.
+; -------------------------------------------------
+; 5218 ; 5219 ok Verses have same first line.
+; -------------------------------------------------
+; 5244 ; 5245  ok Verses have same first line.
+; -------------------------------------------------
+; 5771 ; 5772
+5771 new
+<S> rAjJo hi rakSAdhikRtAH parasvAdAyinaH zaTAH |· 
+bhRtyA bhavanti prAyeRa tebhyo rakSedimAH prajJAH ||· 
+5772 ok
+; -------------------------------------------------
+; 5832 ; 5833
+5832 new
+<S> labdhasya tyAgamevAhurna bhogaM na ca saMcayam |· 
+tasya kiM saMcayenArthaH kArye jyAyasi tiSThati ||· 
+5833 ok
+; -------------------------------------------------
+; 6010 ; 6011 ok Verses have same first line.
+; -------------------------------------------------
+; 6476 ; 6477
+6476 ok
+6477 new
+<S> zIlavRttadharo dhIraH sarvaratnaparIkSakaH |· 
+zuciravyabhicArI ca bhaNDAdhyakSo 'bhidhIyate ||· 
+; -------------------------------------------------
+; 6502 ; 6503
+6502 ok
+6503 HS remove
+6503 S new
+<S> zUdro 'pi SIlasaMpanno guRavAnbrAhmaNO bhavet |· 
+brAhmaNo 'pi kriyAhInaH zUdrApatyasamo bhavet ||· 
+; -------------------------------------------------
+; 6524 ; 6525
+6524 ok
+6525 duplicate of 6524 removed.  remaining 6525 verse ok
+; -------------------------------------------------
+; 6578 ; 6579
+6578 ok
+6579 new 
+<S> zrUyatAM dharmasarvasvaM zrutvA caivAvadhAryatAm |· 
+AtmanaH pratikUlAni pareSAM na samAcaret ||· 
+; -------------------------------------------------
+; 6582 ; 6583 ok Verses have same first line.
+; -------------------------------------------------
+; 6600 ; 6601 ; 6602
+6600 new
+<S> zvetena zirasA vRddho naiva varSazatI bhavet |· 
+yasya buddhiH pariRataH sa vai vRddhataro nRNAm ||·
+6601 ok
+6602 ok (first line same as 6601)
+; -------------------------------------------------
+; 6697 ; 6698 ok Verses have same first line.
+; -------------------------------------------------
+; 6907 ; 6908
+6907 ok
+6908 new
+<S> sarva eva janaH zUro hyanAsAditavigrahaH |· 
+adRSTaparasAmarSTyaH sadarpaH ko bhavennahi ||· 
+; -------------------------------------------------
+; 7018 ; 7019
+7018 ok
+7019 new:
+<S> sAmnA dAnena bhedena krameNa ca balena ca |· 
+sarvathA tu sadA zatrurghAtanIyo narAdhipaiH ||· 
+; -------------------------------------------------
+; 7083 ; 7084 ; 7085 ; 7086 ok Verses have same first line.
+; -------------------------------------------------
+; 7089 ; 7090
+7089 ok
+7090 new HS
+<HS>{#sukhArtho saMtyajedvidyAm#} s. Spruch 7088.· 
+7090 new HS
+<HS>{#sukha zayyA bhUmiH#} s. Spruch 4772.· 
+7090 new S
+<S> sukhAsvAdaparo yastu saMsAre satsamAgamaH |· 
+sa viyogAvasAnatvAdduHkhAnAM dhuri yujyate ||·  
+; -------------------------------------------------
+; 7209 ; 7210
+7209 new
+<S> strI nadIvadidaM satyaM ramena galatA saMtA |· 
+ubhayorviMzamAdhatte kulayoH kUlayoriva ||· 
+7210 ok
+; -------------------------------------------------
+; 7216 ; 7217
+7216 new 
+<S> strISu na rAgaH kAryo raktaM puruSaM striyaH paribhavanti |· 
+raktaiva hi rantavyA viraktabhAvA tu hAtavyA ||· 
+7217 ok
+; -------------------------------------------------
+; 7255 ; 7256 ; 7257 ok Verses have same first line.
+; -------------------------------------------------
+; 7301 ; 7302  ok Verses have same first line.
+; -------------------------------------------------

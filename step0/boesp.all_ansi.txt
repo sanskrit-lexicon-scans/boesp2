@@ -2001,8 +2001,8 @@ zapathaH#} unsere Aenderung für·
 sich wohl mit {#vadet#} verbinden, nicht· 
 aber {#aJjaliM#}.· 
  
-<S> aNukaM surataM nAma daMpatyoH pArzvasaMsthayoH |· 
-jayante nibiDAzleSAH samIbhUtazarIrayoH ||· 
+<S> aJjalisthAni puSyANi vAsayanti karadvayam |· 
+ahosumanasAM prItirvAmadakSiNayoH samA ||· 
  
  
 <D118><A45> Blumen, die man zwischen den· 
@@ -12051,7 +12051,7 @@ HIT. ed. SCHL. IV, 129. ed. JOHNS. 135.·
 in HIT. ²d. {#atiricyate#} st.· 
 {#viziSyate#} HIT.· 
  
-<S> azvamedhasahastraM ca satyaM tulayA dhRtam |· 
+<S> azvamedhasahasraM ca satyaM ca tulayA dhRtam |· 
 tulayitvA tu pazyAmi satyamevAtiricyate ||· 
  
  
@@ -18611,7 +18611,7 @@ TROYER in RA1JA-TAR. 1, 506. ²b.·
 {#°kalpanayAnayoH#}. ²d.· 
 {#svakarmamatibhizcA°#}.· 
  
-<S> indriyANAM vicaratAM viSayeSvapahAriSu |· 
+<S> indriyANAM vicaratAM yanmano 'nuvidhIyate |· 
 saMyame yatnamAtiSThedvidvAnyanteva vAjinAm ||· 
  
  
@@ -32796,8 +32796,8 @@ auch) {#galito#} st. {#punarvigalito·
 gilito#} SUBHA1S2. ²d. {#nivRttaH#}· 
 PAN5CAT.· 
  
-<S> kokilAlApasubhagAH sugandhivanavAyavaH |· 
-yAnti sArdhaM janAnandairvRddhiM surabhivAsarAH ||· 
+<S> kokilAlAnAM svaro rUpaM nArIrUpaM pativratam |· 
+vidyA rUpaM kurUpANAM kSamA rUpaM tapasvinAm ||· 
  
  
 <D1919><A741> Bei den Kokila vertritt· 
@@ -39357,8 +39357,8 @@ rein.·
 {#samAdhisaMpUtaM#} die Hdschr. ²d.· 
 {#gaGgA#} die Hdschr.· 
  
-<S> cittamantargataM duSTaM tIrthasnAne na zudhyati |· 
-zatazo 'pi jalairdhautaM madyabhANDamivAzuci ||· 
+<S> cittajJaH zIlasaMpanno vAgmI dakSaH priyaMvadaH |· 
+yaToktavAdI smRtimAndUtaH syAtsaptabhirguNaiH ||· 
  
  
 <D2284> Ein Gesandter muss sieben· 
@@ -44595,8 +44595,8 @@ angenommen wurde, die Bedeutung·
 {%Minister, %} sondern {%Behälter,· 
 Gefäss für%}; s. u. {#pAtra#} 3).· 
  
-<HS>{#tIrthAzramapurasthAne#} s. den· 
-folgenden Spruch.· 
+<HS>{#tIrthAzramapurasthAne#} s. den folgenden Spruch.· 
+
  
 <S> tIrthAzramasurasthAne zAstravijJAnahetunA |· 
 tapasvivyaJjanopetaiH svacaraiH saha saMvaset ||· 
@@ -44619,13 +44619,13 @@ tIrthAzramAzrayasthAne,·
 tIthArzrayamavajJAne#}. ²d. {#sa caraiH;· 
 saMvadet#} st. {#saMvaset#}.· 
  
-<HS>{#tIrthAzramapurasthAne#} s. den· 
-folgenden Spruch.· 
+<HS> {#tIrthazrame surasthAne #} und {#tIrthAzramAzrayasthAne#} s. den vorangehenden Spruch.· 
+
  
-<S> tIrthAzramasurasthAne zAstravijJAnahetunA |· 
-tapasvivyaJjanopetaiH svacaraiH saha saMvaset ||· 
- 
- 
+<S> tIrthAsevanamaunabhAgapi timiH saktaH svakulyAzane · 
+vAtAzAngrasate zikhI ghanapayomAtrAzano 'pyanvaham |· 
+vizvastAJjalacAriNaH prakaTitadhyAno 'pi bhuGkte bakaH · 
+satkarmAcaraNe 'pi dozavikRtau na pratyayaH pApinAm ||· 
  
 <D2575><A4132> Obgleich der Timi in· 
 heiligem Wasser lebt und das Gelübde des· 
@@ -46377,7 +46377,7 @@ Namen nach Mann.·
 Bomb. 83. Vgl. die folgenden Sprüche und· 
 {#viSahIno yathA nAgaH#}.· 
  
-<S> daMSTAvirahitaH sarpo madahIno yathA gajaH |· 
+<S> daMSTrAvirahitaH sarpo madahIno yathA gajaH |· 
 sarveSAM jAyate vazyo durgahInastathA nRpaH ||· 
  
  
@@ -55198,8 +55198,8 @@ Spruche, 524. 620, {#nAsti jAtyA·
 ripurnAma#} und {#na mitraM kasyacitko· 
 'pi#}. [Seite2.199]· 
  
-<S> na kazcitkasyacinmitraM na kazcisyacidripuH |· 
-kAraNadeka jAyante mitrANi ripavastathA ||· 
+<S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
+kAraNAdeva jAyante mitrANi ripavastathA ||· 
  
  
 <D3187><A1344> Niemand ist (von Hause· 
@@ -55225,7 +55225,7 @@ Feinde kennen.·
 <F>3188) CA1N2. 23 bei HAEB. 314.· 
  
 <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
-vyavahAreNA mitrANi jAyante ripavastathA ||· 
+vyavahAreNa mitrANi jAyante ripavastathA ||· 
  
  
 <D3189><A1344> Niemand ist (von Hause· 
@@ -55241,8 +55241,8 @@ Hdschrr. 77. ²b. {#kasyacitpriyaH#}. ²c.·
 ²d. {#kAraNAdeva jAyante mitrANi· 
 rapavastathA#}.· 
  
-<HS>{#na kazcidanyathAbhAvam#} s. Spruch· 
-{#na kazcidyathAbhAvam#}.· 
+<HS>{#na kazcidanyathAbhAvam#} s. Spruch {#na kazcidyathAbhAvam#}.· 
+
  
 <S> na kazcidapi jAnAti kiM kasya zvo bhaviSyati |· 
 atazca karaNIyAni kuryAdadyaiva buddhimAn ||· 
@@ -55256,8 +55256,8 @@ was zu thun ist.·
 <F>3190) S4A1RN3G. PADDH. SADA1CA1RA 49· 
 (48).· 
  
-<S> na kazcidapi jAnAti kiM kasya zvo bhaviSyati |· 
-ataszca karaNIyAni kuryAdadyaiva buddhimAn ||· 
+<S> na kasyacitkazcidiha svabhAvAdbhavatyudAro 'bhimataH khalo vA |· 
+loke gurutvaM viparItatAM vA svaceSTitAnyeva naraM nayanti ||· 
  
  
 <D3191><A1346> Niemand wird hier von· 
@@ -55748,7 +55748,7 @@ Glück erwartet.·
 ²b. {#zubho vA yadi vAzubhaH#}.· 
  
 <S> na garvaM kurute mAne nApamAnena tapyate |· 
-svAkAraM rakSayedyastu sa bhRtye 'rho mahIbhujAm ||· 
+svAkAraM rakSayedyastu sa bhRtyo 'rho mahIbhujAm ||· 
  
  
 <D3219><A1367> Wer durch Ehrenbezeugen· 
@@ -55761,8 +55761,8 @@ würdiger Diener.·
 <F>3219) PAN5CAT. ed. KOSEG. I, 101. ²c.· 
 <g></g> GALAN., HIT. S. 25.· 
  
-<S> na garvaM kurute mAne nApamAnena tapyate |· 
-svAkAraM rakSayedyastu sa bhRtyo 'rho mahIbhujAm ||· 
+<S> na gRhaM gRhamityAhurgRhiNI gRhamucyate |· 
+gRhaM hi gRhiNIhInamaraNyasadRzaM matam ||· 
  
  
 <D3220><A1368> Man sagt, dass nicht ein· 
@@ -60279,7 +60279,7 @@ Bomb. 241. Vgl. die folgenden Sprüche·
 und {#sa nAsti puruSo loke#}.· 
  
 <S> na so 'sti puruSo rAjJAM yo na kAmayate zriyam |· 
-na zAktiryAvadasyAsti tAvatsaMvate param ||· 
+na zaktiryAvadasyAsti tAvatsaMsevate param ||· 
  
  
 <D3491><A1493> Es giebt keinen Diener,· 
@@ -62501,8 +62501,8 @@ fördern.·
 {#janaharSaNAH#} st. {#rASTravardhanAH#}· 
 SCHL. und GORR.· 
  
-<S> nArAjake janapade bIjamuSTiH prakIryate |· 
-nArAjake pituH putro bhAryA vA vartate vaze ||· 
+<S> nArAjake janapade baddhaghaNTA viSANinaH |· 
+aTanti rAjamArgeSu kuJjarAH SaSTihAyanAH ||· 
  
  
 <D3627><A4416> In einem Lande ohne· 
@@ -65130,15 +65130,15 @@ Schlangen sind, schläft es sich·
 angenehm; in einem Hause dagegen, in dem· 
 man beständig Schlangen gewahr wird,· 
 kommt man schwer zum Schlaf.· 
- 
-<F>3784) PAN5CAT. ed. KOSEG. III, 263.· 
- 
-<S> niHsarpe baddhasarpe vA bhavane supyate sukham |· 
-sadAdRSTabhujaMge tu nidrA duHkhena labhyate ||· 
 [Seite2.319] 
  
+<F>3784) PAN5CAT. ed. KOSEG. III, 263.· 
+
+
+
+ 
 <S> niHsArasya padArthasya prAyeNADambaro mahAn |· 
-na suvarge dhvanistAdRkkAMsye prajAate ||· 
+na suvarNe dhvanistAdRkkAMsye prajAyate ||· 
  
  
 <D3785><A1624> Werthlose Dinge pflegen· 
@@ -68860,12 +68860,12 @@ Wahn es sei eine Jambu1-Frucht.·
 BHRAMARA1S2T2AKA 5 bei HAEB. 240. Bei· 
 HAEB. lautet der Spruch:· 
 {#palAzakusumabhrAntyA zu° madhubrataH |· 
-patatyeSa zuko 'pyenaM jambubhrAntyA· 
-jighAMsati ||#}· 
- 
-<S> pallavagrAhi pANDityaM krayakrItaM ca maithunam |· 
-bhojanaM ca parAdhInaM tisraH puMsAM viDambanAH ||· 
- 
+patatyeSa zuko 'pyenaM jambubhrAntyA jighAMsati ||#}· 
+
+<HS> {#paliteSu ca dRSTeSu#} s. den folgenden Spruch.
+
+<S> palitezvapi dRSTeSu puMsaH kA nAma kAmitA |· 
+bhaizajyamiva manyante yadanyamanasaH striyaH ||· 
  
 <D3999><A1742> Wenn beim Manne sogar· 
 graues Haar sich zeigt, wie kann er dann· 
@@ -70539,8 +70539,8 @@ als die Männer.·
 nicht {#dhIratA?#} Vgl. Spruch 1082 und· 
 {#strINAM dviguNa AhAraH#}.· 
  
-<S> puMsAM ca dviguNaH kAmo vAstavInAM ca yoSitAm |· 
-lajjA cASTaguNA cApi dhairyatA ca caturguNA ||· 
+<S> puMsAmasamarthAnAmupadravAtmano bhavetkopaH |· 
+piTharaM kvathadatimAtraM nijapArzvAneva dahatitarAm ||· 
  
  
 <D4092><A1782> Der Zorn ohnmächtiger· 
@@ -71095,8 +71095,8 @@ sein Vater oder sein Freund sein.·
 <F>4120) MBH. 12, 5293, ²b. 5294, ²a.· 
 Vgl. Spr. 4069 und 4113.· 
  
-<S> putro vA yadi vA bhrAtA pitA vA yadi vA suhRt |· 
-arthasya vighnaM kurvANA hantavyA bhUtimicchatA ||· 
+<S> punaH kRtvAdbhutaM karma pUrvAbhyAsena mAnavAH |· 
+suralokaM prayAntyeva bhAgyavanto jitendriyAH ||· 
  
  
 <D4121><A1793> Männer, die immer wieder· 
@@ -72240,7 +72240,7 @@ darpozAntau, zRNiH#} und {#zRNi#}. ²c.·
 <S> paurajAapadAnrAjA prANairiSTAnsutAniva |· 
 yo na rakSati durmedhAH sa narairbhuvi garhitaH ||· 
 yastu rakSati dharmeNa prajAH putrAnivaurasAn |· 
-sa prapnoti parAM kIrtimiha ca pretya cAvyayAm ||· 
+sa prApnoti parAM kIrtimiha ca pretya cAvyayAm ||· 
 [Seite2.406] 
  
  
@@ -72264,15 +72264,15 @@ wird noch folgenden Vers eingeschoben:·
 zamayanbhayamojasA#}. In der ed. Bomb.· 
 ganz andere Lesarten.· 
  
-<HS>{#paurA hyanugatA duHkhAt#} s. den· 
-folgenden Spruch.· 
+
+
  
-<S> paurA hyAtmakRtAdduHkhAdvipramocyA nRpAtmajaiH |· 
-na tu khalvAtmanA yojyA duHkhena puruvAsinaH ||· 
+
+
  
  
-<HS>{#purA hyanugatA duHlkhAt#} s. den· 
-fogenden Spruch.· 
+<HS>{#pOrA hyanugatA duHlkhAt#} s. den fogenden Spruch.· 
+
  
 <S> paurA hyAtmakRtAdduHkhAdvipramocyA nRpAtmajaiH |· 
 na tu khalvAtmanA yojyA duHkhena puravAsinaH ||· 
@@ -75190,7 +75190,7 @@ oder hören möchte.·
 {#priyA#} im {|Text.|}· 
  
 <S> priyo bhavati dAnena priyavAdena cAparaH |· 
-mantramUlabalonAnyo yaH priyaH priya eva saH ||· 
+mantramUlabalenAnyo yaH priyaH priya eva saH ||· 
  
  
 <D4359><A1924> Der Eine ist uns lieb· 
@@ -87307,7 +87307,7 @@ NI1TIS. Vgl. die folgenden Sprüche und·
 4184.· 
  
 <S> yatpRthivyAM vrIhiyavaM hiraNyaM pazavaH striyaH |· 
-na dukyanti manaHprItiM puMsaH kAmahatasya te ||· 
+na duhyanti manaHprItiM puMsaH kAmahatasya te ||· 
 [Seite3.87] 
  
  
@@ -89859,7 +89859,7 @@ Ungerechtigkeit um sich greifen.·
 NI1LAK.· 
  
 <S> yadi nAtmani putreSu na cetputreSu naptRSu |· 
-na tveva tu kRto 'dharmaH 'dharmaH karturbhavati niSphalaH ||· 
+na tveva tu kRto 'dharmaH karturbhavati niSphalaH ||· 
  
  
 <D5218><A2362> Wenn es nicht ihn selbst· 
@@ -98930,8 +98930,8 @@ langen Leben.·
  
 <F>5770) M. 7, 123.· 
  
-<S> rAjyaM ca saMpado bhojAH kule janma surUpatA |· 
-pANDityamAyurArojyaM dharmasyaitatphalaM viduH ||· 
+<S> rAjJo hi rakSAdhikRtAH parasvAdAyinaH zaTAH |· 
+bhRtyA bhavanti prAyeRa tebhyo rakSedimAH prajJAH ||· 
  
  
 <D5771><A4943> Die zum Schutze· 
@@ -98943,8 +98943,8 @@ schützen.·
  
 <F>5771) M. 7, 123.· 
  
-<S> rAjyaM ca saMpado bhojAH kule janma surUpatA |· 
-pANDityamAyurArojyaM dharmasyaitatphalaM viduH ||· 
+<S> rAjyaM ca saMpado bhogAH kule janma surUpatA |· 
+pANDityamAyurArogyaM dharmasyaitatphalaM viduH ||· 
  
  
 <D5772> Königthum, Wohlfahrt, Genüsse,· 
@@ -100147,8 +100147,8 @@ theilhaftig.·
  
 <F>5831) MBH. 12, 8209, ²b. 8210, ²a.· 
  
-<S> labdhAnAmapi vittAnAM boddhavyau dvAvatikramau |· 
-apAtre pratipattizca pAtre cApratipAdanam ||· 
+<S> labdhasya tyAgamevAhurna bhogaM na ca saMcayam |· 
+tasya kiM saMcayenArthaH kArye jyAyasi tiSThati ||· 
  
  
 <D5832><A4950> Man sagt, dass man das· 
@@ -103209,8 +103209,8 @@ Aenderung für {#°kAraH priya°#}. ²c.·
 {#stano#} unsere Aenderung für {#guNo#}.· 
 Vgl. die folgenden Sprüche.· 
  
-<HS> {#vastrahInamalaMkAram#} s. Spruch· 
-6011.· 
+<HS> {#vastrahInamalaMkAram#} s. Spruch 6011.· 
+
  
 <S> vastrahInastvalaMkAro ghRtahInaM ca bhojanam |· 
 stanahInA ca yA nArI vidyAhInaM ca jIvanam ||· 
@@ -111148,7 +111148,7 @@ Gemüthsart waren.·
 <F>6475) SUBHA1S2. 86. ²a. [Seite3.380]· 
  
 <S> zIlaM praghAnaM puruSe tadyasyeha praNazyati |· 
-na tasya jIvitenArthe na dhanena na bandhubhiH ||· 
+na tasya jIvitenArtho na dhanena na bandhubhiH ||· 
  
  
 <D6476><A2993> Eine edle Gemüthsart ist· 
@@ -111158,8 +111158,8 @@ dem Leben, Reichthümer und Angehörige?·
  
 <F>6476) MBH. 5, 1142.· 
  
-<S> zIlaM praghAnaM puruSe tadyasyeha praNazyati |· 
-na tasya jIvitenArtho na dhanena bandhubhiH ||· 
+<S> zIlavRttadharo dhIraH sarvaratnaparIkSakaH |· 
+zuciravyabhicArI ca bhaNDAdhyakSo 'bhidhIyate ||· 
  
  
 <D6477> Wer eine Gemüthsart und ein· 
@@ -111581,8 +111581,8 @@ wiedergeboren.·
 <F>6501) VR2DDHA-CA1N2. Berl. Hdschrr.· 
 284. ²c. {#bhavet zUdro#} eine Hdschr.· 
  
-<HS>{#zUdre caitadbhavellakSma#} s. den· 
-folgenden Spruch.· 
+<HS>{#zUdre caitadbhavellakSma#} s. den folgenden Spruch.· 
+
  
 <S> zUdre tu yadbhavellakSma dvije tacca na vidyate |· 
 na vai zUdro bhavecchUdro brAhmaNo na ca ||· 
@@ -111601,11 +111601,11 @@ an der zweiten Stelle. ²d. {#brAhmaNo na·
 ca#} st. {#na ca brAhmaNaH#} nur ed.· 
 Calc. an der zweiten Stelle.· 
  
-<HS>{#zUdre caitadbhavellakSma#} s. den· 
-folgenden Spruch.· 
  
-<S> zUdre tu yadbhavellakSma dvije tacca na vidyate |· 
-na vai zUdro bhavecchUdro brAhmaNo brAhmaNo na ca ||· 
+ 
+ 
+<S> zUdro 'pi SIlasaMpanno guRavAnbrAhmaNO bhavet |· 
+brAhmaNo 'pi kriyAhInaH zUdrApatyasamo bhavet ||· 
  
  
 <D6503> Ein S4u1dra sogar, der mit einer· 
@@ -112008,7 +112008,7 @@ SUBHA1S2. 162. GALAN. Varr. 120. ²a.·
 <V3>6523. = BAHUDARS4ANA 101.· 
  
 <S> zaileSu durgamArgeSu vidheyaM nRparakSaNam |· 
-suyedhai rakSitasyApi svapanaM yoganidruyA ||· 
+suyodhai rakSitasyApi svapanaM yoganidrayA ||· 
  
  
 <D6524><A5080> In Gebirgen mit· 
@@ -112016,7 +112016,7 @@ schwierigen Pfaden muss man für den·
 Schutz des Fürsten sorgen; wenn dieser· 
 auch von guten Kriegern gehütet wird, so· 
 ist sein Schlaf doch nur ein Mittelding· 
-zwischen Vertiefung und Schlummer.· 
+zwischen Vertiefung und Schlummer. [Seite3.391]· 
  
 <F>6524) HIT. ed. SCHL. III, 75. JOHNS.· 
 78. ²a. {#vaneSu#} st. {#zaileSu#}. ²c.· 
@@ -112025,11 +112025,11 @@ zwischen Vertiefung und Schlummer.·
 {#susvayodhai#}. ²d. {#zayanaM#} st.· 
 {#svapanaM; yogini°#}.· 
  
-<S> zaileSu durgamArgeSu vidheyaM nRparakSaNam |· 
-suyodhai rakSitasyApi svapanaM yogandriyA ||· 
-[Seite3.391] 
  
-<S> zokazasthAnasahasrANi bhayasthAnazatAni ca |· 
+ 
+ 
+ 
+<S> zokasthAnasahasrANi bhayasthAnazatAni ca |· 
 divase divase mUDhamAvizanti na paNDitam ||· 
  
  
@@ -112857,7 +112857,7 @@ in der ersten Aufl. verbessert worden)·
 KOSEG.· 
  
 <S> zrUyatAM dharmasarvasvaM yaduktaM zAstrakoTibhiH |· 
-parokaraH puNyAya pApAya parapIDanam ||· 
+parokAraH puNyAya pApAya parapIDanam ||· 
  
  
 <D6578><A3046> Höret die Summe des· 
@@ -112871,8 +112871,8 @@ peinigen -- Sünde.·
 dharmaH#}. Vgl. den folgenden Spruch,· 
 3253 und 6593.· 
  
-<S> zrUyatAM dharmasarvasvaM yaduktaM zAstrakoTibhiH |· 
-paropakAraH puNyAya pAyAya parapIDanam ||· 
+<S> zrUyatAM dharmasarvasvaM zrutvA caivAvadhAryatAm |· 
+AtmanaH pratikUlAni pareSAM na samAcaret ||· 
  
  
 <D6579><A3047> Höre die Summe des· 
@@ -112951,7 +112951,7 @@ fremde Pflichten bringen Gefahr.·
 Spruch und 5955.· 
  
 <S> zreyAnsvadharmo viguNaH paradharmAtsvanuSThitAt |· 
-svabhAvaniyataM karma kurvannApnoti kulbiSam ||· 
+svabhAvaniyataM karma kurvannApnoti kilbiSam ||· 
  
  
  
@@ -113267,8 +113267,8 @@ vIkSya#} (auch) {#yattu#} st.·
 ²c. {#AropiltAsizakalaM; kalazaM#} st.· 
 {#zakalaM#}. ²d. {#caNDAla, taruNyA#}.· 
  
-<S> SaTkarNo bhidyate mantrazcatuSkarNo na bhidyate |· 
-kubjako jAyate rAjA rAjA bhavati bhikSukaH ||· 
+<S> zvetena zirasA vRddho naiva varSazatI bhavet |· 
+yasya buddhiH pariRataH sa vai vRddhataro nRNAm ||· 
  
  
 <D6600> Nicht ein weisses Haupt und· 
@@ -114830,7 +114830,7 @@ Eisen wird Feuer mit Hämmern geschlagen.·
 {#saMsargA#} st. {#saMsargAn#}.· 
  
 <S> satAM matamatikramya yo 'satAM vartate mate |· 
-kAleva vyasanaM prApya pazcAttApaM sa gacchati ||· 
+kAlena vyasanaM prApya pazcAttApaM sa gacchati ||· 
  
  
 <D6697><A3117> Wer den Rath Guter in den· 
@@ -118304,7 +118304,7 @@ bergen.·
 Vgl. den folgenden Spruch.· 
  
 <S> sarpAnvyAghrAngajAnsiMhAndRSTvopAyairvazIkRtAn |· 
-rAjeti kiyatI mAtrA dhImatAMmapramAdinAm ||· 
+rAjeti kiyatI mAtrA dhImatAmapramAdinAm ||· 
  
  
  
@@ -118318,8 +118318,8 @@ Fürsten sich zu Willen zu machen.·
 <F>6907) PAN5CAT. ed. KOSEG. I, 46. ed.· 
 Bomb. 40.· 
  
-<S> sarpAnvyAghrAngajAnsiMhAndRSTvopAyairvazIkRtAn |· 
-rAjeti kiyatIM mAtrA dhImatAmapramAdinAm ||· 
+<S> sarva eva janaH zUro hyanAsAditavigrahaH |· 
+adRSTaparasAmarSTyaH sadarpaH ko bhavennahi ||· 
  
  
  
@@ -120097,8 +120097,8 @@ Unsere Aenderung: ²a. {#sAmaivAdau#} st.·
 {#sAmnaivAdau#}. ²b. {#kArye#} st.· 
 {#kAryaM#}. Vgl. Spruch. 942.· 
  
-<S> sAmaivAdau prayoktavyaM kArye kAryavicakSaNaiH |· 
-sAmasiddhA hi vidhayo na prayAnti parAbhavam ||· 
+<S> sAmnA dAnena bhedena krameNa ca balena ca |· 
+sarvathA tu sadA zatrurghAtanIyo narAdhipaiH ||· 
  
  
 <D7019> Durchaus und stets, sei es durch· 
@@ -121263,7 +121263,7 @@ man Freuden.·
 verbessert worden ed. Calc. Vgl. Spruch· 
 3323.)· 
  
-<S> sukhasyAnanraraM duHkhaM duHkhasyAnantaraM sukham |· 
+<S> sukhasyAnantaraM duHkhaM duHkhasyAnantaraM sukham |· 
 paryAyeNopasarpante naraM nemimarA iva ||· 
  
  
@@ -121331,13 +121331,13 @@ sukham#} SUBHA1S2. ²c. ²d. {#ca#} st.·
 {#vA#} VR2DDHA-CA1N2. {#saM#} st. {#vA#}· 
 SUBHA1S2. [Seite3.510]· 
  
-<HS>{#sukharthI ca tyajedvidyAm#} s. den· 
-vorgehenden Spruch.· 
+<HS>{#sukharthI ca tyajedvidyAm#} s. den vorgehenden Spruch.· 
+
  
-<S> sukhArthI nAgAripratibhayazamAtpratyuta sukhaM jahau zeSastalpIkRtatanu niSevyAsuraripum |· 
-yatastenAmuSminnadhigatavatA klezasahatAM zramAdhAyi nyastaM niravadhi dharAbhAracahanam ||· 
- 
- 
+<S> sukhArthI nAgAripratibhayazamAtpratyuta sukhaM · 
+jahau zeSastalpIkRtatanu niSevyAsuraripum |· 
+yatastenAmuSminnadhigatavatA klezasahatAM · 
+zramAdhAyi nyastaM niravadhi dharAbhAravahanam ||· 
  
  
  
@@ -121361,14 +121361,14 @@ Calc. 218. ²b. In beiden Ausgaben·
 ²d. {#zramAdhAyi#} unsere Aenderung für· 
 {#zramAdAyi#}.· 
  
-<HS>{#sukhArthI ca tyajedvidyAm#} s. den· 
-vorangehenden Spruch.· 
- 
-<S> sukhArthI nAgAripratibhayazamAtpratyuta sukhaM jahau zeSastalpIkRtatanu niSevyAsuraripum |· 
-yatastenAmuSminnadhigatavatA klezasahatAM zramAdhAyi nyastaM niravadhi dharAbhAravahanam ||· 
+<HS>{#sukhArtho saMtyajedvidyAm#} s. Spruch 7088.· 
+
+<HS>{#sukha zayyA bhUmiH#} s. Spruch 4772.·  
  
  
  
+<S> sukhAsvAdaparo yastu saMsAre satsamAgamaH |· 
+sa viyogAvasAnatvAdduHkhAnAM dhuri yujyate ||·  
  
  
  
@@ -123374,8 +123374,8 @@ Vertrauen schenken.·
 ²a. {#strIdhUrtake striyAM dhUrte· 
 cetyekavadbhAvaH#} NI1LAK.· 
  
-<S> strImukhAlokanatayA vyagrANAmalpacetasAm |· 
-IhitAni hi gacchanti yauvanena saha kSayam ||· 
+<S> strI nadIvadidaM satyaM ramena galatA saMtA |· 
+ubhayorviMzamAdhatte kulayoH kUlayoriva ||· 
  
  
 <D7209> Ein Weib gleicht fürwahr einem· 
@@ -123391,7 +123391,7 @@ sati#} die Hdschr. ²c. {#bhRzam#} st.·
 {#kulayoriva#} die Hdschr.· 
  
 <S> strImukhAlokanatayA vyagrANAmalpacetasAm |· 
-IhitAni hi gacchanti yaivanena saha kSayam ||· 
+IhitAni hi gacchanti yauvanena saha kSayam ||· 
  
  
 <D7210> Die Wünsche von Männern· 
@@ -123480,8 +123480,8 @@ yazca svIyatvenAGgIkRtastasmin#}·
 NI1LAK.; vgl. Spruch 3003, wo NI1LAK.· 
 {#pratizraya#} durch {#gRha#} erklärt.· 
  
-<S> strISu rAjasu sarpeSu svAdhyAyaprabhuzatruSu |· 
-bhogeSvAyuSi vizvAsaH kaH prAjJaH kartumarhati ||· 
+<S> strISu na rAgaH kAryo raktaM puruSaM striyaH paribhavanti |· 
+raktaiva hi rantavyA viraktabhAvA tu hAtavyA ||· 
  
  
 <D7216><A5313> Man soll in die Weiber· 

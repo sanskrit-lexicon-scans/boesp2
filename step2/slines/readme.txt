@@ -57,6 +57,7 @@ python diff_to_changes.py temp_boesp_0.txt temp_boesp_4.txt temp_changes_0_4.txt
 #  27187 changes
 #
 python ../updateByLine.py temp_boesp_0.txt temp_changes_0_4.txt temp.txt
+
 # Now temp == temp_boesp_4.txt
 diff temp_boesp_4.txt temp.txt | wc -l
 # 0 (no difference).
@@ -66,4 +67,11 @@ diff temp_boesp_4.txt temp.txt | wc -l
 # and in step0,
 # sh install.sh XX YY
 cp temp_changes_0_4.txt ../../step0/changes/change_10.txt
-
+# in step0,
+ # temp_boesp_0.txt is same as ../../step0/changes/boesp_09.txt
+sh install.sh 09 10
+ # this makes ../../step0/changes/boesp_10.txt
+ # which is same as temp_boesp_4.txt and
+ # ../../step0/boesp_utf8.txt which is also the same
+ # and ../../step0/boesp.all_ansi.txt which is the cp1252 transcoding.
+ 
