@@ -1,0 +1,4 @@
+; changes_09. boesp_09.txt is from ../boesp_utf8.txt at
+; commit 672a08ec016eed11176afa0be7c62d71c86a82c3
+; These from several changes by Thomas to boesp.all_ansi.txt at
+;  commit 7a232aeb3bfbe46c9cca049d5a8485c044992e3a
