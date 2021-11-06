@@ -80,6 +80,10 @@ python extractsan.py slp1 work_boesp-1_slp1.xml work_san_slp1.txt
 
 python extractsan.py deva work_boesp-1_deva.xml work_san_deva.txt
 
+python extractsan.py hk work_boesp-1_hk.xml work_san_hk.txt
+
+python temp_extractsan_atsign.py hk work_boesp-1_hk.xml work_san_hk_atsign.txt
+
 # -----------------------------------------------------------------
 09-08-2021
 a prior version of work_san_deva.txt was copied to

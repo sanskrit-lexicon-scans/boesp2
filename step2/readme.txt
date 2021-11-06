@@ -25,3 +25,6 @@ See directory asprep.
   
 python make_xml.py hk boesp_1.txt work_boesp_hk.xml
 python /c/xampp/htdocs/cologne/xmlvalidate.py work_boesp_hk.xml ../step0/boesp.dtd
+# -----------------------------------------------------------------
+rectify lines in <S> groups.
+see slines directory
