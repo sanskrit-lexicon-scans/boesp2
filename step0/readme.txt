@@ -51,3 +51,16 @@ git show a448aa03a4da110b2c3bed0f8e050d7cbb3b9608:step0/boesp-1_ansi.txt > temp.
 ##---------------------------------------------------------
 Find list of extended ASCII.
 python ea.py boesp-1_utf8.txt temp_ea_boesp-1.txt
+
+##---------------------------------------------------------
+boesp4-1+2_ansi.txt
+ cp1252 encoding. digitization of boesp4-1.pdf and boesp4-2.pdf
+ 
+##---------------------------------------------------------
+boesp4.2(B.)_ansi.txt
+ reformatting of 'verses' and footnotes from boesp4-1+2_ansi.txt
+
+python cp1252_utf8.py boesp4.2(B.)_ansi.txt boesp4.2B_utf8.txt
+
+##---------------------------------------------------------
+
