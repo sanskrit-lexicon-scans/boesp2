@@ -57,10 +57,81 @@ boesp4-1+2_ansi.txt
  cp1252 encoding. digitization of boesp4-1.pdf and boesp4-2.pdf
  
 ##---------------------------------------------------------
-boesp4.2(B.)_ansi.txt
+boesp4.2B_ansi.txt
  reformatting of 'verses' and footnotes from boesp4-1+2_ansi.txt
 
-python cp1252_utf8.py boesp4.2(B.)_ansi.txt boesp4.2B_utf8.txt
+python cp1252_utf8.py boesp4.2B_ansi.txt boesp4.2B_utf8.txt
+
+1) use ° instead of º
+  About 30 replacements.
+  
+2) <eng> replaced
+{#\([^#]+\) <eng>=</eng>  ->  {#\1#} = {#
+ 35 replacements  <eng>=</eng> in Devanagari text in Footnotes
+<eng>=</eng> -> =
+ 5 replacements in German text in Footnotes
+7 remaining instances of <eng>...</eng>, in 4 lines. All in <S> sections
+ Remove <eng>.. from <S> and put in <F> (also, )
+ 7678
+ 7724 
+ 7752  
+  Also remove phrase '<F>7614) KALPATARU. Es ist von einem Kinde im Mutterleibe die Rede.' from <F>7752.  This phrase not part of text in pdf.
+ 
+3) AS spelling changes
 
 ##---------------------------------------------------------
+A1NANDEVA : 1x
+AUFRECHT : 25x
+BAHIRLA1PIKA1 : 1x
+BHA1MINI1VHA1SA : 1y
+BHA1MINI1VILA1SA : 4x
+BHA1RATACAMPU1 : 1x
+DHARMADA1SA : 1x
+G : 2x
+G4INADHARMAVIVEKA : 1y
+HAEB : 2x
+HITOPADES4A : 1x
+KALIVID2AMBANA : 5x
+KALPATARU : 24x
+KARN2A1MR2TA : 2x
+KAVIVID2AMBANA : 1x
+KUVALAJA1NANDA : 2y
+MURA1RI : 2x
+N : 1x
+NAISH : 1Y
+O : 20
+PA1N2INI : 2x
+PADDH : 1x
+PAN4CA1JUDHAPRAPAN4CABHA1N2A : 2y
+PAN4CA1JUDHAPRAPAN4CABHA1NA : 1y
+PRASAN3GAR : 14x
+PRASAN3GARATN : 1x
+PRASAN3GARATNA1V : 2x
+PRASAN3GARATNA1VALI1 : 3x
+PRASAN3GARATNAVALI1 : 1y
+RA1DHA1KR2SHN2ASAM3VA1DA : 2y
+RA1G4AS4RKHARA : 1y ?
+RA1GHAVACAITANJA : 1x
+RASIKAG4I1VANA : 4x
+RATNA1V : 2y
+S : 7x
+S4A1RN3GADH : 1x
+S4A1RN3GADHARA : 56x
+S4IS4UPA1LAV : 1x
+SA1RVABHAUMA : 1x
+SABHA1TARAM3GA : 17x
+SPHUT2AS4LOKA : 72x
+SU1KTISAM3GRAHA : 1x
+TH : 12x
+UTTARARA1MAC : 2x
+VA1GBHAT2A : 1x
+VA1SAVADATTA1 : 1x
+VAIDJAG4I1VANA : 1y
+VIDAGDHAMUKHAMAN2D2ANA : 2x
+VIDVADBHU1SHAN2A : 1y
+VIKRAM : 2
+VIS4VAGUN2A1DARS4A : 9
+VIT2HOBA1AN2N2A1 : 2x
+VIT2HORA1AN2N2A1 : 1y
+Z : 2x
 

@@ -14,6 +14,7 @@ not introduce 'unintentional' changes in lines.
 ## Perform various checks.
 See directory check
 
+## These subsequent notes are probably obsolete.
 # ------------------------------------------------------------------
 AS Anglicized Sanskrit checking
 See directory asprep.

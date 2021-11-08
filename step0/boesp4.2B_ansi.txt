@@ -1,6 +1,6 @@
 <!--This_File_is_D:\BOESP\BOESP4.2(B.)_ANSI.TXT,_Last_update_11/06/21--> 
  
-<h2>B.</h2> 
+<H> Boehtlingk, Indische 
  
 <S><lg><l>akalpaH svAGgaceSTAyAM zakunta iva paJjare |</l>· 
 <l>anucchvasansmaranpUrvaM garbhe kiM nAma vindate || 7614 ||</l></lg>· 
@@ -14,7 +14,7 @@
  
 <D7615>· 
  
-<F>7615) PRASAN3GARATNAVALI1.· 
+<F>7615) PRASAN3GARATNA1VALI1.· 
  
 <S><lg><l>agastitulyAzca ghRtAbdhizoSaNe dambholitulyA vaTakAdribhedane |</l>· 
 <l>zAkAvalIkAnanavahnirUpAsta eva bhaTTA itare bhaTAzca || 7616 ||</l></lg>· 
@@ -28,7 +28,7 @@
  
 <D7617>· 
  
-<F>7617) SPHUT2AS4LOKA. <i>c</i>. {#ghATaka <eng>=</eng> kAryasAdhaka#} und {#kumbha, guNin <eng>=</eng> guNavant#} und {#rajjuyukta#}. <i>d</i>. {#jIvana <eng>=</eng> jIvanopAyabhUtaM dravyam#} und {#udaka#}.· 
+<F>7617) SPHUT2AS4LOKA. <i>c</i>. {#ghATaka#} = {#kAryasAdhaka#} und {#kumbha, guNin#} = {#guNavant#} und {#rajjuyukta#}. <i>d</i>. {#jIvana#} = {#jIvanopAyabhUtaM dravyam#} und {#udaka#}.· 
  
 <S><lg><l>agre vyAdhaH karadhRtazaraH pArzvato jAlamAlA</l>· 
 <l>pRSThe vahnirdahati nitarAM saMnidhau sArameyAH |</l>· 
@@ -69,21 +69,21 @@
  
 <D7622>· 
  
-<F>7622) VA1GBHAT2A. <i>a</i>. {#AjJAta#} im Text, {#ajJAta#} im Index. {#sadbhAvAn <eng>=</eng> vAstavAnarthAn#}. <i>c</i>. {#bhiSakapAza <eng>=</eng> kutsitabhiSaj#}.· 
+<F>7622) VA1GBHAT2A. <i>a</i>. {#AjJAta#} im Text, {#ajJAta#} im Index. {#sadbhAvAn#} = {#vAstavAnarthAn#}. <i>c</i>. {#bhiSakapAza#} = {#kutsitabhiSaj#}.· 
  
 <S><lg><l>atanujvarapIDitAsi bAle tava saukhyAya mato mamopavAsaH |</l>· 
 <l>rasamarpaya vaidyanAtha nAhaM bhavadAveditalaGghane samarthA || 7623 ||</l></lg>· 
  
 <D7623>· 
  
-<F>7623) SABHA1TARAM3GA. <i>a</i>. {#atanu <eng>=</eng> mahant#} und {#kAma#}. <i>b</i>. {#upavAsa <eng>=</eng> laGghana#} {%Fasten%} und {#samIpasthiti#}. <i>c</i>. {#rasa <eng>=</eng> bheSaja#} und {#prIti. laGghana#} {%Fasten%} und <eng>=</eng> {#samIpasthiti#}.· 
+<F>7623) SABHA1TARAM3GA. <i>a</i>. {#atanu#} = {#mahant#} und {#kAma#}. <i>b</i>. {#upavAsa#} = {#laGghana#} {%Fasten%} und {#samIpasthiti#}. <i>c</i>. {#rasa#} = {#bheSaja#} und {#prIti. laGghana#} {%Fasten%} und = {#samIpasthiti#}.· 
  
 <S><lg><l>athopagUDhe zaradA zazAGke prAvRDyayau zAntataDitkaTAkSA |</l>· 
 <l>kAsAM na saubhAgyaguNo 'GganAnAM naSTaH paribhraSTapayodharANAm || 7624 ||</l></lg>· 
  
 <D7624>· 
  
-<F>7624) KUVALAJA1NANDA.· 
+<F>7624) KUVALAYA1NANDA.· 
  
 <S><lg><l>adya zItaM varIvartti sarIsarti samIraNaH |</l>· 
 <l>apatnIko marImarti tarItarti kucoSmavAn || 7625 ||</l></lg>· 
@@ -199,7 +199,7 @@
  
 <D7640>· 
  
-<F>7640) SPHUT2AS4LOKA. <i>a</i>. {#vAdya <eng>=</eng> vakAra Adyo yasya#}. <i>b</i>. {#kAnta <eng>=</eng> kakAro 'nte yasya#}. <i>c</i>. {#cakriNA <eng>=</eng> sarpeNa#}. Gemeint ist {#valmIka#} {%Ameisenhaufe%} (auch N. pr. eines {|R2shi|}).· 
+<F>7640) SPHUT2AS4LOKA. <i>a</i>. {#vAdya#} = {#vakAra Adyo yasya#}. <i>b</i>. {#kAnta#} = {#kakAro 'nte yasya#}. <i>c</i>. {#cakriNA#} = {#sarpeNa#}. Gemeint ist {#valmIka#} {%Ameisenhaufe%} (auch N. pr. eines {|R2shi|}).· 
  
 <S><lg><l>anena rambhoru tavAnanena pIyUSabhAnostulayA dhRtasya |</l>· 
 <l>Unasya nUnaM paripUraNAya tArAH sphuranti pratimAnakhaNDAH || 7641 ||</l></lg>· 
@@ -243,7 +243,7 @@
  
 <D7646>· 
  
-<F>7646) KUVALAJA1NANDA 137, {%a. b.%} {#culakayAM#} an beiden Orten.· 
+<F>7646) KUVALAYA1NANDA 137, {%a. b.%} {#culakayAM#} an beiden Orten.· 
  
 <S><lg><l>andhaM tamazcedayi bAdhate tvAM sarojanetraM jagadekasUtram |</l>· 
 <l>sudhAcaritraM paramaM pavitraM kuruSva mitraM vasudevaputram || 7647 ||</l></lg>· 
@@ -266,7 +266,7 @@
  
 <D7649>· 
  
-<F>7649) PRASAN3GARATNA1V. <i>c</i>. {#brAhmaNebhyaH <eng>=</eng> brAhmaNa#} (Voc.) {#ibhyaH#} (= {#dhanikaH#}).· 
+<F>7649) PRASAN3GARATNA1V. <i>c</i>. {#brAhmaNebhyaH#} = {#brAhmaNa#} (Voc.) {#ibhyaH#} (= {#dhanikaH#}).· 
  
 <S><lg><l>anyavarNaparAvRttyA bandhacihnanigUhanaiH |</l>· 
 <l>anAkhyAtaH satAM madhye kavizcoro vibhAvyate || 7650 ||</l></lg>· 
@@ -324,7 +324,7 @@
  
 <D7657>· 
  
-<F>7657) RASIKAG4I1VANA.· 
+<F>7657) RASIKAJI1VANA.· 
  
 <S><lg><l>api daladaravinda syandamAnaM marandaM</l>· 
 <l>tava kimapi lihanto maJju guJjantu bhRGgAH |</l>· 
@@ -384,7 +384,7 @@
  
 <D7665>· 
  
-<F>7665) RA1G4AS4RKHARA (s. AUFRECHT a. a. O.) bei S4A1RN3GADHARA.· 
+<F>7665) RA1JAS4RKHARA (s. AUFRECHT a. a. O.) bei S4A1RN3GADHARA.· 
  
 <S><lg><l>amantramakSaraM nAsti nAsti mUlamanauSadham |</l>· 
 <l>ayogyaH puruSo nAsti yojakastatra durlabhaH || 7666 ||</l></lg>· 
@@ -405,7 +405,7 @@
  
 <D7668>· 
  
-<F>7668) SPHUT2AS4LOKA. <i>c</i>. {#sakala#} st. {#nikhila#} v. l.<h3>{#amuM kAlakSepaM#} u.s.w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5.<br/>In <i>d</i>. ist bei AUFRECHT zu lesen: {#ºjvAlAvalijaTilaº#}.</p>· 
+<F>7668) SPHUT2AS4LOKA. <i>c</i>. {#sakala#} st. {#nikhila#} v. l.<h3>{#amuM kAlakSepaM#} u.s.w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5.<br/>In <i>d</i>. ist bei AUFRECHT zu lesen: {#°jvAlAvalijaTila°#}.</p>· 
  
  
 <S><lg><l>amuSminnudyAne vihagakhala eSa pratikalaM</l>· 
@@ -452,7 +452,7 @@
  
 <D7674>· 
  
-<F>7674) VIDAGDHAMUKHAMAN2D2ANA 4, 40. <i>a</i>. {#ambhoruhamaye#} ist zweideutig, nämlich auch {#ambhoruham#} und {#aye#} Dat. von {#i <eng>=</eng> kAma#}.· 
+<F>7674) VIDAGDHAMUKHAMAN2D2ANA 4, 40. <i>a</i>. {#ambhoruhamaye#} ist zweideutig, nämlich auch {#ambhoruham#} und {#aye#} Dat. von {#i#} = {#kAma#}.· 
  
 <S><lg><l>amlAnapaGkajA mAlA kaNThe rAmasya sItayA |</l>· 
 <l>mudhA budhA bhramantyatra pratyakSe 'pi kriyApade || 7675 ||</l></lg>· 
@@ -477,12 +477,12 @@
  
 <F>7677) SPHUT2AS4LOKA.· 
  
-<S><lg><l>ayi kAnta pazya meghaM <eng>(oder</eng> me 'ghaM<eng>)</eng> nahi nahi pApaM tavAtipuNyAyAH |</l>· 
+<S><lg><l>ayi kAnta pazya meghaM nahi nahi pApaM tavAtipuNyAyAH |</l>· 
 <l>nahi nahi pazya payodharamapasAraya kaJcukImurasaH || 7678 ||</l></lg>· 
  
 <D7678>· 
  
-<F>7678) SPHUT2AS4LOKA. <i>c</i>. {#payodhara <eng>=</eng> megha#} und {#stana#}.· 
+<F>7678) SPHUT2AS4LOKA. <i>c</i>. {#payodhara#} = {#megha#} und {#stana#}. ({#meghaM#} oder {#me 'ghaM#}) · 
  
 <S><lg><l>ayi kuraGgi tapovanavibhramAdupagatAsi kirAtapurImimAm |</l>· 
 <l>iha na pazyasi dAraya mAraya grasa pibeti zukAnapi jalpataH || 7679 ||</l></lg></p>· 
@@ -505,7 +505,7 @@
  
 <D7681>· 
  
-<F>7681) KARN2A1MR2TA. <i>c</i>. {#puSpavatI <eng>=</eng> puSpayuktA#} und {#rajasvalA#}. <i>d</i>. {#zuci <eng>=</eng> zveta#} und {#pavitra, haMsa <eng>=</eng> rAjahaMsa#} und {#paramahaMsa#}.· 
+<F>7681) KARN2A1MR2TA. <i>c</i>. {#puSpavatI#} = {#puSpayuktA#} und {#rajasvalA#}. <i>d</i>. {#zuci#} = {#zveta#} und {#pavitra, haMsa#} = {#rAjahaMsa#} und {#paramahaMsa#}.· 
  
 <S><lg><l>ayi malayaja mahimAyaM kasya girAmastu viSayaste |</l>· 
 <l>udgirato yadgaralaM phaNinaH puSNAsi parimalodgAraiH || 7682 ||</l></lg>· 
@@ -519,7 +519,7 @@
  
 <D7683>· 
  
-<F>7683) VIDVADBHU1SHAN2A. {%a. c.%} {#zastas#} Nom. des Partic. von {#zaMs#} und Ablat. von {#zas#} {%die Endung des Acc. Pl.%} Von diesem Casus an werden {#sakhi#} und {#pati#} regelmässig declinirt.· 
+<F>7683) VIDVADBHU1S2AN2A. {%a. c.%} {#zastas#} Nom. des Partic. von {#zaMs#} und Ablat. von {#zas#} {%die Endung des Acc. Pl.%} Von diesem Casus an werden {#sakhi#} und {#pati#} regelmässig declinirt.· 
  
 <S><lg><l>ayuktaM yuktaM vA yadabhihitamajJena vibhunA</l>· 
 <l>stuyAdetannityaM jaDamapi guruM tasya vinuyAt |</l>· 
@@ -553,7 +553,7 @@
  
 <D7687>· 
  
-<F>7687) SPHUT2AS4LOKA.<h3>{#arthA na santi#} u.s.w. herausgegeben von AUFRECHT a. a. O. S. 73.<br/><i>b</i>. {#dAtA na saMkucitaº#} st. {#tyAgAnna saMkucati#}.</p>· 
+<F>7687) SPHUT2AS4LOKA.<h3>{#arthA na santi#} u.s.w. herausgegeben von AUFRECHT a. a. O. S. 73.<br/><i>b</i>. {#dAtA na saMkucita°#} st. {#tyAgAnna saMkucati#}.</p>· 
  
  
 <S><lg><l>arthAnke cidupAsate kRpaNavatke cittvalaMkurvate</l>· 
@@ -563,7 +563,7 @@
  
 <D7688>· 
  
-<F>7688) VIS4VAGUN2A1DARS4A. Verfasser RA1GHAVACAITANJA (s. AUFRECHT a. a. O. S. 76).· 
+<F>7688) VIS4VAGUN2A1DARS4A. Verfasser RA1GHAVACAITANYA (s. AUFRECHT a. a. O. S. 76).· 
  
 <S><lg><l>arthAharaNakauzalyaM kiM stumaH zAstravAdinAm |</l>· 
 <l>avyayebhyo 'pi ye cArthAnniSkarSanti sahasrazas || 7689 ||</l></lg>· 
@@ -599,7 +599,7 @@
  
 <D7693>· 
  
-<F>7693) S4A1RN3GADHARA. Verfasser DHARMADA1SA nach AUFRECHT a. a. O. <i>a</i>. {#vadhU <eng>=</eng> snuSA#}. Die Hausfrau weint, weil sie die Armuth des Schwiegersohns gewahr wird.· 
+<F>7693) S4A1RN3GADHARA. Verfasser DHARMADA1SA nach AUFRECHT a. a. O. <i>a</i>. {#vadhU#} = {#snuSA#}. Die Hausfrau weint, weil sie die Armuth des Schwiegersohns gewahr wird.· 
  
 <S><lg><l>avinItaH suto jAtaH kathaM na dahanAtmakaH |</l>· 
 <l>vinItastu suto jAtaH kathaM na puruSottamaH || 7694 ||</l></lg>· 
@@ -732,14 +732,14 @@
  
 <D7710>· 
  
-<F>7710) NAISH. 12, 106. <i>b</i>. {#ºtimiraprakhyAH#} st. {#ºbadhirazrAvyAH#} die Ausg.· 
+<F>7710) NAIS2. 12, 106. <i>b</i>. {#°timiraprakhyAH#} st. {#°badhirazrAvyAH#} die Ausg.· 
  
 <S><lg><l>asyAH pIThopaviSTAyA abhyaGgaM vitanotyasau |</l>· 
 <l>lalacchroNi caladveNi naTadgurupayodharam || 7711 ||</l></lg>· 
  
 <D7711>· 
  
-<F>7711) PAN4CA1JUDHAPRAPAN4CABHA1N2A.<h3>{#asyA manoharAº#} herausgegeben von TH. AUFRECHT a. a. O. 82. <i>b</i>. Besser {#nirjitAH#} st. {#varjitAH#}.· 
+<F>7711) PAN5CA1YUDHAPRAPAN5CABHA1N2A.<h3>{#asyA manoharA°#} herausgegeben von TH. AUFRECHT a. a. O. 82. <i>b</i>. Besser {#nirjitAH#} st. {#varjitAH#}.· 
  
  
 <S><lg><l>ahaM kimambA kimabhISTatApade taveti mAturdhuri tAtapRcchayA |</l>· 
@@ -827,21 +827,21 @@
  
 <D7723>· 
  
-<F>7723) SPHUT2AS4LOKA. <i>a</i>. {#karNa <eng>=</eng> zrotra#} und {#aGgAdhipa#}. <i>b</i>. {#bali <eng>=</eng> daitya#} und {#vali#}.· 
+<F>7723) SPHUT2AS4LOKA. <i>a</i>. {#karNa#} = {#zrotra#} und {#aGgAdhipa#}. <i>b</i>. {#bali#} = {#daitya#} und {#vali#}.· 
  
-<S><lg><l>AgataH pANDavAH sarve duryodhanasamIhay <eng>(d. i.</eng> 'duryo dhanaº <eng>)</eng> |</l>· 
+<S><lg><l>AgataH pANDavAH sarve duryodhanasamIhay |</l>· 
 <l>tasmai gAM ca suvarNaM ca ratnAni vividhAni ca || 7724 ||</l></lg>· 
  
 <D7724>· 
  
-<F>7724) SPHUT2AS4LOKA.· 
+<F>7724) SPHUT2AS4LOKA. ({#duryodhana°#} d. i. {#'duryo dhana°#}) · 
  
 <S><lg><l>Ajanma siddhaM kauTilyaM khalasya ca halasya ca |</l>· 
 <l>soDhuM tayormukhAkSepamalamekaiva sA kSamA || 7725 ||</l></lg>· 
  
 <D7725>· 
  
-<F>7725) PRASAN3GAR. <i>d</i>. {#kSamA <eng>=</eng> pRthvI#} und {#zAnti#}.· 
+<F>7725) PRASAN3GAR. <i>d</i>. {#kSamA#} = {#pRthvI#} und {#zAnti#}.· 
  
 <S><lg><l>AdareNa yathA stauti dhanavantaM dhanecchayA |</l>· 
 <l>tathA cedvizvakartAraM ko na mucyeta bandhanAt || 7726 ||</l></lg></p>· 
@@ -910,14 +910,14 @@
  
 <D7734>· 
  
-<F>7734) BHA1MINI1VHA1SA. [Seite4.2-232]· 
+<F>7734) BHA1MINI1VILA1SA. [Seite4.2-232]· 
  
 <S><lg><l>AbhIranAryAH karamAdadhAno na zaGkase mAdhava kiM bravISi |</l>· 
 <l>pallIpatirballavavallabhAyAH karagrahe kiM vidadhIta zaGkAm || 7735 ||</l></lg>· 
  
 <D7735>· 
  
-<F>7735) RA1DHA1KR2SHN2ASAM3VA1DA.· 
+<F>7735) RA1DHA1KR2S2N2ASAM3VA1DA.· 
  
 <S><lg><l>AmadhyAhnaM nadIvAsaH samAje devatArcanam |</l>· 
 <l>satataM zuciveSazca etatsabhyasya jIvanam || 7736 ||</l></lg>· 
@@ -960,14 +960,14 @@
  
 <D7741>· 
  
-<F>7741) SPHUT2AS4LOKA. <i>d</i>. {#puNyA#} ist das Prädicat zu {#ASADhI#} u.s.w., {#zleSmaharA#} zu {#vacA#} u.s.w., {#anRNI#} ist mit {#gayAyAM piº#} zu verbinden.· 
+<F>7741) SPHUT2AS4LOKA. <i>d</i>. {#puNyA#} ist das Prädicat zu {#ASADhI#} u.s.w., {#zleSmaharA#} zu {#vacA#} u.s.w., {#anRNI#} ist mit {#gayAyAM pi°#} zu verbinden.· 
  
 <S><lg><l>AsanyAvanti yAcJAsu cAtakAzrUNi cAmbuda |</l>· 
 <l>tAvanto 'pi tvayA megha na muktA vAribindavaH || 7742 ||</l></lg>· 
  
 <D7742>· 
  
-<F>7742) RASIKAG4I1VANA.· 
+<F>7742) RASIKAJI1VANA.· 
  
 <S><lg><l>AsAyaM salilabhare savitAramupAsya sAdaraM tapasA |</l>· 
 <l>adhunAbjena manAktava mAnini tulanA mukhasyAptA || 7743 ||</l></lg></p>· 
@@ -1041,14 +1041,14 @@
  
 <D7751>· 
  
-<F>7751) RASIKAG4I1VANA.· 
+<F>7751) RASIKAJI1VANA.· 
  
 <S><lg><l>iha nagare pratirathyaM bhujaMgasaMbAdharuddhasaMcAre |</l>· 
-<l>zRNu sakhi sAdhanamekaM nakulapratipAlanaM <eng>(oder</eng> na kulaº<eng>)</eng> zreyaH || 7752 ||</l></lg>· 
+<l>zRNu sakhi sAdhanamekaM nakulapratipAlanaM zreyaH || 7752 ||</l></lg>· 
  
 <D7752>· 
  
-<F>7752) SPHUT2AS4LOKA. <i>b</i>. {#bhujaMga <eng>=</eng> sarpa#} und {#jAra. bhujaMgavAso 'niruddhasaMcAraH#} v. l.<F>7614) KALPATARU. Es ist von einem Kinde im Mutterleibe die Rede.· 
+<F>7752) SPHUT2AS4LOKA. <i>b</i>. {#bhujaMga#} = {#sarpa#} und {#jAra. bhujaMgavAso 'niruddhasaMcAraH#} v. l. ({#nakula°#} oder {#na kula°)· 
  
 <S><lg><l>ihAneke santaH satatamupakAriNyupakRtiM</l>· 
 <l>kRtajJAH kurvanto jagati nivasanto 'pi sudhiyaH |</l>· 
@@ -1064,7 +1064,7 @@
  
 <D7754>· 
  
-<F>7754) VIS4VAGUN2A1DARS4A. <i>d</i>. {#vidhau <eng>=</eng> daive#} und {#candre#}.· 
+<F>7754) VIS4VAGUN2A1DARS4A. <i>d</i>. {#vidhau#} = {#daive#} und {#candre#}.· 
  
 <S><lg><l>ISallabdhapravezo 'pi snehavicchedakArakaH |</l>· 
 <l>kRtakSobho narInartti khalo manthanadaNDavat || 7755 ||</l></lg>· 
@@ -1078,7 +1078,7 @@
  
 <D7756>· 
  
-<F>7756) SPHUT2AS4LOKA.<h3>{#uttaMsakautukaº#} herausgegeben von TH. AUFRECHT a. a. O. 12. <i>a</i>. {#vilAsinIbhir#}.· 
+<F>7756) SPHUT2AS4LOKA.<h3>{#uttaMsakautuka°#} herausgegeben von TH. AUFRECHT a. a. O. 12. <i>a</i>. {#vilAsinIbhir#}.· 
  
  
 <S><lg><l>uttamAnAmapi strINAM vizvAso naiva vidyate |</l>· 
@@ -1102,7 +1102,7 @@
  
 <D7759>· 
  
-<F>7759) RASIKAG4I1VANA.· 
+<F>7759) RASIKAJI1VANA.· 
  
 <S><lg><l>utsiktaH kusumAsavaiH kumudinIM rAjapriyAM puSpiNI-</l>· 
 <l>mAliGgannizi nirbhayaM paricayaM kurvanpunaH pallavaiH |</l>· 
@@ -1111,7 +1111,7 @@
  
 <D7760>· 
  
-<F>7760) PAN4CA1JUDHAPRAPAN4CABHA1N2A. <i>a</i>. {#utsikta <eng>=</eng> matta#} und {#saMpRkta. rAjapriyA <eng>=</eng> candrapriyA#} und {#nRpapriyA. puSpiNI <eng>=</eng> puSpayuktA#} und {#rajasvalA#}. <i>c</i>. {#laghu <eng>=</eng> satvaram#}. <i>d</i>. {#kalye <eng>=</eng> prabhAte. bhayAddrAvati#} gedr.· 
+<F>7760) PAN5CA1YUDHAPRAPAN5CABHA1N2A. <i>a</i>. {#utsikta#} = {#matta#} und {#saMpRkta. rAjapriyA#} = {#candrapriyA#} und {#nRpapriyA. puSpiNI#} = {#puSpayuktA#} und {#rajasvalA#}. <i>c</i>. {#laghu#} = {#satvaram#}. <i>d</i>. {#kalye#} = {#prabhAte. bhayAddrAvati#} gedr.· 
  
 <S><lg><l>udadhiravadhirurvyAstaM hanUmAMstatAra</l>· 
 <l>niravadhi gaganaM cettvANDakoze vilInam |</l>· 
@@ -1120,14 +1120,14 @@
  
 <D7761>· 
  
-<F>7761) S4A1RN3GADHARA. <i>b</i>. {#cettkANDaº#} gedr.· 
+<F>7761) S4A1RN3GADHARA. <i>b</i>. {#cettkANDa°#} gedr.· 
  
 <S><lg><l>udayataTAntaritamiyaM prAcI sUcayati diGnizAnAtham |</l>· 
 <l>paripANDunA mukhena priyamiva hRdayasthitaM ramaNI || 7762 ||</l></lg>· 
  
 <D7762>· 
  
-<F>7762) RATNA1V. 18. <i>a</i>. Hier und bei AUFRECHT a. a. O. 98. {#udayagiritaTAº#}.· 
+<F>7762) RATNA1V. 18. <i>a</i>. Hier und bei AUFRECHT a. a. O. 98. {#udayagiritaTA°#}.· 
  
 <S><lg><l>udaradvayabharaNabhayAdardhAGgIkRtadAraH |</l>· 
 <l>yadi naivaM tasyaikasutaH kathamadyApi kumAraH || 7763 ||</l></lg>· 
@@ -1141,7 +1141,7 @@
  
 <D7764>· 
  
-<F>7764) VIT2HORA1AN2N2A1. <i>a</i>. {#udArAn#} kann auch {#u-dArAn (u <eng>=</eng> ziva)#} sein. [Seite4.2-236]· 
+<F>7764) VIT2HOBA1AN2N2A1. <i>a</i>. {#udArAn#} kann auch {#u-dArAn (u#} = {#ziva)#} sein. [Seite4.2-236]· 
  
 <S><lg><l>udIryamANe 'pi ca sAntvavAde</l>· 
 <l>mAnApanodo nahi rAdhikAyAH |</l>· 
@@ -1150,7 +1150,7 @@
  
 <D7765>· 
  
-<F>7765) RA1DHA1KR2SHN2ASAM3VA1DA. {%c. d.%} {#aparAdhika#} das erste Mal <eng>=</eng> {#aparAdhin#}, das zweite Mal <eng>=</eng> {#apagatA rAdhikA yasmAtsaH#}.· 
+<F>7765) RA1DHA1KR2SHN2ASAM3VA1DA. {%c. d.%} {#aparAdhika#} das erste Mal = {#aparAdhin#}, das zweite Mal = {#apagatA rAdhikA yasmAtsaH#}.· 
  
 <S><lg><l>udyadvidrumakAntibhiH kisalayaistAmrAM tviSaM bibhrato</l>· 
 <l>bhRGgAlIvirutaiH kalairavizadavyApAralIlAbhRtaH |</l>· 
@@ -1159,7 +1159,7 @@
  
 <D7766>· 
  
-<F>7766) PAN4CA1JUDHAPRAPAN4CABHA1NA <eng>=</eng> RATNA1V. 10.· 
+<F>7766) PAN5CA1YUDHAPRAPAN5CABHA1N2A = RATNA1V. 10.· 
  
 <S><lg><l>udyAnapAla kalazAmbuniSecanAnA-</l>· 
 <l>metasya campakatarorayameva kAlaH |</l>· 
@@ -1235,19 +1235,19 @@
  
 <F>7776) KALPATARU. Gemeint ist die Nadel.· 
  
-<S><lg><l>ekatazcaturo <eng>(!)</eng> vedA brahmacaryaM tathaikataH |</l>· 
+<S><lg><l>ekatazcaturo vedA brahmacaryaM tathaikataH |</l>· 
 <l>ekataH sarvapApAni madyapAnaM tathaikataH || 7777 ||</l></lg>· 
  
 <D7777>· 
  
-<F>7777) G4INADHARMAVIVEKA.· 
+<F>7777) JINADHARMAVIVEKA. {#ekatazcaturo#} (!) · 
  
 <S><lg><l>ekameva baliM baddhvA jagAma harirunnatim |</l>· 
 <l>tanvyAstrivalibandhe 'pi saiva madhyasya namratA || 7778 ||</l></lg>· 
  
 <D7778>· 
  
-<F>7778) S4A1RN3GADHARA. <i>a</i>. {#bali#} zugleich <eng>=</eng> {#bali#}.· 
+<F>7778) S4A1RN3GADHARA. <i>a</i>. {#bali#} zugleich = {#bali#}.· 
  
 <S><lg><l>ekAntasundaravidhAnajaDaH kva vedhAH</l>· 
 <l>sarvAGgakAntiruciraM kva ca rUpamasyAH |</l>· 
@@ -1304,7 +1304,7 @@
  
 <D7785>· 
  
-<F>7785) S4A1RN3GADHARA.<h3>{#etAsu ketaki#} herausgegeben von TH. AUFRECHT a. a. O. 71. <i>c</i>. {#ºvapurna jAº#}, wie das Metrum verlangt.· 
+<F>7785) S4A1RN3GADHARA.<h3>{#etAsu ketaki#} herausgegeben von TH. AUFRECHT a. a. O. 71. <i>c</i>. {#°vapurna jA°#}, wie das Metrum verlangt.· 
  
  
 <S><lg><l>ete snigdhatamA iti mA mA kSudreSu yAta vizvAsam |</l>· 
@@ -1354,7 +1354,7 @@
 <S><lg><l>kapolapAlIM tava tanvi manye</l>· 
 <l>lAvaNyadhanye dizamuttarAkhyAm |</l>· 
 <l>vibhAti yasyAM lalitAlakAyAM</l>· 
-<l>manoharA vaizravaNasya (vai zraº) lakSmIH || 7792 ||</l></lg>· 
+<l>manoharA vaizravaNasya (vai zra°) lakSmIH || 7792 ||</l></lg>· 
  
 <D7792>· 
  
@@ -1564,7 +1564,7 @@
  
 <D7819>· 
  
-<F>7819) KALPATARU. <i>d</i>. Die vier Worte {#gauº, muº, cuº#} und {#vAº#} bilden die Antworten.· 
+<F>7819) KALPATARU. <i>d</i>. Die vier Worte {#gau°, mu°, cu°#} und {#vA°#} bilden die Antworten.· 
  
 <S><lg><l>kAvyaM karoti sukaviH sahRdaya eva vyanakti tattattvam |</l>· 
 <l>ratnaM khaniH prasUte racayati zilpI tu tatsuSamAm || 7820 ||</l></lg>· 
@@ -1585,7 +1585,7 @@
  
 <D7822>· 
  
-<F>7822) PRASAN3GARATNA1V. <i>d</i>. Der ganze Satz ist die Antwort auf die letzte Frage, die cinzelnen Worte {#gauº, muº, cuº#} und {#vAsuº#} beantworten die vier ersten Fragen.· 
+<F>7822) PRASAN3GARATNA1V. <i>d</i>. Der ganze Satz ist die Antwort auf die letzte Frage, die cinzelnen Worte {#gau°, mu°, cu°#} und {#vAsu°#} beantworten die vier ersten Fragen.· 
  
 <S><lg><l>kiM khalu ratnairetaiH kiM khalu ratnAyitena vapuSA te |</l>· 
 <l>salilamapi yanna tAvakamarNava vadanaM prayAti tRSitAnAm || 7823 ||</l></lg>· 
@@ -1720,7 +1720,7 @@
  
 <D7840>· 
  
-<F>7840) SABHA1TARAM3GA. <i>a</i>. {#pada <eng>=</eng> suptiGantAdi#} und {#caraNa#}. <i>b</i>. {#vikacazrI <eng>=</eng> praphullazobhA#} und {#vigatA kacazrIH kezazobhA yasyAH. cAruº <eng>=</eng> cAravo ye zabdabhaGgA racanAvizeSAstadvatI#} und {#skhalitazabdavatI#}. <i>c</i>. {#kam <eng>=</eng> ziras#}. [Seite4.2-246]· 
+<F>7840) SABHA1TARAM3GA. <i>a</i>. {#pada#} = {#suptiGantAdi#} und {#caraNa#}. <i>b</i>. {#vikacazrI#} = {#praphullazobhA#} und {#vigatA kacazrIH kezazobhA yasyAH. cAru°#} = {#cAravo ye zabdabhaGgA racanAvizeSAstadvatI#} und {#skhalitazabdavatI#}. <i>c</i>. {#kam#} = {#ziras#}. [Seite4.2-246]· 
  
 <S><lg><l>kRtArthaH svAminaM dveSTi kRtadArastu mAtaram |</l>· 
 <l>jAtApatyA patiM dveSTi gatarogazcikitsakam || 7841 ||</l></lg>· 
@@ -1758,7 +1758,7 @@
  
 <D7845>· 
  
-<F>7845) S4A1RN3GADHARA.<h3>{#kenAtra campakataro#} herausgeg. von TH. AUFRECHT a. a. O. 85. <i>c</i>. {#pravRddha#} st. {#prarUDha#}. <i>d</i>. {#bho bhagnaº#}.· 
+<F>7845) S4A1RN3GADHARA.<h3>{#kenAtra campakataro#} herausgeg. von TH. AUFRECHT a. a. O. 85. <i>c</i>. {#pravRddha#} st. {#prarUDha#}. <i>d</i>. {#bho bhagna°#}.· 
  
  
 <S><lg><l>kezaiH kesaramAlikAmapi ciraM yA bibhratI khidyate</l>· 
@@ -1776,7 +1776,7 @@
  
 <D7847>· 
  
-<F>7847) VIDAGDHAMUKHAMAN2D2ANA 2, 59. <i>a</i>. {#yo#} st. {#ko#} HAEB. <i>d</i>. {#pANIni#} HAEB. Antwort auf die erste Frage: {#yamaH#}, auf die zweite: {#agam (= parvatam)#}, auf die dritte: {#dhane#}, auf die vierte: {#yamo gandhane#} (PA1N2INI 1, 2, 15).<h3>{#kva citprANiprAptam#} herausgeg. von TH. AUFRECHT a. a. O. 78. <i>d</i>. {#tanu#}, wie ich ebend. 636 vermuthet hatte, aber {#jana#} wie bei AUFRECHT. Man verbinde also {#janatanudhanoº#}.· 
+<F>7847) VIDAGDHAMUKHAMAN2D2ANA 2, 59. <i>a</i>. {#yo#} st. {#ko#} HAEB. <i>d</i>. {#pANIni#} HAEB. Antwort auf die erste Frage: {#yamaH#}, auf die zweite: {#agam (= parvatam)#}, auf die dritte: {#dhane#}, auf die vierte: {#yamo gandhane#} (PA1N2INI 1, 2, 15).<h3>{#kva citprANiprAptam#} herausgeg. von TH. AUFRECHT a. a. O. 78. <i>d</i>. {#tanu#}, wie ich ebend. 636 vermuthet hatte, aber {#jana#} wie bei AUFRECHT. Man verbinde also {#janatanudhano°#}.· 
  
  
 <S><lg><l>kSamA zastraM kare yasya durjanaH kiM kariSyati |</l>· 
@@ -1842,7 +1842,7 @@
  
 <D7856>· 
  
-<F>7856) S4A1RN3GADHARA. <i>a</i>. {#ºkukubhA#} gedr.· 
+<F>7856) S4A1RN3GADHARA. <i>a</i>. {#°kukubhA#} gedr.· 
  
 <S><lg><l>girayo guravastebhyo 'pyurvI gurvI tato 'pi jagadaNDam |</l>· 
 <l>tasmAdapyatiguravaH pralaye 'pyacalA mahAtmAnaH || 7857 ||</l></lg>· 
@@ -1884,14 +1884,14 @@
  
 <D7862>· 
  
-<F>7862) VAIDJAG4I1VANA.· 
+<F>7862) VAIDYAJI1VANA.· 
  
 <S><lg><l>gotrasthitiM na muJcanti sadA saMnatimAzritAH |</l>· 
 <l>udanvantazca santazca mahAsattvatayA tathA || 7863 ||</l></lg></p>· 
  
 <D7863>· 
  
-<F>7863) SPHUT2AS4LOKA. <i>a</i>. {#gotrasthiti <eng>=</eng> kulamaryAdA#} und {#parvatasthiti#}. <i>d</i>. {#sattva <eng>=</eng> prANin#} und {#dhairya#}. [Seite4.2-249]· 
+<F>7863) SPHUT2AS4LOKA. <i>a</i>. {#gotrasthiti#} = {#kulamaryAdA#} und {#parvatasthiti#}. <i>d</i>. {#sattva#} = {#prANin#} und {#dhairya#}. [Seite4.2-249]· 
  
 <S><lg><l>grAme 'sminprastaraprAye na kiM citpAntha vidyate |</l>· 
 <l>payodharonnatiM dRSTvA vastumicchasi cedvasa || 7864 ||</l></lg>· 
