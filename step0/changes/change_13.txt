@@ -1,0 +1,155 @@
+; change_13.txt
+;  Many changes to boesp were made in  preparation for inserting
+;  '<F>x) DUMMY' groups below compound footnote groups (like '<F>67.67) ')
+; The rest of this file contains working notes.
+; The end result is boesp_13.txt.
+; boesp_utf8 (before changes)
+; 7428 matches for "<F>" in buffer: boesp_utf8.txt
+; 7614 matches for "<D"
+; 
+; Why the difference
+; CORRECTIONS to boesp_utf8.txt
+; 1) <F>530) missing -- added
+; 
+; 2) D1387 wrongly placed and S,HS for 1388 (almost) duplicated.
+;  Solution:
+;  a) Move D1387 in same 'S' block as D1386
+;  b) Delete duplicate <HS> and S for 1388
+;     Note the footnotes for 1386 and 1387 are 'merged' in text: <F>1386.87)
+;     
+; 3) <F>1842) missing -- added
+; 
+; 4) D6614:  Footnote missing -- added
+; 
+; 5) D6615:  <S> missing -- added
+;            <F> missing -- added
+; 	   
+; 6) D7391: Footnote missing -- added
+; 
+; 7) D2647-51 :  Merge <F>
+;   OLD:
+; <F>2647.48.49.50)· 
+; <F>2651) R. ed. Bomb. 6, 6, 6.· 
+; NEW:
+; <F>2647.48.49.50.51) R. ed. Bomb. 6, 6, 6.·
+; 
+; 8) 6626:  put space after footnote
+; OLD
+; <F>6626)HIT. ed. SCHL. I, 72 JOHNS. 79.· 
+; NEW
+; <F>6626) HIT. ed. SCHL. I, 72 JOHNS. 79.·
+; 
+; 9) <F>3518)  occurs twice. Remove duplicate
+; 
+; 10) F820 also should have 819
+; OLD:
+; <F>820) MBH. 13, 5717. fg. 820, ²b.· 
+; NEW:
+; <F>819.20) MBH. 13, 5717. fg. 820, ²b.· 
+; 
+; 11) D6222 . F6222 missing  -- added
+; 
+; 12) D6223. <S> missing -- added
+; 13) In 20 cases, move a multiple-F after the last D in the group.
+;   Example: <D1091>,<F>1091.92),<D1092> -> <D1091>,<D1092>,<F>1091.92)
+;   The cases:
+; <D1091>,<F>1091.92),<D1092>x
+; <D1135>,<F>1135.36),<D1136>x
+; <D1154>,<F>1154.55),<D1155>x
+; <D1165>,<F>1165.66),<D1166>x
+; <D1211>,<F>1211.12),<D1212>x
+; <D1275>,<F>1275.76),<D1276>x
+; <D1341>,<F>1341.42),<D1342>x
+; <D1351>,<F>1351.52),<D1352>x
+; <D1414>,<F>1414.15),<D1415>x
+; <D1467>,<F>1467.68),<D1468>x
+; <D1500>,<F>1500.1),<D1501>x  page break ok?
+; <D1517>,<F>1517.18),<D1518>x
+; <D1569>,<F>1569.70),<D1570>x
+; <D1573>,<F>1573.74),<D1574>x page break ok?
+; <D1684>,<F>1684.85),<D1685>x  Also moved two (identical) <V3>1684 after 
+;   page break ok?
+; <D1825>,<F>1825.26),<D1826>x
+; <D1833>,<F>1833.34),<D1834>x page break ok?
+; <D2201>,<F>2201.2.3.4),<D2202>,<D2203>,<D2204>x
+; <D3609>,<F>3609.10.11),<D3610>,<D3611>
+;  Similarly moved V3 after F
+; <D4449>,<F>4449.50.51.52.53),<D4450>,<D4451>,<D4452>,<D4453>x  page break ok?
+;   D4449-D4452 have several '<footnote>...</footnote>' items.
+; 
+; 14) Several additional cases of <F> before a <D
+;    In these, move the <F>s after the <D (or <Ds) and the <V>s after the Fs
+;    
+; <S>,<F>1344),<D1344> x page break ok?
+; <S>,<D1696>,<F>1696),<D1697>,<F>1697)
+;   Note: <S> for D1697 missing -- added
+;   Thus, no movement of F's is needed.
+; <S>,<D2006>,<F>2006),<V3>2006. ,<D2007>,<F>2007)
+;   <S> for D2007 missing -- added
+; <S>,<D2181>,<F>2181),<D2182>,<F>2182)
+;  <S> for D2182 missing -- added
+; <S>,<D2939>,<F>2939),<D2940>,<F>2940)
+;  <S> for D2940 missing -- added
+; <S>,<D3203>,<F>3203),<D3204>,<F>3204)
+;   <S> for D3204  missing -- added
+;      Note: D3204 is slightly out of alphabetical order
+; <S>,<D3311>,<F>3311),<D3312>,<F>3312)
+;   <S> D3312 missing -- added
+; <S>,<D3584>,<F>3584),<D3585>,<F>3585)
+;  <S> of D3585 missing (part of F3584. add separating blank line)
+; <S>,<D3653>,<F>3653),<D3654>,<F>3654)
+;   <S> of 3654 missing  (part of F3634. add separating blank line)
+; <S>,<D3757>,<F>3757),<D3758>,<F>3758)
+;   <S> for 3758 missing -- added
+; <HS>,<S>,<D3762>,<F>3762),<V3>3762. ,<D3763>,<F>3763)
+;   <S> for 3763 missing -- added
+; <S>,<D4389>,<F>4389),<D4390>,<F>4390)
+;   <S> for 4390 missing -- added
+; <S>,<F>5725),<D5725>
+;   Move F after D  (note page break at end of F.)
+; <HS>,<S>,<D6948>,<F>6948),<D6949>,<F>6949)
+;  <S> for 6949 missing -- added
+; <S>,<D7009>,<F>7009),<D7010>,<F>7010)
+;  <HS> for 7010 missing -- added
+;  <S> for 7010 missing -- added
+;  
+; ----------------------------------------------------------------------------
+; Now, analysis
+; ----------------------------------------------------------------------------
+; boesp_utf8 now has
+; 7431 matches for "<F>" in buffer: boesp_utf8.txt
+;   (exclude '<F> =  Fussnote')
+; 7613 matches for "<D"
+;   (exclude '<D> = Deutsch')
+; (- 7613 7431) 182
+; 7431 matches to "<F>[0-9.]+) " 
+; -------------------------------
+; checkgroup.txt
+; 7431 groups  
+; <D : 7613 matches in 7418 lines
+; <F> : 7431 matches in 7418 lines
+; 
+; (- 7613 7431) 182 There are 182 more '<D' and '<F>'.
+; 159 lines having more than one D  ("<D.*<D")
+; None of the groups has more than one <F>,  But an <F> can be 'compound'
+;  Example: <S>,<D67>,<D68>,<D69>,<F>67.68.69)
+; And 159 lines have compound F:  ("<F>[0-9]+[.][0-9]+")
+;  And these are the same 159 lines
+; 
+; And, in fact in  each line, there are the same number of '<D' strings
+; as there are 'sections' of the compound <F>.
+; 
+; These 159 are cases where, in the pdf, a block of Sanskrit verse precedes
+; N>1 D sections, and there is also a compound footnote
+; with N sections.
+;  Presumably  the block of Sanskrit verse has 2*N lines, but this has not
+; been checked.
+; 
+; Also, it is true (due to my reordering) that in any entry the  <F> group follows all the D groups.
+; -------------------------------------------------------------------
+; dummyF.py
+; For Footnotes of form '<F>X.Y)'  (i.e. compound F),
+; add additional 'dummy' <F> groups  after the F group
+; <F>X) DUMMY F 
+; <F>Y) DUMMY F
+; 
