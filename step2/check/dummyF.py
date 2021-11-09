@@ -1,7 +1,5 @@
 # coding=utf-8
-""" checkgroup.py 
- Each entry is a sequence of 'groups'.
- And each group has an 'identfier'
+""" dummyF.py
 """
 from __future__ import print_function
 import xml.etree.ElementTree as ET
@@ -493,7 +491,7 @@ def has_D(entry):
 
 def generate_entries(lines):
  ngroup = 0
- nentry = 0
+ #nentry = 0
  firstfound = False
  page = '1.1'
  for group in generate_groups(lines):
@@ -509,18 +507,14 @@ def generate_entries(lines):
       page = updatepage(entry,page)  # for next entry
       yield e
       entry = [group] # start a new group
-      nentry = nentry + 1
      else:
       # an S or HS appended to entry without a D-group yet
       entry.append(group)
-    else: # entry is empty, and group[0] starts with S, HS
-     entry.append(group)
    else:
     entry.append(group)
   elif group[0].startswith('<H> Boehtlingk'):
    firstfound = True
    entry = []
-   nentry = nentry + 1
  yield Entry(entry,page)
 
 
@@ -678,60 +672,12 @@ def entries_HS_adjust(entries):
   # The page number for the entry1 should be that for entry
   entry1.page = entry.page  # only line changed
   entries[ientry1] = entry1
-def read_and_clean_lines(filein):
+def read_lines(filein):
  with codecs.open(filein,encoding='utf-8',mode='r') as f:
-  nprob = 0
-  lines = []
-  for line in f:
-   line = line.rstrip('\r\n')
-   # cleaning <>
-   if '<>' in line:
-    nprob = nprob + 1
-    line = line.replace('<>','')
-   # one version had each (non-blank) line end in middle dot,
-   #  and often followed by space.
-   # Remove these in xml
-   line = re.sub(r'· *$','',line)
-   lines.append(line)
+  lines = [x.rstrip('\r\n') for x in f]
  print(len(lines),"lines read from",filein)
- print("remove %s instances of '<>'"% nprob)
  return lines
 
-def check_option(option):
- allowed = ['D','F']
- if option not in allowed:
-  print('ERROR UNKNOWN option:',option)
-  print('known values:',','.join(allowed))
-  exit(1)
-
-def expand_gtype(line,gtype):
- if gtype == 'D':
-  regex = r'<D[0-9]+>'
-  alist = re.findall(regex,line)
- elif gtype == 'F':
-  regex = r'<F>[0-9.]+\)'
-  alist = re.findall(regex,line)
- elif gtype == 'S':
-  regex = r'<S>'
-  alist = re.findall(regex,line)
- elif gtype == 'H':
-  # could be either H (header) or HS
-  regex = r'^(<HS>|<H>)'
-  alist = re.findall(regex,line)
- #elif gtype == 'HS':
- # regex = r'<HS>'
- # alist = re.findall(regex,line)
- elif gtype == 'V':
-  # V1, V2, V3
-  regex = '<V[123]>[0-9]+[.] '
-  alist = re.findall(regex,line)
- else:
-  # unrecognized
-  alist = [gtype+'?']
- ans = ','.join(alist)
- if (gtype != 'D') and (len(alist)!=1):
-  print('multiple anomaly (%s)'%gtype,line)
- return ans
 
 def parse_gtag(gtag):
  gtype = gtag[1]  # gtype = '<X....'
@@ -810,23 +756,101 @@ def checkgroups(entries,fileout):
    f.write(out+'\n')
  print(len(outarr),'groups written to',fileout)
 
-if __name__=="__main__":
- #test()
- filein = sys.argv[1] # boesp_utf8.txt
- fileout = sys.argv[2] # boesp.xml
- xmlroot = 'boesp'
- lines = read_and_clean_lines(filein)
-    
- #head = xml_header(xmlroot)
- entries = list(generate_entries(lines))
- checkgroups(entries,fileout)
- #entries_HS_adjust(entries)
- #body = xml_body(entries,tranin)
- #tail = ['</%s>'%xmlroot]
- #linesout = head + body  + tail
+def markdup(entries,fileout):
+ # Make a dictionary using firstline of
+ n = 0
+ d = {}
+ for ientry,entry in enumerate(entries):
+  groups = entry.groups
+  for igroup,group in enumerate(groups):
+   if entry.tags[igroup] == 'S':
+    n = n + 1
+    firstline = group[0]
+    if firstline not in d:
+     d[firstline] = []
+    d[firstline].append(ientry)
+ firstlines = [firstline for firstline in d if len(d[firstline]) != 1]
+ #for firstline in  firstlines:
+ # print(firstline)
  
- #with codecs.open(fileout,"w","utf-8") as f:
- # for line in linesout:
- #  f.write(line+'\n')
- #statistics(entries)
+ ientry_multiple = [entrylist for entrylist in d.values() if len(entrylist)!=1]
+ outrecs = []
+ for ientries in ientry_multiple:
+  outarr = []
+  Ls_arr = [','.join(entries[ientry].Ls) for ientry in ientries]
+  s = ' ; '.join(Ls_arr)
+  outarr.append('; %s' %s)
+  outrecs.append(outarr)
+ with codecs.open(fileout,"w","utf-8") as f:
+  for outarr in outrecs:
+   for out in outarr:
+    f.write(out+'\n')
+ print('see output in',fileout)
+ print(n,'S groups')
+ print(len(ientry_multiple),'verses appearing more than once')
+ return outrecs
+
+def parse_f(xarr):
+ base = xarr[0]
+ ibase = int(base)
+ ans = [base]
+ for i,x in enumerate(xarr[1:]):
+  n = len(x)
+  val = base[0:-n]+x
+  ans.append(val)
+  ival = int(val)
+  assert (ibase+i+1) == ival
+ return ans
+def addlines(lines):
+ outlines = []
+ inF = False
+ nF = 0
+ for line in lines:
+  if inF:
+   if line.strip() != '': # line within F-group
+    outlines.append(line)
+   else: # empty line at end of F-group
+    outlines.append(line)
+    # now append the extra F blocks
+    fvals = parse_f(rawfvals)
+    for fval in fvals:
+     outlines.append('<F>%s) DUMMY· ' %fval)
+     #outlines.append('<F>%s) · ' %fval)
+     outlines.append(' ')
+    nF = nF + 1
+    inF = False
+  else: # Not in F-block
+   m = re.search(r'^<F>([0-9.]+)\)',line)
+   if m == None:
+    # not the start of an F-block
+    outlines.append(line)
+    continue
+   fparm = m.group(1)
+   rawfvals = fparm.split('.')
+   
+   if len(rawfvals) == 1:
+    outlines.append(line)
+    continue
+   # We are in the first line of a compound F-group
+   outlines.append(line)
+   inF = True
+ assert inF == False
+ print(nF,'compound F-blocks handled')
+ print(len(outlines),'prepared for output')
+ return outlines
+def multiF(lines):
+ d = {}
+ for line in lines:
+  m = re.search(r'<F>[0-9.]+')
+ return d
+if __name__=="__main__":
+ filein = sys.argv[1] # boesp_utf8.txt
+ fileout = sys.argv[2] 
+ 
+ lines = read_lines(filein)
+ outlines = addlines(lines)
+ with codecs.open(fileout,"w","utf-8") as f:
+  for out in outlines:
+   f.write(out+'\n')
+ print(len(outlines),'lines written to',fileout)
  

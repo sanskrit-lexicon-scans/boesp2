@@ -1,0 +1,8 @@
+; step0/change14.txt
+; boesp_14.txt was created by program:
+;  python ../../step2/check/dummyF.py boesp_13.txt boesp_14.txt
+; It adds dummy F-groups after each of the 159 compound F-groups. 
+; After the change, there are 7613 <D groups
+; and 7772 <F> groups.  After excluding the 'compound F-groups), this
+; leave 7613 non-compound F groups --- i.e. Each D-group has exactly 1 F-group.
+
