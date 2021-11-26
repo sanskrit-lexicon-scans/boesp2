@@ -51,6 +51,7 @@ git show a448aa03a4da110b2c3bed0f8e050d7cbb3b9608:step0/boesp-1_ansi.txt > temp.
 ##---------------------------------------------------------
 Find list of extended ASCII.
 python ea.py boesp-1_utf8.txt temp_ea_boesp-1.txt
+python ea.py boesp_utf8.txt temp_ea_boesp.txt
 
 ##---------------------------------------------------------
 boesp4-1+2_ansi.txt
@@ -135,3 +136,51 @@ VIT2HOBA1AN2N2A1 : 2x
 VIT2HORA1AN2N2A1 : 1y
 Z : 2x
 
+; Nov 24, 2021 misc notes in conversation with Thomas.
+; related to integration of boesp4-1 and boesp4-2 into boesp.all_ansi.txt.
+7613 is last verse in volume 3.
+ 7614 - 7865 are verses from boesp-2  (part B)
+   (+ (- 7865 7614) 1)  = 252 verses
+ each has empty D group:  '<D[0-9]+>· '
+ each has a footnote:  '^<F>[0-9]+) '
+ each has a verse:  '<S><lg>'
+   And there are one or more '<l>.*</l>' lines
+ After removing these lines, only blank lines remain.
+There seems to be no need for the '</F4>' ending tag of footnotes
+F4.1C various locations in pdf
+<F4.1> <F4.2>
+<F4.1> 294.
+  FORM:  '<F4.1>-- [0-9]+ ,'   (124)
+         '<F4.1>-- [0-9]+ [.]' (154)
+         '<F4.1>-- [0-9]+ =' (15)
+         <F4.1>-- Spr. 3791, Z. 2. Lies BAHUD. st. NI1TIS4.</F4> (1)
+(+ 124 154 15 1) = 294
+<F4.2> 439
+  FORM:   '<F4.2>-- [0-9]+ [.]' (433)
+          '<F4.2>-- [0-9]+ [,]' (1)
+          '<F4.2>-- [0-9]+ ([0-9]+, [0-9]+)' (4)
+           <F4.2>6390-6392 . PRASAN3GAR. (1)
+</F4>  732  (+ 294 439) (743)
+732 of the lines of form '<F4.[12].>*</F4> $'
+<F4.2>-- 11 . PRASAN3GARATNA1VALI1. 
+empty D
+<h3> Aufrecht
+</p>  vestigial need attention.  No <p> tags are currently used.
+
+
+History of indology. 1914  Digitization of article on Boehtlingk.
+Tubigen professor. Correspondence between Boehtlingk and Roth.
+  700 letters Attempt 2007 2015 2017. JSTOR
+; -----------------------------------------
+11-25-2021.
+1. change 'masculine ordinal indicator' to 'degree sign' (137)
+2. remove '</p>'  (32)
+3. remove '</F4>' ending tags  (used only at end of '<F4.1>' or '<F4.2>' lines.
+   change'</F4>' to '· '  (remove the </F4> closing tag, and insert the
+     conventional 'middledot+space' currently used elsewhere.
+4. Add middle dot to end of line 215 (which had missing </F4>)
+NOW each line (except for the <F4.1C> lines temporarily at the top)
+ and except for the 'explanation lines' at the top either:
+ a) end in '· '  or
+ b) are empty (with one space) '^ $'
+ 
