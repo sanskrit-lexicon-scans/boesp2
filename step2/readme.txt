@@ -1,6 +1,6 @@
 
 step2
-works with all 3 volumes.
+works with all 3 volumes, and also Later volumes 4.1 and 4.2
 
 The starting point is ../step0/boesp_utf8.txt,
 
@@ -12,7 +12,7 @@ This was a 'trick' developed by Thomas so that his changes using Kedit would
 not introduce 'unintentional' changes in lines.
 
 ## Perform various checks.
-See directory check
+See readme directory check
 
 ## These subsequent notes are probably obsolete.
 # ------------------------------------------------------------------
@@ -29,3 +29,6 @@ python /c/xampp/htdocs/cologne/xmlvalidate.py work_boesp_hk.xml ../step0/boesp.d
 # -----------------------------------------------------------------
 rectify lines in <S> groups.
 see slines directory
+Note: the lines for <S> groups from 4.1/2 are formatted differently.
+  These are verses 7614 - 7865.
+

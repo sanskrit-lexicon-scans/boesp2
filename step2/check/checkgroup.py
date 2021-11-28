@@ -4,7 +4,7 @@
  And each group has an 'identfier'
 """
 from __future__ import print_function
-import xml.etree.ElementTree as ET
+#import xml.etree.ElementTree as ET
 import sys, re,codecs
 
 dandas = {'hk':'|','slp1':'.','deva':'।'}
@@ -709,8 +709,13 @@ def expand_gtype(line,gtype):
   regex = r'<D[0-9]+>'
   alist = re.findall(regex,line)
  elif gtype == 'F':
-  regex = r'<F>[0-9.]+\)'
-  alist = re.findall(regex,line)
+  # 11-26-2021. Can be '<F>1234)' or <F4.1> or <F4.2>
+  if line.startswith(('<F4.1>','<F4.2>')):
+   # the verse number format is various. Skip for now
+   alist = [line[0:6]]
+  else:
+   regex = r'<F>[0-9.]+\)'
+   alist = re.findall(regex,line)
  elif gtype == 'S':
   regex = r'<S>'
   alist = re.findall(regex,line)
@@ -742,10 +747,18 @@ def parse_gtag(gtag):
  elif gtype == 'F':
   regex = r'<F>([0-9.]+)\)'
   m = re.search(regex,gtag)
-  num0 = m.group(1)  # could have periods X.Y.Z
-  # just return first
-  nums = num0.split('.')
-  num = nums[0]
+  if m == None:
+   assert gtag in ['<F4.1>','<F4.2>']
+   # 11-25-2021. Currently don't try to parse the verse number,
+   # as the format varies. As with <S>, set num=0
+   num = 0 # Also, <S> tag doesn't have a number
+   # also, reset the 'gtype' from F to gtag
+   gtype = gtag
+  else:
+   num0 = m.group(1)  # could have periods X.Y.Z
+   # just return first
+   nums = num0.split('.')
+   num = nums[0]
  elif gtype == 'S':
   regex = r'<S>'
   num = 0

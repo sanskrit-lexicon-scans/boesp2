@@ -139,7 +139,7 @@ Z : 2x
 ; Nov 24, 2021 misc notes in conversation with Thomas.
 ; related to integration of boesp4-1 and boesp4-2 into boesp.all_ansi.txt.
 7613 is last verse in volume 3.
- 7614 - 7865 are verses from boesp-2  (part B)
+ 7614 - 7865 are verses from boesp-4.2  (part B)
    (+ (- 7865 7614) 1)  = 252 verses
  each has empty D group:  '<D[0-9]+>· '
  each has a footnote:  '^<F>[0-9]+) '

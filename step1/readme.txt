@@ -3,6 +3,8 @@ boesp/step1
 IMPORTANT NOTE:  This work is based on boesp-1_ansi.txt at commit
 8d0fa64a51d72f9c043264dd25d460160066c60e
 
+See boesp/step1a for later work beginning 2021-11-26.
+
 REASON:  The purpose of this transcoding is to prepare various
 transcodings of the Sanskrit verses (S and HS sections) for proof-reading.
 The changes Thomas makes to boesp-1_ansi.txt often introduce new corrections.
