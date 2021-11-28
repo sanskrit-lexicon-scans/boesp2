@@ -1,0 +1,3839 @@
+; Reformat verses with 'long lines'. 
+; Explanation: A typical verse appears on two lines. The first line ends with
+; a danda, and the second line ends with a double danda.
+; However, a fraction (5-10%) of the verses are displayed on 4 lines,
+; with the dandas on 2nd and 4th lines, which are also displayed indented.
+; By a manual process (comparison with pdf), such 'long' verses are
+; converted from a 2-line form to the printed 4-line form.
+; 
+39116 old <S> caNDAlaH kimayaM dvijAtiratha vA zUdro 'tha kiM tApasaH kiM vA tattvanivezapezalamatiryogIzvaraH ko 'pi vA |· 
+39116 new <S> caNDAlaH kimayaM dvijAtiratha vA zUdro 'tha kiM tApasaH · 
+;-----------------
+39117 old ityutpannavikalpajalpamukharaiH saMbhAvyamAnA janairna kruddhAH pathi tuSTamanaso yAnti svayaM yoginaH ||· 
+39117 new kiM vA tattvanivezapezalamatiryogIzvaraH ko 'pi vA |· 
+;-----------------
+39118 old  
+39118 new ityutpannavikalpajalpamukharaiH saMbhAvyamAnA janai- · 
+;-----------------
+39119 old  
+39119 new rna kruddhAH pathi tuSTamanaso yAnti svayaM yoginaH ||· 
+;-----------------
+39445 old <S> candrazcaNDakarAmate mRdugatirvAto 'pi vajrAyate mAlA sUcikulAyate malayajAlepaH sphuliGgAyate |· 
+39445 new <S> candrazcaNDakarAmate mRdugatirvAto 'pi vajrAyate · 
+;-----------------
+39446 old AlokastimirAyate vidhivazAtprAno 'pi bhArAyate hA hanta pramadAviyogasamayaH saMhArakAlAyate ||· 
+39446 new mAlA sUcikulAyate malayajAlepaH sphuliGgAyate |· 
+;-----------------
+39447 old  
+39447 new AlokastimirAyate vidhivazAtprAno 'pi bhArAyate · 
+;-----------------
+39448 old  
+39448 new hA hanta pramadAviyogasamayaH saMhArakAlAyate ||· 
+;-----------------
+39467 old <S> candra svairaM vihara gagane preyasI namravaktrA uccaizcoktiM kuru pika vane maunavRttiryadeSA |· 
+39467 new <S> candra svairaM vihara gagane preyasI namravaktrA · 
+;-----------------
+39468 old nIlAmbhoja prasara sahasA mudritAkSIyamasti yuSmadbhAgyaM phalitamadhunA yadgRhIto 'dya mAnaH ||· 
+39468 new uccaizcoktiM kuru pika vane maunavRttiryadeSA |· 
+;-----------------
+39469 old  
+39469 new nIlAmbhoja prasara sahasA mudritAkSIyamasti · 
+;-----------------
+39470 old  
+39470 new yuSmadbhAgyaM phalitamadhunA yadgRhIto 'dya mAnaH ||· 
+;-----------------
+39518 old <S> candre lAJchanatA himaM himagirau kSAraM jalaM sAgare ruddhAzcandanapAdapA viSadharairambhoruhe kaNTakam |· 
+39518 new <S> candre lAJchanatA himaM himagirau kSAraM jalaM sAgare · 
+;-----------------
+39519 old strIratneSu jarA kuceSu patanaM vidvatsu dAridryatA sarvaM ratnamupadraveNa sahitaM nirvairamekaM yazaH ||· 
+39519 new ruddhAzcandanapAdapA viSadharairambhoruhe kaNTakam |· 
+;-----------------
+39520 old [Seite2.7]· 
+39520 new strIratneSu jarA kuceSu patanaM vidvatsu dAridryatA · 
+;-----------------
+39521 old  
+39521 new sarvaM ratnamupadraveNa sahitaM nirvairamekaM yazaH ||· 
+;-----------------
+39522 old  
+39522 new [Seite2.7]· 
+;-----------------
+39584 old <S> capalahRdaye kiM svAtantryAttathA gRhamAgatazcaraNapatitaH premArdrArdraH priyaH samupekSitaH |· 
+39584 new <S> capalahRdaye kiM svAtantryAttathA gRhamAgata- · 
+;-----------------
+39585 old tadidamadhunA yAvajjIvaM nirastasukhodayA ruditazaraNA durjAtAnAM sahasva ruSAM phalam ||· 
+39585 new zcaraNapatitaH premArdrArdraH priyaH samupekSitaH |· 
+;-----------------
+39586 old  
+39586 new tadidamadhunA yAvajjIvaM nirastasukhodayA · 
+;-----------------
+39587 old  
+39587 new ruditazaraNA durjAtAnAM sahasva ruSAM phalam ||· 
+;-----------------
+39655 old <S> caraNapatanapratyAkhyAnAtprasAdaparAGmukhe nibhRtakitavAcAretyuktvA ruSA paruSIkRte |· 
+39655 new <S> caraNapatanapratyAkhyAnAtprasAdaparAGmukhe · 
+;-----------------
+39656 old vrajati ramaNe niHzvasyoccaiH stanasthitahastayA nayanasalilacchannA dRSTiH sakhISu nivezitA ||· 
+39656 new nibhRtakitavAcAretyuktvA ruSA paruSIkRte |· 
+;-----------------
+39657 old  
+39657 new vrajati ramaNe niHzvasyoccaiH stanasthitahastayA · 
+;-----------------
+39658 old  
+39658 new nayanasalilacchannA dRSTiH sakhISu nivezitA ||· 
+;-----------------
+40226 old <S> cintAmohavinizcalena manasA maunena pAdAnataH pratyAkhyAnaparAGmukhaH priyatamo gantuM pravRtto 'dhunA |· 
+40226 new <S> cintAmohavinizcalena manasA maunena pAdAnataH · 
+;-----------------
+40227 old savrIDairalasairnirantaraluThadbASpAkulairlocanaiH zvAsotkampakucaM nirIkSya suciraM jIvAzayA vAritaH ||· 
+40227 new pratyAkhyAnaparAGmukhaH priyatamo gantuM pravRtto 'dhunA |· 
+;-----------------
+40228 old  
+40228 new savrIDairalasairnirantaraluThadbASpAkulairlocanaiH · 
+;-----------------
+40229 old  
+40229 new zvAsotkampakucaM nirIkSya suciraM jIvAzayA vAritaH ||· 
+;-----------------
+40249 old <S> cintAsaktanimagnamantrisalilaM dUtormizaGkhAkulaM paryantasthitacAranakramakaraM nAgAzvahiMsrAzrayaH |· 
+40249 new <S> cintAsaktanimagnamantrisalilaM dUtormizaGkhAkulaM · 
+;-----------------
+40250 old nAnAvAzakakaGkapakSiruciraM kAyasthasarpAspadaM nItikSuNNataTaM ca rAjabhavanaM hiMsraiH samudrAyate ||· 
+40250 new paryantasthitacAranakramakaraM nAgAzvahiMsrAzrayaH |· 
+;-----------------
+40251 old  
+40251 new nAnAvAzakakaGkapakSiruciraM kAyasthasarpAspadaM · 
+;-----------------
+40252 old  
+40252 new nItikSuNNataTaM ca rAjabhavanaM hiMsraiH samudrAyate ||· 
+;-----------------
+40329 old <S> ciraM dugdho 'naDvAnstanabharatayA gauriti vRthA pariSvaktaH SaNDo yuvatiriti lAvaNyakalitA |· 
+40329 new <S> ciraM dugdho 'naDvAnstanabharatayA gauriti vRthA · 
+;-----------------
+40330 old kRtA vaidUryAzA vitatakiraNe kAcazakale yadAjJAnAsaGgAdavibudhajane sevanaratiH ||· 
+40330 new pariSvaktaH SaNDo yuvatiriti lAvaNyakalitA |· 
+;-----------------
+40331 old  
+40331 new kRtA vaidUryAzA vitatakiraNe kAcazakale · 
+;-----------------
+40332 old  
+40332 new yadAjJAnAsaGgAdavibudhajane sevanaratiH ||· 
+;-----------------
+40351 old <S> ciravirahiNorutkaNThArtizlathIkRtagAtrayornavamiva jagajjAtaM bhUyazcirAdabhinandatoH |· 
+40351 new <S> ciravirahiNorutkaNThArtizlathIkRtagAtrayo- · 
+;-----------------
+40352 old kathamapi dine dIrghe yAte nizAmadhirUDhayoH prasarati kathA bahvI yUnoryathA na tathA ratiH ||· 
+40352 new rnavamiva jagajjAtaM bhUyazcirAdabhinandatoH |· 
+;-----------------
+40353 old  
+40353 new kathamapi dine dIrghe yAte nizAmadhirUDhayoH · 
+;-----------------
+40354 old  
+40354 new prasarati kathA bahvI yUnoryathA na tathA ratiH ||· 
+;-----------------
+40414 old <S> cumbanto gaNDabhittIralakavati mukhe zItkRtAnyAdadhAnA vakSassUtkaJcukeSu stanabharapulakodbhedamApAdayantaH |· 
+40414 new <S> cumbanto gaNDabhittIralakavati mukhe zItkRtAnyAdadhAnA · 
+;-----------------
+40415 old UrUnAkampayantaH pRthujaghanataTAtsraMsayantoM 'zukAni yvaktaM kAntAjanAnAM viTacaritakRtaH zaizirA vAnti vAtAH ||· 
+40415 new vakSassUtkaJcukeSu stanabharapulakodbhedamApAdayantaH |· 
+;-----------------
+40416 old  
+40416 new UrUnAkampayantaH pRthujaghanataTAtsraMsayantoM 'zukAni · 
+;-----------------
+40417 old  
+40417 new yvaktaM kAntAjanAnAM viTacaritakRtaH zaizirA vAnti vAtAH ||· 
+;-----------------
+40442 old <S> cUDottaMsitacArucandrakalikAcaJcacchikhAbhAsvaro lIlAdagdhavilolakAmazalabhaH zreyodazAgre sphuran |· 
+40442 new <S> cUDottaMsitacArucandrakalikAcaJcacchikhAbhAsvaro · 
+;-----------------
+40443 old antaHsphUrjadapAramohatimiraprAgbhAramuccATayaMzcetaHsadmani yoginAM vijayate jJAnapradIpo haraH ||· 
+40443 new lIlAdagdhavilolakAmazalabhaH zreyodazAgre sphuran |· 
+;-----------------
+40444 old  
+40444 new antaHsphUrjadapAramohatimiraprAgbhAramuccATayaM- · 
+;-----------------
+40445 old  
+40445 new zcetaHsadmani yoginAM vijayate jJAnapradIpo haraH ||· 
+;-----------------
+40471 old <S> cetazcintaya mA ramAM sakRdimAmasthAyinImAsthayA bhUpAlabhrukuTIkuTIraviharavyApArapaNyAGganAm |· 
+40471 new <S> cetazcintaya mA ramAM sakRdimAmasthAyinImAsthayA · 
+;-----------------
+40472 old kanthAkaJcukinaH pravizya bhavanadvArANi vArANasIrathyApaGktiSu pANipAtrapatitAM bhikSAmapekSAmahe ||· 
+40472 new bhUpAlabhrukuTIkuTIraviharavyApArapaNyAGganAm |· 
+;-----------------
+40473 old  
+40473 new kanthAkaJcukinaH pravizya bhavanadvArANi vArANasI- · 
+;-----------------
+40474 old  
+40474 new rathyApaGktiSu pANipAtrapatitAM bhikSAmapekSAmahe ||· 
+;-----------------
+40534 old <S> chAyA saMzrayate talaM viTapinAM zrAnteva pAnthaiH samaM mUlaM yAti sarojalasya jaDatA glAneva mInaiH saha |· 
+40534 new <S> chAyA saMzrayate talaM viTapinAM zrAnteva pAnthaiH samaM · 
+;-----------------
+40535 old AcAmatyahimAMzudIdhitirapastapteva lokaiH samaM nidrA garbhagRhaM saha pravizati klAnteva{?} kAntAjanaiH ||· 
+40535 new mUlaM yAti sarojalasya jaDatA glAneva mInaiH saha |· 
+;-----------------
+40536 old  
+40536 new AcAmatyahimAMzudIdhitirapastapteva lokaiH samaM · 
+;-----------------
+40537 old  
+40537 new nidrA garbhagRhaM saha pravizati klAnteva{?} kAntAjanaiH ||· 
+;-----------------
+40559 old <S> chAyAsuptamRgaH zakuntanivahairviSvagviluptacchadaH kITairAvRtakoTaraH kapikulaiH skandhe kRtaprazrayaH |· 
+40559 new <S> chAyAsuptamRgaH zakuntanivahairviSvagviluptacchadaH · 
+;-----------------
+40560 old vizrabdhaM madhupairnipItakusumaH zlAdhyaH sa ekastaruH sarvAGgairbahusattvasaMghasukhado bhUbhArabhUto 'paraH ||· 
+40560 new kITairAvRtakoTaraH kapikulaiH skandhe kRtaprazrayaH |· 
+;-----------------
+40561 old  
+40561 new vizrabdhaM madhupairnipItakusumaH zlAdhyaH sa ekastaruH · 
+;-----------------
+40562 old  
+40562 new sarvAGgairbahusattvasaMghasukhado bhUbhArabhUto 'paraH ||· 
+;-----------------
+40597 old <S> chittvA pAzamapAsya kUTaracanAM bhaGktvA balAdvAgurAM paryantAgnizikhAkalApajaTilAnniHsRtya dUraM vanAt |· 
+40597 new <S> chittvA pAzamapAsya kUTaracanAM bhaGktvA balAdvAgurAM · 
+;-----------------
+40598 old vyAdhAnAM zaragocarAdapi javenotplutya dhAvanmRgaH kUpAntaH patitaH karotu vidhure kiM vA vidhau pauruSam ||· 
+40598 new paryantAgnizikhAkalApajaTilAnniHsRtya dUraM vanAt |· 
+;-----------------
+40599 old  
+40599 new vyAdhAnAM zaragocarAdapi javenotplutya dhAvanmRgaH · 
+;-----------------
+40600 old  
+40600 new kUpAntaH patitaH karotu vidhure kiM vA vidhau pauruSam ||· 
+;-----------------
+40667 old <S> chinno 'pi candanatarurna jahAti gandhaM vRddho 'pi vAraNapatirna jahAti lIlAm |· 
+40667 new <S> chinno 'pi candanatarurna jahAti gandhaM · 
+;-----------------
+40668 old yatrArpito 'pi madhuratAM na jahAti hIkSuH kSINo 'pi na tyajati zIlaguNAnkulInaH ||· 
+40668 new vRddho 'pi vAraNapatirna jahAti lIlAm |· 
+;-----------------
+40669 old  
+40669 new yatrArpito 'pi madhuratAM na jahAti hIkSuH · 
+;-----------------
+40670 old  
+40670 new kSINo 'pi na tyajati zIlaguNAnkulInaH ||· 
+;-----------------
+40710 old <S> chedazcandanacUtacampakavane rakSA karIradrume hiMsA haMsamayUrakokilakule kAkeSu lIlAratiH |· 
+40710 new <S> chedazcandanacUtacampakavane rakSA karIradrume · 
+;-----------------
+40711 old mAtaGgena kharakrayaH samatulA karpUrakArpAsayoreSA yatra vicAraNA guNigaNe dezAya tasmai namaH ||· 
+40711 new hiMsA haMsamayUrakokilakule kAkeSu lIlAratiH |· 
+;-----------------
+40712 old  
+40712 new mAtaGgena kharakrayaH samatulA karpUrakArpAsayo- · 
+;-----------------
+40713 old  
+40713 new reSA yatra vicAraNA guNigaNe dezAya tasmai namaH ||· 
+;-----------------
+40962 old <S> jantUnAmavanaM jinezamahanaM jainAgamAkarNanaM sAdhUnAM namanaM madApanayanaM samyaggurormAnanam |· 
+40962 new <S> jantUnAmavanaM jinezamahanaM jainAgamAkarNanaM · 
+;-----------------
+40963 old mAyAyA hananaM krudhazca zamanaM lobhadrumonmUlanaM cetaHzodhanamindriyasya damanaM yattacchivopAyanam ||· 
+40963 new sAdhUnAM namanaM madApanayanaM samyaggurormAnanam |· 
+;-----------------
+40964 old  
+40964 new mAyAyA hananaM krudhazca zamanaM lobhadrumonmUlanaM · 
+;-----------------
+40965 old  
+40965 new cetaHzodhanamindriyasya damanaM yattacchivopAyanam ||· 
+;-----------------
+41313 old <S> jarAgrastaM rUpaM hasitalalitotsAharahitaM ziraH zuklIbhUtaM timirapaTalairakSi pihitam |· 
+41313 new <S> jarAgrastaM rUpaM hasitalalitotsAharahitaM · 
+;-----------------
+41314 old zanairyaSTyutthAnaM gatirapi ca mandAkulapadA samIpastho mRtyurvilasati na cecchA viramati ||· 
+41314 new ziraH zuklIbhUtaM timirapaTalairakSi pihitam |· 
+;-----------------
+41315 old  
+41315 new zanairyaSTyutthAnaM gatirapi ca mandAkulapadA · 
+;-----------------
+41316 old  
+41316 new samIpastho mRtyurvilasati na cecchA viramati ||· 
+;-----------------
+41728 old <S> jADyaM hrImati gaNyate vratarucau dambhaH zucau kaituvaM zUre nirghRNatA munau vimatitA dainyaM priyAlApini |· 
+41728 new <S> jADyaM hrImati gaNyate vratarucau dambhaH zucau kaituvaM · 
+;-----------------
+41729 old tejasvinyavaliptatA mukharatA vaktaryazaktiH sthire tatko nAma guNo bhavetsuguNinAM yo durjanairnAGkitaH ||· 
+41729 new zUre nirghRNatA munau vimatitA dainyaM priyAlApini |· 
+;-----------------
+41730 old  
+41730 new tejasvinyavaliptatA mukharatA vaktaryazaktiH sthire · 
+;-----------------
+41731 old  
+41731 new tatko nAma guNo bhavetsuguNinAM yo durjanairnAGkitaH ||· 
+;-----------------
+41788 old <S> jAtaH kUrmaH sa ekaH pRthu bhuvanabharAyArpitaM yena pRSThaM zlAdhyaM janma dhruvasya bhramati niyamitaM yatra tejasvi cakram |· 
+41788 new <S> jAtaH kUrmaH sa ekaH pRthu bhuvanabharAyArpitaM yena pRSThaM · 
+;-----------------
+41789 old saMjAtavyarthapakSAH parahitakaraNenopariSTAnna cAdho brahmANDodumbarAntarmazakavadapare jantavo jAtanaSTAH ||· 
+41789 new zlAdhyaM janma dhruvasya bhramati niyamitaM yatra tejasvi cakram |· 
+;-----------------
+41790 old  
+41790 new saMjAtavyarthapakSAH parahitakaraNenopariSTAnna cAdho · 
+;-----------------
+41791 old  
+41791 new brahmANDodumbarAntarmazakavadapare jantavo jAtanaSTAH ||· 
+;-----------------
+41926 old <S> jAtaH sUryakule pitA dazarathaH kSauNIbhujAmagraNIH sItA satyaparAyaNA praNayinI yasyAnujo lakSmaNaH |· 
+41926 new <S> jAtaH sUryakule pitA dazarathaH kSauNIbhujAmagraNIH · 
+;-----------------
+41927 old dordaNDena samo na cAsti bhuvane pratyakSaviSNuH svayaM rAmo yena viDambito 'pi vidhinA tenApare kA kathA ||· 
+41927 new sItA satyaparAyaNA praNayinI yasyAnujo lakSmaNaH |· 
+;-----------------
+41928 old  
+41928 new dordaNDena samo na cAsti bhuvane pratyakSaviSNuH svayaM · 
+;-----------------
+41929 old  
+41929 new rAmo yena viDambito 'pi vidhinA tenApare kA kathA ||· 
+;-----------------
+41956 old <S> jAtA notkalikA stanau na lulitau gAtraM na romAJcitaM vaktraM svedakaNAcitaM na sahasA yAvacchaThenAmunA |· 
+41956 new <S> jAtA notkalikA stanau na lulitau gAtraM na romAJcitaM · 
+;-----------------
+41957 old dRSTenaiva mano hRtaM dhRtimuSA prANezvareNAdya me tatkenApi nirUpya mAnanipuNe mAnaH samAdhIyatAm ||· 
+41957 new vaktraM svedakaNAcitaM na sahasA yAvacchaThenAmunA |· 
+;-----------------
+41958 old  
+41958 new dRSTenaiva mano hRtaM dhRtimuSA prANezvareNAdya me · 
+;-----------------
+41959 old  
+41959 new tatkenApi nirUpya mAnanipuNe mAnaH samAdhIyatAm ||· 
+;-----------------
+42017 old <S> jAtiryAtu rasAtalaM guNagaNastasyApyadho gacchatu zIlaM zailataTAtpatatvabhijanaH saMdahyatAM vahninA |· 
+42017 new <S> jAtiryAtu rasAtalaM guNagaNastasyApyadho gacchatu · 
+;-----------------
+42018 old zaurye vairiNi vajramAzu nipatatvartho 'stu naH kevalaM yenaikena vinA guNAstRNalavaprAyAH samastA ime ||· 
+42018 new zIlaM zailataTAtpatatvabhijanaH saMdahyatAM vahninA |· 
+;-----------------
+42019 old  
+42019 new zaurye vairiNi vajramAzu nipatatvartho 'stu naH kevalaM · 
+;-----------------
+42020 old  
+42020 new yenaikena vinA guNAstRNalavaprAyAH samastA ime ||· 
+;-----------------
+42096 old <S> jAtyandhAya ca durmukhAya ca jarAjIrNAkhilAGgAya ca grAmINAya ca duSkulAya ca galatkuSThAbhibhUtAya ca |· 
+42096 new <S> jAtyandhAya ca durmukhAya ca jarAjIrNAkhilAGgAya ca · 
+;-----------------
+42097 old yacchantISu manoharaM nijavapurlakSmIlavazraddhayA yaNyastrISu vivekakalpalatikAzastrISu rajyeta kaH ||· 
+42097 new grAmINAya ca duSkulAya ca galatkuSThAbhibhUtAya ca |· 
+;-----------------
+42098 old  
+42098 new yacchantISu manoharaM nijavapurlakSmIlavazraddhayA · 
+;-----------------
+42099 old  
+42099 new yaNyastrISu vivekakalpalatikAzastrISu rajyeta kaH ||· 
+;-----------------
+42254 old <S> jAnAmi kSaNabhaGguraM jagadidaM jAnAmi tucchaM sukhaM jAnAmi pramadAsu ratnamakhilaM svArthaikaniSThaM sadA |· 
+42254 new <S> jAnAmi kSaNabhaGguraM jagadidaM jAnAmi tucchaM sukhaM · 
+;-----------------
+42255 old jAnAmi sphuritAciradyutisamaM visphUrjitaM saMpadAM no jAnAmi tathApi kaH punarasau mohasya heturmama ||· 
+42255 new jAnAmi pramadAsu ratnamakhilaM svArthaikaniSThaM sadA |· 
+;-----------------
+42256 old  
+42256 new jAnAmi sphuritAciradyutisamaM visphUrjitaM saMpadAM · 
+;-----------------
+42257 old  
+42257 new no jAnAmi tathApi kaH punarasau mohasya heturmama ||· 
+;-----------------
+42349 old <S> jAne kopaparAGmukhI priyatamA svapne 'dya dRSTA mayA mA mAM saMspRza pANineti rudatI gantaM pravRttA tataH |· 
+42349 new <S> jAne kopaparAGmukhI priyatamA svapne 'dya dRSTA mayA · 
+;-----------------
+42350 old no yAvatparirudhya cATukazatairAzvAsayAmi priyAM bhrAtastAvadahaM zaThena vidhinA nidrAdaridrIkRtaH ||· 
+42350 new mA mAM saMspRza pANineti rudatI gantaM pravRttA tataH |· 
+;-----------------
+42351 old  
+42351 new no yAvatparirudhya cATukazatairAzvAsayAmi priyAM · 
+;-----------------
+42352 old  
+42352 new bhrAtastAvadahaM zaThena vidhinA nidrAdaridrIkRtaH ||· 
+;-----------------
+42611 old <S> jihve locana nAsike zravaNa he tvaGmAnasa zrUyatAM sarvebhyo 'stu namaH kRtAJjalirahaM saprazrayaM prArthaye |· 
+42611 new <S> jihve locana nAsike zravaNa he tvaGmAnasa zrUyatAM · 
+;-----------------
+42612 old yuSmAkaM yadi saMmataM tadadhunA nAtmAnamicchAmyahaM hotuM bhUmibhujAM nikAradahanajvAlAkarAle gRhe ||· 
+42612 new sarvebhyo 'stu namaH kRtAJjalirahaM saprazrayaM prArthaye |· 
+;-----------------
+42613 old  
+42613 new yuSmAkaM yadi saMmataM tadadhunA nAtmAnamicchAmyahaM · 
+;-----------------
+42614 old  
+42614 new hotuM bhUmibhujAM nikAradahanajvAlAkarAle gRhe ||· 
+;-----------------
+42676 old <S> jIrNA eva manorathAH svahRdaye yAtaM ca tadyauvanaM hantAGgeSu guNAzca vandhyaphalatAM prAptA tuNajJairvinA |· 
+42676 new <S> jIrNA eva manorathAH svahRdaye yAtaM ca tadyauvanaM · 
+;-----------------
+42677 old kiM yuktaM sahasAbhyupaiti balavAnkAlaH kRtAnto 'kSamI na dhyAtaM madanAntakAGghriyugalaM muktestu nAnyA gatiH ||· 
+42677 new hantAGgeSu guNAzca vandhyaphalatAM prAptA tuNajJairvinA |· 
+;-----------------
+42678 old  
+42678 new kiM yuktaM sahasAbhyupaiti balavAnkAlaH kRtAnto 'kSam · 
+;-----------------
+42679 old  
+42679 new I na dhyAtaM madanAntakAGghriyugalaM muktestu nAnyA gatiH ||· 
+;-----------------
+42713 old <S> jIrNA kanthA tataH kiM sitamamalapaTaM paTTavAstraM tataH kimekA bhAryA tataH kiM bahuguNaguNitA koTirekA tataH kim |· 
+42713 new <S> jIrNA kanthA tataH kiM sitamamalapaTaM paTTavAstraM tataH ki- · 
+;-----------------
+42714 old ekaH zrAntastataH kiM karituragavarairAvRto vA tataH kiM bhaktaM bhuktaM tataH kiM kadazanamatha vA vAsarAnte tataH kim ||· 
+42714 new mekA bhAryA tataH kiM bahuguNaguNitA koTirekA tataH kim |· 
+;-----------------
+42715 old  
+42715 new ekaH zrAntastataH kiM karituragavarairAvRto vA tataH kiM · 
+;-----------------
+42716 old  
+42716 new bhaktaM bhuktaM tataH kiM kadazanamatha vA vAsarAnte tataH kim ||· 
+;-----------------
+42981 old <S> jaino dharmaH pracuravibhavaH saMgatiH sAdhulokairvidvadgoSThI vacanapaTutA kauzalaM sarvazAstre |· 
+42981 new <S> jaino dharmaH pracuravibhavaH saMgatiH sAdhulokai- · 
+;-----------------
+42982 old sAdhvI ca strI caraNakamalopAsanaM sadgurUNAM zuddhaM zIlaM mativimalatA prApyate nAlpapuNyaiH ||· 
+42982 new rvidvadgoSThI vacanapaTutA kauzalaM sarvazAstre |· 
+;-----------------
+42983 old  
+42983 new sAdhvI ca strI caraNakamalopAsanaM sadgurUNAM · 
+;-----------------
+42984 old  
+42984 new zuddhaM zIlaM mativimalatA prApyate nAlpapuNyaiH ||· 
+;-----------------
+43149 old <S> jJAnaM syAtkumatAndhakArataraNirjJAnaM jagallocanaM jJAnaM tItitaraMgiNIkulagirirjJAnaM kaSAyApaham |· 
+43149 new <S> jJAnaM syAtkumatAndhakArataraNirjJAnaM jagallocanaM · 
+;-----------------
+43150 old jJAnaM nirvRtivazyamantramamalaM jJAnaM manaHpAvanaM jJAnaM svargagatiprayANapaTahaM jJAnaM nidAnaM zriyaH ||· 
+43150 new jJAnaM tItitaraMgiNIkulagirirjJAnaM kaSAyApaham |· 
+;-----------------
+43151 old  
+43151 new jJAnaM nirvRtivazyamantramamalaM jJAnaM manaHpAvanaM · 
+;-----------------
+43152 old  
+43152 new jJAnaM svargagatiprayANapaTahaM jJAnaM nidAnaM zriyaH ||· 
+;-----------------
+43446 old <S> jhaTiti praviza gehaM mA bahistiSTha kAnte grahaNasamayavelA vartate zItarazmeH |· 
+43446 new <S> jhaTiti praviza gehaM mA bahistiSTha kAnte · 
+;-----------------
+43447 old api suvimalakAntiM vIkSya nUnaM sa rAhurgrasati tava mukhenduM pUrNacandraM vihAya ||· 
+43447 new grahaNasamayavelA vartate zItarazmeH |· 
+;-----------------
+43448 old  
+43448 new api suvimalakAntiM vIkSya nUnaM sa rAhu- · 
+;-----------------
+43449 old  
+43449 new rgrasati tava mukhenduM pUrNacandraM vihAya ||· 
+;-----------------
+43552 old <S> taDinmAlAlolaM prativiratidattAndhatamasaH bhave saukhyaM hitvA zamasukhamupAdeyamanagham |· 
+43552 new <S> taDinmAlAlolaM prativiratidattAndhatamasaM · 
+;-----------------
+43553 old iti vyaktodgAraM caTulavacasaH zUnyamanaso vayaM vItavrIDAH zuka iva paThAmaH paramamI ||· 
+43553 new bhave saukhyaM hitvA zamasukhamupAdeyamanagham |· 
+;-----------------
+43554 old  
+43554 new iti vyaktodgAraM caTulavacasaH zUnyamanaso · 
+;-----------------
+43555 old  
+43555 new vayaM vItavrIDAH zuka iva paThAmaH paramamI ||· 
+;-----------------
+43651 old <S> tathA bhUbhRnmatsyA draviNakaluSAmbhaHkRtatRSaH sthitiM svAmujjha nto vidadhati kumArgAnusaraNam |· 
+43651 new <S> tathA bhUbhRnmatsyA draviNakaluSAmbhaHkRtatRSaH · 
+;-----------------
+43652 old kriyante kAntAnnAnugavikRtakaivartanivahairyathA hyete 'kasmAtsthiranirayajAlapraNayinaH ||· 
+43652 new sthitiM svAmujjha nto vidadhati kumArgAnusaraNam |· 
+;-----------------
+43653 old  
+43653 new kriyante kAntAnnAnugavikRtakaivartanivahai- · 
+;-----------------
+43654 old  
+43654 new ryathA hyete 'kasmAtsthiranirayajAlapraNayinaH ||· 
+;-----------------
+43781 old <S> tadvaktrAbhimukhaM mukhaM vinamitaM dRSTiH kRtA pAdayostasyAlApakutUhalatare zrotre niruddhe mayA |· 
+43781 new <S> tadvaktrAbhimukhaM mukhaM vinamitaM dRSTiH kRtA pAdayo- · 
+;-----------------
+43782 old pANibhyAM ca tiraskRtaH sapulakaH svedodgamo gaNDayoH sakhyaH kiM karavANi yAnti zatadhA yatkaJcuke saMdhayaH ||· 
+43782 new stasyAlApakutUhalatare zrotre niruddhe mayA |· 
+;-----------------
+43783 old [Seite2.55]· 
+43783 new pANibhyAM ca tiraskRtaH sapulakaH svedodgamo gaNDayoH · 
+;-----------------
+43784 old  
+43784 new sakhyaH kiM karavANi yAnti zatadhA yatkaJcuke saMdhayaH ||· 
+;-----------------
+43785 old  
+43785 new [Seite2.55]· 
+;-----------------
+43866 old <S> tanvaGgyA gurusaMnidhau nayanajaM yadvAri saMstambhitaM tenAntargalitena manmathazikhI sikto 'nuSaGgodbhavaH |· 
+43866 new <S> tanvaGgyA gurusaMnidhau nayanajaM yadvAri saMstambhitaM · 
+;-----------------
+43867 old manye tasya nirasyamAnakiraNasyaiSA sukhenodgatA zvAsAmodasamAkulAlinikaravyAjena dhUmAvaliH ||· 
+43867 new tenAntargalitena manmathazikhI sikto 'nuSaGgodbhavaH |· 
+;-----------------
+43868 old  
+43868 new manye tasya nirasyamAnakiraNasyaiSA sukhenodgatA · 
+;-----------------
+43869 old  
+43869 new zvAsAmodasamAkulAlinikaravyAjena dhUmAvaliH ||· 
+;-----------------
+43958 old <S> tapasyantaH santaH kimadhinivasAmaH suranadIM guNodArAndArAnuta paricarAmaH savinayam |· 
+43958 new <S> tapasyantaH santaH kimadhinivasAmaH suranadIM · 
+;-----------------
+43959 old pibAmaH zAstraughAnuta vividhakAvyAmRtarasAnna vidmaH katipayanimeSAyuSi jane ||· 
+43959 new guNodArAndArAnuta paricarAmaH savinayam |· 
+;-----------------
+43960 old [Seite2.57]· 
+43960 new pibAmaH zAstraughAnuta vividhakAvyAmRtarasA- · 
+;-----------------
+43961 old  
+43961 new nna vidmaH katipayanimeSAyuSi jane ||· 
+;-----------------
+43962 old  
+43962 new [Seite2.57]· 
+;-----------------
+44000 old <S> tapaHsImA muktiH sakalaguNasImA vitaraNaM kalAsImA kAvyaM jananasukhasImA suvadanA |· 
+44000 new <S> tapaHsImA muktiH sakalaguNasImA vitaraNaM · 
+;-----------------
+44001 old bhiyaH sImA mRtyuH sukRtakulasImAzritabhRtiH kSudhAsImAnnAntaH zrutimukharasImA harikathA ||· 
+44001 new kalAsImA kAvyaM jananasukhasImA suvadanA |· 
+;-----------------
+44002 old  
+44002 new bhiyaH sImA mRtyuH sukRtakulasImAzritabhRtiH · 
+;-----------------
+44003 old  
+44003 new kSudhAsImAnnAntaH zrutimukharasImA harikathA ||· 
+;-----------------
+44039 old <S> tapte mahAvirahavahnizikhAvalIbhirApANDurastanataTe hRdaye priyAyAH |· 
+44039 new <S> tapte mahAvirahavahnizikhAvalIbhi- · 
+;-----------------
+44040 old rathyAlivIkSaNanivezitaloladRSTernUnaM chanacchaniti bASyakaNAH patanti ||· 
+44040 new rApANDurastanataTe hRdaye priyAyAH |· 
+;-----------------
+44041 old [Seite2.58]· 
+44041 new rathyAlivIkSaNanivezitaloladRSTe- · 
+;-----------------
+44042 old  
+44042 new rnUnaM chanacchaniti bASyakaNAH patanti ||· 
+;-----------------
+44043 old  
+44043 new [Seite2.58]· 
+;-----------------
+44116 old <S> taruNimasamArambhe tasyAH zarIrasarovaraM sarabhasa manohaMsa zrImanprayAsi kathaM punaH |· 
+44116 new <S> taruNimasamArambhe tasyAH zarIrasarovaraM · 
+;-----------------
+44117 old zravaNalatikApAzau pArzve prasAritapAtitau hatavidhivazAdbandhAyAndho na pazyati kiM bhavAn ||· 
+44117 new sarabhasa manohaMsa zrImanprayAsi kathaM punaH |· 
+;-----------------
+44118 old  
+44118 new zravaNalatikApAzau pArzve prasAritapAtitau · 
+;-----------------
+44119 old  
+44119 new hatavidhivazAdbandhAyAndho na pazyati kiM bhavAn ||· 
+;-----------------
+44577 old <S> tasyAH sAndravilepanastanataTaprazleSamudrAGkitaM kiM vakSazcaraNanativyatikaravyAjena gopAyyate |· 
+44577 new <S> tasyAH sAndravilepanastanataTaprazleSamudrAGkitaM · 
+;-----------------
+44578 old ityukte kva tadityudIrya sahasA tatsaMpramArSTuM mayA sAzliSTA rabhasena tatsukhavazAttanvyApi tadvismRtam ||· 
+44578 new kiM vakSazcaraNanativyatikaravyAjena gopAyyate |· 
+;-----------------
+44579 old  
+44579 new ityukte kva tadityudIrya sahasA tatsaMpramArSTuM mayA · 
+;-----------------
+44580 old  
+44580 new sAzliSTA rabhasena tatsukhavazAttanvyApi tadvismRtam ||· 
+;-----------------
+44696 old <S> tApo nApagatastRSA na ca kRzA dhautA na dhUlI tanorna svacchandamakAri kandakavalaH kA nAma kelIkathA |· 
+44696 new <S> tApo nApagatastRSA na ca kRzA dhautA na dhUlI tano- · 
+;-----------------
+44697 old dUrotkSiptakareNa hanta kariNA spRSTA navA padminI prArabdho madhupairakAraNamaho jhaMkArakolAhalaH ||· 
+44697 new rna svacchandamakAri kandakavalaH kA nAma kelIkathA |· 
+;-----------------
+44698 old  
+44698 new dUrotkSiptakareNa hanta kariNA spRSTA navA padminI · 
+;-----------------
+44699 old  
+44699 new prArabdho madhupairakAraNamaho jhaMkArakolAhalaH ||· 
+;-----------------
+44740 old <S> tAmbUlaM kaTu tiktamuSNamadhuraM kSAraM kaSAyAnvitaM vAtaghnaM kaphanAzanaM kRmiharaM durgandhanirnAzanam |· 
+44740 new <S> tAmbUlaM kaTu tiktamuSNamadhuraM kSAraM kaSAyAnvitaM · 
+;-----------------
+44741 old vakttrasyAbharaNaM vizuddhikaraNaM kAmAgnisaMdIpanaM tAmbUlasya sakhe trayodaza guNAH svarge 'pi te durlabhAH ||· 
+44741 new vAtaghnaM kaphanAzanaM kRmiharaM durgandhanirnAzanam |· 
+;-----------------
+44742 old  
+44742 new vakttrasyAbharaNaM vizuddhikaraNaM kAmAgnisaMdIpanaM · 
+;-----------------
+44743 old  
+44743 new tAmbUlasya sakhe trayodaza guNAH svarge 'pi te durlabhAH ||· 
+;-----------------
+44781 old <S> tAvaccandrabalaM tato grahabalaM tArAbalaM bhUbalaM tAvadrogaviyogamantramahimA tAvatkRtaM pauruSam |· 
+44781 new <S> tAvaccandrabalaM tato grahabalaM tArAbalaM bhUbalaM · 
+;-----------------
+44782 old tAvadvAJchitamartha siddhisahitaM tAvajjanaH sajjano yAvatpuNyamidaM nRNAM vijayate puNyakSayAtkSIyate ||· 
+44782 new tAvadrogaviyogamantramahimA tAvatkRtaM pauruSam |· 
+;-----------------
+44783 old  
+44783 new tAvadvAJchitamartha siddhisahitaM tAvajjanaH sajjano · 
+;-----------------
+44784 old  
+44784 new yAvatpuNyamidaM nRNAM vijayate puNyakSayAtkSIyate ||· 
+;-----------------
+44851 old <S> tAvatsarvatuNAlayaH paTumatiH sAdhuH satAM vallabhaH zUraH saccaritaH kalaGkavikalaH prAjJaH kalAjJaH kaviH |· 
+44851 new <S> tAvatsarvatuNAlayaH paTumatiH sAdhuH satAM vallabhaH · 
+;-----------------
+44852 old dakSo dharmarataH kRtI kuzalavAkprAptaprabhAvaH prabhuryAvanniSThuravajrapAtasadRzaM dehIti no bhASate ||· 
+44852 new zUraH saccaritaH kalaGkavikalaH prAjJaH kalAjJaH kaviH |· 
+;-----------------
+44853 old  
+44853 new dakSo dharmarataH kRtI kuzalavAkprAptaprabhAvaH prabhu- · 
+;-----------------
+44854 old  
+44854 new ryAvanniSThuravajrapAtasadRzaM dehIti no bhASate ||· 
+;-----------------
+45314 old <S> tIkSNAdudvijate mRdau paribhavatrAsAnna saMtiSThate |· 
+45314 new <S> tIkSNAdudvijate mRdau paribhavatrAsAnna saMtiSThate · 
+;-----------------
+45316 old zUrebhyo 'pyadhikaM bibhetyupahasatyekAntabhIrUnaho zrIrlabdhaprasareva vezavanitA duHkhopacaryA bhRzam ||· 
+45316 new zUrebhyo 'pyadhikaM bibhetyupahasatyekAntabhIrUnaho · 
+;-----------------
+45317 old  
+45317 new zrIrlabdhaprasareva vezavanitA duHkhopacaryA bhRzam ||· 
+;-----------------
+45484 old <S> tuGgaM vezma sutAH satAmabhimatAH saMkhyAtigAH saMpadaH kalyANI dayitA vayazca navamityajJAnamUDho janaH |· 
+45484 new <S> tuGgaM vezma sutAH satAmabhimatAH saMkhyAtigAH saMpadaH · 
+;-----------------
+45485 old matvA vizvamanazvaraM nivizate saMsArakAragRhe saMdRzya kSaNabhaGguraM tadakhilaM dhanyastu saMnyasyati ||· 
+45485 new kalyANI dayitA vayazca navamityajJAnamUDho janaH |· 
+;-----------------
+45486 old  
+45486 new matvA vizvamanazvaraM nivizate saMsArakAragRhe · 
+;-----------------
+45487 old  
+45487 new saMdRzya kSaNabhaGguraM tadakhilaM dhanyastu saMnyasyati ||· 
+;-----------------
+45540 old <S> turagazatasahasraM gogajAnAM ca lakSaM kanakarajatapAtraM medinoM sAgarAntAm |· 
+45540 new <S> turagazatasahasraM gogajAnAM ca lakSaM · 
+;-----------------
+45541 old vimalakulavadhUnAM koTikanyAzca dadyAnnahi nahi samametairannadAnaM pradhAnam ||· 
+45541 new kanakarajatapAtraM medinoM sAgarAntAm |· 
+;-----------------
+45542 old  
+45542 new vimalakulavadhUnAM koTikanyAzca dadyA- · 
+;-----------------
+45543 old  
+45543 new nnahi nahi samametairannadAnaM pradhAnam ||· 
+;-----------------
+45819 old <S> tRSA zuSyatyAsye pibati salilaM svAdu surabhi kSudhArtaH saJchAlInkavalayati mAMsAdikalitAn |· 
+45819 new <S> tRSA zuSyatyAsye pibati salilaM svAdu surabhi · 
+;-----------------
+45820 old pradIpte kAmagnau sudRDhataramAzliSyati vadhUM pratikAro vyAdheH sukhamiti viparyasyati janaH ||· 
+45820 new kSudhArtaH saJchAlInkavalayati mAMsAdikalitAn |· 
+;-----------------
+45821 old  
+45821 new pradIpte kAmagnau sudRDhataramAzliSyati vadhUM · 
+;-----------------
+45822 old  
+45822 new pratikAro vyAdheH sukhamiti viparyasyati janaH ||· 
+;-----------------
+45859 old <S> tRSNAM chindhi bhaja kSamAM jahi madaM pApe ratiM mA kRthAH satyaM brUhyanuyAhi sAdhupadavIM sevasva vidvajjanAn |· 
+45859 new <S> tRSNAM chindhi bhaja kSamAM jahi madaM pApe ratiM mA kRthAH · 
+;-----------------
+45860 old mAnyAnmAnaya vidviSo 'pyanunaya pracchAdaya svAnguNAnkIrtiM pAlaya duHkhite kuru dayAmetatsatAM ceSTitam ||· 
+45860 new satyaM brUhyanuyAhi sAdhupadavIM sevasva vidvajjanAn |· 
+;-----------------
+45861 old  
+45861 new mAnyAnmAnaya vidviSo 'pyanunaya pracchAdaya svAnguNA- · 
+;-----------------
+45862 old  
+45862 new nkIrtiM pAlaya duHkhite kuru dayAmetatsatAM ceSTitam ||· 
+;-----------------
+46010 old <S> te tIkSNadurjananikArazarairna bhinnA dhIrAsta eva zamasaukhyabhujasta eva |· 
+46010 new <S> te tIkSNadurjananikArazarairna bhinnA · 
+;-----------------
+46011 old sImantinIbhujalatAgahanaM vyadasya ye 'vasthitAH zamaphaleSu tapovaneSu ||· 
+46011 new dhIrAsta eva zamasaukhyabhujasta eva |· 
+;-----------------
+46012 old  
+46012 new sImantinIbhujalatAgahanaM vyadasya · 
+;-----------------
+46013 old  
+46013 new ye 'vasthitAH zamaphaleSu tapovaneSu ||· 
+;-----------------
+46034 old <S> te dRSTimAtrapatitA api kasya nAtra kSobhAya pakSmaladRzAmalakAH khalAzca |· 
+46034 new <S> te dRSTimAtrapatitA api kasya nAtra · 
+;-----------------
+46035 old nIcAH sadaiva savilAsamalIkalagnA ye kAlatAM kuTilatAmiva na tyajanti ||· 
+46035 new kSobhAya pakSmaladRzAmalakAH khalAzca |· 
+;-----------------
+46036 old  
+46036 new nIcAH sadaiva savilAsamalIkalagnA · 
+;-----------------
+46037 old  
+46037 new ye kAlatAM kuTilatAmiva na tyajanti ||· 
+;-----------------
+46204 old <S> toyeneva saraH zriyeva visutA seneva susvAminA jIveneva kalevaraM jaladharazreNIva vRSTizriyA |· 
+46204 new <S> toyeneva saraH zriyeva visutA seneva susvAminA · 
+;-----------------
+46205 old prAsAdastridazArcayeva sarasatveneva kAvyaM priyA premNeva pratibhAsate bhuvi yuto dharmeNa jantustathA ||· 
+46205 new jIveneva kalevaraM jaladharazreNIva vRSTizriyA |· 
+;-----------------
+46206 old  
+46206 new prAsAdastridazArcayeva sarasatveneva kAvyaM priyA · 
+;-----------------
+46207 old  
+46207 new premNeva pratibhAsate bhuvi yuto dharmeNa jantustathA ||· 
+;-----------------
+46506 old <S> tyAgo guNo guNazatAbhyadhiko mato me vidyApi bhUSayati taM yadi kiM bravImi |· 
+46506 new <S> tyAgo guNo guNazatAbhyadhiko mato me · 
+;-----------------
+46507 old zauryaM ca nAma yadi tatra namo 'stu tasmai tacca trayaM na ca yadIrSyati citrametat ||· 
+46507 new vidyApi bhUSayati taM yadi kiM bravImi |· 
+;-----------------
+46508 old  
+46508 new zauryaM ca nAma yadi tatra namo 'stu tasmai · 
+;-----------------
+46509 old  
+46509 new tacca trayaM na ca yadIrSyati citrametat ||· 
+;-----------------
+46526 old <S> tyAjyaM sukhaM viSayasaMgamajanma puMsAM duHkhopasRSTamiti mUrkhacicAraNaiSA |· 
+46526 new <S> tyAjyaM sukhaM viSayasaMgamajanma puMsAM · 
+;-----------------
+46527 old vrIhIJjihAsati sitottamataNDulADhyAnko nAma bhostupakaNopahitAnhitArthI ||· 
+46527 new duHkhopasRSTamiti mUrkhacicAraNaiSA |· 
+;-----------------
+46528 old  
+46528 new vrIhIJjihAsati sitottamataNDulADhyA- · 
+;-----------------
+46529 old  
+46529 new nko nAma bhostupakaNopahitAnhitArthI ||· 
+;-----------------
+46675 old <S> trilokezaH zarGgI zabarazaralakSyatvamagamadvidhAtA lokAnAmalabhata ziraHkRntanavidhim |· 
+46675 new <S> trilokezaH zarGgI zabarazaralakSyatvamagama- · 
+;-----------------
+46676 old prayAtau tau rAhordinakarazazAGkau kavalatAM prabhurnagnaH zaMbhuH zirasi likhitaM laGghayati kaH ||· 
+46676 new dvidhAtA lokAnAmalabhata ziraHkRntanavidhim |· 
+;-----------------
+46677 old  
+46677 new prayAtau tau rAhordinakarazazAGkau kavalatAM · 
+;-----------------
+46678 old  
+46678 new prabhurnagnaH zaMbhuH zirasi likhitaM laGghayati kaH ||· 
+;-----------------
+46863 old <S> tvaM rAjA vayamapyupAsitaguruprajJAbhimAnonnatAH khyAtastvaM vibhavairyazAMsi kavayo dikSu pratanvanti naH |· 
+46863 new <S> tvaM rAjA vayamapyupAsitaguruprajJAbhimAnonnatAH · 
+;-----------------
+46864 old itthaM mAnada nAtidUramubhayorapyAvayorantaraM yadyasmAsu parAGmukho 'si vayamapyekAntato niHspRhAH ||· 
+46864 new khyAtastvaM vibhavairyazAMsi kavayo dikSu pratanvanti naH |· 
+;-----------------
+46865 old  
+46865 new itthaM mAnada nAtidUramubhayorapyAvayorantaraM · 
+;-----------------
+46866 old  
+46866 new yadyasmAsu parAGmukho 'si vayamapyekAntato niHspRhAH ||· 
+;-----------------
+46896 old <S> tvaM cetsaMcarase vRSeNa laghutA kA nAma digdantinAM vyAlaiH kaGkaNabhUSaNAni kuruSe hAnirna hemnAmapi |· 
+46896 new <S> tvaM cetsaMcarase vRSeNa laghutA kA nAma digdantinAM · 
+;-----------------
+46897 old mUrghanyaM kuruSe sitaMzumayazaH kiM nAma lokatrayIdIpasyAmbujabAndhavasya jagatAmIzo 'si kiM brUmahe ||· 
+46897 new vyAlaiH kaGkaNabhUSaNAni kuruSe hAnirna hemnAmapi |· 
+;-----------------
+46898 old  
+46898 new mUrghanyaM kuruSe sitaMzumayazaH kiM nAma lokatrayI- · 
+;-----------------
+46899 old  
+46899 new dIpasyAmbujabAndhavasya jagatAmIzo 'si kiM brUmahe ||· 
+;-----------------
+47062 old <S> tvaM mugdhAkSi vinaiva kaJculikayA dhatse manohAriNIM lakSmImityabhidhAyini priyatame tadvITikAsaMspRzi |· 
+47062 new <S> tvaM mugdhAkSi vinaiva kaJculikayA dhatse manohAriNIM · 
+;-----------------
+47063 old zayyopAntaniviSTasasmitamukhInetrotsavAnandito niryAtaH zanakairalIkavacanoSanyAsamAlIjanaH ||· 
+47063 new lakSmImityabhidhAyini priyatame tadvITikAsaMspRzi |· 
+;-----------------
+47064 old [Seite2.93]· 
+47064 new zayyopAntaniviSTasasmitamukhInetrotsavAnandito · 
+;-----------------
+47065 old  
+47065 new niryAtaH zanakairalIkavacanoSanyAsamAlIjanaH ||· 
+;-----------------
+47066 old  
+47066 new [Seite2.93]· 
+;-----------------
+47317 old <S> dagdhaM veNuvanaM parasparamahAsaMgharSajenAgninA tanmUloddhRtirambhasA kSaNaghRtodrekeNa saMpAditA |· 
+47317 new <S> dagdhaM veNuvanaM parasparamahAsaMgharSajenAgninA · 
+;-----------------
+47318 old vAtyAvegavipATitaM viTapinaM prAptaM kutazciddRDhAM rUDhiM netumaho mahAdrikuhare dhAtrA na kiM sUtritam ||· 
+47318 new tanmUloddhRtirambhasA kSaNaghRtodrekeNa saMpAditA |· 
+;-----------------
+47319 old  
+47319 new vAtyAvegavipATitaM viTapinaM prAptaM kutazciddRDhAM · 
+;-----------------
+47320 old  
+47320 new rUDhiM netumaho mahAdrikuhare dhAtrA na kiM sUtritam ||· 
+;-----------------
+47355 old <S> dagdhaM dagdhaM tyajati na punaH kAJcanaM kAntivarNaM chinnaM chinnaM tyajati na punaH svAdutAmikSudaNDam |· 
+47355 new <S> dagdhaM dagdhaM tyajati na punaH kAJcanaM kAntivarNaM · 
+;-----------------
+47356 old ghRSTaM ghRSTaM tyajati na punazcandanaM cArugandhaM prANAnte 'pi prakRtivikRtirjAyate nottamAnAm ||· 
+47356 new chinnaM chinnaM tyajati na punaH svAdutAmikSudaNDam |· 
+;-----------------
+47357 old  
+47357 new ghRSTaM ghRSTaM tyajati na punazcandanaM cArugandhaM · 
+;-----------------
+47358 old  
+47358 new prANAnte 'pi prakRtivikRtirjAyate nottamAnAm ||· 
+;-----------------
+47375 old <S> dagdhAGgArakadambake viluThataH stokonmiSattejaso vedhA vahnikaNasya zaktimatulAmAdhAtukAmo ha{?} ThAt |· 
+47375 new <S> dagdhAGgArakadambake viluThataH stokonmiSattejaso · 
+;-----------------
+47376 old tannirvApaNamicchataH pratanute puMsaH samIpasthite saMtApadrutabhUrisarpiSi ghaTe pAnIyakumbhabhramam ||· 
+47376 new vedhA vahnikaNasya zaktimatulAmAdhAtukAmo ha{?} ThAt |· 
+;-----------------
+47377 old  
+47377 new tannirvApaNamicchataH pratanute puMsaH samIpasthite · 
+;-----------------
+47378 old  
+47378 new saMtApadrutabhUrisarpiSi ghaTe pAnIyakumbhabhramam ||· 
+;-----------------
+47556 old <S> datto 'syAH praNayastvayaiva bhavataiveyaM ciraM lAlitA daivAdya kila tvameva kRtavAnasyA navaM vipriyam |· 
+47556 new <S> datto 'syAH praNayastvayaiva bhavataiveyaM ciraM lAlitA · 
+;-----------------
+47557 old manyurduHsaha eSa yAtyupazamaM no sAntvavAdaiH sphuTaM he nistriMza vimuktakaNThakaruNaM tAvatsakhI roditu ||· 
+47557 new daivAdya kila tvameva kRtavAnasyA navaM vipriyam |· 
+;-----------------
+47558 old  
+47558 new manyurduHsaha eSa yAtyupazamaM no sAntvavAdaiH sphuTaM · 
+;-----------------
+47559 old  
+47559 new he nistriMza vimuktakaNThakaruNaM tAvatsakhI roditu ||· 
+;-----------------
+47658 old <S> dadatu dadatu gAlIrgAlimanto bhavanto vayamiha tadabhAvadgAlidAne 'pyazaktAH |· 
+47658 new <S> dadatu dadatu gAlIrgAlimanto bhavanto · 
+;-----------------
+47659 old jagati viditametaddIyate vidyamAnaM nahi zazakaviSANaM ko 'pi kasmai dadAti ||· 
+47659 new vayamiha tadabhAvadgAlidAne 'pyazaktAH |· 
+;-----------------
+47660 old [Seite2.100]· 
+47660 new jagati viditametaddIyate vidyamAnaM · 
+;-----------------
+47661 old  
+47661 new nahi zazakaviSANaM ko 'pi kasmai dadAti ||· 
+;-----------------
+47662 old  
+47662 new [Seite2.100]· 
+;-----------------
+47705 old <S> dadyAtsAdhuryadi nijapade durjanAya pravezaM tannAzAya prabhavati tato vAJchamAnaH svayaM saH |· 
+47705 new <S> dadyAtsAdhuryadi nijapade durjanAya pravezaM · 
+;-----------------
+47706 old tasmAddeyo vipulamatibhirnAvakAzo 'dhamAnAM jAro 'pi syAdgRhapatiriti zrUyate vAkyato 'tra ||· 
+47706 new tannAzAya prabhavati tato vAJchamAnaH svayaM saH |· 
+;-----------------
+47707 old  
+47707 new tasmAddeyo vipulamatibhirnAvakAzo 'dhamAnAM · 
+;-----------------
+47708 old  
+47708 new jAro 'pi syAdgRhapatiriti zrUyate vAkyato 'tra ||· 
+;-----------------
+47817 old <S> daMpatyornizi jalpatorgRhazukenAkarNitaM yadvacastatprAtargurusaMnidhau nigadatastasyAtimAtraM vadhUH |· 
+47817 new <S> daMpatyornizi jalpatorgRhazukenAkarNitaM yadvaca- · 
+;-----------------
+47818 old karNAlaMkRtipadmarAgazakalaM vinyasya caJcUpuTe vrIDArtA prakaroti dADimaphalavyAjena vAgbandhanam ||· 
+47818 new statprAtargurusaMnidhau nigadatastasyAtimAtraM vadhUH |· 
+;-----------------
+47819 old [Seite2.102]· 
+47819 new karNAlaMkRtipadmarAgazakalaM vinyasya caJcUpuTe · 
+;-----------------
+47820 old  
+47820 new vrIDArtA prakaroti dADimaphalavyAjena vAgbandhanam ||· 
+;-----------------
+47821 old  
+47821 new [Seite2.102]· 
+;-----------------
+48270 old <S> dAkSiNyaM svajane dayA parajane zaThyaM sadA durjane prItiH sAdhujane nayo nRpajane vidvajjane cArjavam |· 
+48270 new <S> dAkSiNyaM svajane dayA parajane zaThyaM sadA durjane · 
+;-----------------
+48271 old zauryaM zatrujane zatrujane kSamA gurujane nArIjane dhUrtatA ye tvevaM puruSAH kalAsu kuzalAsteSveva lokasthitiH ||· 
+48271 new prItiH sAdhujane nayo nRpajane vidvajjane cArjavam |· 
+;-----------------
+48272 old  
+48272 new zauryaM zatrujane zatrujane kSamA gurujane nArIjane dhUrtatA · 
+;-----------------
+48273 old  
+48273 new ye tvevaM puruSAH kalAsu kuzalAsteSveva lokasthitiH ||· 
+;-----------------
+48446 old <S> dAtAro yadi kalpazAkhibhiralaM yadyarthinaH kiM tRNairjJAtizcedanalena kiM yadi suhRddivyauSadhaiH kiM phalam |· 
+48446 new <S> dAtAro yadi kalpazAkhibhiralaM yadyarthinaH kiM tRNai- · 
+;-----------------
+48447 old kiM karpUrazalAkayA yadi dRzoH panthyAnameti priyA saMsAre 'pi satIndrajAlamaparaM yadyasti tenApi kiM ||· 
+48447 new rjJAtizcedanalena kiM yadi suhRddivyauSadhaiH kiM phalam |· 
+;-----------------
+48448 old [Seite2.109]· 
+48448 new kiM karpUrazalAkayA yadi dRzoH panthyAnameti priyA · 
+;-----------------
+48449 old  
+48449 new saMsAre 'pi satIndrajAlamaparaM yadyasti tenApi kiM ||· 
+;-----------------
+48450 old  
+48450 new [Seite2.109]· 
+;-----------------
+48696 old <S> dAnArthino madhukarA yadi karNatAlairdUrIkRtAH karivareNa madAndhabuddhyA |· 
+48696 new <S> dAnArthino madhukarA yadi karNatAlai- · 
+;-----------------
+48697 old tasyaiva gaNDayugamaNDanahAnireSA bhRGgAH punarvikacapadmavane caranti ||· 
+48697 new rdUrIkRtAH karivareNa madAndhabuddhyA |· 
+;-----------------
+48698 old  
+48698 new tasyaiva gaNDayugamaNDanahAnireSA · 
+;-----------------
+48699 old  
+48699 new bhRGgAH punarvikacapadmavane caranti ||· 
+;-----------------
+48940 old <S> dAyAdA vyayabhIrutAparihRtArabdharbhevantyunnatA bhRtyAH pratyupakArakAtaramateH kuryurna ke 'pi priyam |· 
+48940 new <S> dAyAdA vyayabhIrutAparihRtArabdharbhevantyunnatA · 
+;-----------------
+48941 old rAzIbhUtadhanasya jIvitahRtau zazvadyaterannijA bhUbhartuH kriyate dviSeva rabhasAllobhena kiM nApriyam ||· 
+48941 new bhRtyAH pratyupakArakAtaramateH kuryurna ke 'pi priyam |· 
+;-----------------
+48942 old  
+48942 new rAzIbhUtadhanasya jIvitahRtau zazvadyaterannijA · 
+;-----------------
+48943 old  
+48943 new bhUbhartuH kriyate dviSeva rabhasAllobhena kiM nApriyam ||· 
+;-----------------
+49024 old <S> dAridryamasya bhavatA jagatItalasya dUrIkRtaM vividhadAnasamuccayena |· 
+49024 new <S> dAridryamasya bhavatA jagatItalasya · 
+;-----------------
+49025 old tannaH kuTIramadhitiSThati durvinItamAtmIyadoSaharaNAya nivedayAmi ||· 
+49025 new dUrIkRtaM vividhadAnasamuccayena |· 
+;-----------------
+49026 old  
+49026 new tannaH kuTIramadhitiSThati durvinIta- · 
+;-----------------
+49027 old  
+49027 new mAtmIyadoSaharaNAya nivedayAmi ||· 
+;-----------------
+49089 old <S> dAridryAtpuruSasya bAndhavajano vAkye na saMtiSThate susnigdhA vimukhIbhavanti suhRdaH sphArIbhavantyApadaH |· 
+49089 new <S> dAridryAtpuruSasya bAndhavajano vAkye na saMtiSThate · 
+;-----------------
+49090 old sattvaM hrAsamupaiti zIlazazinaH kAntiH parimlAyate pApaM karma ca yatparairapi kRtaM tattasya saMbhAvyate ||· 
+49090 new susnigdhA vimukhIbhavanti suhRdaH sphArIbhavantyApadaH |· 
+;-----------------
+49091 old  
+49091 new sattvaM hrAsamupaiti zIlazazinaH kAntiH parimlAyate · 
+;-----------------
+49092 old  
+49092 new pApaM karma ca yatparairapi kRtaM tattasya saMbhAvyate ||· 
+;-----------------
+49110 old <S> dAridryAddhriyameti tatparigataH prabhrazyate tejaso nistejAH paribhUyate paribhavAnnirvedamApadyate |· 
+49110 new <S> dAridryAddhriyameti tatparigataH prabhrazyate tejaso · 
+;-----------------
+49111 old nirviNNaH zucameti zokavihato buddhyA parityajyate nibuddhiH kSayametyaho vidhanatA sarvApadAmAspadam ||· 
+49111 new nistejAH paribhUyate paribhavAnnirvedamApadyate |· 
+;-----------------
+49112 old  
+49112 new nirviNNaH zucameti zokavihato buddhyA parityajyate · 
+;-----------------
+49113 old  
+49113 new nibuddhiH kSayametyaho vidhanatA sarvApadAmAspadam ||· 
+;-----------------
+49252 old <S> dAvAnalolbaNabhuvo girayo nidAghe yatraiva dUramitare parivarjanIyAH |· 
+49252 new <S> dAvAnalolbaNabhuvo girayo nidAghe · 
+;-----------------
+49253 old tatraiva saMbhavati sAndrahimadravArdrazcitraMtuSArazikharI nitarAM niSevyaH ||· 
+49253 new yatraiva dUramitare parivarjanIyAH |· 
+;-----------------
+49254 old  
+49254 new tatraiva saMbhavati sAndrahimadravArdra- · 
+;-----------------
+49255 old  
+49255 new zcitraMtuSArazikharI nitarAM niSevyaH ||· 
+;-----------------
+49329 old <S> dinaM dinakaraM vinA vitaraNaM vinA vaibhavaM mahattvamucitaM vinA suvacanaM vinA gauravam |· 
+49329 new <S> dinaM dinakaraM vinA vitaraNaM vinA vaibhavaM · 
+;-----------------
+49330 old saraH sarasijaM vinA dhanabharaM vinA mandiraM kalaM tanuruhaM vinA zrayati naiva sazrIkatAm ||· 
+49330 new mahattvamucitaM vinA suvacanaM vinA gauravam |· 
+;-----------------
+49331 old  
+49331 new saraH sarasijaM vinA dhanabharaM vinA mandiraM · 
+;-----------------
+49332 old  
+49332 new kalaM tanuruhaM vinA zrayati naiva sazrIkatAm ||· 
+;-----------------
+49429 old <S> divasarajanIkUlacchedaiH patadbhiranArataM vahati nikaTe kAlasrotaH samastabhayAvaham |· 
+49429 new <S> divasarajanIkUlacchedaiH patadbhiranArataM · 
+;-----------------
+49430 old iha hi patatAM nAstyAlambo na cApi nivartanaM tadiha mahatAM mohaH ko 'yaM ya eva madAvilaH ||· 
+49430 new vahati nikaTe kAlasrotaH samastabhayAvaham |· 
+;-----------------
+49431 old  
+49431 new iha hi patatAM nAstyAlambo na cApi nivartanaM · 
+;-----------------
+49432 old  
+49432 new tadiha mahatAM mohaH ko 'yaM ya eva madAvilaH ||· 
+;-----------------
+49599 old <S> diza vanahhariNIbhyo vaMzakANDacchavInAM kavalamupalakoTicchinnamUlaM kuzAnAm |· 
+49599 new <S> diza vanahhariNIbhyo vaMzakANDacchavInAM · 
+;-----------------
+49600 old zukayuvatikapolApANDu tAmbUlavallIdalamaruNanakhAgraiH pATitaM vA vadhUbhyaH ||· 
+49600 new kavalamupalakoTicchinnamUlaM kuzAnAm |· 
+;-----------------
+49601 old  
+49601 new zukayuvatikapolApANDu tAmbUlavallI- · 
+;-----------------
+49602 old  
+49602 new dalamaruNanakhAgraiH pATitaM vA vadhUbhyaH ||· 
+;-----------------
+49620 old <S> dizo vAsaH pAtraM karakuharameNAH praNayinaH samAdhAnaM nidrA zayanamavanI mUlamazanam |· 
+49620 new <S> dizo vAsaH pAtraM karakuharameNAH praNayinaH · 
+;-----------------
+49621 old kadaitatsaMpUrNaM mama hRdayavRtterabhimataM bhaviSyatyatyugraM paramaparitoSopacitaye ||· 
+49621 new samAdhAnaM nidrA zayanamavanI mUlamazanam |· 
+;-----------------
+49622 old  
+49622 new kadaitatsaMpUrNaM mama hRdayavRtterabhimataM · 
+;-----------------
+49623 old  
+49623 new bhaviSyatyatyugraM paramaparitoSopacitaye ||· 
+;-----------------
+49655 old <S> dInAnAM kalpavRkSaH svaguNaphalanataH sajjanAnAM kuTumbI AdarzaH zikSitAnAM sucaritanikaSaH zIlavelAsamudraH |· 
+49655 new <S> dInAnAM kalpavRkSaH svaguNaphalanataH sajjanAnAM kuTumbI · 
+;-----------------
+49656 old satkartA nAvamantA puruSaguNanidhirdakSiNodArasattvo hyekaH zlAdhyaH sa jIvatyadhikaguNatayA cocchvasantIva cAnye ||· 
+49656 new AdarzaH zikSitAnAM sucaritanikaSaH zIlavelAsamudraH |· 
+;-----------------
+49657 old  
+49657 new satkartA nAvamantA puruSaguNanidhirdakSiNodArasattvo · 
+;-----------------
+49658 old  
+49658 new hyekaH zlAdhyaH sa jIvatyadhikaguNatayA cocchvasantIva cAnye ||· 
+;-----------------
+49684 old <S> dInAM dInamukhaiH svakIyazizukairAkRSTajIrNAmbarAM krozadbhiH kSudhitairnirannajaTharAM dRSTvaiva tAM gehinIm |· 
+49684 new <S> dInAM dInamukhaiH svakIyazizukairAkRSTajIrNAmbarAM · 
+;-----------------
+49685 old yAcJAbhaGgabhayena gadgadagalastadvadvilInAkSaraM ko dehIti vadetsvadagdhajaTharasyArthe manasvI pumAn ||· 
+49685 new krozadbhiH kSudhitairnirannajaTharAM dRSTvaiva tAM gehinIm |· 
+;-----------------
+49686 old  
+49686 new yAcJAbhaGgabhayena gadgadagalastadvadvilInAkSaraM · 
+;-----------------
+49687 old  
+49687 new ko dehIti vadetsvadagdhajaTharasyArthe manasvI pumAn ||· 
+;-----------------
+49854 old <S> dIrghAkSaM zaradindukAnti vadanaM bAhU natAvaMsayoH saMkSiptaM nibiDonnatastanamuraH pArzve pramRSTe iva |· 
+49854 new <S> dIrghAkSaM zaradindukAnti vadanaM bAhU natAvaMsayoH · 
+;-----------------
+49855 old madhyaH pANimito nitambi jaghanaM pAdAvarAlAGgulI chando nartayituryathaiva manasi zliSTaM tathAsyA vapuH ||· 
+49855 new saMkSiptaM nibiDonnatastanamuraH pArzve pramRSTe iva |· 
+;-----------------
+49856 old  
+49856 new madhyaH pANimito nitambi jaghanaM pAdAvarAlAGgulI · 
+;-----------------
+49857 old  
+49857 new chando nartayituryathaiva manasi zliSTaM tathAsyA vapuH ||· 
+;-----------------
+49884 old <S> dIrghA vandanamAlikA viracitA dRSTyaiva nendIvaraiH puSpANAM prakaraH smitena racito no kundajAtyAdibhiH |· 
+49884 new <S> dIrghA vandanamAlikA viracitA dRSTyaiva nendIvaraiH · 
+;-----------------
+49885 old dattaH svedamucA payodharayugenArgho na kumbhAmbhasA svairevAvayavaiH priyasya vizatastanvyA kRtaM maGgalam ||· 
+49885 new puSpANAM prakaraH smitena racito no kundajAtyAdibhiH |· 
+;-----------------
+49886 old  
+49886 new dattaH svedamucA payodharayugenArgho na kumbhAmbhasA · 
+;-----------------
+49887 old  
+49887 new svairevAvayavaiH priyasya vizatastanvyA kRtaM maGgalam ||· 
+;-----------------
+49907 old <S> duHkhaM strIkukSimadhye prathamamiha bhave garbhavAse narANAM bAlatve cApi duHkhaM malamalinatalastrIpayaHpAnamizram |· 
+49907 new <S> duHkhaM strIkukSimadhye prathamamiha bhave garbhavAse narANAM · 
+;-----------------
+49908 old tAruNye cApi duHkhaM bhavati virahajaM vRddhabhAvo 'pyasAraH saMsAre re manuSyA vadata yadi sukhaM svalpamapyasti kiMcit ||· 
+49908 new bAlatve cApi duHkhaM malamalinatalastrIpayaHpAnamizram |· 
+;-----------------
+49909 old  
+49909 new tAruNye cApi duHkhaM bhavati virahajaM vRddhabhAvo 'pyasAraH · 
+;-----------------
+49910 old  
+49910 new saMsAre re manuSyA vadata yadi sukhaM svalpamapyasti kiMcit ||· 
+;-----------------
+50175 old <S> durArAdhyaH svAmI turagacalacittAH kSitibhujo vayaM ca sthUlecchAH sumahati pade baddhamanasaH |· 
+50175 new <S> durArAdhyaH svAmI turagacalacittAH kSitibhujo · 
+;-----------------
+50176 old jarA dehaM mRtyurharati saka{?} laM jIvitamidaM sakhe nAnyacchreyo jagati viduSo 'nyatra tapasaH ||· 
+50176 new vayaM ca sthUlecchAH sumahati pade baddhamanasaH |· 
+;-----------------
+50177 old  
+50177 new jarA dehaM mRtyurharati saka{?} laM jIvitamidaM · 
+;-----------------
+50178 old  
+50178 new sakhe nAnyacchreyo jagati viduSo 'nyatra tapasaH ||· 
+;-----------------
+50306 old <S> durgasthitaM phalamapakvamanalpayatnaM saMsiddhamapyupakaroti guNaM na puMsAm |· 
+50306 new <S> durgasthitaM phalamapakvamanalpayatnaM · 
+;-----------------
+50307 old sAdhAraNaM svapatitaM ca bhavedyato 'taH kAle 'bhiyuktapatitaM rasavatsukhAya ||· 
+50307 new saMsiddhamapyupakaroti guNaM na puMsAm |· 
+;-----------------
+50308 old  
+50308 new sAdhAraNaM svapatitaM ca bhavedyato 'taH · 
+;-----------------
+50309 old  
+50309 new kAle 'bhiyuktapatitaM rasavatsukhAya ||· 
+;-----------------
+50326 old <S> durgaH saMsAramArgo maraNamaniyataM vyAdhayo durnivAryA duSprApA karmabhUmirna khalu nipatatAmasti hastAvalambaH |· 
+50326 new <S> durgaH saMsAramArgo maraNamaniyataM vyAdhayo durnivAryA · 
+;-----------------
+50327 old ityevaM saMpradhArya pratidivasamaho mAnase zuddhabuddhyA dharme cittaM vidheyaM niyatamatiguNaM vAJchatA siddhisaukhyam ||· 
+50327 new duSprApA karmabhUmirna khalu nipatatAmasti hastAvalambaH |· 
+;-----------------
+50328 old  
+50328 new ityevaM saMpradhArya pratidivasamaho mAnase zuddhabuddhyA · 
+;-----------------
+50329 old  
+50329 new dharme cittaM vidheyaM niyatamatiguNaM vAJchatA siddhisaukhyam ||· 
+;-----------------
+50825 old <S> durmantriNaM kamupayAnti na nItidoSAH saMtApayanti kamapathyabhujaM na rogAH |· 
+50825 new <S> durmantriNaM kamupayAnti na nItidoSAH · 
+;-----------------
+50826 old kaM zrIrna darpayati kaM na nihanti mRtyuH kaM svIkRtA na viSayAH paripIDayanti ||· 
+50826 new saMtApayanti kamapathyabhujaM na rogAH |· 
+;-----------------
+50827 old  
+50827 new kaM zrIrna darpayati kaM na nihanti mRtyuH · 
+;-----------------
+50828 old  
+50828 new kaM svIkRtA na viSayAH paripIDayanti ||· 
+;-----------------
+50958 old <S> durvRttasaMgatiranarthaparaMparAyA hetuH satAM bhavati kiM vacanIyamatra |· 
+50958 new <S> durvRttasaMgatiranarthaparaMparAyA · 
+;-----------------
+50959 old laGkezvaro harati dAzaratheH kalatraM prApnoti bandhanamasau kila sindharAjaH ||· 
+50959 new hetuH satAM bhavati kiM vacanIyamatra |· 
+;-----------------
+50960 old  
+50960 new laGkezvaro harati dAzaratheH kalatraM · 
+;-----------------
+50961 old  
+50961 new prApnoti bandhanamasau kila sindharAjaH ||· 
+;-----------------
+51209 old <S> dUto na saMcarati khe na calecca vArttA pUrvaM na ca saMgamo 'sti |· 
+51209 new <S> dUto na saMcarati khe na calecca vArttA · 
+;-----------------
+51210 old vyomni sthitaM ravizazigrahaNaM prazastuM jAnAti yo dvijavaraH sa kathaM na vidvAn ||· 
+51210 new pUrvaM na ca saMgamo 'sti |· 
+;-----------------
+51211 old  
+51211 new vyomni sthitaM ravizazigrahaNaM prazastuM · 
+;-----------------
+51212 old  
+51212 new jAnAti yo dvijavaraH sa kathaM na vidvAn ||· 
+;-----------------
+51244 old <S> dUto 'yaM malayAnilo madhukarazrINI ca varNAvalI pattraM nUtanacUtapallavadalaM puMskokilo vAcakaH |· 
+51244 new <S> dUto 'yaM malayAnilo madhukarazrINI ca varNAvalI · 
+;-----------------
+51245 old lekhastAvadayaM vasantanRpatisaMpreSito mAninImAnabhraMzakaraH {?} smareNa likhitaH pUrNendunA mudritaH ||· 
+51245 new pattraM nUtanacUtapallavadalaM puMskokilo vAcakaH |· 
+;-----------------
+51246 old  
+51246 new lekhastAvadayaM vasantanRpatisaMpreSito mAninI- · 
+;-----------------
+51247 old  
+51247 new mAnabhraMzakaraH {?} smareNa likhitaH pUrNendunA mudritaH ||· 
+;-----------------
+51320 old <S> dUrasthAmapi yena pazyasi manaH kAntAM puraHsthAyinIM taM yogaM mama cakSuSo 'pyupadiza zrAntaM yadi prekSaNe |· 
+51320 new <S> dUrasthAmapi yena pazyasi manaH kAntAM puraHsthAyinIM · 
+;-----------------
+51321 old saMtApAya na saMgamo 'pi nitarAmekAkinaste dhruvaM nahyAtmaMbharayo bhavanti sukhino bhadraM parArthekSiNAm ||· 
+51321 new taM yogaM mama cakSuSo 'pyupadiza zrAntaM yadi prekSaNe |· 
+;-----------------
+51322 old  
+51322 new saMtApAya na saMgamo 'pi nitarAmekAkinaste dhruvaM · 
+;-----------------
+51323 old  
+51323 new nahyAtmaMbharayo bhavanti sukhino bhadraM parArthekSiNAm ||· 
+;-----------------
+51421 old <S> dUrAdarthaM ghaTayati navaM dUratazcApazabdaM tyaktvA bhUyo bhavati nirataH satsabhAraJjaneSu |· 
+51421 new <S> dUrAdarthaM ghaTayati navaM dUratazcApazabdaM · 
+;-----------------
+51422 old mandaM mandaM racayati padaM lokacittAnuvRttyA kAmaM mantrI kaviriva sadA khedabhArairamuktaH ||· 
+51422 new tyaktvA bhUyo bhavati nirataH satsabhAraJjaneSu |· 
+;-----------------
+51423 old  
+51423 new mandaM mandaM racayati padaM lokacittAnuvRttyA · 
+;-----------------
+51424 old  
+51424 new kAmaM mantrI kaviriva sadA khedabhArairamuktaH ||· 
+;-----------------
+51486 old <S> dUrAducchritapANirArdranayanaH protsAritArdhAsano gADhAliGganatatparaH priyakathAprazneSu dattAdaraH |· 
+51486 new <S> dUrAducchritapANirArdranayanaH protsAritArdhAsano · 
+;-----------------
+51487 old antargUDhaviSo bahirmadhumayazcAtIva mAyApaTuH ko nAmAyamapUrvanATakavidhiryaH zikSito durjanaiH ||· 
+51487 new gADhAliGganatatparaH priyakathAprazneSu dattAdaraH |· 
+;-----------------
+51488 old  
+51488 new antargUDhaviSo bahirmadhumayazcAtIva mAyApaTuH · 
+;-----------------
+51489 old  
+51489 new ko nAmAyamapUrvanATakavidhiryaH zikSito durjanaiH ||· 
+;-----------------
+51520 old <S> dUrAdutsukamAgate vivalitaM saMbhASiNi sphAritaM saMzliSyatyaruNaM gRhItavasane kiMcinnatabhrUlatam |· 
+51520 new <S> dUrAdutsukamAgate vivalitaM saMbhASiNi sphAritaM · 
+;-----------------
+51521 old mAninyAzcaraNAnativyatikare bASyAmbupUrNekSaNaM cakSurjAtamaho prapaJcaturaM jAtAgasi preyasi ||· 
+51521 new saMzliSyatyaruNaM gRhItavasane kiMcinnatabhrUlatam |· 
+;-----------------
+51522 old  
+51522 new mAninyAzcaraNAnativyatikare bASyAmbupUrNekSaNaM · 
+;-----------------
+51523 old  
+51523 new cakSurjAtamaho prapaJcaturaM jAtAgasi preyasi ||· 
+;-----------------
+51588 old <S> dUre mArgAnnivasasi punaH kaNTakairAvRto 'si chAyAzUnyaH phalamapi ca te vAnarairapyabhakSyam |· 
+51588 new <S> dUre mArgAnnivasasi punaH kaNTakairAvRto 'si · 
+;-----------------
+51589 old nirgandhastvaM madhuparahitaH zAlmale sArazUnyaH sevAsmAkaM bhavati viphalA tiSTha niHzvasya yAmaH ||· 
+51589 new chAyAzUnyaH phalamapi ca te vAnarairapyabhakSyam |· 
+;-----------------
+51590 old  
+51590 new nirgandhastvaM madhuparahitaH zAlmale sArazUnyaH · 
+;-----------------
+51591 old  
+51591 new sevAsmAkaM bhavati viphalA tiSTha niHzvasya yAmaH ||· 
+;-----------------
+51747 old <S> dRzyante bhUrinIcataravaH kutrApi te candanAH pASANaiH paripUritA vasumatI jAtyo maNiH kutracit |· 
+51747 new <S> dRzyante bhUrinIcataravaH kutrApi te candanAH · 
+;-----------------
+51748 old zrUyante karaTAravAH pratidinaM caitre kuhUkUjitaM tanmanye khalasaMkulaM jagadidaM dvitrAH kalau sajjanAH ||· 
+51748 new pASANaiH paripUritA vasumatI jAtyo maNiH kutracit |· 
+;-----------------
+51749 old  
+51749 new zrUyante karaTAravAH pratidinaM caitre kuhUkUjitaM · 
+;-----------------
+51750 old  
+51750 new tanmanye khalasaMkulaM jagadidaM dvitrAH kalau sajjanAH ||· 
+;-----------------
+51802 old <S> dRSTaH kAtaraetrAyA cirataraM baddhvAJjaliM yAcitaH pazcAdaMzukapallavena vidhRto nirvyAjamAliGgitaH |· 
+51802 new <S> dRSTaH kAtaraetrAyA cirataraM baddhvAJjaliM yAcitaH · 
+;-----------------
+51803 old ityAkSipya yadA samastamaghRNi gantuM pravRttaH zaThaH purvaM prANaparigraho dayitayA muktastato vallbhaH ||· 
+51803 new pazcAdaMzukapallavena vidhRto nirvyAjamAliGgitaH |· 
+;-----------------
+51804 old  
+51804 new ityAkSipya yadA samastamaghRNi gantuM pravRttaH zaThaH · 
+;-----------------
+51805 old  
+51805 new purvaM prANaparigraho dayitayA muktastato vallbhaH ||· 
+;-----------------
+51824 old <S> dRSTA dRSTimadho dadAti kurute nAlApamAbhASitA zayyAyAM parivRtya tiSThati balAdAliGgitA vepate |· 
+51824 new <S> dRSTA dRSTimadho dadAti kurute nAlApamAbhASitA · 
+;-----------------
+51825 old niryAntISu sakhISu vAsabhavanAnnirgantumevehate jAtA vAmatayaiva saMprati mama prItyai navoDha priyA ||· 
+51825 new zayyAyAM parivRtya tiSThati balAdAliGgitA vepate |· 
+;-----------------
+51826 old  
+51826 new niryAntISu sakhISu vAsabhavanAnnirgantumevehate · 
+;-----------------
+51827 old  
+51827 new jAtA vAmatayaiva saMprati mama prItyai navoDha priyA ||· 
+;-----------------
+51900 old <S> dRSTvA yAsAM nayanayuglaM raGgavArAGganAnAM dezatyAgaH paramakRtibhiH kRSNasArairakAri |· 
+51900 new <S> dRSTvA yAsAM nayanayuglaM raGgavArAGganAnAM · 
+;-----------------
+51901 old tAsAmeva stanayugajitAH kumbhinaH santi mattAH prAyo mUrkhaH parivavidhau nAbhimAnaM tanoti ||· 
+51901 new dezatyAgaH paramakRtibhiH kRSNasArairakAri |· 
+;-----------------
+51902 old  
+51902 new tAsAmeva stanayugajitAH kumbhinaH santi mattAH · 
+;-----------------
+51903 old  
+51903 new prAyo mUrkhaH parivavidhau nAbhimAnaM tanoti ||· 
+;-----------------
+51923 old <S> dRSTvA sphIto 'bhavadalirasau lekhyapadmaM vizAlaM citraM citraM kimiti kimiti vyAharanniSpapAta |· 
+51923 new <S> dRSTvA sphIto 'bhavadalirasau lekhyapadmaM vizAlaM · 
+;-----------------
+51924 old nAsmingandho na ca madhukaNA nAsti tatsaukumAryaM ghUrNanmUrdhnA bata natazirA vrIDayA nirjagAma ||· 
+51924 new citraM citraM kimiti kimiti vyAharanniSpapAta |· 
+;-----------------
+51925 old  
+51925 new nAsmingandho na ca madhukaNA nAsti tatsaukumAryaM · 
+;-----------------
+51926 old  
+51926 new ghUrNanmUrdhnA bata natazirA vrIDayA nirjagAma ||· 
+;-----------------
+51944 old <S> dRSTvaikAsanasaMsthite priyatame yazcAdupetyAdarAdekasyA nayane pidhAya vihitakrIDAnubandhacchalaH |· 
+51944 new <S> dRSTvaikAsanasaMsthite priyatame yazcAdupetyAdarA- · 
+;-----------------
+51945 old ISadvakritakaMdharaH sapulakaH premollasanmAnasAmantarhAsalasatkapolakAM dhUrto 'parAM cumbati ||· 
+51945 new dekasyA nayane pidhAya vihitakrIDAnubandhacchalaH |· 
+;-----------------
+51946 old  
+51946 new ISadvakritakaMdharaH sapulakaH premollasanmAnasA- · 
+;-----------------
+51947 old  
+51947 new mantarhAsalasatkapolakAM dhUrto 'parAM cumbati ||· 
+;-----------------
+52136 old <S> devasyAmbumucazca nAsti niyamaH ko 'pyAnukUlyaM prati vuaJjanyaH priyamutkaTaM ghaTayate jantoH kSaNAdapriyam |· 
+52136 new <S> devasyAmbumucazca nAsti niyamaH ko 'pyAnukUlyaM prati · 
+;-----------------
+52137 old kSipraM dIrghAnidAghavAsaravipatsaMtApanirvApaNaM prAduSkRtya vanaspateH prakurute vidyudvisargaM ca yaH ||· 
+52137 new vuaJjanyaH priyamutkaTaM ghaTayate jantoH kSaNAdapriyam |· 
+;-----------------
+52138 old  
+52138 new kSipraM dIrghAnidAghavAsaravipatsaMtApanirvApaNaM · 
+;-----------------
+52139 old  
+52139 new prAduSkRtya vanaspateH prakurute vidyudvisargaM ca yaH ||· 
+;-----------------
+52225 old <S> devAnpUjayato dayAM vidadhataH satyaM vaco jalpataH |· 
+52225 new <S> devAnpUjayato dayAM vidadhataH satyaM vaco jalpataH · 
+;-----------------
+52227 old yasyetthaM puruSasya yAnti divasAstasyaiva manyAmahe gotraM janma ca jIvitaM ca saphalaM zlAdhyA kathA ca priyA ||· 
+52227 new yasyetthaM puruSasya yAnti divasAstasyaiva manyAmahe · 
+;-----------------
+52228 old [Seite2.152]· 
+52228 new gotraM janma ca jIvitaM ca saphalaM zlAdhyA kathA ca priyA ||· 
+;-----------------
+52229 old  
+52229 new [Seite2.152]· 
+;-----------------
+52259 old <S> devIM vAcmupAsate hi bahavaH sAraM tu sArasvataM jAnIte nitarAmasau gurukulakliSTo murAriH kaviH |· 
+52259 new <S> devIM vAcmupAsate hi bahavaH sAraM tu sArasvataM · 
+;-----------------
+52260 old abdhirlaGghita eva vAnarabhaTaiH kiM tvasya gambhIratAmApAtAlanimagnapIvaratanurjAnAti manthAcalaH ||· 
+52260 new jAnIte nitarAmasau gurukulakliSTo murAriH kaviH |· 
+;-----------------
+52261 old  
+52261 new abdhirlaGghita eva vAnarabhaTaiH kiM tvasya gambhIratA- · 
+;-----------------
+52262 old  
+52262 new mApAtAlanimagnapIvaratanurjAnAti manthAcalaH ||· 
+;-----------------
+52280 old <S> devI zrIrjanakAtmajA dazamukhasyAsIdgRhe rakSaso nItA caiva rasAtalaM bhagavatI vedatrayI dAnavaiH |· 
+52280 new <S> devI zrIrjanakAtmajA dazamukhasyAsIdgRhe rakSaso · 
+;-----------------
+52281 old gandharvasya madAlasAM ca tanayAM pAtAlaketuzzgalAddaityendro 'pajahAra hanta viSamA vAmA vidhervRttayaH ||· 
+52281 new nItA caiva rasAtalaM bhagavatI vedatrayI dAnavaiH |· 
+;-----------------
+52282 old  
+52282 new gandharvasya madAlasAM ca tanayAM pAtAlaketuzchalA- · 
+;-----------------
+52283 old  
+52283 new ddaityendro 'pajahAra hanta viSamA vAmA vidhervRttayaH ||· 
+;-----------------
+52441 old <S> dezairantaritA zataizca saritAmurvIbhRtAM kAnanairyatnenApi na yAti locanapathaM kAnteti jAnannapi |· 
+52441 new <S> dezairantaritA zataizca saritAmurvIbhRtAM kAnanai- · 
+;-----------------
+52442 old udgrIvazcaraNArdharuddhavasudhaH kutvAzrupUrNe dRzau tAmAzAM pathikastathApi kimapi dhyAtvA ciraM tiSThati ||· 
+52442 new ryatnenApi na yAti locanapathaM kAnteti jAnannapi |· 
+;-----------------
+52443 old  
+52443 new udgrIvazcaraNArdharuddhavasudhaH kutvAzrupUrNe dRzau · 
+;-----------------
+52444 old  
+52444 new tAmAzAM pathikastathApi kimapi dhyAtvA ciraM tiSThati ||· 
+;-----------------
+52686 old <S> daivena prabhuNA svayaM jagati yadyasya pramANIkRtaM tattasyopanayenmanAgapi mahAnnaivAzrayaH kAraNam |· 
+52686 new <S> daivena prabhuNA svayaM jagati yadyasya pramANIkRtaM · 
+;-----------------
+52687 old sarvAzAparipUrake jaladhare varSatyapi pratyahaM sUkSmA eva patanti cAtakamukhe dvitrAH payobindavaH ||· 
+52687 new tattasyopanayenmanAgapi mahAnnaivAzrayaH kAraNam |· 
+;-----------------
+52688 old  
+52688 new sarvAzAparipUrake jaladhare varSatyapi pratyahaM · 
+;-----------------
+52689 old  
+52689 new sUkSmA eva patanti cAtakamukhe dvitrAH payobindavaH ||· 
+;-----------------
+52724 old <S> daive samarpya cirasaMcitaduHkhabhAraM svasthAH sukhaM vasata kiM parayAcanAbhiH |· 
+52724 new <S> daive samarpya cirasaMcitaduHkhabhAraM · 
+;-----------------
+52725 old meruH pradakSiNayato 'pi divAkarasya te tasya sapta turagA na kadAcidaSTau ||· 
+52725 new svasthAH sukhaM vasata kiM parayAcanAbhiH |· 
+;-----------------
+52726 old  
+52726 new meruH pradakSiNayato 'pi divAkarasya · 
+;-----------------
+52727 old  
+52727 new te tasya sapta turagA na kadAcidaSTau ||· 
+;-----------------
+52848 old <S> daurjanyamAtmani paraM prathitaM vidhAtrA bhUrjadrumasya viphalatvasamarpaNena |· 
+52848 new <S> daurjanyamAtmani paraM prathitaM vidhAtrA · 
+;-----------------
+52849 old kiM carmabhirnizitazastrazatAvakRtairAzAM na pUrayati so 'rthiparaMparANAm ||· 
+52849 new bhUrjadrumasya viphalatvasamarpaNena |· 
+;-----------------
+52850 old  
+52850 new kiM carmabhirnizitazastrazatAvakRttai- · 
+;-----------------
+52851 old  
+52851 new rAzAM na pUrayati so 'rthiparaMparANAm ||· 
+;-----------------
+52870 old <S> daurmantyAnnRpatirtvinzyati yatiH saGgAtsuto lAlanAdvipro 'nadhyayanAtkulaM kutanayAcchIlaM khalopAsanAt |· 
+52870 new <S> daurmantyAnnRpatirtvinzyati yatiH saGgAtsuto lAlanA- · 
+;-----------------
+52871 old hrIrmadyAdanavekSaNAdapi kRSiH snehaH pravAsAzrayAnmaitrI cApraNayAtsamRddhiranayAttyAgAtpramAdAddhanam ||· 
+52871 new dvipro 'nadhyayanAtkulaM kutanayAcchIlaM khalopAsanAt |· 
+;-----------------
+52872 old  
+52872 new hrIrmadyAdanavekSaNAdapi kRSiH snehaH pravAsAzrayA- · 
+;-----------------
+52873 old  
+52873 new nmaitrI cApraNayAtsamRddhiranayAttyAgAtpramAdAddhanam ||· 
+;-----------------
+53046 old <S> draSTavyeSu kimuttamaM mRgadRzAM premaprasannaM mukhaM ghrAtavueSvapi kiM tadAsyapavanaH zravyeSu kiM tadvacaH |· 
+53046 new <S> draSTavyeSu kimuttamaM mRgadRzAM premaprasannaM mukhaM · 
+;-----------------
+53047 old kiM svAdyeSu tadoSThapallavarasaH spRzyeSu kiM tattanurdhyeyaM kiM navayauvanaM sahRdayaiH sarvatra tadvibhramaH ||· 
+53047 new ghrAtavueSvapi kiM tadAsyapavanaH zravyeSu kiM tadvacaH |· 
+;-----------------
+53048 old  
+53048 new kiM svAdyeSu tadoSThapallavarasaH spRzyeSu kiM tattanu- · 
+;-----------------
+53049 old  
+53049 new rdhyeyaM kiM navayauvanaM sahRdayaiH sarvatra tadvibhramaH ||· 
+;-----------------
+53527 old <S> dveSAdivaikRtavataH pratibhAsate 'nyo mithyaiva citramadhiko vizadAtmano 'pi |· 
+53527 new <S> dveSAdivaikRtavataH pratibhAsate 'nyo · 
+;-----------------
+53528 old candrAdi pazyati puro dviguNaM prakRtyA tejomayaM timiradoSahataM hi cakSuH ||· 
+53528 new mithyaiva citramadhiko vizadAtmano 'pi |· 
+;-----------------
+53529 old  
+53529 new candrAdi pazyati puro dviguNaM prakRtyA · 
+;-----------------
+53530 old  
+53530 new tejomayaM timiradoSahataM hi cakSuH ||· 
+;-----------------
+53670 old <S> dhanaM yadi gataM caraNayugmareNUpamaM dharA yadi gatA kathaya me kimetAvatA |· 
+53670 new <S> dhanaM yadi gataM caraNayugmareNUpamaM · 
+;-----------------
+53671 old idaM punararuMtudaM dhanigaNairidAnIntanairdaridragaNanAvidhau yadahamaGkapAte ghRtaH ||· 
+53671 new dharA yadi gatA kathaya me kimetAvatA |· 
+;-----------------
+53672 old  
+53672 new idaM punararuMtudaM dhanigaNairidAnIntanai- · 
+;-----------------
+53673 old  
+53673 new rdaridragaNanAvidhau yadahamaGkapAte ghRtaH ||· 
+;-----------------
+53782 old <S> dhanaM tAvallabdhaM kathamapi tathApyasya niyataM vinAze nAze vA tava sati viyogo 'sthyubhayatA |· 
+53782 new <S> dhanaM tAvallabdhaM kathamapi tathApyasya niyataM · 
+;-----------------
+53783 old anutpAdaH zreyAnkimu kathaya pathyo 'tha vilayo vinASo labdhasya vyathayatitarAM na tvanudaya ||· 
+53783 new vinAze nAze vA tava sati viyogo 'sthyubhayatA |· 
+;-----------------
+53784 old  
+53784 new anutpAdaH zreyAnkimu kathaya pathyo 'tha vilayo · 
+;-----------------
+53785 old  
+53785 new vinASo labdhasya vyathayatitarAM na tvanudaya ||· 
+;-----------------
+54368 old <S> dhanyAsi yA kathayasi priyasaMgame 'pi vizrabdhacATukazatAni ratAntareSu |· 
+54368 new <S> dhanyAsi yA kathayasi priyasaMgame 'pi · 
+;-----------------
+54369 old nIvIM prati praNihite tu kare priyeNa sakhyaH zapAmi yadi kiMcidapi smarAmi ||· 
+54369 new vizrabdhacATukazatAni ratAntareSu |· 
+;-----------------
+54370 old  
+54370 new nIvIM prati praNihite tu kare priyeNa · 
+;-----------------
+54371 old  
+54371 new sakhyaH zapAmi yadi kiMcidapi smarAmi ||· 
+;-----------------
+54387 old <S> dhanyAsta eva taralAyatalocanAnAM tAruNyapUrNaghanapIyodharANAm |· 
+54387 new <S> dhanyAsta eva taralAyatalocanAnAM · 
+;-----------------
+54388 old kSAmodaroparilasattrivalIlatAnAM dRSTvAkRtiM vikRtimeti mano na yeSAm ||· 
+54388 new tAruNyapUrNaghanapIyodharANAm |· 
+;-----------------
+54389 old  
+54389 new kSAmodaroparilasattrivalIlatAnAM · 
+;-----------------
+54390 old  
+54390 new dRSTvAkRtiM vikRtimeti mano na yeSAm ||· 
+;-----------------
+54453 old <S> dhanyAste vItarAgA guruvacanaratAstyaktasaMsArasaGgA brahmajJAne vilInA girivaragahane yauvanaM ye nayante |· 
+54453 new <S> dhanyAste vItarAgA guruvacanaratAstyaktasaMsArasaGgA · 
+;-----------------
+54454 old ye ca prottuGgapInastanakazabharaklAntakAyAM dinAnte kAntAmAliGgya gADhaM mRduzayanatale zerate te 'pi dhanyAH ||· 
+54454 new brahmajJAne vilInA girivaragahane yauvanaM ye nayante |· 
+;-----------------
+54455 old  
+54455 new ye ca prottuGgapInastanakazabharaklAntakAyAM dinAnte · 
+;-----------------
+54456 old  
+54456 new kAntAmAliGgya gADhaM mRduzayanatale zerate te 'pi dhanyAH ||· 
+;-----------------
+54588 old <S> dharmaH pravrajitastapaH pracalitaM satyaM ca dUre gataM pRthvI mandaphalA nRpAzca kuTilAH zastrAyudhA brAhmaNAH |· 
+54588 new <S> dharmaH pravrajitastapaH pracalitaM satyaM ca dUre gataM · 
+;-----------------
+54589 old lokaH strISu rataH striyo 'pi capalA laulye sthitA mAnavAH sAdhuH sIdati durjanaH prabhavati prAyaH praviSTaH kaliH ||· 
+54589 new pRthvI mandaphalA nRpAzca kuTilAH zastrAyudhA brAhmaNAH |· 
+;-----------------
+54590 old  
+54590 new lokaH strISu rataH striyo 'pi capalA laulye sthitA mAnavAH · 
+;-----------------
+54591 old  
+54591 new sAdhuH sIdati durjanaH prabhavati prAyaH praviSTaH kaliH ||· 
+;-----------------
+54624 old <S> dharmaH prAgeva cintyaH sacivamatigAtirbhAvanIyA sadaiva jJeyaM lokAnuvRttaM varacaranayanairmaNDalaM vIkSaNIyam |· 
+54624 new <S> dharmaH prAgeva cintyaH sacivamatigAtirbhAvanIyA sadaiva · 
+;-----------------
+54625 old pracchAdyau rAgaroSau mRduparuSaguNau yojanIyau svakAle svAtmA yatnena rakSyo raNazirasi punaH so 'pi nAvekSaNiyaH ||· 
+54625 new jJeyaM lokAnuvRttaM varacaranayanairmaNDalaM vIkSaNIyam |· 
+;-----------------
+54626 old  
+54626 new pracchAdyau rAgaroSau mRduparuSaguNau yojanIyau svakAle · 
+;-----------------
+54627 old  
+54627 new svAtmA yatnena rakSyo raNazirasi punaH so 'pi nAvekSaNiyaH ||· 
+;-----------------
+54955 old <S> dharmArthaM yatatAmapIha vipado daivAdyadi syuH kvacittattAsAmupazAntape sumatibhiH kAryo vizeSAnnayaH |· 
+54955 new <S> dharmArthaM yatatAmapIha vipado daivAdyadi syuH kvaci- · 
+;-----------------
+54956 old loke khyAtimupAgatAtra sakale lokoktireSA yato dagdhAnAM kila vahninA hitakaraH seko 'bhitaptodakaiH ||· 
+54956 new ttattAsAmupazAntape sumatibhiH kAryo vizeSAnnayaH |· 
+;-----------------
+54957 old  
+54957 new loke khyAtimupAgatAtra sakale lokoktireSA yato · 
+;-----------------
+54958 old  
+54958 new dagdhAnAM kila vahninA hitakaraH seko 'bhitaptodakaiH ||· 
+;-----------------
+55198 old <S> dharme tatparatA mukhe madhuratA dAne sumutsAhatA mitre 'vaJcanatA gurau vinayatA citte 'tigambhIratA |· 
+55198 new <S> dharme tatparatA mukhe madhuratA dAne sumutsAhatA · 
+;-----------------
+55199 old AcAre zucitA guNe rasikatA zAstreSu vijJAnatA rUpe sundaratA zive bhajanatA tvayyAsti bho rAghava ||· 
+55199 new mitre 'vaJcanatA gurau vinayatA citte 'tigambhIratA |· 
+;-----------------
+55200 old [Seite2.187]· 
+55200 new AcAre zucitA guNe rasikatA zAstreSu vijJAnatA · 
+;-----------------
+55201 old  
+55201 new rUpe sundaratA zive bhajanatA tvayyAsti bho rAghava ||· 
+;-----------------
+55202 old  
+55202 new [Seite2.187]· 
+;-----------------
+55234 old <S> dharme matirbhavatu vaH satatotthitAnAM sa hyeka eva paralokagatasya bandhuH |· 
+55234 new <S> dharme matirbhavatu vaH satatotthitAnAM · 
+;-----------------
+55235 old arthAH striyazca nipuNairapi sevyamAnA naivAptabhAvamupayAnti na ca sthiratvam ||· 
+55235 new sa hyeka eva paralokagatasya bandhuH |· 
+;-----------------
+55236 old  
+55236 new arthAH striyazca nipuNairapi sevyamAnA · 
+;-----------------
+55237 old  
+55237 new naivAptabhAvamupayAnti na ca sthiratvam ||· 
+;-----------------
+55363 old <S> dhavalayati samagraM candramA jIvalokaM kimapi nijakalaGkaM nAtmasaMsthaM pramArSTi |· 
+55363 new <S> dhavalayati samagraM candramA jIvalokaM · 
+;-----------------
+55364 old bhavatu viditametatprAyazaH sajjanAnAM parahitaniratAnAmAdaro nAtmakArye ||· 
+55364 new kimapi nijakalaGkaM nAtmasaMsthaM pramArSTi |· 
+;-----------------
+55365 old  
+55365 new bhavatu viditametatprAyazaH sajjanAnAM · 
+;-----------------
+55366 old  
+55366 new parahitaniratAnAmAdaro nAtmakArye ||· 
+;-----------------
+55427 old <S> dhAtA vizvavisRSTimAtranirato devo 'pi gaurIbhujAzleSAnandavighUrNamAnanayano dakSAdhvaradhvaMsanaH |· 
+55427 new <S> dhAtA vizvavisRSTimAtranirato devo 'pi gaurIbhujA- · 
+;-----------------
+55428 old daityAriH kamalAkapolamakarIpattrAGkitoraHsthalaH zete 'bdhAvitareSu jantuSu punaH kA nAma zAnteH kathA ||· 
+55428 new zleSAnandavighUrNamAnanayano dakSAdhvaradhvaMsanaH |· 
+;-----------------
+55429 old  
+55429 new daityAriH kamalAkapolamakarIpattrAGkitoraHsthalaH · 
+;-----------------
+55430 old  
+55430 new zete 'bdhAvitareSu jantuSu punaH kA nAma zAnteH kathA ||· 
+;-----------------
+55547 old <S> dhiktasya mandamanasaH kukaveH kavitvaM yaH strImukhaM ca zazinaM ca samaM karoti |· 
+55547 new <S> dhiktasya mandamanasaH kukaveH kavitvaM · 
+;-----------------
+55548 old bhrUbhaGgavibhramakaTAkSanirIkSitAni kopaprasAdahasitAni kutaH zazAGke ||· 
+55548 new yaH strImukhaM ca zazinaM ca samaM karoti |· 
+;-----------------
+55549 old  
+55549 new bhrUbhaGgavibhramakaTAkSanirIkSitAni · 
+;-----------------
+55550 old  
+55550 new kopaprasAdahasitAni kutaH zazAGke ||· 
+;-----------------
+55605 old <S> dhigdhiktAnkRminirvizeSavapuSaH sphUrjanmahAsiddhayo niSyandIkRtazAntayo 'pi ca tapaHkArAgRheSvAsate |· 
+55605 new <S> dhigdhiktAnkRminirvizeSavapuSaH sphUrjanmahAsiddhayo · 
+;-----------------
+55606 old taM vidvAMsamiha stumaH karapuTIbhikSAnnazAke 'pi vA bAlAvakktrasarojinImadhuni vA yasyAvizeSo rasaH ||· 
+55606 new niSyandIkRtazAntayo 'pi ca tapaHkArAgRheSvAsate |· 
+;-----------------
+55607 old  
+55607 new taM vidvAMsamiha stumaH karapuTIbhikSAnnazAke 'pi vA · 
+;-----------------
+55608 old  
+55608 new bAlAvakktrasarojinImadhuni vA yasyAvizeSo rasaH ||· 
+;-----------------
+55638 old <S> dhigvAridaM parihRtAnyajalAzayasya yazcAtakasya kurute na tRSaH prazAntim |· 
+55638 new <S> dhigvAridaM parihRtAnyajalAzayasya · 
+;-----------------
+55639 old dhikcAtakaM tamapi yo 'rthitayAstalajjastaM tAdRzaM ca yadupaiti pipAsito 'pi ||· 
+55639 new yazcAtakasya kurute na tRSaH prazAntim |· 
+;-----------------
+55640 old  
+55640 new dhikcAtakaM tamapi yo 'rthitayAstalajja- · 
+;-----------------
+55641 old  
+55641 new staM tAdRzaM ca yadupaiti pipAsito 'pi ||· 
+;-----------------
+55700 old <S> dhIraM vAridharasya vAri kirataH zrutvA nizIthe dhvaniM dIrghocchU{?} samudazruNA virahiNIM bAlAM ciraM dhyAyatA |· 
+55700 new <S> dhIraM vAridharasya vAri kirataH zrutvA nizIthe dhvaniM · 
+;-----------------
+55701 old adhvanyena vimuktakaNThamakhilAM rAtriM tathA kranditaM grAmINairvrajato janasya vasatirgrAme niSiddhA yathA ||· 
+55701 new dIrghocchvAsamudazruNA virahiNIM bAlAM ciraM dhyAyatA |· 
+;-----------------
+55702 old [Seite2.193]· 
+55702 new adhvanyena vimuktakaNThamakhilAM rAtriM tathA kranditaM · 
+;-----------------
+55703 old  
+55703 new grAmINairvrajato janasya vasatirgrAme niSiddhA yathA ||· 
+;-----------------
+55704 old  
+55704 new [Seite2.193]· 
+;-----------------
+55767 old <S> dhUmAdgADhamalImasAcchuci payaH ghanasyodgamo lohasyAtizitasya jAtiracalAtkuNThAzmamAlAmayAt |· 
+55767 new <S> dhUmAdgADhamalImasAcchuci payaH ghanasyodgamo · 
+;-----------------
+55768 old kiM cAtyantajaDAllalAddyutimato jvAlAdhvajasyodbhavo janmAvadhyanukAriNo na mahatAM satyaM svabhAvAH kvacit ||· 
+55768 new lohasyAtizitasya jAtiracalAtkuNThAzmamAlAmayAt |· 
+;-----------------
+55769 old  
+55769 new kiM cAtyantajaDAllalAddyutimato jvAlAdhvajasyodbhavo · 
+;-----------------
+55770 old  
+55770 new janmAvadhyanukAriNo na mahatAM satyaM svabhAvAH kvacit ||· 
+;-----------------
+55837 old <S> dhUrtairindriyanAmabhiH praNayitAmApAdayadbhiH svayaM saMbhoktuM viSayAnayaM kila pumAnsaukhyAzayA vaJcitaH |· 
+55837 new <S> dhUrtairindriyanAmabhiH praNayitAmApAdayadbhiH svayaM · 
+;-----------------
+55838 old taiH zeSe kRtakRtyatAmupagatairaudAsyamAlambitaM saMpratyeSa vidherniyogavazagaM karmAntarairbadhyate ||· 
+55838 new saMbhoktuM viSayAnayaM kila pumAnsaukhyAzayA vaJcitaH |· 
+;-----------------
+55839 old  
+55839 new taiH zeSe kRtakRtyatAmupagatairaudAsyamAlambitaM · 
+;-----------------
+55840 old  
+55840 new saMpratyeSa vidherniyogavazagaM karmAntarairbadhyate ||· 
+;-----------------
+55895 old <S> dhairyaM yasya pitA kSamA ca jananI zAntizcidaM gehinI satyaM sUnurayaM dayA ca bhaginI manaHsaMyamaH |· 
+55895 new <S> dhairyaM yasya pitA kSamA ca jananI zAntizcidaM gehinI · 
+;-----------------
+55896 old zayyA bhUmitalaM dizo 'pi vasanaM jJAnAmRtaM bhojanaM yasyaite hi kuTumbino vada sakhe kasmAdbhayaM yoginaH ||· 
+55896 new satyaM sUnurayaM dayA ca bhaginI manaHsaMyamaH |· 
+;-----------------
+55897 old  
+55897 new zayyA bhUmitalaM dizo 'pi vasanaM jJAnAmRtaM bhojanaM · 
+;-----------------
+55898 old  
+55898 new yasyaite hi kuTumbino vada sakhe kasmAdbhayaM yoginaH ||· 
+;-----------------
+55973 old <S> dhyAnavyAjamupetya cventayasi kAmunmIlya cakSuH kSaNaM payAnaGgazarAturaM janamimaM trAtApi no rakSasi |· 
+55973 new <S> dhyAnavyAjamupetya cventayasi kAmunmIlya cakSuH kSaNaM · 
+;-----------------
+55974 old mithyA kAruNiko 'pi nirghRNatarastvattaH kuto 'nyaH pumAnserSyaM mAravvadhUbhirityabhihito bauddho jinaH pAtu vaH ||· 
+55974 new payAnaGgazarAturaM janamimaM trAtApi no rakSasi |· 
+;-----------------
+55975 old  
+55975 new mithyA kAruNiko 'pi nirghRNatarastvattaH kuto 'nyaH pumA- · 
+;-----------------
+55976 old  
+55976 new nserSyaM mAravvadhUbhirityabhihito bauddho jinaH pAtu vaH ||· 
+;-----------------
+56078 old <S> dhruvaM dhvaMso bhAvI jalanidhimahIzailasaritAmato mRtyoH zIryattRNalaghuSu kA jantuSu kathA |· 
+56078 new <S> dhruvaM dhvaMso bhAvI jalanidhimahIzailasaritA- · 
+;-----------------
+56079 old tathApyuccairbandhuvyasanajanitaH ko 'pi viSamo vivekapronmAthI dahati hRdayaM zokadahanaH ||· 
+56079 new mato mRtyoH zIryattRNalaghuSu kA jantuSu kathA |· 
+;-----------------
+56080 old  
+56080 new tathApyuccairbandhuvyasanajanitaH ko 'pi viSamo · 
+;-----------------
+56081 old  
+56081 new vivekapronmAthI dahati hRdayaM zokadahanaH ||· 
+;-----------------
+56125 old <S> na kati pitaro dArAH putrAH pitRvyapitAmahA vahati vitate saMsAre 'smingatAstava koTayaH |· 
+56125 new <S> na kati pitaro dArAH putrAH pitRvyapitAmahA · 
+;-----------------
+56126 old tadiha suhRdAM vidyutpAtojjvakAnkSaNasaMgamAnsapadi hRdaye bhUyo bhUyo nivezya sukhI bhava ||· 
+56126 new vahati vitate saMsAre 'smingatAstava koTayaH |· 
+;-----------------
+56127 old  
+56127 new tadiha suhRdAM vidyutpAtojjvakAnkSaNasaMgamA- · 
+;-----------------
+56128 old  
+56128 new nsapadi hRdaye bhUyo bhUyo nivezya sukhI bhava ||· 
+;-----------------
+56742 old <S> na gamyo mantrANAM na ca bhavati bhaiSajyaviSayo na cApi pradhvaMsaM vrajati vividhaiH zAntikazataiH |· 
+56742 new <S> na gamyo mantrANAM na ca bhavati bhaiSajyaviSayo · 
+;-----------------
+56743 old bhramAvezAdaGge kimapi vidadhadbhavyasama smarApasmAro 'yaM bhramayati dRzaM ghUtNayati ca ||· 
+56743 new na cApi pradhvaMsaM vrajati vividhaiH zAntikazataiH |· 
+;-----------------
+56744 old  
+56744 new bhramAvezAdaGge kimapi vidadhadbhavyasamaM · 
+;-----------------
+56745 old  
+56745 new smarApasmAro 'yaM bhramayati dRzaM ghUtNayati ca ||· 
+;-----------------
+56952 old <S> na ca phalati vikarmA jIvaloke na daivaM vyapanayati vimargaM nAsti daive prabhutvam |· 
+56952 new <S> na ca phalati vikarmA jIvaloke na daivaM · 
+;-----------------
+56953 old gurumiva kRtamagryaM karma saMyAti daivaM nayati puruSakAraH saMcitastatra tatra ||· 
+56953 new vyapanayati vimargaM nAsti daive prabhutvam |· 
+;-----------------
+56954 old  
+56954 new gurumiva kRtamagryaM karma saMyAti daivaM · 
+;-----------------
+56955 old  
+56955 new nayati puruSakAraH saMcitastatra tatra ||· 
+;-----------------
+57732 old <S> na tejastejasvI prasRtamapareSAM prasahate sa tasya svo bhAvaH prakRtiniyatatvAdakRtakaH |· 
+57732 new <S> na tejastejasvI prasRtamapareSAM prasahate · 
+;-----------------
+57733 old mayUkhaizrAntaM tapati yadi devo dinakaraH kimAgneyo grAvA nikRta iva tejAMsi vamati ||· 
+57733 new sa tasya svo bhAvaH prakRtiniyatatvAdakRtakaH |· 
+;-----------------
+57734 old  
+57734 new mayUkhaizrAntaM tapati yadi devo dinakaraH · 
+;-----------------
+57735 old  
+57735 new kimAgneyo grAvA nikRta iva tejAMsi vamati ||· 
+;-----------------
+58426 old <S> na dhyAtaM padamIzvarasya vidhivatsaMsAravicchittaye svargadvArakapATanapaTurdharmo 'pi nopArjitaH |· 
+58426 new <S> na dhyAtaM padamIzvarasya vidhivatsaMsAravicchittaye · 
+;-----------------
+58427 old nArIpinapayodharoruyugalaM svapne 'pi nAliGgitaM mAtuH kevalameva yauvanavanacchede kuThArA vayam ||· 
+58427 new svargadvArakapATanapaTurdharmo 'pi nopArjitaH |· 
+;-----------------
+58428 old  
+58428 new nArIpinapayodharoruyugalaM svapne 'pi nAliGgitaM · 
+;-----------------
+58429 old  
+58429 new mAtuH kevalameva yauvanavanacchede kuThArA vayam ||· 
+;-----------------
+58623 old <S> nanvAtmanyavadhIyatAM bhavarase vairAgyamAdhIyatAM bandhubhyo vyavadhIyatAM surasarittIre sadA sthIyatAm |· 
+58623 new <S> nanvAtmanyavadhIyatAM bhavarase vairAgyamAdhIyatAM · 
+;-----------------
+58624 old bhikSArthaM vyavasIyatAM pratidinaM satkarma saMcIyatAM viSNuzcetasi dhIyatAM parataraM brahmAnusaMdhIyatAm ||· 
+58624 new bandhubhyo vyavadhIyatAM surasarittIre sadA sthIyatAm |· 
+;-----------------
+58625 old  
+58625 new bhikSArthaM vyavasIyatAM pratidinaM satkarma saMcIyatAM · 
+;-----------------
+58626 old  
+58626 new viSNuzcetasi dhIyatAM parataraM brahmAnusaMdhIyatAm ||· 
+;-----------------
+58655 old <S> nanvAzrayasthitiriyaM tava kAlakUTa kenottarottaraviziSTapadopadiSTA |· 
+58655 new <S> nanvAzrayasthitiriyaM tava kAlakUTa · 
+;-----------------
+58656 old prAgarNavasya hRdaye vRSalakSmaNo 'tha kaNThe 'dhunA vasasi vAci punaH khalAnAm ||· 
+58656 new kenottarottaraviziSTapadopadiSTA |· 
+;-----------------
+58657 old  
+58657 new prAgarNavasya hRdaye vRSalakSmaNo 'tha · 
+;-----------------
+58658 old  
+58658 new kaNThe 'dhunA vasasi vAci punaH khalAnAm ||· 
+;-----------------
+59079 old <S> na brute paruSAM giraM vitanute na bhrUyugaM bhaGguraM nottaMsaM kSipati kSitau zravaNataH sA me spheTe 'pyAgasi |· 
+59079 new <S> na brute paruSAM giraM vitanute na bhrUyugaM bhaGguraM · 
+;-----------------
+59080 old kAntA garbhagRhe gavAkSavivaravyApAritAkSyA bahiH sakhyA vakktramabhi prayacchati paraM paryazruNI locane ||· 
+59080 new nottaMsaM kSipati kSitau zravaNataH sA me spheTe 'pyAgasi |· 
+;-----------------
+59081 old  
+59081 new kAntA garbhagRhe gavAkSavivaravyApAritAkSyA bahiH · 
+;-----------------
+59082 old  
+59082 new sakhyA vakktramabhi prayacchati paraM paryazruNI locane ||· 
+;-----------------
+59161 old <S> na bhasi niravalambe sIdatA dIrdhakAlaM tvadabhimukhaniviSTottAnacaJcUpuTena |· 
+59161 new <S> na bhasi niravalambe sIdatA dIrghakAlaM · 
+;-----------------
+59162 old jaladhara jaladhArA dUratastAvadAstAM dhvanirapi madhuraste na zrutazcAtakena ||· 
+59162 new tvadabhimukhaniviSTottAnacaJcUpuTena |· 
+;-----------------
+59163 old  
+59163 new jaladhara jaladhArA dUratastAvadAstAM · 
+;-----------------
+59164 old  
+59164 new dhvanirapi madhuraste na zrutazcAtakena ||· 
+;-----------------
+59205 old <S> na bhikSA duSprApA pathi mama mahArAmacarite phalaiH saMpUrNA bhUrapi mRgasucarmApi vasanam |· 
+59205 new <S> na bhikSA duSprApA pathi mama mahArAmacarite · 
+;-----------------
+59206 old sukhairvA duHkhairvA sadRzaparipAkaH khalu sadA trinetraM kastyakttvA dhanalavamadAndhaM praNamati ||· 
+59206 new phalaiH saMpUrNA bhUrapi mRgasucarmApi vasanam |· 
+;-----------------
+59207 old  
+59207 new sukhairvA duHkhairvA sadRzaparipAkaH khalu sadA · 
+;-----------------
+59208 old  
+59208 new trinetraM kastyakttvA dhanalavamadAndhaM praNamati ||· 
+;-----------------
+59236 old <S> na bhobhUSA pUSA kamalavanabhUSA madhukaro vacobhUSA satyaM varavibhavabhUSA vitaraNam |· 
+59236 new <S> na bhobhUSA pUSA kamalavanabhUSA madhukaro · 
+;-----------------
+59237 old manobhUSA maitrI madhusamayabhUSA manasijaH sadobhUSA suktiH sakalaguNabhUSA ca vinayaH ||· 
+59237 new vacobhUSA satyaM varavibhavabhUSA vitaraNam |· 
+;-----------------
+59238 old  
+59238 new manobhUSA maitrI madhusamayabhUSA manasijaH · 
+;-----------------
+59239 old  
+59239 new sadobhUSA suktiH sakalaguNabhUSA ca vinayaH ||· 
+;-----------------
+59305 old <S> namasyAmo devAnnanu hatavidheste 'pi vazagA vidhirvandyuH so 'pi pratiniyatakarmaikaphaladaH |· 
+59305 new <S> namasyAmo devAnnanu hatavidheste 'pi vazagA · 
+;-----------------
+59306 old phalaM karmAyattaM yadi kimamaraiH kiM ca vidhinA namastatkarmabhyo vidhirapi na yebhyaH prabhavati ||· 
+59306 new vidhirvandyuH so 'pi pratiniyatakarmaikaphaladaH |· 
+;-----------------
+59307 old  
+59307 new phalaM karmAyattaM yadi kimamaraiH kiM ca vidhinA · 
+;-----------------
+59308 old  
+59308 new namastatkarmabhyo vidhirapi na yebhyaH prabhavati ||· 
+;-----------------
+59507 old <S> namratvenonnamantaH paraguNanutibhiH svAnguNAnkhyApayantaH svArthAnsaMpAdayanto vitatapRthutarArambhayatnAH parArthe |· 
+59507 new <S> namratvenonnamantaH paraguNanutibhiH svAnguNAnkhyApayantaH · 
+;-----------------
+59508 old kSAntyaivAkSeparUkSAkSaramukharamukhAndurmukhAndUSayantaH santaH sAzcaryacaryA jagati bahumatAH kasya nAbhyarthanIyAH ||· 
+59508 new svArthAnsaMpAdayanto vitatapRthutarArambhayatnAH parArthe |· 
+;-----------------
+59509 old  
+59509 new kSAntyaivAkSeparUkSAkSaramukharamukhAndurmukhAndUSayantaH · 
+;-----------------
+59510 old  
+59510 new santaH sAzcaryacaryA jagati bahumatAH kasya nAbhyarthanIyAH ||· 
+;-----------------
+60089 old <S> navanakhapadamaGgaM gopayasyaMzukena sthagayasi punaroSThaM pANinA dantadaSTam |· 
+60089 new <S> navanakhapadamaGgaM gopayasyaMzukena · 
+;-----------------
+60090 old pratidizamaparastrIsaGgazaMsI visarpannavaparimalagalagandhaH kena zakyo varItum ||· 
+60090 new sthagayasi punaroSThaM pANinA dantadaSTam |· 
+;-----------------
+60091 old  
+60091 new pratidizamaparastrIsaGgazaMsI visarpa- · 
+;-----------------
+60092 old  
+60092 new nnavaparimalagalagandhaH kena zakyo varItum ||· 
+;-----------------
+61092 old <S> na saMsArotpannaM caritamanupazyAmi kuzalaM vipAkaH puNyAnAM janayati bhayaM me vimRzataH |· 
+61092 new <S> na saMsArotpannaM caritamanupazyAmi kuzalaM · 
+;-----------------
+61093 old mahadbhiH puNyaudhaizcirigRhItAzca viSayA mahAnto jAyante vyasanamiva vyasanamiva dAtuM viSayiNAm ||· 
+61093 new vipAkaH puNyAnAM janayati bhayaM me vimRzataH |· 
+;-----------------
+61094 old  
+61094 new mahadbhiH puNyaudhaizcirigRhItAzca viSayA · 
+;-----------------
+61095 old  
+61095 new mahAnto jAyante vyasanamiva vyasanamiva dAtuM viSayiNAm ||· 
+;-----------------
+61539 old <S> na snehena na vidyayA na ca dhiyA rUpeNa zauryeNa vA nerSyAcATubhayArthadAnavinayakrodhakSamAmArdavaiH |· 
+61539 new <S> na snehena na vidyayA na ca dhiyA rUpeNa zauryeNa vA · 
+;-----------------
+61540 old lajjAyauvanabhogasatyakaruNAsattvAdibhirvA guNairgRhyante na vibhUtibhizca lalanA duHzIlacittA yataH ||· 
+61540 new nerSyAcATubhayArthadAnavinayakrodhakSamAmArdavaiH |· 
+;-----------------
+61541 old  
+61541 new lajjAyauvanabhogasatyakaruNAsattvAdibhirvA guNai- · 
+;-----------------
+61542 old  
+61542 new rgRhyante na vibhUtibhizca lalanA duHzIlacittA yataH ||· 
+;-----------------
+62100 old <S> nAkAramudvahasi naiva vikatthase tvaM ditsAM na sUcayasi muJcasi satphalAni |· 
+62100 new <S> nAkAramudvahasi naiva vikatthase tvaM · 
+;-----------------
+62101 old niHzabdavarSaNamivAmbudharasya rAjansaMlakSyate phalata eva tava prasAdaH ||· 
+62101 new ditsAM na sUcayasi muJcasi satphalAni |· 
+;-----------------
+62102 old  
+62102 new niHzabdavarSaNamivAmbudharasya rAja- · 
+;-----------------
+62103 old  
+62103 new nsaMlakSyate phalata eva tava prasAdaH ||· 
+;-----------------
+62207 old <S> nAgo bhAti madenaM kaM jalaruhaiH pUrNendunA zarvarI zIlena pramadA javeta turago nityotsavairmandiram |· 
+62207 new <S> nAgo bhAti madenaM kaM jalaruhaiH pUrNendunA zarvarI · 
+;-----------------
+62208 old vANI vyAkaraNena haMsamithunairnadyaH sabhA paNDitaiH satputreNa kulaM nRpeNa vasudhA lokatrayaM dhArmikaiH ||· 
+62208 new zIlena pramadA javeta turago nityotsavairmandiram |· 
+;-----------------
+62209 old  
+62209 new vANI vyAkaraNena haMsamithunairnadyaH sabhA paNDitaiH · 
+;-----------------
+62210 old  
+62210 new satputreNa kulaM nRpeNa vasudhA lokatrayaM dhArmikaiH ||· 
+;-----------------
+62609 old <S> nAtra vyAdhazarAH patanti parito naivAtra dAvAnalo nAtroccAvacabhItirasti capalA no vAgurA bhaGgurA |· 
+62609 new <S> nAtra vyAdhazarAH patanti parito naivAtra dAvAnalo · 
+;-----------------
+62610 old ityAlocya kuraGgakeNa sahasA nakSatranAthaH zritaH ko jAnAti yadatra dAsyati vidhiH svarbhAnudantavraNam ||· 
+62610 new nAtroccAvacabhItirasti capalA no vAgurA bhaGgurA |· 
+;-----------------
+62611 old  
+62611 new ityAlocya kuraGgakeNa sahasA nakSatranAthaH zritaH · 
+;-----------------
+62612 old  
+62612 new ko jAnAti yadatra dAsyati vidhiH svarbhAnudantavraNam ||· 
+;-----------------
+62638 old <S> nAthe zrIpuruSottame trijagatAmekAdhepe cetasA sevye svasya padasya dAtari sure nArAyaNe tiSThati |· 
+62638 new <S> nAthe zrIpuruSottame trijagatAmekAdhepe cetasA · 
+;-----------------
+62639 old yaM kaMcitpuruSAdhamaM katipayagrAmezamalpArthadaM sevAyai mRgayAmahe naramaho mUDhA varAkA vayam ||· 
+62639 new sevye svasya padasya dAtari sure nArAyaNe tiSThati |· 
+;-----------------
+62640 old  
+62640 new yaM kaMcitpuruSAdhamaM katipayagrAmezamalpArthadaM · 
+;-----------------
+62641 old  
+62641 new sevAyai mRgayAmahe naramaho mUDhA varAkA vayam ||· 
+;-----------------
+62677 old <S> nAdityena vinA dinaM na ca vinA pUrNendunA kaumudI no putreNa vinA kulaM na ca vinA mUlena kAraskaraH |· 
+62677 new <S> nAdityena vinA dinaM na ca vinA pUrNendunA kaumudI · 
+;-----------------
+62678 old no draveNa vinA sukhaM na ca vinA jJAnena tattvaM kvacinnAbhyAsena vinA zrutaM na ca vinA dAnena kIrtistathA ||· 
+62678 new no putreNa vinA kulaM na ca vinA mUlena kAraskaraH |· 
+;-----------------
+62679 old  
+62679 new no draveNa vinA sukhaM na ca vinA jJAnena tattvaM kvaci- · 
+;-----------------
+62680 old  
+62680 new nnAbhyAsena vinA zrutaM na ca vinA dAnena kIrtistathA ||· 
+;-----------------
+62760 old <S> nAdhItaM zabdazAstraM sphuTapadavimalaM hetutattvArthayuktaM zroNIbhArAlasAGgI kucabharanamitA lAlitA no mRgAkSI |· 
+62760 new <S> nAdhItaM zabdazAstraM sphuTapadavimalaM hetutattvArthayuktaM · 
+;-----------------
+62761 old viprebhyo naiva na ca hutamanale nArcito zaMbhudevo hA kaSTaM mandabhAgyo maraNavazagataH kaM varaM prArthayAmi ||· 
+62761 new zroNIbhArAlasAGgI kucabharanamitA lAlitA no mRgAkSI |· 
+;-----------------
+62762 old  
+62762 new viprebhyo naiva na ca hutamanale nArcito zaMbhudevo · 
+;-----------------
+62763 old  
+62763 new hA kaSTaM mandabhAgyo maraNavazagataH kaM varaM prArthayAmi ||· 
+;-----------------
+63203 old <S> nAbhyastA bhuvi vAdivRndadamanI vidyA vinItocitA khaGgAgraiH karikumbhapIThadalanairnAkaM na nItaM yazaH |· 
+63203 new <S> nAbhyastA bhuvi vAdivRndadamanI vidyA vinItocitA · 
+;-----------------
+63204 old kAntAkomalapallavAdhararasaH pIto na candrodaye tAruNyaM gatameva niSphalamaho zUnyAlaye dIpavat ||· 
+63204 new khaGgAgraiH karikumbhapIThadalanairnAkaM na nItaM yazaH |· 
+;-----------------
+63205 old  
+63205 new kAntAkomalapallavAdhararasaH pIto na candrodaye · 
+;-----------------
+63206 old  
+63206 new tAruNyaM gatameva niSphalamaho zUnyAlaye dIpavat ||· 
+;-----------------
+63368 old <S> nAyaM te samayo rahasyamadhunA nidrAti nAtho nahi sthitvA drakSyasi pAlyate prabhuriti dvAreSu yeSAM vacaH |· 
+63368 new <S> nAyaM te samayo rahasyamadhunA nidrAti nAtho nahi · 
+;-----------------
+63369 old cetastAnapahAya yAhi bhavanaM devasya vizveziturnirdauvArikanirdayoktiparuSaM niHsImazarmapradam ||· 
+63369 new sthitvA drakSyasi pAlyate prabhuriti dvAreSu yeSAM vacaH |· 
+;-----------------
+63370 old  
+63370 new cetastAnapahAya yAhi bhavanaM devasya vizvezitu- · 
+;-----------------
+63371 old  
+63371 new rnirdauvArikanirdayoktiparuSaM niHsImazarmapradam ||· 
+;-----------------
+63932 old <S> nArthAH klezazatArjitAH na ca pitA mAtApi no vatsalA bhAryA nApratirUpapauvanavatI naikodarA bhrAtaraH |· 
+63932 new <S> nArthAH klezazatArjitAH na ca pitA mAtApi no vatsalA · 
+;-----------------
+63933 old vizvAsaikarasAnukUlacaritA nAnAvayasyAzca no jIvasyAsya bhavanti mRtyusamaye trANaM na cAlambanam ||· 
+63933 new bhAryA nApratirUpapauvanavatI naikodarA bhrAtaraH |· 
+;-----------------
+63934 old  
+63934 new vizvAsaikarasAnukUlacaritA nAnAvayasyAzca no · 
+;-----------------
+63935 old  
+63935 new jIvasyAsya bhavanti mRtyusamaye trANaM na cAlambanam ||· 
+;-----------------
+63983 old <S> nAryastanvi haThAddharanti ramaNaM tiSThanti no vAritAstatkiM tAmyasi kiM ca rodiSi mudhA tAsAM priyaM mA kRthAH |· 
+63983 new <S> nAryastanvi haThAddharanti ramaNaM tiSThanti no vAritA- · 
+;-----------------
+63984 old kAntaH keliruciryuvA sahRdayastAdRkpatiH kAtare kiM no varkarakarkaraiH priyazatairAkramya vikrIyate ||· 
+63984 new statkiM tAmyasi kiM ca rodiSi mudhA tAsAM priyaM mA kRthAH |· 
+;-----------------
+63985 old  
+63985 new kAntaH keliruciryuvA sahRdayastAdRkpatiH kAtare · 
+;-----------------
+63986 old  
+63986 new kiM no varkarakarkaraiH priyazatairAkramya vikrIyate ||· 
+;-----------------
+64694 old <S> nAhaM svargaphalopagatRSito nAbhyarthitastvaM mayA saMtuSTastRNabhakSaNena hanaM sAdho na yuktaM tava |· 
+64694 new <S> nAhaM svargaphalopagatRSito nAbhyarthitastvaM mayA · 
+;-----------------
+64695 old svarge yAnti yadi tvayA vinihatA yajJe dhruvaM prANino yajJaM kiM na karoSi mAtRpitRbhiH putraistathA bAndhavaiH ||· 
+64695 new saMtuSTastRNabhakSaNena hanaM sAdho na yuktaM tava |· 
+;-----------------
+64696 old  
+64696 new svarge yAnti yadi tvayA vinihatA yajJe dhruvaM prANino · 
+;-----------------
+64697 old  
+64697 new yajJaM kiM na karoSi mAtRpitRbhiH putraistathA bAndhavaiH ||· 
+;-----------------
+64946 old <S> nityaM chedastRNAnAM kSitinakhalikhanaM pAdayorapyapUjA dantAnAmapyazaucaM vasanamalinatA rUkSatA mUrdhajAnAm |· 
+64946 new <S> nityaM chedastRNAnAM kSitinakhalikhanaM pAdayorapyapUjA · 
+;-----------------
+64947 old dvaisaMdhye cApi nidrA vivasanazayanaM grAsahAsAtirekaH svAGge pIThe ca vAdyaM harati dhanapateH kezavasyApi lakSmIm ||· 
+64947 new dantAnAmapyazaucaM vasanamalinatA rUkSatA mUrdhajAnAm |· 
+;-----------------
+64948 old  
+64948 new dvaisaMdhye cApi nidrA vivasanazayanaM grAsahAsAtirekaH · 
+;-----------------
+64949 old  
+64949 new svAGge pIThe ca vAdyaM harati dhanapateH kezavasyApi lakSmIm ||· 
+;-----------------
+64986 old <S> nityaM narendrabhavane parizaGkanIyaM vidyArthinA gurugRhe nibhRtena bhAvyam |· 
+64986 new <S> nityaM narendrabhavane parizaGkanIyaM · 
+;-----------------
+64987 old kSipraM vinAzamupayAnti hi durvinItAH prAdeSikA iva daridragRheSu dIpAH ||· 
+64987 new vidyArthinA gurugRhe nibhRtena bhAvyam |· 
+;-----------------
+64988 old  
+64988 new kSipraM vinAzamupayAnti hi durvinItAH · 
+;-----------------
+64989 old  
+64989 new prAdeSikA iva daridragRheSu dIpAH ||· 
+;-----------------
+65085 old <S> nityaM brahma yathA smaranti munayo haMsA yathA mAnasaM yadvacca sphuTavalkalIvanayutAM dhyAyanti revAM gajAH |· 
+65085 new <S> nityaM brahma yathA smaranti munayo haMsA yathA mAnasaM · 
+;-----------------
+65086 old yuSmaddarzanalAlasAH pratidinaM yuSmAnsmarAmo vayaM dhanyaH ko 'pi sa vAsaro 'tra bhuvane yatrAvayoH saMgamaH ||· 
+65086 new yadvacca sphuTavalkalIvanayutAM dhyAyanti revAM gajAH |· 
+;-----------------
+65087 old  
+65087 new yuSmaddarzanalAlasAH pratidinaM yuSmAnsmarAmo vayaM · 
+;-----------------
+65088 old  
+65088 new dhanyaH ko 'pi sa vAsaro 'tra bhuvane yatrAvayoH saMgamaH ||· 
+;-----------------
+65155 old <S> nidrAti snAti bhuGkte calati kacabharaM zoSayatyantarAste dIvyatyakSairna cAyaM gaditumavasaro bhUyAhi yAhi |· 
+65155 new <S> nidrAti snAti bhuGkte calati kacabharaM zoSayatyantarAste · 
+;-----------------
+65156 old ityuddaNDaiH prabhUNAmasakRdadhikRtairvAritAndvAri dInAnasmAnpazyAbdhikanye sarasirucAmantaraGgairapAGgaiH ||· 
+65156 new dIvyatyakSairna cAyaM gaditumavasaro bhUyAhi yAhi |· 
+;-----------------
+65157 old  
+65157 new ityuddaNDaiH prabhUNAmasakRdadhikRtairvAritAndvAri dInA- · 
+;-----------------
+65158 old  
+65158 new nasmAnpazyAbdhikanye sarasirucAmantaraGgairapAGgaiH ||· 
+;-----------------
+65195 old <S> nidrAmimAM prabalamohamayImapAsya re re janAH kuruta zAzvatavastukRtyam |· 
+65195 new <S> nidrAmimAM prabalamohamayImapAsya · 
+;-----------------
+65196 old ete patantyavirataM praharApadezAdAyustarornibiDamUlabhidaH kuThArAH ||· 
+65196 new re re janAH kuruta zAzvatavastukRtyam |· 
+;-----------------
+65197 old  
+65197 new ete patantyavirataM praharApadezA- · 
+;-----------------
+65198 old  
+65198 new dAyustarornibiDamUlabhidaH kuThArAH ||· 
+;-----------------
+65226 old <S> nindantu nItinipuNA yadi vA stuvantu lakSmIH samAvizatu gacchatu vA yatheSTam |· 
+65226 new <S> nindantu nItinipuNA yadi vA stuvantu · 
+;-----------------
+65227 old adyaiva vA maraNamastu yugAntare vA nyAyyAtpathaH pravicalanti padaM na dhIrAH ||· 
+65227 new lakSmIH samAvizatu gacchatu vA yatheSTam |· 
+;-----------------
+65228 old  
+65228 new adyaiva vA maraNamastu yugAntare vA · 
+;-----------------
+65229 old  
+65229 new nyAyyAtpathaH pravicalanti padaM na dhIrAH ||· 
+;-----------------
+65424 old <S> niyatAviSayavartI prAyazo daNdaSogAjjagati paravaze 'smindurlabhaH sAdhuvRttaH |· 
+65424 new <S> niyatAviSayavartI prAyazo daNdayogA- · 
+;-----------------
+65425 old kRzamatha vikalaM vA vyAdhitaM vAdhanaM vA patimiva kulanArI daNDabhItyAbhyupaiti ||· 
+65425 new jjagati paravaze 'smindurlabhaH sAdhuvRttaH |· 
+;-----------------
+65426 old  
+65426 new kRzamatha vikalaM vA vyAdhitaM vAdhanaM vA · 
+;-----------------
+65427 old  
+65427 new patimiva kulanArI daNDabhItyAbhyupaiti ||· 
+;-----------------
+66060 old <S> nivRttA bhigecchA puruSabahumAno vigalitaH samAnAH svaryAtAH sapadi suhRdo jIvitasamAH |· 
+66060 new <S> nivRttA bhigecchA puruSabahumAno vigalitaH · 
+;-----------------
+66061 old zanairyaSTyutthAnaM ghanatimiraruddhe ca nayane aho bhraSTaH kAyastadapi maraNApAtacakitaH ||· 
+66061 new samAnAH svaryAtAH sapadi suhRdo jIvitasamAH |· 
+;-----------------
+66062 old  
+66062 new zanairyaSTyutthAnaM ghanatimiraruddhe ca nayane · 
+;-----------------
+66063 old  
+66063 new aho bhraSTaH kAyastadapi maraNApAtacakitaH ||· 
+;-----------------
+66093 old <S> nizAratnaM candraH zayanatalaratnaM zazimukhI sabhAratnaM vidvAJchravaNapuTatnaM harikathA |· 
+66093 new <S> nizAratnaM candraH zayanatalaratnaM zazimukhI · 
+;-----------------
+66094 old kalAratnaM gAnaM divigamanaratnaM dinakaro mahAratnaM manye sapadi narasiMhaH kSitipatiH ||· 
+66094 new sabhAratnaM vidvAJchravaNapuTatnaM harikathA |· 
+;-----------------
+66095 old  
+66095 new kalAratnaM gAnaM divigamanaratnaM dinakaro · 
+;-----------------
+66096 old  
+66096 new mahAratnaM manye sapadi narasiMhaH kSitipatiH ||· 
+;-----------------
+66159 old <S> niHzeSacyutacandanaM stanataTaM nirmRSTarAgo 'dharo netre dUramanaJjane pulakitA tanvI taveyaM tanuH |· 
+66159 new <S> niHzeSacyutacandanaM stanataTaM nirmRSTarAgo 'dharo · 
+;-----------------
+66160 old midhyAvAdini dU ti bAndhavajanasyAjJAtapIDAgame vApIM snAtumito gatAsi na punastasyAdhamasyAntikam ||· 
+66160 new netre dUramanaJjane pulakitA tanvI taveyaM tanuH |· 
+;-----------------
+66161 old  
+66161 new midhyAvAdini dU ti bAndhavajanasyAjJAtapIDAgame · 
+;-----------------
+66162 old  
+66162 new vApIM snAtumito gatAsi na punastasyAdhamasyAntikam ||· 
+;-----------------
+66217 old <S> niSkandAH kimu kandarodarabhuvaH kSINAstarUNAM tvacaH kiM zuSkAH saritaH sphuradgirigurugrAvaskhaladvIcayaH |· 
+66217 new <S> niSkandAH kimu kandarodarabhuvaH kSINAstarUNAM tvacaH · 
+;-----------------
+66218 old pratthAnamitastataH pratidinaM kurvadbhirudgrIvibhiryaddvArArpitadRSTibhiH kSitibhujAM vidvadbhirapyAsyate ||· 
+66218 new kiM zuSkAH saritaH sphuradgirigurugrAvaskhaladvIcayaH |· 
+;-----------------
+66219 old  
+66219 new pratthAnamitastataH pratidinaM kurvadbhirudgrIvibhi- · 
+;-----------------
+66220 old  
+66220 new ryaddvArArpitadRSTibhiH kSitibhujAM vidvadbhirapyAsyate ||· 
+;-----------------
+66406 old <S> niHsvo vaSTi zataM zatI dazazataM lakSaM sahasrAdhipo lakSezaH kSitipAlatAM kSitipatizcakrezvaratvaM punaH |· 
+66406 new <S> niHsvo vaSTi zataM zatI dazazataM lakSaM sahasrAdhipo · 
+;-----------------
+66407 old cakrezaH punarindratAM surapatirbrAhmM padaM vAJchati brahmA viSNupadaM hariH zivapadaM tvAzAvadhiM ko gataH ||· 
+66407 new lakSezaH kSitipAlatAM kSitipatizcakrezvaratvaM punaH |· 
+;-----------------
+66408 old  
+66408 new cakrezaH punarindratAM surapatirbrAhmM padaM vAJchati · 
+;-----------------
+66409 old  
+66409 new brahmA viSNupadaM hariH zivapadaM tvAzAvadhiM ko gataH ||· 
+;-----------------
+66561 old <S> nItaM janma navInanIrajavane pItaM madhu svecchayA mAlatyAH kusumeSu yena satataM kelo kRtA helayA |· 
+66561 new <S> nItaM janma navInanIrajavane pItaM madhu svecchayA · 
+;-----------------
+66562 old teneyaM madhugandhalubdhamanasA guJjalatA sevyate hA dhigdaivakRtaM sa eva madhupaH kAM kAM dazAm nAgataH ||· 
+66562 new mAlatyAH kusumeSu yena satataM kelo kRtA helayA |· 
+;-----------------
+66563 old  
+66563 new teneyaM madhugandhalubdhamanasA guJjalatA sevyate · 
+;-----------------
+66564 old  
+66564 new hA dhigdaivakRtaM sa eva madhupaH kAM kAM dazAm nAgataH ||· 
+;-----------------
+66601 old <S> nIirbhUmibhujAM natirguNavatAM hrIraGganAnAM ratirdampatyoH zizavo gRhasya kavitA buddheH prasAdo girAm |· 
+66601 new <S> nIirbhUmibhujAM natirguNavatAM hrIraGganAnAM rati- · 
+;-----------------
+66602 old lAvaNyaM vapuSaH smRtiH sumanasaH zantirdvijasya kSamA zaktasya draviNaM gRhAzramavatAM svAsthyaM satAm maNDanam ||· 
+66602 new rdampatyoH zizavo gRhasya kavitA buddheH prasAdo girAm |· 
+;-----------------
+66603 old  
+66603 new lAvaNyaM vapuSaH smRtiH sumanasaH zantirdvijasya kSamA · 
+;-----------------
+66604 old  
+66604 new zaktasya draviNaM gRhAzramavatAM svAsthyaM satAm maNDanam ||· 
+;-----------------
+66636 old <S> nItvoccairvikSipantaH kRtatuhinakaNAsArasaGgAnparAgAnkaundAnAnanditAlInatitarasurabhInbhUrizo diGnukheSu |· 
+66636 new <S> nItvoccairvikSipantaH kRtatuhinakaNAsArasaGgAnparAgA- · 
+;-----------------
+66637 old ete te kuGkumAktastanakalazabharAsphAlanAducchalantaH pItvA zItkAri vakktraM zizuhariNadRzAM haimanA vAnti vAtAH ||· 
+66637 new nkaundAnAnanditAlInatitarasurabhInbhUrizo diGnukheSu |· 
+;-----------------
+66638 old  
+66638 new ete te kuGkumAktastanakalazabharAsphAlanAducchalantaH · 
+;-----------------
+66639 old  
+66639 new pItvA zItkAri vakktraM zizuhariNadRzAM haimanA vAnti vAtAH ||· 
+;-----------------
+66693 old <S> nUnaM hi te kavivarA viparItabodhA ye nityamAhurabalA iti kAminInAm |· 
+66693 new <S> nUnaM hi te kavivarA viparItabodhA · 
+;-----------------
+66694 old yAbhirvilolatarakadRSTipAtaiH zakrAdayo 'pi vijitAstvabalAH kathaM taH ||· 
+66694 new ye nityamAhurabalA iti kAminInAm |· 
+;-----------------
+66695 old  
+66695 new yAbhirvilolatarakadRSTipAtaiH · 
+;-----------------
+66696 old  
+66696 new zakrAdayo 'pi vijitAstvabalAH kathaM taH ||· 
+;-----------------
+66774 old <S> nRpa kAmAsakto na gaNayati kAryaM na ca hitaM yatheSTaM svacchandaH pravicarati matto jaga iva |· 
+66774 new <S> nRpa kAmAsakto na gaNayati kAryaM na ca hitaM · 
+;-----------------
+66775 old tato mAnAdhymAtaH patati tu yadA zokagahane tadA bhRtye doSAnkSipati ni nijaM vettyavinayam ||· 
+66775 new yatheSTaM svacchandaH pravicarati matto jaga iva |· 
+;-----------------
+66776 old  
+66776 new tato mAnAdhymAtaH patati tu yadA zokagahane · 
+;-----------------
+66777 old  
+66777 new tadA bhRtye doSAnkSipati ni nijaM vettyavinayam ||· 
+;-----------------
+66898 old <S> netA yatra bRhaspatiH praharaNaM vajraM surAH sainikAH svago durgamanugrahaH khalu harerairAvato vAhanam |· 
+66898 new <S> netA yatra bRhaspatiH praharaNaM vajraM surAH sainikAH · 
+;-----------------
+66899 old ityAzcaryabalAnvito 'pi valabhidbhagnaH paraiH saMgare tadvyaktaM nanu daivameva zaraNaM dhigdhigvRthA pauruSam ||· 
+66899 new svago durgamanugrahaH khalu harerairAvato vAhanam |· 
+;-----------------
+66900 old  
+66900 new ityAzcaryabalAnvito 'pi valabhidbhagnaH paraiH saMgare · 
+;-----------------
+66901 old  
+66901 new tadvyaktaM nanu daivameva zaraNaM dhigdhigvRthA pauruSam ||· 
+;-----------------
+67070 old <S> naivAkRtiH phalati naiva kulaM zIlaM vidyApi naiva kulaM na zIlaM vidyApi naiva na ca yatnakRtApi sevA |· 
+67070 new <S> naivAkRtiH phalati naiva kulaM na zIlaM · 
+;-----------------
+67071 old bhAgyAni pUrvatapasA kila saMcitAni kAle phalanti puruSasya yathaiva vRkSAH ||· 
+67071 new vidyApi naiva na ca yatnakRtApi sevA |· 
+;-----------------
+67072 old  
+67072 new bhAgyAni pUrvatapasA kila saMcitAni · 
+;-----------------
+67073 old  
+67073 new kAle phalanti puruSasya yathaiva vRkSAH ||· 
+;-----------------
+67236 old <S> nopAttaM draviNaM kalA na gaNitA mitraM ca nopArjitaM zAstraM nAdhigataM vrataM na caritaM no krIDitaM vAjibhiH |· 
+67236 new <S> nopAttaM draviNaM kalA na gaNitA mitraM ca nopArjitaM · 
+;-----------------
+67237 old kAntAbAhulatAvagUhanasukhaM svapne 'pi nAsvAditaM dhikkaSTaM jananI mayA prasavane duHkhena saMyojitA ||· 
+67237 new zAstraM nAdhigataM vrataM na caritaM no krIDitaM vAjibhiH |· 
+;-----------------
+67238 old  
+67238 new kAntAbAhulatAvagUhanasukhaM svapne 'pi nAsvAditaM · 
+;-----------------
+67239 old  
+67239 new dhikkaSTaM jananI mayA prasavane duHkhena saMyojitA ||· 
+;-----------------
+67272 old <S> no satyena mRgAGka eSa vadanIbhUto na cendIvaradvaMdvaM locanatAM gataM na kanakairapyaGgayaSTiH kRtA |· 
+67272 new <S> no satyena mRgAGka eSa vadanIbhUto na cendIvara- · 
+;-----------------
+67273 old kiM tvevaM kavibhiH pratAritamanAstattvaM vijAnannapi tvaGnAMsAsthimayaM vapurmRgadRzAM janaH sevate ||· 
+67273 new dvaMdvaM locanatAM gataM na kanakairapyaGgayaSTiH kRtA |· 
+;-----------------
+67274 old  
+67274 new kiM tvevaM kavibhiH pratAritamanAstattvaM vijAnannapi · 
+;-----------------
+67275 old  
+67275 new tvaGnAMsAsthimayaM vapurmRgadRzAM janaH sevate ||· 
+;-----------------
+67735 old <S> paJcAsyasya parAbhavAya bhaSako mAmsea gorbhUyasA dadhyannairapi pAyasaiH pratidinaM samvardhito yo mayA |· 
+67735 new <S> paJcAsyasya parAbhavAya bhaSako mAmsea gorbhUyasA · 
+;-----------------
+67736 old so 'yaM siMharavAdguhAntaragamadbhItyAkulaH sambhramAddhantAzA vilayaM gatA hatavigherlAbho paraM govadhaH ||· 
+67736 new dadhyannairapi pAyasaiH pratidinaM samvardhito yo mayA |· 
+;-----------------
+67737 old [Seite2.336]· 
+67737 new so 'yaM siMharavAdguhAntaragamadbhItyAkulaH sambhramA- · 
+;-----------------
+67738 old  
+67738 new ddhantAzA vilayaM gatA hatavigherlAbho paraM govadhaH ||· 
+;-----------------
+67739 old  
+67739 new [Seite2.336]· 
+;-----------------
+67794 old <S> paTAlagne patyau namayati mukhaM jAtavinayA haThAzleSaM vAJchatyapaharati gAtrANi nibhRtam |· 
+67794 new <S> paTAlagne patyau namayati mukhaM jAtavinayA · 
+;-----------------
+67795 old na zaknotyAkhyAtuM smitamukhasakhIdattanayanA hriyA tAmyatyantaH prathamaparihAse navavadhUH ||· 
+67795 new haThAzleSaM vAJchatyapaharati gAtrANi nibhRtam |· 
+;-----------------
+67796 old  
+67796 new na zaknotyAkhyAtuM smitamukhasakhIdattanayanA · 
+;-----------------
+67797 old  
+67797 new hriyA tAmyatyantaH prathamaparihAse navavadhUH ||· 
+;-----------------
+68247 old <S> pattraM naiva yadA karIraviTape doSe vasantasya kiM nolUko 'pyavalokate yadi divA sUryasya kiM dUSaNam |· 
+68247 new <S> pattraM naiva yadA karIraviTape doSe vasantasya kiM · 
+;-----------------
+68248 old dhArA naiva patanti cAtakamukhe meghasya kiM dUSaNaM yatpUrvaM vidhinA lalATalikhitaM tanmArjituM kaH kSamaH ||· 
+68248 new nolUko 'pyavalokate yadi divA sUryasya kiM dUSaNam |· 
+;-----------------
+68249 old [Seite2.342]· 
+68249 new dhArA naiva patanti cAtakamukhe meghasya kiM dUSaNaM · 
+;-----------------
+68250 old  
+68250 new yatpUrvaM vidhinA lalATalikhitaM tanmArjituM kaH kSamaH ||· 
+;-----------------
+68251 old  
+68251 new [Seite2.342]· 
+;-----------------
+68295 old <S> pattrANi kaNTakazataiH pariveSTitAni vArttApi nAsti madhuno rajasAndhakAraH |· 
+68295 new <S> pattrANi kaNTakazataiH pariveSTitAni · 
+;-----------------
+68296 old AmodamAtrarasikena madhuvratena nAlokitAni tava ketaki dUSaNAni ||· 
+68296 new vArttApi nAsti madhuno rajasAndhakAraH |· 
+;-----------------
+68297 old  
+68297 new AmodamAtrarasikena madhuvratena · 
+;-----------------
+68298 old  
+68298 new nAlokitAni tava ketaki dUSaNAni ||· 
+;-----------------
+68313 old <S> patnI premavatI sutaH savinayo bhrAtA guNAlaMkRtaH snigdho bandhujanaH sakhAticaturo nityaprasannaH prabhuH |· 
+68313 new <S> patnI premavatI sutaH savinayo bhrAtA guNAlaMkRtaH · 
+;-----------------
+68314 old nirlobho 'nucaraH parArtizamane prAyeNa yogyaM dhanaM puNyAnAmudayena saMtatiriyaM kasyApi saMpadyate ||· 
+68314 new snigdho bandhujanaH sakhAticaturo nityaprasannaH prabhuH |· 
+;-----------------
+68315 old  
+68315 new nirlobho 'nucaraH parArtizamane prAyeNa yogyaM dhanaM · 
+;-----------------
+68316 old  
+68316 new puNyAnAmudayena saMtatiriyaM kasyApi saMpadyate ||· 
+;-----------------
+68337 old <S> patnIyatyapi mAtaraM madavazAtyatnIM ca mAtrIyati zvabhIyatyapi mandiraM zlathazilaM kUpaM ca gehIyati |· 
+68337 new <S> patnIyatyapi mAtaraM madavazAtyatnIM ca mAtrIyati · 
+;-----------------
+68338 old svalpaM vAryudhIyatIzvarapAM mohAtsthalIyatyapi mitrIyatyapi pArthivaM kimaparaM kuryAnna yanmadyapaH ||· 
+68338 new zvabhIyatyapi mandiraM zlathazilaM kUpaM ca gehIyati |· 
+;-----------------
+68339 old  
+68339 new svalpaM vAryudhIyatIzvarapAM mohAtsthalIyatyapi · 
+;-----------------
+68340 old  
+68340 new mitrIyatyapi pArthivaM kimaparaM kuryAnna yanmadyapaH ||· 
+;-----------------
+68388 old <S> pathi cyutaM tiSThati diSTarakSitaM gRhe sthitaM tadvihataM vinazyati |· 
+68388 new <S> pathi cyutaM tiSThati diSTarakSitaM · 
+;-----------------
+68389 old jIvatyanAtho 'pi tadIkSito vane gRhe 'pi gupto 'sya hato na jIvati ||· 
+68389 new gRhe sthitaM tadvihataM vinazyati |· 
+;-----------------
+68390 old  
+68390 new jIvatyanAtho 'pi tadIkSito vane · 
+;-----------------
+68391 old  
+68391 new gRhe 'pi gupto 'sya hato na jIvati ||· 
+;-----------------
+68493 old <S> padmAkaraM dinakaro vikacIkaroti candro vikAsayati kairavacakravAlam |· 
+68493 new <S> padmAkaraM dinakaro vikacIkaroti · 
+;-----------------
+68494 old nAbhyarthito jaladharo 'pi jalaM dadAti santaH svayaM parahiteSu kRtAbhiyogAH ||· 
+68494 new candro vikAsayati kairavacakravAlam |· 
+;-----------------
+68495 old  
+68495 new nAbhyarthito jaladharo 'pi jalaM dadAti · 
+;-----------------
+68496 old  
+68496 new santaH svayaM parahiteSu kRtAbhiyogAH ||· 
+;-----------------
+68518 old <S> padmAtapatrarasike sarasiruhasya kiM bIjamarpayitumicchasi vApikAyAm |· 
+68518 new <S> padmAtapatrarasike sarasIruhasya · 
+;-----------------
+68519 old kAlaH kalirjagadidaM na kRtajJamajJe sthitva hariSyati mukhasya tavaiva laksmIm ||· 
+68519 new kiM bIjamarpayitumicchasi vApikAyAm |· 
+;-----------------
+68520 old  
+68520 new kAlaH kalirjagadidaM na kRtajJamajJe · 
+;-----------------
+68521 old  
+68521 new sthitva hariSyati mukhasya tavaiva laksmIm ||· 
+;-----------------
+68576 old <S> payoda he vAri dadAsi vA na vA tvadekacittaH punareSa cAtakaH |· 
+68576 new <S> payoda he vAri dadAsi vA na vA · 
+;-----------------
+68577 old varaM mahatyA mriyate pipAsayA tathApi nAnyasya karotyupAsanAm ||· 
+68577 new tvadekacittaH punareSa cAtakaH |· 
+;-----------------
+68578 old  
+68578 new varaM mahatyA mriyate pipAsayA · 
+;-----------------
+68579 old  
+68579 new tathApi nAnyasya karotyupAsanAm ||· 
+;-----------------
+69120 old <S> parAM vinItaH samupaiti sevyatAM mahIpatInAM vinayo vibhUSaNam |· 
+69120 new <S> parAM vinItaH samupaiti sevyatAM · 
+;-----------------
+69121 old pravRttadAno mRdusaMcaratkaraH karIva bhadro vinayena zebhate ||· 
+69121 new mahIpatInAM vinayo vibhUSaNam |· 
+;-----------------
+69122 old  
+69122 new pravRttadAno mRdusaMcaratkaraH · 
+;-----------------
+69123 old  
+69123 new karIva bhadro vinayena zebhate ||· 
+;-----------------
+69237 old <S> parArthAnuSThAne jaDayati nRpaM svArthaparatA parityaktasvArtho niyatamayathArthaH kSitipatiH |· 
+69237 new <S> parArthAnuSThAne jaDayati nRpaM svArthaparatA · 
+;-----------------
+69238 old parArthazcetsvArthAdabhimatataro hanta paravAnparAyattaH prIte kathamiva rasaM vetti puruSaH ||· 
+69238 new parityaktasvArtho niyatamayathArthaH kSitipatiH |· 
+;-----------------
+69239 old  
+69239 new parArthazcetsvArthAdabhimatataro hanta paravA- · 
+;-----------------
+69240 old  
+69240 new nparAyattaH prIte kathamiva rasaM vetti puruSaH ||· 
+;-----------------
+69258 old <S> parikSINaH kazcitspRhayati yavAnAM prasRtaye sa pazcAtsaMpUrNe gaNayati dharitrIM tRNasamAm |· 
+69258 new <S> parikSINaH kazcitspRhayati yavAnAM prasRtaye · 
+;-----------------
+69259 old atazcAnekAntyA gurulaghutayArtheSu dhaninAmavasthA vastUni prathayati ca saMkocayati ca ||· 
+69259 new sa pazcAtsaMpUrNe gaNayati dharitrIM tRNasamAm |· 
+;-----------------
+69260 old  
+69260 new atazcAnekAntyA gurulaghutayArtheSu dhaninA- · 
+;-----------------
+69261 old  
+69261 new mavasthA vastUni prathayati ca saMkocayati ca ||· 
+;-----------------
+69415 old <S> paribhramasi kiM vRthA kvacana citta vizramyatAM svayaM bhavati yadyathA bhavati tattathA nAnyathA |· 
+69415 new <S> paribhramasi kiM vRthA kvacana citta vizramyatAM · 
+;-----------------
+69416 old atItamapi na smarannapi ca bhAvyasaMkalpayannatarkitagamAgamAnanubhavasva bhogAniha ||· 
+69416 new svayaM bhavati yadyathA bhavati tattathA nAnyathA |· 
+;-----------------
+69417 old  
+69417 new atItamapi na smarannapi ca bhAvyasaMkalpaya- · 
+;-----------------
+69418 old  
+69418 new nnatarkitagamAgamAnanubhavasva bhogAniha ||· 
+;-----------------
+69440 old <S> parimalabhRto vAtAH zAkhA navAGkurakoTayo madhupavirutotkNThA vAcaH priyAH pika{?} pakSiNAm |· 
+69440 new <S> parimalabhRto vAtAH zAkhA navAGkurakoTayo · 
+;-----------------
+69441 old viralasuratasvedodgArA vadhUvadanendavaH prasarati madhau rAtryAM jAto na kasya guNodayaH ||· 
+69441 new madhupavirutotkNThA vAcaH priyAH pika{?} pakSiNAm |· 
+;-----------------
+69442 old  
+69442 new viralasuratasvedodgArA vadhUvadanendavaH · 
+;-----------------
+69443 old  
+69443 new prasarati madhau rAtryAM jAto na kasya guNodayaH ||· 
+;-----------------
+69473 old <S> parimlAne mAne mukhazazini tasyAH karadhRte mayi kSINopAye praNipatanamAtraikazaraNe |· 
+69473 new <S> parimlAne mAne mukhazazini tasyAH karadhRte · 
+;-----------------
+69474 old tayA pakSmaprAntavrajapuTaniruddhena sahasA prasAdo bASpeNa stanataTavizIrNena kathitaH ||· 
+69474 new mayi kSINopAye praNipatanamAtraikazaraNe |· 
+;-----------------
+69475 old  
+69475 new tayA pakSmaprAntavrajapuTaniruddhena sahasA · 
+;-----------------
+69476 old  
+69476 new prasAdo bASpeNa stanataTavizIrNena kathitaH ||· 
+;-----------------
+69527 old <S> pariharati na mRtyuH paNDitaM zrotriyaM vA dhanakanakasamRddhaM bAhuvI ryocchritaM vA |· 
+69527 new <S> pariharati na mRtyuH paNDitaM zrotriyaM vA · 
+;-----------------
+69528 old tapasi niyatayuktaM susthitaM duHkhitaM vA vanagata iva vahniH sarvabhakSI kRtAntaH ||· 
+69528 new dhanakanakasamRddhaM bAhuvI ryocchritaM vA |· 
+;-----------------
+69529 old  
+69529 new tapasi niyatayuktaM susthitaM duHkhitaM vA · 
+;-----------------
+69530 old  
+69530 new vanagata iva vahniH sarvabhakSI kRtAntaH ||· 
+;-----------------
+69580 old <S> parIvAdastathyo bhavati vitatho vApi mahatAM tathApyuccairdhAmnAM harati mahimAnaM janaravaH |· 
+69580 new <S> parIvAdastathyo bhavati vitatho vApi mahatAM · 
+;-----------------
+69581 old tulottIrNasyApi prakaTanihatAzeSatamaso ravestAdRktejo nahi bhavati kanyAM gatavataH ||· 
+69581 new tathApyuccairdhAmnAM harati mahimAnaM janaravaH |· 
+;-----------------
+69582 old  
+69582 new tulottIrNasyApi prakaTanihatAzeSatamaso · 
+;-----------------
+69583 old  
+69583 new ravestAdRktejo nahi bhavati kanyAM gatavataH ||· 
+;-----------------
+69666 old <S> pareSAM cetAMsi pratidivasamArAdhya bahudhA prasAdaM kiM netuM vizasi hRdaya klezakalilam |· 
+69666 new <S> pareSAM cetAMsi pratidivasamArAdhya bahudhA · 
+;-----------------
+69667 old prasanne tvayyeva svauamuditacintAmaNiguNo viviktaH saMkalpaH kimabhilaSitaM puSyati na te ||· 
+69667 new prasAdaM kiM netuM vizasi hRdaya klezakalilam |· 
+;-----------------
+69668 old  
+69668 new prasanne tvayyeva svauamuditacintAmaNiguNo · 
+;-----------------
+69669 old  
+69669 new viviktaH saMkalpaH kimabhilaSitaM puSyati na te ||· 
+;-----------------
+69915 old <S> paro 'pyapatyaM hitakRdyathauSadhaM svadehajo 'pyAmayavatsuto 'hitaH |· 
+69915 new <S> paro 'pyapatyaM hitakRdyathauSadhaM · 
+;-----------------
+69916 old chindyAttadaGgaM yadutyAtmano 'hitaM zeSaM sukhaM jIvati yadvivarjanAt ||· 
+69916 new svadehajo 'pyAmayavatsuto 'hitaH |· 
+;-----------------
+69917 old  
+69917 new chindyAttadaGgaM yadutyAtmano 'hitaM · 
+;-----------------
+69918 old  
+69918 new zeSaM sukhaM jIvati yadvivarjanAt ||· 
+;-----------------
+70263 old <S> pazyAmaH kimiyaM prapadyata iti thairyaM mayAlambitaM kiM mAM nAlapatItyayaM khalu zaThaH kopastayApyAzritaH |· 
+70263 new <S> pazyAmaH kimiyaM prapadyata iti thairyaM mayAlambitaM · 
+;-----------------
+70264 old itanyo 'nyavilakSyadRSTicature tasminnavasthAntare savyAjaM hasitaM mayA dhRtiharo bASpastu muktastayA ||· 
+70264 new kiM mAM nAlapatItyayaM khalu zaThaH kopastayApyAzritaH |· 
+;-----------------
+70265 old  
+70265 new itanyo 'nyavilakSyadRSTicature tasminnavasthAntare · 
+;-----------------
+70266 old  
+70266 new savyAjaM hasitaM mayA dhRtiharo bASpastu muktastayA ||· 
+;-----------------
+70306 old <S> pazyAzleSavizIrNacandanarajaHpuJjaprakarSAdiyaM zayyAsaMprati komalAGgi kaThinetyAropya mAM vakSasi |· 
+70306 new <S> pazyAzleSavizIrNacandanarajaHpuJjaprakarSAdiyaM · 
+;-----------------
+70307 old gADhauSThagrahapIDanAkulatayA pAdAgrasaMdaMzakenAkRSyAmbaramAtmano yaducitaM dhUrte tatprastutam ||· 
+70307 new zayyAsaMprati komalAGgi kaThinetyAropya mAM vakSasi |· 
+;-----------------
+70308 old  
+70308 new gADhauSThagrahapIDanAkulatayA pAdAgrasaMdaMzake- · 
+;-----------------
+70309 old  
+70309 new nAkRSyAmbaramAtmano yaducitaM dhUrte tatprastutam ||· 
+;-----------------
+70343 old <S> pAkazcenna zubhasya me 'dya radasau prAgeva nAdAtkimu svArthazcenna mayAsya kiM na bhajate dInAnsvabandhUnayam |· 
+70343 new <S> pAkazcenna zubhasya me 'dya radasau prAgeva nAdAtkimu · 
+;-----------------
+70344 old matto randhradRzo 'sya bhIryadi na tallubdhaH kimeSa tyajedityantaH puruSAdhamaH kalayati prAyaH kRtopakriyaH ||· 
+70344 new svArthazcenna mayAsya kiM na bhajate dInAnsvabandhUnayam |· 
+;-----------------
+70345 old  
+70345 new matto randhradRzo 'sya bhIryadi na tallubdhaH kimeSa tyaje- · 
+;-----------------
+70346 old  
+70346 new dityantaH puruSAdhamaH kalayati prAyaH kRtopakriyaH ||· 
+;-----------------
+70382 old <S> pANiH pAtraM pavitraM bhramaNaparigataM bhaikSamakSayyamannaM vastraM vistIrNamAzakamamalinaM talpamasvalpamurvI |· 
+70382 new <S> pANiH pAtraM pavitraM bhramaNaparigataM bhaikSamakSayyamannaM · 
+;-----------------
+70383 old yeSAM niHsaGgatAGgIkaraNapariNatiH svAntasaMtoSiNaste dhanyAH saMnyastadainyavyatikaranikarAH karma nirmUlayanti ||· 
+70383 new vastraM vistIrNamAzakamamalinaM talpamasvalpamurvI |· 
+;-----------------
+70384 old  
+70384 new yeSAM niHsaGgatAGgIkaraNapariNatiH svAntasaMtoSiNaste · 
+;-----------------
+70385 old  
+70385 new dhanyAH saMnyastadainyavyatikaranikarAH karma nirmUlayanti ||· 
+;-----------------
+70433 old <S> pANiM pAtrAyatAM nisargazucinA bhaikSeNa saMtuSyatAM yatra kvApi niSIdatAM bahutRNaM vizvaM muhuH pazyatAm |· 
+70433 new <S> pANiM pAtrAyatAM nisargazucinA bhaikSeNa saMtuSyatAM · 
+;-----------------
+70434 old atyAge 'pi tanorakhaNDaparamAnandAvabodhaspRhAM martyaH ko 'pi zivaprasAdasulabhAM saMpatsyate yoginAm ||· 
+70434 new yatra kvApi niSIdatAM bahutRNaM vizvaM muhuH pazyatAm |· 
+;-----------------
+70435 old [Seite2.369]· 
+70435 new atyAge 'pi tanorakhaNDaparamAnandAvabodhaspRhAM · 
+;-----------------
+70436 old  
+70436 new martyaH ko 'pi zivaprasAdasulabhAM saMpatsyate yoginAm ||· 
+;-----------------
+70437 old  
+70437 new [Seite2.369]· 
+;-----------------
+70460 old <S> pANDityaM madakhaNDanAvadhi kavitvaM sarvatoSAvadhi tyAgaH sarvadhanAvadhiH paraparitrANaM zarIrAvadhi |· 
+70460 new <S> pANDityaM madakhaNDanAvadhi kavitvaM sarvatoSAvadhi · 
+;-----------------
+70461 old sevA svAmiphalAvadhirvyavasitiH prArabdhalAbhAvadhiH khyAtiH kSmAvalayAvadhirniravadhiH snehaH satAM sarvadA ||· 
+70461 new tyAgaH sarvadhanAvadhiH paraparitrANaM zarIrAvadhi |· 
+;-----------------
+70462 old  
+70462 new sevA svAmiphalAvadhirvyavasitiH prArabdhalAbhAvadhiH · 
+;-----------------
+70463 old  
+70463 new khyAtiH kSmAvalayAvadhirniravadhiH snehaH satAM sarvadA ||· 
+;-----------------
+70524 old <S> pAtAlaM viza medinIM khana bhRzaM vANijyamaGgIkuru tvaM pAthodhimazaGkitena manasA dezAntaraM gaccha vA |· 
+70524 new <S> pAtAlaM viza medinIM khana bhRzaM vANijyamaGgIkuru · 
+;-----------------
+70525 old khaGgavyagrakaro vidhehi satataM rAjJAM sabhAsevanaM daive krUratare tathApi jaTharaM bhoH kRcchramApUryate ||· 
+70525 new tvaM pAthodhimazaGkitena manasA dezAntaraM gaccha vA |· 
+;-----------------
+70526 old  
+70526 new khaGgavyagrakaro vidhehi satataM rAjJAM sabhAsevanaM · 
+;-----------------
+70527 old  
+70527 new daive krUratare tathApi jaTharaM bhoH kRcchramApUryate ||· 
+;-----------------
+70547 old <S> pAtAlamAvizasi yAsi nabho vilaGghya diGmaNDalaM bhramasi mAnasa cApalena |· 
+70547 new <S> pAtAlamAvizasi yAsi nabho vilaGghya · 
+;-----------------
+70548 old bhrAntvApi jAtu vimalaM kathamAtmalInaM tadbrahma na smarasi nirvRtimeSi yena ||· 
+70548 new diGmaNDalaM bhramasi mAnasa cApalena |· 
+;-----------------
+70549 old  
+70549 new bhrAntvApi jAtu vimalaM kathamAtmalInaM · 
+;-----------------
+70550 old  
+70550 new tadbrahma na smarasi nirvRtimeSi yena ||· 
+;-----------------
+70710 old <S> pAtre muktinibandhanaM taditare prodyannayAkhyApakaM mitre prItivivardhanaM narapatau saMmAnadAnapradam |· 
+70710 new <S> pAtre muktinibandhanaM taditare prodyannayAkhyApakaM · 
+;-----------------
+70711 old bhRtye bhaktibharAvahaM ripujane vairApahArakSamaM bhrAtrAdau ca yazaskaraM na kvapyaho niSphalam ||· 
+70711 new mitre prItivivardhanaM narapatau saMmAnadAnapradam |· 
+;-----------------
+70712 old  
+70712 new bhRtye bhaktibharAvahaM ripujane vairApahArakSamaM · 
+;-----------------
+70713 old  
+70713 new bhrAtrAdau ca yazaskaraM na kvapyaho niSphalam ||· 
+;-----------------
+70754 old <S> pAdanyAsaM kSitidharagurormUrdhri kRtvA sumeroH krAntaM yena kSapitatamasA madhyamaM dhAma viSNoH |· 
+70754 new <S> pAdanyAsaM kSitidharagurormUrdhri kRtvA sumeroH · 
+;-----------------
+70755 old so 'yaM candraH patati gaganAdalpazeSairmUyakhairatyArUDhirbhavati mahatAmapyapabhraMzaniSThA ||· 
+70755 new krAntaM yena kSapitatamasA madhyamaM dhAma viSNoH |· 
+;-----------------
+70756 old  
+70756 new so 'yaM candraH patati gaganAdalpazeSairmUyakhai- · 
+;-----------------
+70757 old  
+70757 new ratyArUDhirbhavati mahatAmapyapabhraMzaniSThA ||· 
+;-----------------
+70817 old <S> pAdAsakte suciramiha te vAmatA kaiva kAnte sanmArgadthe praNayini jane kopane ko 'parAdhaH |· 
+70817 new <S> pAdAsakte suciramiha te vAmatA kaiva kAnte · 
+;-----------------
+70818 old itthaM tasyAH parijanakathAkopavegopazAntau bASpodbhedaistadau sahasA na sthitaM na prayAtam ||· 
+70818 new sanmArgadthe praNayini jane kopane ko 'parAdhaH |· 
+;-----------------
+70819 old  
+70819 new itthaM tasyAH parijanakathAkopavegopazAntau · 
+;-----------------
+70820 old  
+70820 new bASpodbhedaistadau sahasA na sthitaM na prayAtam ||· 
+;-----------------
+70863 old <S> pAdAhato 'pi dRDhadaNDasamAhato 'pi yaM daMSTrayA spRzati taM kila hanti sarpaH |· 
+70863 new <S> pAdAhato 'pi dRDhadaNDasamAhato 'pi · 
+;-----------------
+70864 old ko 'pyeSa eva pizunogramanuSyadharmaH karNe 'paraM spRzati hantyiparaM samUlam ||· 
+70864 new yaM daMSTrayA spRzati taM kila hanti sarpaH |· 
+;-----------------
+70865 old  
+70865 new ko 'pyeSa eva pizunogramanuSyadharmaH · 
+;-----------------
+70866 old  
+70866 new karNe 'paraM spRzati hantyiparaM samUlam ||· 
+;-----------------
+71022 old <S> pAnthastrIvirahAnalAhutikathAmAtanvatI maJjarI mAkandeSu pikAGganAbhiradhunA sotkaNThamAlokyate |· 
+71022 new <S> pAnthastrIvirahAnalAhutikathAmAtanvatI maJjarI · 
+;-----------------
+71023 old apyete navamAlikAparimalaprAgbhArapATaccarA vAnti klAntivitAnatAnavakRtaH zrIkhaNDazailAnilAH ||· 
+71023 new mAkandeSu pikAGganAbhiradhunA sotkaNThamAlokyate |· 
+;-----------------
+71024 old [Seite2.376]· 
+71024 new apyete navamAlikAparimalaprAgbhArapATaccarA · 
+;-----------------
+71025 old  
+71025 new vAnti klAntivitAnatAnavakRtaH zrIkhaNDazailAnilAH ||· 
+;-----------------
+71026 old  
+71026 new [Seite2.376]· 
+;-----------------
+71060 old <S> pAnthAnAmiva vartmani kSitiruhAM nadyAmiva bhrzyatAM meghAnAmiva puSkare jalanidhau sAMyAtrikANAmiva |· 
+71060 new <S> pAnthAnAmiva vartmani kSitiruhAM nadyAmiva bhrzyatAM · 
+;-----------------
+71061 old saMyogaH pitRmAtRbandhutanayabhrAtRpriyANAM yadA siddho bhUriviyoga eva viduSAM zekodayaH kastadA ||· 
+71061 new meghAnAmiva puSkare jalanidhau sAMyAtrikANAmiva |· 
+;-----------------
+71062 old  
+71062 new saMyogaH pitRmAtRbandhutanayabhrAtRpriyANAM yadA · 
+;-----------------
+71063 old  
+71063 new siddho bhUriviyoga eva viduSAM zekodayaH kastadA ||· 
+;-----------------
+71218 old <S> pApAnnivArayati yojayate hitAya guhyAni gUhati guNAnprakaTIkaroti |· 
+71218 new <S> pApAnnivArayati yojayate hitAya · 
+;-----------------
+71219 old ApadgataM ca na jahAti dadAti kAle sanmitralakSaNamidaM pravadanti santaH ||· 
+71219 new guhyAni gUhati guNAnprakaTIkaroti |· 
+;-----------------
+71220 old  
+71220 new ApadgataM ca na jahAti dadAti kAle · 
+;-----------------
+71221 old  
+71221 new sanmitralakSaNamidaM pravadanti santaH ||· 
+;-----------------
+71295 old <S> pArIndrasya parAbhavAya surabhImAMsena durmedhasA puSyante kila pIvarAH kaTugiraH zvAnaH prayatnAdamI |· 
+71295 new <S> pArIndrasya parAbhavAya surabhImAMsena durmedhasA · 
+;-----------------
+71296 old na tvevaM madamattavAraNacamUvidrAvaNaH kesarI jetavyo bhavatA kirAtanRpate lAbhaH paraM govadhaH ||· 
+71296 new puSyante kila pIvarAH kaTugiraH zvAnaH prayatnAdamI |· 
+;-----------------
+71297 old  
+71297 new na tvevaM madamattavAraNacamUvidrAvaNaH kesarI · 
+;-----------------
+71298 old  
+71298 new jetavyo bhavatA kirAtanRpate lAbhaH paraM govadhaH ||· 
+;-----------------
+71662 old <S> pItaH kruddhena tAtazcaraNatalahato vallabho 'nyena roSAdA bAlyArdvipraryaiH svavadanavivare dhAryate vairiNI me |· 
+71662 new <S> pItaH kruddhena tAtazcaraNatalahato vallabho 'nyena roSA- · 
+;-----------------
+71663 old gehaM me chedayanti pratidivasamumAkAntapUjAnimittAttasmAtkhinnA sadAhaM dvijakulanilayaM nAtha yuktaM tyajAmi ||· 
+71663 new dA bAlyArdvipraryaiH svavadanavivare dhAryate vairiNI me |· 
+;-----------------
+71664 old  
+71664 new gehaM me chedayanti pratidivasamumAkAntapUjAnimittA- · 
+;-----------------
+71665 old  
+71665 new ttasmAtkhinnA sadAhaM dvijakulanilayaM nAtha yuktaM tyajAmi ||· 
+;-----------------
+71692 old <S> pItaM durgandhatoyaM kisalayaracite prastare cApi suptaM soDhaH kAntAviyogo nijamaraNabhayAddInamuktaM pareSAm |· 
+71692 new <S> pItaM durgandhatoyaM kisalayaracite prastare cApi suptaM · 
+;-----------------
+71693 old padbhyAM yAtaM payodhestaraNamapi kRtaM prAvRtaM karpaTArdhaM taSNe kartavyamanyadbhavati yadi hate kSipramAdizyatAM tat ||· 
+71693 new soDhaH kAntAviyogo nijamaraNabhayAddInamuktaM pareSAm |· 
+;-----------------
+71694 old  
+71694 new padbhyAM yAtaM payodhestaraNamapi kRtaM prAvRtaM karpaTArdhaM · 
+;-----------------
+71695 old  
+71695 new taSNe kartavyamanyadbhavati yadi hate kSipramAdizyatAM tat ||· 
+;-----------------
+71716 old <S> pItastuSArakiraNo madhunaiva sArdhamantaH pravizya caSake pratibimbavartI |· 
+71716 new <S> pItastuSArakiraNo madhunaiva sArdha- · 
+;-----------------
+71717 old mAnAndhakAramapi mAnavatIjanasya nUnaM bibheda yadasau prasasAda sadyaH ||· 
+71717 new mantaH pravizya caSake pratibimbavartI |· 
+;-----------------
+71718 old  
+71718 new mAnAndhakAramapi mAnavatIjanasya · 
+;-----------------
+71719 old  
+71719 new nUnaM bibheda yadasau prasasAda sadyaH ||· 
+;-----------------
+71734 old <S> pIto yataH prabhRti kAmapipAsitena tasyA mayAdhararasaH pracuraH priyAyAH |· 
+71734 new <S> pIto yataH prabhRti kAmapipAsitena · 
+;-----------------
+71735 old tRSNA tataH prabhRti me dviguNatvameti lAvaNyamasti bahu tatra kimatra citram ||· 
+71735 new tasyA mayAdhararasaH pracuraH priyAyAH |· 
+;-----------------
+71736 old  
+71736 new tRSNA tataH prabhRti me dviguNatvameti · 
+;-----------------
+71737 old  
+71737 new lAvaNyamasti bahu tatra kimatra citram ||· 
+;-----------------
+71802 old <S> puMsA viSaM ca viSayAzca nirUpyamANAH zreyo viSaM na viSayA viSamasvabhAvAH |· 
+71802 new <S> puMsA viSaM ca viSayAzca nirUpyamANAH · 
+;-----------------
+71803 old ekatra janmani viSaM viSatAM prayAti janmAntare 'pi viSayA viSatAM prayAnti ||· 
+71803 new zreyo viSaM na viSayA viSamasvabhAvAH |· 
+;-----------------
+71804 old  
+71804 new ekatra janmani viSaM viSatAM prayAti · 
+;-----------------
+71805 old  
+71805 new janmAntare 'pi viSayA viSatAM prayAnti ||· 
+;-----------------
+71922 old <S> puNye grAme vane vA mahati sitapaTacchannapAlIM kapAlImAdAya nyAyagarbhadvijahutabhugdhUmadhUmnopakaNThe |· 
+71922 new <S> puNye grAme vane vA mahati sitapaTacchannapAlIM kapAlI- · 
+;-----------------
+71923 old dvAraM dvAraM praviSTo daramudaradarIpUraNAya kSudhArto mAnI prANI sanAtho na panaranadinaM tulyakulyeSu dInaH ||· 
+71923 new mAdAya nyAyagarbhadvijahutabhugdhUmadhUmnopakaNThe |· 
+;-----------------
+71924 old  
+71924 new dvAraM dvAraM praviSTo daramudaradarIpUraNAya kSudhArto · 
+;-----------------
+71925 old  
+71925 new mAnI prANI sanAtho na panaranadinaM tulyakulyeSu dInaH ||· 
+;-----------------
+71965 old <S> puNyairmUlaphalaiH priya praNayinI vRttiM kuruSvAdhunA bhUzayyAM navapallavairakaraNairuttiSTha yAmo vanam |· 
+71965 new <S> puNyairmUlaphalaiH priya praNayinI vRttiM kuruSvAdhunA · 
+;-----------------
+71966 old kSudrANAmavivekamUDhamanasAM yatrezvarANAM sadA vittavyAdhivikAravihvalagirAM nAmApi na zrUyate ||· 
+71966 new bhUzayyAM navapallavairakaraNairuttiSTha yAmo vanam |· 
+;-----------------
+71967 old  
+71967 new kSudrANAmavivekamUDhamanasAM yatrezvarANAM sadA · 
+;-----------------
+71968 old  
+71968 new vittavyAdhivikAravihvalagirAM nAmApi na zrUyate ||· 
+;-----------------
+72175 old <S> putraH syAditi duHkhitaH sati sute tasyAmaye duHkhitastaduHkhAdikamajjane tadanaye tanmUrkhatAduHkhitaH |· 
+72175 new <S> putraH syAditi duHkhitaH sati sute tasyAmaye duHkhita- · 
+;-----------------
+72176 old jAtazcetsaguNo 'tha tanmRtibhayaM tasminmRte duHkhitaH putravyAjamupAgato ripurayaM mA kasyacijjAyatAm ||· 
+72176 new stadduHkhAdikamajjane tadanaye tanmUrkhatAduHkhitaH |· 
+;-----------------
+72177 old  
+72177 new jAtazcetsaguNo 'tha tanmRtibhayaM tasminmRte duHkhitaH · 
+;-----------------
+72178 old  
+72178 new putravyAjamupAgato ripurayaM mA kasyacijjAyatAm ||· 
+;-----------------
+72203 old <S> putrAdapi priyataraM niyamena manye dAnaM pazorapi vivekavivarjitasya |· 
+72203 new <S> putrAdapi priyataraM niyamena manye · 
+;-----------------
+72204 old datte khale 'pi nikhilaM khalu yena dugdhaM nityaM dadAti mahiSI sasutApi pazya ||· 
+72204 new dAnaM pazorapi vivekavivarjitasya |· 
+;-----------------
+72205 old  
+72205 new datte khale 'pi nikhilaM khalu yena dugdhaM · 
+;-----------------
+72206 old  
+72206 new nityaM dadAti mahiSI sasutApi pazya ||· 
+;-----------------
+72362 old <S> punaH prabhAtaM punareva zarvarI punaH zazAGkaH punarutthito raviH |· 
+72362 new <S> punaH prabhAtaM punareva zarvarI · 
+;-----------------
+72363 old kAle punargacchati yAti jIvitaM tathApi lokaH svahitaM na manyate ||· 
+72363 new punaH zazAGkaH punarutthito raviH |· 
+;-----------------
+72364 old  
+72364 new kAle punargacchati yAti jIvitaM · 
+;-----------------
+72365 old  
+72365 new tathApi lokaH svahitaM na manyate ||· 
+;-----------------
+72560 old <S> purastavyA gotraskhalanacakito 'haM natamukhaH pravRtto vailakSyAtkimapi likhituM daivahatakaH |· 
+72560 new <S> purastavyA gotraskhalanacakito 'haM natamukhaH · 
+;-----------------
+72561 old sphuTo rekhAnyAsaH kathamapi sa tAdRkpariNato gatA yena vyaktiM punaravayavaiH saiva taruNI ||· 
+72561 new pravRtto vailakSyAtkimapi likhituM daivahatakaH |· 
+;-----------------
+72562 old  
+72562 new sphuTo rekhAnyAsaH kathamapi sa tAdRkpariNato · 
+;-----------------
+72563 old  
+72563 new gatA yena vyaktiM punaravayavaiH saiva taruNI ||· 
+;-----------------
+72644 old <S> purAbhUdasmAkaM niyatamavibhinnA tanuriyaM tato nu tvaM proyAnvayamapi hatAzAH priyatamAH |· 
+72644 new <S> purAbhUdasmAkaM niyatamavibhinnA tanuriyaM · 
+;-----------------
+72645 old idAnIM nAthastvaM vayamapi kalatraM kimaparaM mayAptaM prANAnAM kulizakaThinAnAM phalamidam ||· 
+72645 new tato nu tvaM proyAnvayamapi hatAzAH priyatamAH |· 
+;-----------------
+72646 old  
+72646 new idAnIM nAthastvaM vayamapi kalatraM kimaparaM · 
+;-----------------
+72647 old  
+72647 new mayAptaM prANAnAM kulizakaThinAnAM phalamidam ||· 
+;-----------------
+72672 old <S> purA vidvattAsIdamalinadhiyAM klezahataye gatA kAlenAsau viSayasukhasiddhyai viSayiNAm |· 
+72672 new <S> purA vidvattAsIdamalinadhiyAM klezahataye · 
+;-----------------
+72673 old idAnIM saMprakSya kSitilavabhujaH zAstravimukhAnaho kaSTaM sApi pratidinamadho 'dhaH pravizati ||· 
+72673 new gatA kAlenAsau viSayasukhasiddhyai viSayiNAm |· 
+;-----------------
+72674 old  
+72674 new idAnIM saMprakSya kSitilavabhujaH zAstravimukhA- · 
+;-----------------
+72675 old  
+72675 new naho kaSTaM sApi pratidinamadho 'dhaH pravizati ||· 
+;-----------------
+72785 old <S> puro revA pAre giriratidurArohazikharo dhanurbANaiH pazcAcchabarakavare dhAvati mRgam |· 
+72785 new <S> puro revA pAre giriratidurArohazikharo · 
+;-----------------
+72786 old saraH savye 'savye davadahanadAhavyatikaro na gantuM na sthAtuM hariNazizurevaM vilapati ||· 
+72786 new dhanurbANaiH pazcAcchabarakavare dhAvati mRgam |· 
+;-----------------
+72787 old  
+72787 new saraH savye 'savye davadahanadAhavyatikaro · 
+;-----------------
+72788 old  
+72788 new na gantuM na sthAtuM hariNazizurevaM vilapati ||· 
+;-----------------
+73041 old <S> pUjyo bandhurapi priyo 'pi tanayo bhratA vayasyo 'pi vA yo mohAdanavadyakAryavimukho heyaH sa kAryArthinA |· 
+73041 new <S> pUjyo bandhurapi priyo 'pi tanayo bhratA vayasyo 'pi vA · 
+;-----------------
+73042 old loke hi prathitA nanu zrutiriyaM nAryo 'pi gAyanti yAM kiM kAryaM kanakena tena bhavati cchedAya karNasya yat ||· 
+73042 new yo mohAdanavadyakAryavimukho heyaH sa kAryArthinA |· 
+;-----------------
+73043 old  
+73043 new loke hi prathitA nanu zrutiriyaM nAryo 'pi gAyanti yAM · 
+;-----------------
+73044 old  
+73044 new kiM kAryaM kanakena tena bhavati cchedAya karNasya yat ||· 
+;-----------------
+73162 old <S> pUrvaM rAmatapo vane gamanaM hatvA mRgaM kAJcanaM vaidehIharaNaM jaTAkSamaraNaM sagrIvasAdhAraNam |· 
+73162 new <S> pUrvaM rAmatapo vane gamanaM hatvA mRgaM kAJcanaM · 
+;-----------------
+73163 old vAlernigrahaNaM samudrataraNaM laGkApurIdhvaMsanaM pazcAdrAvaNakumbhakarNahananaM tvetacca rAmAyaNam ||· 
+73163 new vaidehIharaNaM jaTAkSamaraNaM sagrIvasAdhAraNam |· 
+;-----------------
+73164 old  
+73164 new vAlernigrahaNaM samudrataraNaM laGkApurIdhvaMsanaM · 
+;-----------------
+73165 old  
+73165 new pazcAdrAvaNakumbhakarNahananaM tvetacca rAmAyaNam ||· 
+;-----------------
+73272 old <S> purvaM tAvatkuvalayadRzAM lolalolairapAGgairAkarSadbhiH kimapi hRdayaM pUjitA yauvanazrIH |· 
+73272 new <S> purvaM tAvatkuvalayadRzAM lolalolairapAGgai- · 
+;-----------------
+73273 old saMpratyantarnihitasadasadbhAvalabdhaprabodhapratyAhAraurvizadahRdaye vartate ko 'pi bhAvaH ||· 
+73273 new rAkarSadbhiH kimapi hRdayaM pUjitA yauvanazrIH |· 
+;-----------------
+73274 old  
+73274 new saMpratyantarnihitasadasadbhAvalabdhaprabodha- · 
+;-----------------
+73275 old  
+73275 new pratyAhAraurvizadahRdaye vartate ko 'pi bhAvaH ||· 
+;-----------------
+73472 old <S> poto dustaravArirAzitaraNe dIpo 'ndhakArAgame nirvAte vyajanaM madAndhakariNAM darpopazantyai sRNiH |· 
+73472 new <S> poto dustaravArirAzitaraNe dIpo 'ndhakArAgame · 
+;-----------------
+73473 old itthaM tadbhuvi nAsti yasya vidhina nopAyacintA kRtA manye durjanacittavRttiharaNe dhAtApi bhagnedyamaH ||· 
+73473 new nirvAte vyajanaM madAndhakariNAM darpopazantyai sRNiH |· 
+;-----------------
+73474 old  
+73474 new itthaM tadbhuvi nAsti yasya vidhina nopAyacintA kRtA · 
+;-----------------
+73475 old  
+73475 new manye durjanacittavRttiharaNe dhAtApi bhagnedyamaH ||· 
+;-----------------
+73562 old <S> paulasyaH kathamanyadAraharaNe doSaM na vijJAtabAnrameNApi kathaM na hemahariNasyAsaMbhavo lakSitaH |· 
+73562 new <S> paulasyaH kathamanyadAraharaNe doSaM na vijJAtavA- · 
+;-----------------
+73563 old akSaizcApi yudhiSThireNa sahasA prApto hyanarthaH kathaM pratyAsannavipattimUDhamanasAM prAyo matiH kSIyate ||· 
+73563 new nrameNApi kathaM na hemahariNasyAsaMbhavo lakSitaH |· 
+;-----------------
+73564 old  
+73564 new akSaizcApi yudhiSThireNa sahasA prApto hyanarthaH kathaM · 
+;-----------------
+73565 old  
+73565 new pratyAsannavipattimUDhamanasAM prAyo matiH kSIyate ||· 
+;-----------------
+73988 old <S> praNayamadhurAH premodgADhA rasAdalasAstathA bhaNitimadhurA mugdhaprAyAH prakAzitasaMmadAH |· 
+73988 new <S> praNayamadhurAH premodgADhA rasAdalasAstathA · 
+;-----------------
+73989 old prakRtisubhAgA vizrambhArhAH smarodayadAyino rahasi kimapi svairAlApA haranti mRgIdRzAm ||· 
+73989 new bhaNitimadhurA mugdhaprAyAH prakAzitasaMmadAH |· 
+;-----------------
+73990 old  
+73990 new prakRtisubhAgA vizrambhArhAH smarodayadAyino · 
+;-----------------
+73991 old  
+73991 new rahasi kimapi svairAlApA haranti mRgIdRzAm ||· 
+;-----------------
+74114 old <S> pratikUlatAmupagate hi vidhau viphalatvameti bahusAdhanatA |· 
+74114 new <S> pratikUlatAmupagate hi vidhau · 
+;-----------------
+74115 old avalambanAya dinabhartarabhUnna patiSyataH karasahasramapi ||· 
+74115 new viphalatvameti bahusAdhanatA |· 
+;-----------------
+74116 old  
+74116 new avalambanAya dinabhartarabhU- · 
+;-----------------
+74117 old  
+74117 new nna patiSyataH karasahasramapi ||· 
+;-----------------
+74363 old <S> pratyAsattiM madakaraTino dAnagandhena vAyurgarjodbhUtiM prakaTitarucizcalevAmbudasya |· 
+74363 new <S> pratyAsattiM madakaraTino dAnagandhena vAyu- · 
+;-----------------
+74364 old ceSTA spaSTaM vadati matimanaipuNonneyatattvA jantorjanmAntaraparicitAM nizcalAM cittavRttim ||· 
+74364 new rgarjodbhUtiM prakaTitarucizcalevAmbudasya |· 
+;-----------------
+74365 old  
+74365 new ceSTA spaSTaM vadati matimanaipuNonneyatattvA · 
+;-----------------
+74366 old  
+74366 new jantorjanmAntaraparicitAM nizcalAM cittavRttim ||· 
+;-----------------
+74480 old <S> prathamavayasi toyaM pItamalpaM smarantaH zirasi nihitabhArA nArikerA narANAm |· 
+74480 new <S> prathamavayasi toyaM pItamalpaM smarantaH · 
+;-----------------
+74481 old udakamamRtakalpaM dadyurAjIvitAntaM nahi kRtamupakAraM sAdhavo vismaranti ||· 
+74481 new zirasi nihitabhArA nArikerA narANAm |· 
+;-----------------
+74482 old  
+74482 new udakamamRtakalpaM dadyurAjIvitAntaM · 
+;-----------------
+74483 old  
+74483 new nahi kRtamupakAraM sAdhavo vismaranti ||· 
+;-----------------
+74565 old <S> pradAnaM pracchannaM gRhamupagate saMbhramavidhiH priyaM kRtvA maunaM sadasi kathanaM cApyupakRteH |· 
+74565 new <S> pradAnaM pracchannaM gRhamupagate saMbhramavidhiH · 
+;-----------------
+74566 old anutseko lakSmyAM nirabhibhavasArAH parakathAH satAM kenoddiSTaM viSamamasidhArAvratamidam ||· 
+74566 new priyaM kRtvA maunaM sadasi kathanaM cApyupakRteH |· 
+;-----------------
+74567 old  
+74567 new anutseko lakSmyAM nirabhibhavasArAH parakathAH · 
+;-----------------
+74568 old  
+74568 new satAM kenoddiSTaM viSamamasidhArAvratamidam ||· 
+;-----------------
+74668 old <S> prabhuvarvItakSAntiH suhRdatizaThaH strI paruSavAksuto garvonnaddhaH parijana udAttaprativacAH |· 
+74668 new <S> prabhuvarvItakSAntiH suhRdatizaThaH strI paruSavA- · 
+;-----------------
+74669 old iyAnsoDhuM zakyo nanu hRdayadAhI parikaro na tu zrotAvajJAlulitanayanAntaM paribhavan ||· 
+74669 new ksuto garvonnaddhaH parijana udAttaprativacAH |· 
+;-----------------
+74670 old  
+74670 new iyAnsoDhuM zakyo nanu hRdayadAhI parikaro · 
+;-----------------
+74671 old  
+74671 new na tu zrotAvajJAlulitanayanAntaM paribhavan ||· 
+;-----------------
+75039 old <S> prazAtazAstrArthAvicAracApalaM nivRttanAnArasakAvyakautukam |· 
+75039 new <S> prazAtazAstrArthAvicAracApalaM · 
+;-----------------
+75040 old nirastanihzoSavikalpaviplavaM prayattumanvicchati zUlinaM manaH ||· 
+75040 new nivRttanAnArasakAvyakautukam |· 
+;-----------------
+75041 old  
+75041 new nirastanihzoSavikalpaviplavaM · 
+;-----------------
+75042 old  
+75042 new prayattumanvicchati zUlinaM manaH ||· 
+;-----------------
+75093 old <S> prasarati manaH kAryArambhe dRDhIbhavati spRhA svayamupanayannarthAnmantro na gacchati viplavan |· 
+75093 new <S> prasarati manaH kAryArambhe dRDhIbhavati spRhA · 
+;-----------------
+75094 old phalati sakalaM kRtyaM vittaM samunnatimaznute bhavati ca ratiH zlAdhye kRtye narasya bhaviSyataH ||· 
+75094 new svayamupanayannarthAnmantro na gacchati viplavan |· 
+;-----------------
+75095 old  
+75095 new phalati sakalaM kRtyaM vittaM samunnatimaznute · 
+;-----------------
+75096 old  
+75096 new bhavati ca ratiH zlAdhye kRtye narasya bhaviSyataH ||· 
+;-----------------
+75116 old <S> prasahya maNimuddharenmaravakktradaMSTrAGkurAtsamudramapi saMretpracaladUrmimAlAkulam |· 
+75116 new <S> prasahya maNimuddharenmaravakktradaMSTrAGkurA- · 
+;-----------------
+75117 old bhujaMgamapi kopitaM zirasi puSpavaddhArayenna tu pratiniviSTamUrkhajanacittamArAdhayet ||· 
+75117 new tsamudramapi saMretpracaladUrmimAlAkulam |· 
+;-----------------
+75118 old  
+75118 new bhujaMgamapi kopitaM zirasi puSpavaddhAraye- · 
+;-----------------
+75119 old  
+75119 new nna tu pratiniviSTamUrkhajanacittamArAdhayet ||· 
+;-----------------
+75220 old <S> prasthAnaM valayaiH kRtaM priyasakhairazreirajasraM gataM dhRtyA na kSaNamAsitaM vyavasitaM citena gantuM puraH |· 
+75220 new <S> prasthAnaM valayaiH kRtaM priyasakhairazreirajasraM gataM · 
+;-----------------
+75221 old yAtuM nizcitacetasi priyatame sarve samaM prasthitA gantavye sati jIvitapriya suhRtsArthaH kimu tyajyate ||· 
+75221 new dhRtyA na kSaNamAsitaM vyavasitaM citena gantuM puraH |· 
+;-----------------
+75222 old  
+75222 new yAtuM nizcitacetasi priyatame sarve samaM prasthitA · 
+;-----------------
+75223 old  
+75223 new gantavye sati jIvitapriya suhRtsArthaH kimu tyajyate ||· 
+;-----------------
+75243 old <S> prasyandanaM zazimaNergaNayanti tAvadyAvatsthito jalanidheH pulinaikadeze |· 
+75243 new <S> prasyandanaM zazimaNergaNayanti tAva- · 
+;-----------------
+75244 old sa svIkriyeta yadi tena tatastadAsya syandaH sphurannapi na tatsalile vibhAvyaH ||· 
+75244 new dyAvatsthito jalanidheH pulinaikadeze |· 
+;-----------------
+75245 old  
+75245 new sa svIkriyeta yadi tena tatastadAsya · 
+;-----------------
+75246 old  
+75246 new syandaH sphurannapi na tatsalile vibhAvyaH ||· 
+;-----------------
+75277 old <S> praharaviratau madhye vAhnastato 'pi pare 'tha vA dinazataprApyaM dezaM priyasya yiyAsato |· 
+75277 new <S> praharaviratau madhye vAhnastato 'pi pare 'tha vA · 
+;-----------------
+75278 old harati gamanaM bAlAlApaiH sabASpajhalajjhalaiH ||· 
+75278 new dinakRti gate vastaM nAtha tvamadya sameSyasi |· 
+;-----------------
+75279 old  
+75279 new iti dinazataprApyaM dezaM priyasya yiyAsato · 
+;-----------------
+75280 old  
+75280 new harati gamanaM bAlAlApaiH sabASpajhalajjhalaiH ||· 
+;-----------------
+75348 old <S> prAkpAdayoH patati khAdati pRSThamAMsaM karNe kalaM kimapi rauti zanairvicitram |· 
+75348 new <S> prAkpAdayoH patati khAdati pRSThamAMsaM · 
+;-----------------
+75349 old chidraM nirUpya sahasA pravizatyazaGkaH sarvaM khalasya caritaM mazakaH karoti ||· 
+75349 new karNe kalaM kimapi rauti zanairvicitram |· 
+;-----------------
+75350 old  
+75350 new chidraM nirUpya sahasA pravizatyazaGkaH · 
+;-----------------
+75351 old  
+75351 new sarvaM khalasya caritaM mazakaH karoti ||· 
+;-----------------
+75407 old <S> prAGnA meti manAgamAitaguNaM jAtAbhilASaM tataH savrIDaM tadanu zlathodyamamanu pratyastadhairyaM punaH |· 
+75407 new <S> prAGnA meti manAgamAitaguNaM jAtAbhilASaM tataH · 
+;-----------------
+75408 old premArdraM spRhaNIyanirbhararahaHkrIDApragalbhaM tato niHzaGkAGgavikarSaNAdhikasukhaM ramyaM kulastrIratam ||· 
+75408 new savrIDaM tadanu zlathodyamamanu pratyastadhairyaM punaH |· 
+;-----------------
+75409 old  
+75409 new premArdraM spRhaNIyanirbhararahaHkrIDApragalbhaM tato · 
+;-----------------
+75410 old  
+75410 new niHzaGkAGgavikarSaNAdhikasukhaM ramyaM kulastrIratam ||· 
+;-----------------
+75592 old <S> prANAghAtAnnivRttiH paradhanaharaNe saMyamaH satyavAkyaM kAle zaktyA pradAnaM yuvatijanakathAmUkabhAvaH pareSAm |· 
+75592 new <S> prANAghAtAnnivRttiH paradhanaharaNe saMyamaH satyavAkyaM · 
+;-----------------
+75593 old tRSNAsrotovibhaGgo guruSu ca vinayaH sarvabhUtAnukampA sAmAnyaH sarvazAstroSvanupahatavidhiH zreyasAmeSa panthAH ||· 
+75593 new kAle zaktyA pradAnaM yuvatijanakathAmUkabhAvaH pareSAm |· 
+;-----------------
+75594 old  
+75594 new tRSNAsrotovibhaGgo guruSu ca vinayaH sarvabhUtAnukampA · 
+;-----------------
+75595 old  
+75595 new sAmAnyaH sarvazAstroSvanupahatavidhiH zreyasAmeSa panthAH ||· 
+;-----------------
+75643 old <S> prANAnAM bata kiM bruve kaThinatAM taireva sAviSkRtA niSkrAmanti kadAcideva hi na ye yAJcAvacobhiH samam |· 
+75643 new <S> prANAnAM bata kiM bruve kaThinatAM taireva sAviSkRtA · 
+;-----------------
+75644 old AtmAnaM punarAkSipAmi viditasthairyo 'pi yeSAmaho mithuAzaGkitatadviyogavidhuro yatprArthaye sarvazaH ||· 
+75644 new niSkrAmanti kadAcideva hi na ye yAJcAvacobhiH samam |· 
+;-----------------
+75645 old  
+75645 new AtmAnaM punarAkSipAmi viditasthairyo 'pi yeSAmaho · 
+;-----------------
+75646 old  
+75646 new mithuAzaGkitatadviyogavidhuro yatprArthaye sarvazaH ||· 
+;-----------------
+75738 old <S> prAtaH prAtarupAgatena janitA nirnidratA cakSuSoprAtaH prAtarupAgatena janitA nirnidratA cakSuSormandAyAM mayi gauravavyapagamAdutpAditaM lAghavam |· 
+75738 new <S> prAtaH prAtarupAgatena janitA nirnidratA cakSuSo- · 
+;-----------------
+75739 old kiM mugdhe na mayA kRtaM ramaNadhIrmuktA tvayA gamyatAM duHsthaM tiSThasi yacca pathyamadhunA kartAsmi tacchroSyasi ||· 
+75739 new prAtaH prAtarupAgatena janitA nirnidratA cakSuSormandAyAM mayi gauravavyapagamAdutpAditaM lAghavam |· 
+;-----------------
+75740 old  
+75740 new kiM mugdhe na mayA kRtaM ramaNadhIrmuktA tvayA gamyatAM · 
+;-----------------
+75741 old  
+75741 new duHsthaM tiSThasi yacca pathyamadhunA kartAsmi tacchroSyasi ||· 
+;-----------------
+75791 old <S> prAdurbhavanti vapuSaH kati vA na kITA yAnyatnataH khalu tanorapasArayanti |· 
+75791 new <S> prAdurbhavanti vapuSaH kati vA na kITA · 
+;-----------------
+75792 old mohaH ka eSa jagato yadapatyasaMjJAM teSAM vidhAya parizoSayati svadeham ||· 
+75792 new yAnyatnataH khalu tanorapasArayanti |· 
+;-----------------
+75793 old [Seite2.434]· 
+75793 new mohaH ka eSa jagato yadapatyasaMjJAM · 
+;-----------------
+75794 old  
+75794 new teSAM vidhAya parizoSayati svadeham ||· 
+;-----------------
+75795 old  
+75795 new [Seite2.434]· 
+;-----------------
+75901 old <S> prAptAH zriyaH sakalakAmadughAstataH kiM dattaM padaM zirasi vidviSatAM tataH kim |· 
+75901 new <S> prAptAH zriyaH sakalakAmadughAstataH · 
+;-----------------
+75902 old samAnitAH praNayino vibhavaistataH kiM klpaM sthitaM tanubhRtAM tanubhistataH kim ||· 
+75902 new kiM dattaM padaM zirasi vidviSatAM tataH kim |· 
+;-----------------
+75903 old  
+75903 new samAnitAH praNayino vibhavaistataH kiM · 
+;-----------------
+75904 old  
+75904 new kalpaM sthitaM tanubhRtAM tanubhistataH kim ||· 
+;-----------------
+76140 old <S> prAyeNAtra kalAnvitaM kukulajAH zrIvallabhaM durbhagA dAtAraM kRpaNA RjUnanRjavo vittAnvitaM nirdhanAH |· 
+76140 new <S> prAyeNAtra kalAnvitaM kukulajAH zrIvallabhaM durbhagA · 
+;-----------------
+76141 old vairUpyopahatAzca kAntavapuSaM dharmAzrayaM pApino nAnAzAstravicakSaNaM ca puruSaM nindanti mUrkhA janAH ||· 
+76141 new dAtAraM kRpaNA RjUnanRjavo vittAnvitaM nirdhanAH |· 
+;-----------------
+76142 old  
+76142 new vairUpyopahatAzca kAntavapuSaM dharmAzrayaM pApino · 
+;-----------------
+76143 old  
+76143 new nAnAzAstravicakSaNaM ca puruSaM nindanti mUrkhA janAH ||· 
+;-----------------
+76164 old <S> prArabhyate na khalu vighnabhayena nIcaiH |· 
+76164 new <S> prArabhyate na khalu vighnabhayena nIcaiH · 
+;-----------------
+76166 old vighnaih punaH punarapi pratihanyamAnAH prArabdhamuttamajanAnA na parityajInti ||· 
+76166 new vighnaih punaH punarapi pratihanyamAnAH · 
+;-----------------
+76167 old  
+76167 new prArabdhamuttamajanAnA na parityajInti ||· 
+;-----------------
+76284 old <S> priyamanucitaM kSmApaNyastrIkSaNaprabhurIzvaro ramayati yato dhiktAnbhRtyAJzvavRttisukhArthinaH |· 
+76284 new <S> priyamanucitaM kSmApaNyastrIkSaNaprabhurIzvaro · 
+;-----------------
+76285 old nRpamapathagaM pAnti prANAnupekSya nijAnapi prasabhamiha ye taiH pUteyaM mahmatmabhirurvarI ||· 
+76285 new ramayati yato dhiktAnbhRtyAJzvavRttisukhArthinaH |· 
+;-----------------
+76286 old [Seite2.440]· 
+76286 new nRpamapathagaM pAnti prANAnupekSya nijAnapi · 
+;-----------------
+76287 old  
+76287 new prasabhamiha ye taiH pUteyaM mahmatmabhirurvarI ||· 
+;-----------------
+76288 old  
+76288 new [Seite2.440]· 
+;-----------------
+76372 old <S> priyasakhivipaddaNDaprAntaprapAtaparaMparAparicayacalaccitaM cakre nidhAya vidhiH khalaH |· 
+76372 new <S> priyasakhivipaddaNDaprAntaprapAtaparaMparA- · 
+;-----------------
+76373 old mRdamiva balAtpiNDIkRtya pragalbhakulAlavaddhamayati mano no jAnImaH kimatra vidhrAsyati ||· 
+76373 new paricayacalaccitaM cakre nidhAya vidhiH khalaH |· 
+;-----------------
+76374 old [Seite2.441]· 
+76374 new mRdamiva balAtpiNDIkRtya pragalbhakulAlava- · 
+;-----------------
+76375 old  
+76375 new ddhamayati mano no jAnImaH kimatra vidhrAsyati ||· 
+;-----------------
+76376 old  
+76376 new [Seite2.441]· 
+;-----------------
+76410 old <S> priyA nyAyyA vRttirmalinamasubhaGge 'pyaasukaramasanto nAbhyarthyAH suhRdapi na yAcya kRzadhanaH |· 
+76410 new <S> priyA nyAyyA vRttirmalinamasubhaGge 'pyasukara- · 
+;-----------------
+76411 old vipadyuccaiH stheyaM padamanuvidheyaM ca mahatAM satAM kenoddiSTaM viSamamasidhArAvratamidam ||· 
+76411 new masanto nAbhyarthyAH suhRdapi na yAcya kRzadhanaH |· 
+;-----------------
+76412 old  
+76412 new vipadyuccaiH stheyaM padamanuvidheyaM ca mahatAM · 
+;-----------------
+76413 old  
+76413 new satAM kenoddiSTaM viSamamasidhArAvratamidam ||· 
+;-----------------
+76573 old <S> prINAti paH sucaritaiH pitaraM sa putro yadbhartureva hitamicchati tatkalatram |· 
+76573 new <S> prINAti paH sucaritaiH pitaraM sa putro · 
+;-----------------
+76574 old tanmitramApadi sukhe ca samakriyaM yadetattrayaM jagati puNyakRto labhante ||· 
+76574 new yadbhartureva hitamicchati tatkalatram |· 
+;-----------------
+76575 old  
+76575 new tanmitramApadi sukhe ca samakriyaM ya- · 
+;-----------------
+76576 old  
+76576 new detattrayaM jagati puNyakRto labhante ||· 
+;-----------------
+76598 old <S> preyAMste 'haM tvamapi ca mama preyasIti pravAdastvaM me prANA ahamapi tavAsmIti hanta pralApaH |· 
+76598 new <S> preyAMste 'haM tvamapi ca mama preyasIti pravAda- · 
+;-----------------
+76599 old tvaM me te syAmahapi ca yattacca no sAdhu rAdhe vyAhAre nau nahi samucito yuSmadasmatprayogaH ||· 
+76599 new stvaM me prANA ahamapi tavAsmIti hanta pralApaH |· 
+;-----------------
+76600 old  
+76600 new tvaM me te syAmahapi ca yattacca no sAdhu rAdhe · 
+;-----------------
+76601 old  
+76601 new vyAhAre nau nahi samucito yuSmadasmatprayogaH ||· 
+;-----------------
+76635 old <S> prodyatprauDhapriyaGgudyutibhRti vidalankundamAdyaddirephe kAle prAleyavAtapracayavikasitoddAmamandAradAmni |· 
+76635 new <S> prodyatprauDhapriyaGgudyutibhRti vidalankundamAdyaddirephe · 
+;-----------------
+76636 old yeSAM no kaNThalagnA kSaNamapi tuhinotkampivakSomRgAkSI teSAmAyAminIyaM yamasadanasamA yAminI yAti yUnAm ||· 
+76636 new kAle prAleyavAtapracayavikasitoddAmamandAradAmni |· 
+;-----------------
+76637 old  
+76637 new yeSAM no kaNThalagnA kSaNamapi tuhinotkampivakSomRgAkSI · 
+;-----------------
+76638 old  
+76638 new teSAmAyAminIyaM yamasadanasamA yAminI yAti yUnAm ||· 
+;-----------------
+76679 old <S> phalaM svecchAlabhyaM prativanamakhedaM kSitiruhAM payaH sthAne sthAne ziziramadhuraM puNyasaritAm |· 
+76679 new <S> phalaM svecchAlabhyaM prativanamakhedaM kSitiruhAM · 
+;-----------------
+76680 old mRdusparzA zayyA sulalitalatApallavamayI sahante saMtApaM tadapi dhaninAM dvAri kRpaNAH ||· 
+76680 new payaH sthAne sthAne ziziramadhuraM puNyasaritAm |· 
+;-----------------
+76681 old  
+76681 new mRdusparzA zayyA sulalitalatApallavamayI · 
+;-----------------
+76682 old  
+76682 new sahante saMtApaM tadapi dhaninAM dvAri kRpaNAH ||· 
+;-----------------
+76745 old <S> phalamalamazanAya svAdu pAnAya toyaM zayanamavanipRSThe vAsasi valkale ca |· 
+76745 new <S> phalamalamazanAya svAdu pAnAya toyaM · 
+;-----------------
+76746 old dhanalavamadhupAnabhrAntasarvendriyANAmavinayamanumantuM notsahe durjanAnAm ||· 
+76746 new zayanamavanipRSThe vAsasi valkale ca |· 
+;-----------------
+76747 old  
+76747 new dhanalavamadhupAnabhrAntasarvendriyANA- · 
+;-----------------
+76748 old  
+76748 new mavinayamanumantuM notsahe durjanAnAm ||· 
+;-----------------
+76823 old <S> phalAzI mUlAzI salilapavanAzI nirazano jano rAgadveSAdyupahatamanAH syAdyadi muniH |· 
+76823 new <S> phalAzI mUlAzI salilapavanAzI nirazano · 
+;-----------------
+76824 old kapInAM kolAnAmanimiSadRzAM kiM ca phaNinAM girINAM ko bhedaH ziva ziva samAnavratabhRtAm ||· 
+76824 new jano rAgadveSAdyupahatamanAH syAdyadi muniH |· 
+;-----------------
+76825 old  
+76825 new kapInAM kolAnAmanimiSadRzAM kiM ca phaNinAM · 
+;-----------------
+76826 old  
+76826 new girINAM ko bhedaH ziva ziva samAnavratabhRtAm ||· 
+;-----------------
+77460 old <S> balopapanno 'pi hi buddhimAnnaraH paraM nayenna svayameva vairitAm |· 
+77460 new <S> balopapanno 'pi hi buddhimAnnaraH · 
+;-----------------
+77461 old bhiSaGmamAstIti vicintya bhakSayedakAraNAtko hi vicakSaNo viSam ||· 
+77461 new paraM nayenna svayameva vairitAm |· 
+;-----------------
+77462 old  
+77462 new bhiSaGmamAstIti vicintya bhakSaye- · 
+;-----------------
+77463 old  
+77463 new dakAraNAtko hi vicakSaNo viSam ||· 
+;-----------------
+77726 old <S> bANAH paJca manobhavasya niyatAsteSAmasaMkhyo janaH prAyo 'smadvidha eva lakSyamiti yalloke prasiddhiM gatam |· 
+77726 new <S> bANAH paJca manobhavasya niyatAsteSAmasaMkhyo janaH · 
+;-----------------
+77727 old dRSTaM tattvayi vipratIpamadhunA yasmAdasaMkhyairayaM viddhaH kAmijanaH zarairazaraNo nItastvayA paJcatAm ||· 
+77727 new prAyo 'smadvidha eva lakSyamiti yalloke prasiddhiM gatam |· 
+;-----------------
+77728 old  
+77728 new dRSTaM tattvayi vipratIpamadhunA yasmAdasaMkhyairayaM · 
+;-----------------
+77729 old  
+77729 new viddhaH kAmijanaH zarairazaraNo nItastvayA paJcatAm ||· 
+;-----------------
+77955 old <S> bAle nAtha vimuJca mAnini ruSaM roSAnmayA kiM kRtaM khedo 'smAsu na me 'parAdhyati bhavAnsarve 'parAdhA mayi |· 
+77955 new <S> bAle nAtha vimuJca mAnini ruSaM roSAnmayA kiM kRtaM · 
+;-----------------
+77956 old tatkiM rodiSi gadgadena vacasA kaspAgrato rudyate nanvetanmama kA tavAsmi dayitA nAsmItyato rudyate ||· 
+77956 new khedo 'smAsu na me 'parAdhyati bhavAnsarve 'parAdhA mayi |· 
+;-----------------
+77957 old  
+77957 new tatkiM rodiSi gadgadena vacasA kaspAgrato rudyate · 
+;-----------------
+77958 old  
+77958 new nanvetanmama kA tavAsmi dayitA nAsmItyato rudyate ||· 
+;-----------------
+77982 old <S> bAle lIlAmukulitamamI sundarA dRStipAtAH kiM kSipyante virama virama vyartha eSa zramste |· 
+77982 new <S> bAle lIlAmukulitamamI sundarA dRStipAtAH · 
+;-----------------
+77983 old saMpratyanye vayamuparataM bAlyamAsthA vanAnte kSINo mohastRNamiva jagajjAlamAlokayAmaH ||· 
+77983 new kiM kSipyante virama virama vyartha eSa zramste |· 
+;-----------------
+77984 old  
+77984 new saMpratyanye vayamuparataM bAlyamAsthA vanAnte · 
+;-----------------
+77985 old  
+77985 new kSINo mohastRNamiva jagajjAlamAlokayAmaH ||· 
+;-----------------
+78214 old <S> bAhU dvau ca mRNAlamAsyakamalaM lAvaNyalIlAjalaM zroNI tIrthazilA ca netrazapharaM ghammillazaivAlakam |· 
+78214 new <S> bAhU dvau ca mRNAlamAsyakamalaM lAvaNyalIlAjalaM · 
+;-----------------
+78215 old kAntAyAH stanacakravAkayugalaM kandarpabANAnalairdagdhAnAmavagAhanAya vidhinA ramyaM saro nirmitam ||· 
+78215 new zroNI tIrthazilA ca netrazapharaM ghammillazaivAlakam |· 
+;-----------------
+78216 old  
+78216 new kAntAyAH stanacakravAkayugalaM kandarpabANAnalai- · 
+;-----------------
+78217 old  
+78217 new rdagdhAnAmavagAhanAya vidhinA ramyaM saro nirmitam ||· 
+;-----------------
+78257 old <S> bibhrANA hRdaye tvayA vinihitaM premAbhidhAnaM navaM zalyaM yadvidadhAti sA vidhuritA sAdho tadAkarNyatAm |· 
+78257 new <S> bibhrANA hRdaye tvayA vinihitaM premAbhidhAnaM navaM · 
+;-----------------
+78258 old zete zuSyati tAmyati pralapati pramlAyati preSkhati bhrAmyatyullaThati praNazyati galatyunmUrchati truTyati ||· 
+78258 new zalyaM yadvidadhAti sA vidhuritA sAdho tadAkarNyatAm |· 
+;-----------------
+78259 old  
+78259 new zete zuSyati tAmyati pralapati pramlAyati preGkhati · 
+;-----------------
+78260 old  
+78260 new bhrAmyatyullaThati praNazyati galatyunmUrchati truTyati ||· 
+;-----------------
+78295 old <S> bIjairaGkuritaM nadIbhiruditaM vallIbhirujjRmbhitaM vRkSaiH pallavitaM janaizca muditaM dhArAdhare varSati |· 
+78295 new <S> bIjairaGkuritaM nadIbhiruditaM vallIbhirujjRmbhitaM · 
+;-----------------
+78296 old bhrAtazcAtaka pAtakaM kimapi te sasyaGga jAnImahe yatte 'sminna patanti caJcupuTake dvitrAH payobindavaH ||· 
+78296 new vRkSaiH pallavitaM janaizca muditaM dhArAdhare varSati |· 
+;-----------------
+78297 old  
+78297 new bhrAtazcAtaka pAtakaM kimapi te sasyaGga jAnImahe · 
+;-----------------
+78298 old  
+78298 new yatte 'sminna patanti caJcupuTake dvitrAH payobindavaH ||· 
+;-----------------
+78326 old <S> bIbhatsAH prabhAnti kiM na viSayAH kiM tu spRhAyuSmatI dehasyApacAyo matau nivizate gADho gRheSu grahaH |· 
+78326 new <S> bIbhatsAH prabhAnti kiM na viSayAH kiM tu spRhAyuSmatI · 
+;-----------------
+78327 old brahmopAsyamiti sphuratyapi hRdi vyAvartikA vAsanA kA nAmeyamatarkya hetugahanA daivI satAM yAtanA ||· 
+78327 new dehasyApacAyo matau nivizate gADho gRheSu grahaH |· 
+;-----------------
+78328 old  
+78328 new brahmopAsyamiti sphuratyapi hRdi vyAvartikA vAsanA · 
+;-----------------
+78329 old  
+78329 new kA nAmeyamatarkya hetugahanA daivI satAM yAtanA ||· 
+;-----------------
+78350 old <S> bIbhatsA viSayA jugupsitatamaH kAyo vayo gatvaraM prAyo bandhubhiradhvanIva pathikainyogo viyogAvahaH |· 
+78350 new <S> bIbhatsA viSayA jugupsitatamaH kAyo vayo gatvaraM · 
+;-----------------
+78351 old hAtavyo 'yamasAra eva virasaH saMsAra ityAdikaM sarvasyaiva hi vAci cetasi punaH kasyApi puNyAtmanaH ||· 
+78351 new prAyo bandhubhiradhvanIva pathikainyogo viyogAvahaH |· 
+;-----------------
+78352 old  
+78352 new hAtavyo 'yamasAra eva virasaH saMsAra ityAdikaM · 
+;-----------------
+78353 old  
+78353 new sarvasyaiva hi vAci cetasi punaH kasyApi puNyAtmanaH ||· 
+;-----------------
+78536 old <S> buddheragocaratayA na girAM pracAro dUreguruprathitavastukathAvatAraH |· 
+78536 new <S> buddheragocaratayA na girAM pracAro · 
+;-----------------
+78537 old tattvaM krameNa karuNAdiguNAvadAte zraddhAvatAM hRdi padaM svayamAdaghAti ||· 
+78537 new dUreguruprathitavastukathAvatAraH |· 
+;-----------------
+78538 old  
+78538 new tattvaM krameNa karuNAdiguNAvadAte · 
+;-----------------
+78539 old  
+78539 new zraddhAvatAM hRdi padaM svayamAdaghAti ||· 
+;-----------------
+78692 old <S> bubhukSitairvyAkaraNaM na bhajyate pipAsitaiH kAvyaraso na pIyate |· 
+78692 new <S> bubhukSitairvyAkaraNaM na bhujyate · 
+;-----------------
+78693 old na cchandasA kenaciduddhRtaM kulaM hiraNyamevArjaya niSphalAH kalAH ||· 
+78693 new pipAsitaiH kAvyaraso na pIyate |· 
+;-----------------
+78694 old  
+78694 new na cchandasA kenaciduddhRtaM kulaM · 
+;-----------------
+78695 old  
+78695 new hiraNyamevArjaya niSphalAH kalAH ||· 
+;-----------------
+78810 old <S> brahmajJAnavivekino 'maladhiyaH kurvantyaho duSkaraM yanmuJcantyupabhogabhAJjyapi dhanAnyekAntato niHspRhAH |· 
+78810 new <S> brahmajJAnavivekino 'maladhiyaH kurvantyaho duSkaraM · 
+;-----------------
+78811 old na prAptAni purA na saMprati na ca prAptau dRDhaH pratyayo vAJchAmAtraparigrahANyapi parityaktuM na zaktA vayam ||· 
+78811 new yanmuJcantyupabhogabhAJjyapi dhanAnyekAntato niHspRhAH |· 
+;-----------------
+78812 old  
+78812 new na prAptAni purA na saMprati na ca prAptau dRDhaH pratyayo · 
+;-----------------
+78813 old  
+78813 new vAJchAmAtraparigrahANyapi parityaktuM na zaktA vayam ||· 
+;-----------------
+78939 old <S> brahma yena kulAlavanniyamito brahmANDabhANDodare viSNuryena dazAvatAragahane kSipto mahAsaMkaTe |· 
+78939 new <S> brahma yena kulAlavanniyamito brahmANDabhANDodare · 
+;-----------------
+78940 old rudro yena kapAlapANipuTake bhikSATanaM kAritaH sUryo bhrAmyati nityameva gagane tasmai namaH karmaNe ||· 
+78940 new viSNuryena dazAvatAragahane kSipto mahAsaMkaTe |· 
+;-----------------
+78941 old  
+78941 new rudro yena kapAlapANipuTake bhikSATanaM kAritaH · 
+;-----------------
+78942 old  
+78942 new sUryo bhrAmyati nityameva gagane tasmai namaH karmaNe ||· 
+;-----------------
+78971 old <S> brahmendrAdimarudgaNAMstRNagaNAnyatra sthito manyate yatsvAdAdvirasA bhavanti vibhavAstrailokyarAjyAdayaH |· 
+78971 new <S> brahmendrAdimarudgaNAMstRNagaNAnyatra sthito manyate · 
+;-----------------
+78972 old bidhaH ko 'pi sa eka paramo nityodito jRmbhate bhoH sAdho kSaNabhaGgure taditare bhoge ratiM mA katHAH ||· 
+78972 new yatsvAdAdvirasA bhavanti vibhavAstrailokyarAjyAdayaH |· 
+;-----------------
+78973 old  
+78973 new bidhaH ko 'pi sa eka paramo nityodito jRmbhate · 
+;-----------------
+78974 old  
+78974 new bhoH sAdho kSaNabhaGgure taditare bhoge ratiM mA katHAH ||· 
+;-----------------
+79272 old <S> bhaktAnAmupakAriNAM parahitavyApArayuktAtmanAM sevAsaMvyavahAratattvaviduSAM drohacyutAnAmapi |· 
+79272 new <S> bhaktAnAmupakAriNAM parahitavyApArayuktAtmanAM · 
+;-----------------
+79273 old vyApattiH skhalitetareSu niyatA siddhirbhaveddhA na vA tasmAdambupaterivAvanipateH sevA sadAzaGkinI ||· 
+79273 new sevAsaMvyavahAratattvaviduSAM drohacyutAnAmapi |· 
+;-----------------
+79274 old  
+79274 new vyApattiH skhalitetareSu niyatA siddhirbhaveddhA na vA · 
+;-----------------
+79275 old  
+79275 new tasmAdambupaterivAvanipateH sevA sadAzaGkinI ||· 
+;-----------------
+79305 old <S> bhaktirjineSu dRDhatA jinabhASiteSu zraddhA ca dharmakaraNeSu guNeSu rAgaH |· 
+79305 new <S> bhaktirjineSu dRDhatA jinabhASiteSu · 
+;-----------------
+79306 old dAneSu tIvrarucitA vinayeSu vRttiH kasyApi puNyapuruSasya bhavantyavazyam ||· 
+79306 new zraddhA ca dharmakaraNeSu guNeSu rAgaH |· 
+;-----------------
+79307 old  
+79307 new dAneSu tIvrarucitA vinayeSu vRttiH · 
+;-----------------
+79308 old  
+79308 new kasyApi puNyapuruSasya bhavantyavazyam ||· 
+;-----------------
+79337 old <S> bhaktirbhave maraNajanmabhayaM hRdisthaM sneho na bandhuSu na manmathajA vikArAH |· 
+79337 new <S> bhaktirbhave maraNajanmabhayaM hRdisthaM · 
+;-----------------
+79338 old saMsargadoSarahitA vijanA vanAntA vairAgyamasti kimataH paramarthanIyam ||· 
+79338 new sneho na bandhuSu na manmathajA vikArAH |· 
+;-----------------
+79339 old  
+79339 new saMsargadoSarahitA vijanA vanAntA · 
+;-----------------
+79340 old  
+79340 new vairAgyamasti kimataH paramarthanIyam ||· 
+;-----------------
+79479 old <S> bhagnAzasya karaNDapIDitatanormlAnendriyasya kSudhA kRtvAkhurvivaraM svayaM nipatito naktaM mukhe bhoginaH |· 
+79479 new <S> bhagnAzasya karaNDapIDitatanormlAnendriyasya kSudhA · 
+;-----------------
+79480 old tRptastatpizitena satvaramasau tenaiva yAtaH pathA svasthAstiSThata daivameva hi nRNAM vRddhau kSaye kAraNam ||· 
+79480 new kRtvAkhurvivaraM svayaM nipatito naktaM mukhe bhoginaH |· 
+;-----------------
+79481 old  
+79481 new tRptastatpizitena satvaramasau tenaiva yAtaH pathA · 
+;-----------------
+79482 old  
+79482 new svasthAstiSThata daivameva hi nRNAM vRddhau kSaye kAraNam ||· 
+;-----------------
+79520 old <S> bhaGktvA bhoktuM na bhugkte kuTilabisalatAkhaNDamindorvitarkAttArAkArAstRSArto na pibati payasAM vipruSaH pattrasaMsthAH |· 
+79520 new <S> bhaGktvA bhoktuM na bhugkte kuTilabisalatAkhaNDamindorvitarkA- · 
+;-----------------
+79521 old chAyAmambhojinInAmalikulazabalAM vIkSya saMdhyAmasaMdhyAM kAntAvizleSabhIrurdinamapi rajanIM manyate cakravAkaH ||· 
+79521 new ttArAkArAstRSArto na pibati payasAM vipruSaH pattrasaMsthAH |· 
+;-----------------
+79522 old  
+79522 new chAyAmambhojinInAmalikulazabalAM vIkSya saMdhyAmasaMdhyAM · 
+;-----------------
+79523 old  
+79523 new kAntAvizleSabhIrurdinamapi rajanIM manyate cakravAkaH ||· 
+;-----------------
+79902 old <S> bhavati hRdayahArI ko 'pi kaspApi heturna khalu guNavizeSaH premabandhaprayoge |· 
+79902 new <S> bhavati hRdayahArI ko 'pi kaspApi hetu- · 
+;-----------------
+79903 old kisalayitavanAnte kokilAlAparamye vikAsati na vassante mAlatI ko 'tra hetuH ||· 
+79903 new rna khalu guNavizeSaH premabandhaprayoge |· 
+;-----------------
+79904 old  
+79904 new kisalayitavanAnte kokilAlAparamye · 
+;-----------------
+79905 old  
+79905 new vikAsati na vassante mAlatI ko 'tra hetuH ||· 
+;-----------------
+79927 old <S> bhavatu viditaM bhavyAlApairalaM khalu gamyatAM tanurapi na te doSo 'smAkaM vidhistu parAGnukhaH |· 
+79927 new <S> bhavatu viditaM bhavyAlApairalaM khalu gamyatAM · 
+;-----------------
+79928 old tava yadi tathAbhataM prema prapannamimAM dazAM prakRtitarale kA naH pIDA gate hatajIvite ||· 
+79928 new tanurapi na te doSo 'smAkaM vidhistu parAGnukhaH |· 
+;-----------------
+79929 old  
+79929 new tava yadi tathAbhataM prema prapannamimAM dazAM · 
+;-----------------
+79930 old  
+79930 new prakRtitarale kA naH pIDA gate hatajIvite ||· 
+;-----------------
+79967 old <S> bhavanti namrAstaravaH phalodgamairnavAmbubhirbhUrivilambino ghanAH |· 
+79967 new <S> bhavanti namrAstaravaH phalodgamai- · 
+;-----------------
+79968 old anuddhatAH satpuruSAH samRddhibhiH svabhAva evaiSa paropakAriNAm ||· 
+79968 new rnavAmbubhirbhUrivilambino ghanAH |· 
+;-----------------
+79969 old  
+79969 new anuddhatAH satpuruSAH samRddhibhiH · 
+;-----------------
+79970 old  
+79970 new svabhAva evaiSa paropakAriNAm ||· 
+;-----------------
+80012 old <S> bhavanto vedAntApraNititadhiyAmApraguravo vidagdhAlApAnAM vayamapi kavInAmanucarAH |· 
+80012 new <S> bhavanto vedAntApraNititadhiyAmApraguravo · 
+;-----------------
+80013 old tathApyetadbhUmau nahi parahitAtpuNyamadhikaM na cAsminsaMsAre kuvalayadRzo ramyamaparam ||· 
+80013 new vidagdhAlApAnAM vayamapi kavInAmanucarAH |· 
+;-----------------
+80014 old  
+80014 new tathApyetadbhUmau nahi parahitAtpuNyamadhikaM · 
+;-----------------
+80015 old  
+80015 new na cAsminsaMsAre kuvalayadRzo ramyamaparam ||· 
+;-----------------
+80035 old <S> bhavAraNyaM bhImaM tanugRhamidaM chidrabahulaM balI kAlazcaurI niyatamasitA moharajanI |· 
+80035 new <S> bhavAraNyaM bhImaM tanugRhamidaM chidrabahulaM · 
+;-----------------
+80036 old gRhItvA jJAnAsiM viratiphalakaM zolakavacaM samAdhAnAM kRtvA sthirataradRzo jAgRta janAH ||· 
+80036 new balI kAlazcaurI niyatamasitA moharajanI |· 
+;-----------------
+80037 old [Seite2.486]· 
+80037 new gRhItvA jJAnAsiM viratiphalakaM zIlakavacaM · 
+;-----------------
+80038 old  
+80038 new samAdhAnAM kRtvA sthirataradRzo jAgRta janAH ||· 
+;-----------------
+80039 old  
+80039 new [Seite2.486]· 
+;-----------------
+80350 old <S> bhAvasnidhairupakRtamapi dveSyatAmeti kiMcitsAkSAdanyairapakRtamapi prItaye copayAti |· 
+80350 new <S> bhAvasnidhairupakRtamapi dveSyatAmeti kiMci- · 
+;-----------------
+80351 old durgrahyatvAnnRpatimanasAM naikabhAvAzrayANAM sevAdharmaH paramagahano yoginAmapyagamyaH ||· 
+80351 new tsAkSAdanyairapakRtamapi prItaye copayAti |· 
+;-----------------
+80352 old  
+80352 new durgrahyatvAnnRpatimanasAM naikabhAvAzrayANAM · 
+;-----------------
+80353 old  
+80353 new sevAdharmaH paramagahano yoginAmapyagamyaH ||· 
+;-----------------
+80414 old <S> bhikSAzanaM tadapi nIrasamekavAraM zayyA ca bhUH parijano nijadehamAtram |· 
+80414 new <S> bhikSAzanaM tadapi nIrasamekavAraM · 
+;-----------------
+80415 old vastraM sujIrNazatakhaNDamayI ca kanthA hA hA tathApi viSayAnna parityajanti ||· 
+80415 new zayyA ca bhUH parijano nijadehamAtram |· 
+;-----------------
+80416 old  
+80416 new vastraM sujIrNazatakhaNDamayI ca kanthA · 
+;-----------------
+80417 old  
+80417 new hA hA tathApi viSayAnna parityajanti ||· 
+;-----------------
+80442 old <S> bhikSAzanaM bhavanamAyatanaikadezaH zayyAmahI parijano nijadehabhAraH |· 
+80442 new <S> bhikSAzanaM bhavanamAyatanaikadezaH · 
+;-----------------
+80443 old vAsazca jIrNapaTakhaNDanibaddhakanthA hA hA tathApi viSayAnna jahAti cetaH ||· 
+80443 new zayyAmahI parijano nijadehabhAraH |· 
+;-----------------
+80444 old  
+80444 new vAsazca jIrNapaTakhaNDanibaddhakanthA · 
+;-----------------
+80445 old  
+80445 new hA hA tathApi viSayAnna jahAti cetaH ||· 
+;-----------------
+80461 old <S> bhikSAzI janamadhyasaGgarahitaH svAyattaceSTaH sadA dAnAdAnaviraktamArganiraH kazcittapasvI sthitaH |· 
+80461 new <S> bhikSAzI janamadhyasaGgarahitaH svAyattaceSTaH sadA · 
+;-----------------
+80462 old rathyAkIrNajIrNavasanairAsyUtakanthAdharo nirmAno nirahaMkRtiH zamasudhAbhogaikabaddhaspRhaH ||· 
+80462 new dAnAdAnaviraktamArganiraH kazcittapasvI sthitaH |· 
+;-----------------
+80463 old  
+80463 new rathyAkIrNajIrNavasanairAsyUtakanthAdharo · 
+;-----------------
+80464 old  
+80464 new nirmAno nirahaMkRtiH zamasudhAbhogaikabaddhaspRhaH ||· 
+;-----------------
+80505 old <S> bhikSAhAramadainyamapratihataM bhIticchidaM sarvadA durmAtsaryamadAbhimAnamathanaM duHkhaughavidhvaMsanam |· 
+80505 new <S> bhikSAhAramadainyamapratihataM bhIticchidaM sarvadA · 
+;-----------------
+80506 old sarvatrAnvahamaprayatnasulabhaM sAdhupriyaM pAvanaM zambhoH sattramavAryamakSayanidhiM zaMsanti yogIzvarAH ||· 
+80506 new durmAtsaryamadAbhimAnamathanaM duHkhaughavidhvaMsanam |· 
+;-----------------
+80507 old  
+80507 new sarvatrAnvahamaprayatnasulabhaM sAdhupriyaM pAvanaM · 
+;-----------------
+80508 old  
+80508 new zambhoH sattramavAryamakSayanidhiM zaMsanti yogIzvarAH ||· 
+;-----------------
+80551 old <S> bhikSo mAMsaniSevaNaM prakuruSe kiM tena madyaM vinA madyaM cApi tava priyaM priyamaho vArAGganAbhiH saha |· 
+80551 new <S> bhikSo mAMsaniSevaNaM prakuruSe kiM tena madyaM vinA · 
+;-----------------
+80552 old vzyApyartharuciH kutastava dhanaM dyUtena cauryeNa vA cauryadyUtaparigraho 'pi bhavato naSTasya kAnyA gatiH ||· 
+80552 new madyaM cApi tava priyaM priyamaho vArAGganAbhiH saha |· 
+;-----------------
+80553 old  
+80553 new vzyApyartharuciH kutastava dhanaM dyUtena cauryeNa vA · 
+;-----------------
+80554 old  
+80554 new cauryadyUtaparigraho 'pi bhavato naSTasya kAnyA gatiH ||· 
+;-----------------
+80649 old <S> bhImaM vanaM bhavati tasya puraM pradhAnaM sarvo janaH svajanatAmupayAti tasya |· 
+80649 new <S> bhImaM vanaM bhavati tasya puraM pradhAnaM · 
+;-----------------
+80650 old kRtsnA ca bhUrbhavati saMnidhiratnapUrNA yasyAsti pUrvasukRtaM vipulaM narasya ||· 
+80650 new sarvo janaH svajanatAmupayAti tasya |· 
+;-----------------
+80651 old  
+80651 new kRtsnA ca bhUrbhavati saMnidhiratnapUrNA · 
+;-----------------
+80652 old  
+80652 new yasyAsti pUrvasukRtaM vipulaM narasya ||· 
+;-----------------
+80711 old <S> bhujataruvanacchAyAM yeSAM niSevya mahaujasAM jaladhirasanA medinyAsIdasAvakutobhayA |· 
+80711 new <S> bhujataruvanacchAyAM yeSAM niSevya mahaujasAM · 
+;-----------------
+80712 old smRtimapi na te yAnti kSmApA vinA yadanugrahaM prakRtimahate kurmastasmai namaH kavikarmaNe ||· 
+80712 new jaladhirasanA medinyAsIdasAvakutobhayA |· 
+;-----------------
+80713 old  
+80713 new smRtimapi na te yAnti kSmApA vinA yadanugrahaM · 
+;-----------------
+80714 old  
+80714 new prakRtimahate kurmastasmai namaH kavikarmaNe ||· 
+;-----------------
+80741 old <S> bhuJjAH pavanaM sarIsRpaNAH prakhyApitA bhogino gAyadbhRGganivArakA nigAditA vistIrNakarNA gajAH |· 
+80741 new <S> bhuJjAH pavanaM sarIsRpaNAH prakhyApitA bhogino · 
+;-----------------
+80742 old yazcAbhyantarasaMbhRtoSmavikRtiH proktaH zamI sa drumo lokeneti nirargalaM pralapatA sarvaM viparyAsitam ||· 
+80742 new gAyadbhRGganivArakA nigAditA vistIrNakarNA gajAH |· 
+;-----------------
+80743 old  
+80743 new yazcAbhyantarasaMbhRtoSmavikRtiH proktaH zamI sa drumo · 
+;-----------------
+80744 old  
+80744 new lokeneti nirargalaM pralapatA sarvaM viparyAsitam ||· 
+;-----------------
+80798 old <S> bhUH paryaGko nijabhujalatA kandukaH khaM vitAnaM dIpazcandro virativanitAlabdhasaGgaH pramodaH |· 
+80798 new <S> bhUH paryaGko nijabhujalatA kandukaH khaM vitAnaM · 
+;-----------------
+80799 old dikkanyAbhiH pavanacamarairvIjyamAnaH samantAdbhikSuH zete nRpa iva bhuvi tyaktasarvaspRho 'pi ||· 
+80799 new dIpazcandro virativanitAlabdhasaGgaH pramodaH |· 
+;-----------------
+80800 old  
+80800 new dikkanyAbhiH pavanacamarairvIjyamAnaH samantA- · 
+;-----------------
+80801 old  
+80801 new dbhikSuH zete nRpa iva bhuvi tyaktasarvaspRho 'pi ||· 
+;-----------------
+80836 old <S> bhUtagrahAdibhavamoSadhibhirvirodhijAtaM balaiH praharaNaprabhavaM tanutraiH |· 
+80836 new <S> bhUtagrahAdibhavamoSadhibhirvirodhi- · 
+;-----------------
+80837 old nirvApyate pratibhayaM pRthivIpatInAM sArvatrikaM tu rabhasAdbvhuvi buddhivRddhaiH ||· 
+80837 new jAtaM balaiH praharaNaprabhavaM tanutraiH |· 
+;-----------------
+80838 old  
+80838 new nirvApyate pratibhayaM pRthivIpatInAM · 
+;-----------------
+80839 old  
+80839 new sArvatrikaM tu rabhasAdbvhuvi buddhivRddhaiH ||· 
+;-----------------
+80966 old <S> bhUtvA kalpazatAyuSo 'mbujabhuvaH kendrAzca devAsurA manvcAdyA munayo mahIjaladhayo naSTAH paraHkoTayaH |· 
+80966 new <S> bhUtvA kalpazatAyuSo 'mbujabhuvaH kendrAzca devAsurA · 
+;-----------------
+80967 old mohaH ko 'yamaho mahAnudayate lokasya zokAvaho bandhoH phenasame gate vapuSi yaH paJcAtmake paJcatAm ||· 
+80967 new manvcAdyA munayo mahIjaladhayo naSTAH paraHkoTayaH |· 
+;-----------------
+80968 old  
+80968 new mohaH ko 'yamaho mahAnudayate lokasya zokAvaho · 
+;-----------------
+80969 old  
+80969 new bandhoH phenasame gate vapuSi yaH paJcAtmake paJcatAm ||· 
+;-----------------
+81112 old <S> bhUyo 'pi dIvyati jito jayalipsayaiva prApnoti tacca savizeSataraM kadAcit |· 
+81112 new <S> bhUyo 'pi dIvyati jito jayalipsayaiva · 
+;-----------------
+81113 old kRtvApriyANi madataH paritapya cAnte bhUyah pibettkimapi doSavizeSakAGkSI ||· 
+81113 new prApnoti tacca savizeSataraM kadAcit |· 
+;-----------------
+81114 old  
+81114 new kRtvApriyANi madataH paritapya cAnte · 
+;-----------------
+81115 old  
+81115 new bhUyah pibettkimapi doSavizeSakAGkSI ||· 
+;-----------------
+81244 old <S> bhetavyaM nRpatestataH sacivato rAjJastato vallabhAdanyebhyazca bhavanti ye 'sya bhavane labdhaprasAdA viTAH |· 
+81244 new <S> bhetavyaM nRpatestataH sacivato rAjJastato vallabhA- · 
+;-----------------
+81245 old dainyAdunmukhadarzanena luThanaiH piNDArthamAyasyataH sevAM lAghavakAriNIM kRtadhiyaH stHAne zvavRttiM viduH ||· 
+81245 new danyebhyazca bhavanti ye 'sya bhavane labdhaprasAdA viTAH |· 
+;-----------------
+81246 old  
+81246 new dainyAdunmukhadarzanena luThanaiH piNDArthamAyasyataH · 
+;-----------------
+81247 old  
+81247 new sevAM lAghavakAriNIM kRtadhiyaH stHAne zvavRttiM viduH ||· 
+;-----------------
+81361 old <S> bhogA bhaGguravRttayo bahuvidhAstaireva cAyaM bhavastatkasyeha kRte paribhramatha re lokAH kRtaM ceSTitaiH |· 
+81361 new <S> bhogA bhaGguravRttayo bahuvidhAstaireva cAyaM bhava- · 
+;-----------------
+81362 old AzApAzazatopazAntivizadaM cetaH samAdhIyatAM kAmyotpattivaze svadhAmani yadi zraddheyamasmadvacaH ||· 
+81362 new statkasyeha kRte paribhramatha re lokAH kRtaM ceSTitaiH |· 
+;-----------------
+81363 old  
+81363 new AzApAzazatopazAntivizadaM cetaH samAdhIyatAM · 
+;-----------------
+81364 old  
+81364 new kAmyotpattivaze svadhAmani yadi zraddheyamasmadvacaH ||· 
+;-----------------
+81388 old <S> bhogA meghavitAnamadhyavilasatsaudAminIcaJcalA AyurvAyuvighaTTitAbhrapaTalIlInAmbuvadbhaGguram |· 
+81388 new <S> bhogA meghavitAnamadhyavilasatsaudAminIcaJcalA · 
+;-----------------
+81389 old lolA yauvanalAlasAstanubhRtAmityAkalayya drutaM yoge dhairyasamAdhisiddhisulabhe buddhiM vidhaddhvaM budhAH ||· 
+81389 new AyurvAyuvighaTTitAbhrapaTalIlInAmbuvadbhaGguram |· 
+;-----------------
+81390 old  
+81390 new lolA yauvanalAlasAstanubhRtAmityAkalayya drutaM · 
+;-----------------
+81391 old  
+81391 new yoge dhairyasamAdhisiddhisulabhe buddhiM vidhaddhvaM budhAH ||· 
+;-----------------
+81425 old <S> bhogAstuGgataraMgabhaGgacapalAH prANAH kSaNArdhvaMsinaH stokAnyeva dinAni yauvanasukhaM prItiH priyeSvasthirA |· 
+81425 new <S> bhogAstuGgataraMgabhaGgacapalAH prANAH kSaNArdhvaMsinaH · 
+;-----------------
+81426 old tatsaMsAramasAramave nikhilaM buddhvA budhA bodhane lokAnugrahapezalena manasA yatnaH samAdhIyatAm ||· 
+81426 new stokAnyeva dinAni yauvanasukhaM prItiH priyeSvasthirA |· 
+;-----------------
+81427 old  
+81427 new tatsaMsAramasAramave nikhilaM buddhvA budhA bodhane · 
+;-----------------
+81428 old  
+81428 new lokAnugrahapezalena manasA yatnaH samAdhIyatAm ||· 
+;-----------------
+81494 old <S> bhoge rogabhayaM kule cyutibhayaM vitte nRpAlAdbhayaM mAne dainyabhayaM bale ripubhayaM rUpe taruNyA bhayam |· 
+81494 new <S> bhoge rogabhayaM kule cyutibhayaM vitte nRpAlAdbhayaM · 
+;-----------------
+81495 old zAstre vAdibhayaM guNe khalabhayaM kAye kRtAntAdbhayaM sarvaM khalu bhayAnvitaM bhuvi nRNAM vairAgyamevAbhayam ||· 
+81495 new mAne dainyabhayaM bale ripubhayaM rUpe taruNyA bhayam |· 
+;-----------------
+81496 old  
+81496 new zAstre vAdibhayaM guNe khalabhayaM kAye kRtAntAdbhayaM · 
+;-----------------
+81497 old  
+81497 new sarvaM khalu bhayAnvitaM bhuvi nRNAM vairAgyamevAbhayam ||· 
+;-----------------
+81643 old <S> bhAntaM yAcanatatpareNa manasA dehIti vAkpreritA bhuktaM mAnavivarjitaM paragRhe niHzaGkayA kAkavat |· 
+81643 new <S> bhAntaM yAcanatatpareNa manasA dehIti vAkpreritA · 
+;-----------------
+81644 old sAkSepaM bhrukuTIkaTAkSakuTilaM dRSTaM khalAnAM mukhaM tRSNe devi yadanyadicchasi punastatrApi sajjA vayam ||· 
+81644 new bhuktaM mAnavivarjitaM paragRhe niHzaGkayA kAkavat |· 
+;-----------------
+81645 old [Seite2.506]· 
+81645 new sAkSepaM bhrukuTIkaTAkSakuTilaM dRSTaM khalAnAM mukhaM · 
+;-----------------
+81646 old  
+81646 new tRSNe devi yadanyadicchasi punastatrApi sajjA vayam ||· 
+;-----------------
+81647 old  
+81647 new [Seite2.506]· 
+;-----------------
+81675 old <S> bhrAntAH dezAH pracurataravaH sevitA mAnavendrAH krAntAH zailA vanagajamadakleditaM pItamambhaH |· 
+81675 new <S> bhrAntAH dezAH pracurataravaH sevitA mAnavendrAH · 
+;-----------------
+81676 old nadyastIrNAH zramakarajalAH pANipAtre ca bhuktaM tRSNe nAzaM vraja mama sakhi brUhi vA kAryazeSam ||· 
+81676 new krAntAH zailA vanagajamadakleditaM pItamambhaH |· 
+;-----------------
+81677 old  
+81677 new nadyastIrNAH zramakarajalAH pANipAtre ca bhuktaM · 
+;-----------------
+81678 old  
+81678 new tRSNe nAzaM vraja mama sakhi brUhi vA kAryazeSam ||· 
+;-----------------
+81697 old <S> bhrAntvA dezamanekadurgaviSamaM prAptaM na kiMcitphalaM tyaktvA jAtikulAbhimAnamucitaM sevA kRtA niSphalA |· 
+81697 new <S> bhrAntvA dezamanekadurgaviSamaM prAptaM na kiMcitphalaM · 
+;-----------------
+81698 old bhuktaM mAnavivarjitaM paragRheeSvAzaGkayA kAkavattRSNe jRmbhasi pApakarmanirate nAdyApi saMtuSyasi ||· 
+81698 new tyaktvA jAtikulAbhimAnamucitaM sevA kRtA niSphalA |· 
+;-----------------
+81699 old  
+81699 new bhuktaM mAnavivarjitaM paragRheeSvAzaGkayA kAkava- · 
+;-----------------
+81700 old  
+81700 new ttRSNe jRmbhasi pApakarmanirate nAdyApi saMtuSyasi ||· 
+;-----------------
+81758 old <S> bhrUbhaGge racite 'pi dRSTiradhikaM sotkaNThamudvIkSate ruddhAyAmapi vAci sasmitamidaM dagdhAnanaM jAyate |· 
+81758 new <S> bhrUbhaGge racite 'pi dRSTiradhikaM sotkaNThamudvIkSate · 
+;-----------------
+81759 old kArkazyaM gamite 'pi cetasi tanU romAJamAlambate dRSTe nirvahaNaM bhaviSyati kathaM nAmAsya tasmiJjane ||· 
+81759 new ruddhAyAmapi vAci sasmitamidaM dagdhAnanaM jAyate |· 
+;-----------------
+81760 old  
+81760 new kArkazyaM gamite 'pi cetasi tanU romAJamAlambate · 
+;-----------------
+81761 old  
+81761 new dRSTe nirvahaNaM bhaviSyati kathaM nAmAsya tasmiJjane ||· 
+;-----------------
+81782 old <S> bhrUbhedo racitazciraM nayanayorabhyastamAmIlanaM roddhuM zikSitamAdareNa hasitaM maune 'bhiyogaH kRtaH |· 
+81782 new <S> bhrUbhedo racitazciraM nayanayorabhyastamAmIlanaM · 
+;-----------------
+81783 old dhairyaM kartumapi sthirIkRtamidaM cetaH kathaMcinmayA baddho mAnaparigrahe parikaraH siddhistu daive sthitA ||· 
+81783 new roddhuM zikSitamAdareNa hasitaM maune 'bhiyogaH kRtaH |· 
+;-----------------
+81784 old  
+81784 new dhairyaM kartumapi sthirIkRtamidaM cetaH kathaMcinmayA · 
+;-----------------
+81785 old  
+81785 new baddho mAnaparigrahe parikaraH siddhistu daive sthitA ||· 
+;-----------------
