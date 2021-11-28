@@ -1,0 +1,2325 @@
+; ------ changes discussed in #29.
+; specifically at comment
+;  https://github.com/funderburkjim/boesp-prep/issues/29#issuecomment-979620332
+1 old <F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».</F4> 
+1 new <F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
+;-----------------
+2 old <F4.1C>-- S. 624, Z. 9 v. u. Lies 777 st. 776.</F4> 
+2 new <F4.1C>-- S. 624, Z. 9 v. u. Lies 777 st. 776.· 
+;-----------------
+3 old <F4.1C>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.</F4> 
+3 new <F4.1C>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.· 
+;-----------------
+4 old <F4.1C>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.</F4> 
+4 new <F4.1C>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.· 
+;-----------------
+5 old <F4.1C>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.</F4> 
+5 new <F4.1C>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.· 
+;-----------------
+6 old <F4.1C>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».</F4> 
+6 new <F4.1C>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».· 
+;-----------------
+7 old <F4.1C>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.</F4> 
+7 new <F4.1C>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
+;-----------------
+8 old <F4.1C>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.</F4> 
+8 new <F4.1C>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.· 
+;-----------------
+9 old <F4.1C>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSyaº#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.</F4> 
+9 new <F4.1C>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSya°#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.· 
+;-----------------
+159 old <F4.1>-- 7 , <i>b</i>, <gr>a.</gr> {#haTha#} bedeutet hier «absolute Nothwendigkeit».</F4> 
+159 new <F4.1>-- 7 , <i>b</i>, <gr>a.</gr> {#haTha#} bedeutet hier «absolute Nothwendigkeit».· 
+;-----------------
+215 old <F4.2>-- 11 . PRASAN3GARATNA1VALI1. 
+215 new <F4.2>-- 11 . PRASAN3GARATNA1VALI1.· 
+;-----------------
+217 old <F4.1>-- 11 , <i>a</i>, <gr>b.</gr> Besser {#pariSevitam#}.</F4> 
+217 new <F4.1>-- 11 , <i>a</i>, <gr>b.</gr> Besser {#pariSevitam#}.· 
+;-----------------
+636 old <F4.2>-- 39 . Ebendaselbst. {%c. d.%} {#arcayanti narA nAgaM na tArkSyaM na gajAdikam#}.</F4> 
+636 new <F4.2>-- 39 . Ebendaselbst. {%c. d.%} {#arcayanti narA nAgaM na tArkSyaM na gajAdikam#}.· 
+;-----------------
+713 old <F4.2>-- 44 . Ebendaselbst.</F4> 
+713 new <F4.2>-- 44 . Ebendaselbst.· 
+;-----------------
+859 old <F4.2>-- 52 . SPHUT2AS4LOKA. Das erste Wort wird ein Mal durch {#akSamA ya AlApAsteSAM vRttijJA#}, das andere Mal durch {#akSamAlA japamAlA tasyA apavRttiM bhramaNaM jAnAti#} erklärt.</F4> 
+859 new <F4.2>-- 52 . SPHUT2AS4LOKA. Das erste Wort wird ein Mal durch {#akSamA ya AlApAsteSAM vRttijJA#}, das andere Mal durch {#akSamAlA japamAlA tasyA apavRttiM bhramaNaM jAnAti#} erklärt.· 
+;-----------------
+885 old <F4.1>-- 54 , <i>a</i>, <gr>a.</gr> {#akSamI#} meine Aenderung für {#akSamo#}.</F4> 
+885 new <F4.1>-- 54 , <i>a</i>, <gr>a.</gr> {#akSamI#} meine Aenderung für {#akSamo#}.· 
+;-----------------
+1006 old <F4.2>-- 60 . <i>c</i>. {#darzitaguNaiva vRº#}.</F4> 
+1006 new <F4.2>-- 60 . <i>c</i>. {#darzitaguNaiva vR°#}.· 
+;-----------------
+1008 old <F4.1>-- 60 . Wird VALLABHA zugeschrieben; vgl. AUFRECHT in Z. d. d. m. G. 27, 82.</F4> 
+1008 new <F4.1>-- 60 . Wird VALLABHA zugeschrieben; vgl. AUFRECHT in Z. d. d. m. G. 27, 82.· 
+;-----------------
+1370 old <F4.2>-- 80 . CARPAT2APAN4G4ARI1. <i>b</i>. {#dazana#} st. {#danta#}. {%c. d.%} {#vRddho yAti gRhItvA daNDaM tadapi na muJcatyAzApiNDam#}.</F4> 
+1370 new <F4.2>-- 80 . CARPAT2APAN4G4ARI1. <i>b</i>. {#dazana#} st. {#danta#}. {%c. d.%} {#vRddho yAti gRhItvA daNDaM tadapi na muJcatyAzApiNDam#}.· 
+;-----------------
+1410 old <F4.2>-- 82 . <i>a</i>. {#aGganavedI#}.</F4> 
+1410 new <F4.2>-- 82 . <i>a</i>. {#aGganavedI#}.· 
+;-----------------
+1549 old <F4.2>-- 90 . SABHA1TARAM3GA.</F4> 
+1549 new <F4.2>-- 90 . SABHA1TARAM3GA.· 
+;-----------------
+1660 old <F4.2>-- 96 . KALPATARU.</F4> 
+1660 new <F4.2>-- 96 . KALPATARU.· 
+;-----------------
+1681 old <F4.2>-- 97 . Ebendaselbst. <i>b</i>. {#varau#}. <i>c</i>. {#tAvalpaº#}.</F4> 
+1681 new <F4.2>-- 97 . Ebendaselbst. <i>b</i>. {#varau#}. <i>c</i>. {#tAvalpa°#}.· 
+;-----------------
+1987 old <F4.1>-- 114 , <i>a</i>. FRITZE besser: «ein Unwissender, der ein Verschwender ist; ein Schutzloser, der zanksüchtig ist».</F4> 
+1987 new <F4.1>-- 114 , <i>a</i>. FRITZE besser: «ein Unwissender, der ein Verschwender ist; ein Schutzloser, der zanksüchtig ist».· 
+;-----------------
+2062 old <F4.2>-- 118 . PRASAN3GAR.</F4> 
+2062 new <F4.2>-- 118 . PRASAN3GAR.· 
+;-----------------
+2208 old <F4.2>-- 127 . <i>b</i>. {#smaH#} und {#saraNau#}.</F4> 
+2208 new <F4.2>-- 127 . <i>b</i>. {#smaH#} und {#saraNau#}.· 
+;-----------------
+2332 old <F4.1>-- 134 = VIVEKAVILA1SA 3, 16. <i>a</i>, <gr>b.</gr> {#gRhAdyasya nivartate#}. <i>b</i>, <gr>a.</gr> {#sa tasmai duSkRtaM dattvA#}.</F4> 
+2332 new <F4.1>-- 134 = VIVEKAVILA1SA 3, 16. <i>a</i>, <gr>b.</gr> {#gRhAdyasya nivartate#}. <i>b</i>, <gr>a.</gr> {#sa tasmai duSkRtaM dattvA#}.· 
+;-----------------
+2427 old <F4.2>-- 140 . SPHUT2AS4LOKA. <i>c</i>. {#ºtarukASTam#} d. i. {#ºtarukASTham#} st. {#ºtarum#}.</F4> 
+2427 new <F4.2>-- 140 . SPHUT2AS4LOKA. <i>c</i>. {#°tarukASTam#} d. i. {#°tarukASTham#} st. {#°tarum#}.· 
+;-----------------
+2544 old <F4.2>-- 148 . <i>b</i>. {#pizuno#} (ohne {#'pi#}) {#'nveSayati dUSaNAnyeva#}. <i>d</i>. {#hi#} nach {#iva#} eingeschaltet. Bei dieser Lesart ist das Versmaass in Ordnung.</F4> 
+2544 new <F4.2>-- 148 . <i>b</i>. {#pizuno#} (ohne {#'pi#}) {#'nveSayati dUSaNAnyeva#}. <i>d</i>. {#hi#} nach {#iva#} eingeschaltet. Bei dieser Lesart ist das Versmaass in Ordnung.· 
+;-----------------
+2669 old <F4.2>-- 155 . <i>b</i>. {#vyathate#}. <i>d</i>. {#paraparitApaM#}.</F4> 
+2669 new <F4.2>-- 155 . <i>b</i>. {#vyathate#}. <i>d</i>. {#paraparitApaM#}.· 
+;-----------------
+2698 old <F4.1>-- 157 , <i>b</i>, <gr>b.</gr> {#vitta#} st. {#sakthi#} zu lesen; vgl. AUFRECHT a. a. O. 19. Der Spruch ist von KSHEMENDRA.</F4> 
+2698 new <F4.1>-- 157 , <i>b</i>, <gr>b.</gr> {#vitta#} st. {#sakthi#} zu lesen; vgl. AUFRECHT a. a. O. 19. Der Spruch ist von KSHEMENDRA.· 
+;-----------------
+2745 old <F4.1>-- 160 , <i>a</i>, <gr>a.</gr> Lies {#atIndriyAyAM#}.</F4> 
+2745 new <F4.1>-- 160 , <i>a</i>, <gr>a.</gr> Lies {#atIndriyAyAM#}.· 
+;-----------------
+2814 old <F4.2>-- 164 . PRASAN3GAR. <i>a</i>. {#vAhanaM#} st. {#zAMbhavo#}. <i>b</i>. {#krauJcapateH zikhI ca girijAsiMho 'pi nAgAnanam#}. {%c. d.%} {#gaurI jahnusutAmasUyati kalAnAthaM kapAlAnalo nirviNNaH sa papau kuTumbakalahAdIzo 'pi hAlAhalam#}.</F4> 
+2814 new <F4.2>-- 164 . PRASAN3GAR. <i>a</i>. {#vAhanaM#} st. {#zAMbhavo#}. <i>b</i>. {#krauJcapateH zikhI ca girijAsiMho 'pi nAgAnanam#}. {%c. d.%} {#gaurI jahnusutAmasUyati kalAnAthaM kapAlAnalo nirviNNaH sa papau kuTumbakalahAdIzo 'pi hAlAhalam#}.· 
+;-----------------
+2889 old <F4.2>-- 169 . PRASAN3GAR.</F4> 
+2889 new <F4.2>-- 169 . PRASAN3GAR.· 
+;-----------------
+3345 old <F4.2>-- 195 . VIS4VAGUN2A1DARS4A. <i>c</i>. {#tathA dhvAntaM jAtaM#}.</F4> 
+3345 new <F4.2>-- 195 . VIS4VAGUN2A1DARS4A. <i>c</i>. {#tathA dhvAntaM jAtaM#}.· 
+;-----------------
+3347 old <F4.1>-- 195 , <i>b</i>, <gr>b.</gr> AUFRECHT a. a. O. 9 übersetzt: «dass man selbst die Leuchtkäfer zur Erhellung des Dunkels geeignet hält».</F4> 
+3347 new <F4.1>-- 195 , <i>b</i>, <gr>b.</gr> AUFRECHT a. a. O. 9 übersetzt: «dass man selbst die Leuchtkäfer zur Erhellung des Dunkels geeignet hält».· 
+;-----------------
+3595 old <F4.2>-- 209 . {#adhaH karoSi yadratnaM mUrdhnA dhArayase tRNam | doSastavaiva#}.</F4> 
+3595 new <F4.2>-- 209 . {#adhaH karoSi yadratnaM mUrdhnA dhArayase tRNam | doSastavaiva#}.· 
+;-----------------
+4096 old <F4.1>-- 242 = RA1GHAVAP. 1, 47. <i>b</i>, <gr>b.</gr> {#kavi#} st. {#para#}. <i>a</i>, <gr>b.</gr> {#vAcAM pariNatiSu#} bedeutet: «im Wechsel der Rede, des Redeausdrucks».</F4> 
+4096 new <F4.1>-- 242 = RA1GHAVAP. 1, 47. <i>b</i>, <gr>b.</gr> {#kavi#} st. {#para#}. <i>a</i>, <gr>b.</gr> {#vAcAM pariNatiSu#} bedeutet: «im Wechsel der Rede, des Redeausdrucks».· 
+;-----------------
+5178 old <F4.2>-- 311 . <i>d</i>. {#tu pidadhAti#}.</F4> 
+5178 new <F4.2>-- 311 . <i>d</i>. {#tu pidadhAti#}.· 
+;-----------------
+5250 old <F4.2>-- 316 . <i>b</i>. {#balIyasi#}. <i>d</i>. {#mRtyudvArANi#}.</F4> 
+5250 new <F4.2>-- 316 . <i>b</i>. {#balIyasi#}. <i>d</i>. {#mRtyudvArANi#}.· 
+;-----------------
+5340 old <F4.1>-- 322 . Auch KA1VJAPR. 133, 15. fg.</F4> 
+5340 new <F4.1>-- 322 . Auch KA1VJAPR. 133, 15. fg.· 
+;-----------------
+5452 old <F4.2>-- 328 . <i>c</i>. {#azucitvaM nirdayatvaM#} ohne {#ca#}.</F4> 
+5452 new <F4.2>-- 328 . <i>c</i>. {#azucitvaM nirdayatvaM#} ohne {#ca#}.· 
+;-----------------
+5688 old <F4.2>-- 343 . <i>d</i>. {#ke khalena na vaJcitAH#}.</F4> 
+5688 new <F4.2>-- 343 . <i>d</i>. {#ke khalena na vaJcitAH#}.· 
+;-----------------
+5817 old <F4.2>-- 349 . PRASAN3GARATN. <i>a</i>. {#antaH sAravihInasya#}.</F4> 
+5817 new <F4.2>-- 349 . PRASAN3GARATN. <i>a</i>. {#antaH sAravihInasya#}.· 
+;-----------------
+5834 old <F4.1>-- 350 , <i>a</i>, <gr>b.</gr> Lies {#upadezo#}.</F4> 
+5834 new <F4.1>-- 350 , <i>a</i>, <gr>b.</gr> Lies {#upadezo#}.· 
+;-----------------
+6086 old <F4.1>-- 365 . Vgl. MBH. 5, 2788.</F4> 
+6086 new <F4.1>-- 365 . Vgl. MBH. 5, 2788.· 
+;-----------------
+6288 old <F4.1>-- 378 . Wird der VIKAT2ANITAMBA1 zugeschrieben; s. AUFRECHT a. a. O. 196.</F4> 
+6288 new <F4.1>-- 378 . Wird der VIKAT2ANITAMBA1 zugeschrieben; s. AUFRECHT a. a. O. 196.· 
+;-----------------
+6319 old <F4.2>-- 379 . <i>b</i>. {#vRthAviruditaiH#}. <i>c</i>. {#eva#} st. {#eSa#}. <i>d</i>. {#bhRzataraM#} und {#ujktati#}.</F4> 
+6319 new <F4.2>-- 379 . <i>b</i>. {#vRthAviruditaiH#}. <i>c</i>. {#eva#} st. {#eSa#}. <i>d</i>. {#bhRzataraM#} und {#ujktati#}.· 
+;-----------------
+6343 old <F4.2>-- 380 . <i>a</i>. {#bata#} st. {#vara#}. <i>d</i>. {#pauraMdarIM#}.</F4> 
+6343 new <F4.2>-- 380 . <i>a</i>. {#bata#} st. {#vara#}. <i>d</i>. {#pauraMdarIM#}.· 
+;-----------------
+6594 old <F4.1>-- 397 . Vgl. MBH. 12, 4542.</F4> 
+6594 new <F4.1>-- 397 . Vgl. MBH. 12, 4542.· 
+;-----------------
+6641 old <F4.2>-- 400 . In der Chrestomathie habe ich die Lesart {#kAryadhvaMso#} aufgenommen.</F4> 
+6641 new <F4.2>-- 400 . In der Chrestomathie habe ich die Lesart {#kAryadhvaMso#} aufgenommen.· 
+;-----------------
+6664 old <F4.1>-- 401 , <i>a</i>, <gr>b.</gr> Statt {#puruSaH#} ist mit FRITZE {#paruSaM#} zu lesen.</F4> 
+6664 new <F4.1>-- 401 , <i>a</i>, <gr>b.</gr> Statt {#puruSaH#} ist mit FRITZE {#paruSaM#} zu lesen.· 
+;-----------------
+6780 old <F4.2>-- 408 . S4A1RN3GADHARA. <i>a</i>. {#zaraNaM#} st. {#yuktaM#}. <i>d</i>. {#vAcAlaSTiTTibho yathAH#} bei uns ist {#vAcATaSTiº#} zu lesen. [Seite4.2-206]</F4> 
+6780 new <F4.2>-- 408 . S4A1RN3GADHARA. <i>a</i>. {#zaraNaM#} st. {#yuktaM#}. <i>d</i>. {#vAcAlaSTiTTibho yathAH#} bei uns ist {#vAcATaSTi°#} zu lesen. [Seite4.2-206]· 
+;-----------------
+6802 old <F4.2>-- 409 , <i>b</i>. {#ºbahule 'pi#}. <i>c</i>. {#lAbho#} st. {#lezo#}.</F4> 
+6802 new <F4.2>-- 409 , <i>b</i>. {#°bahule 'pi#}. <i>c</i>. {#lAbho#} st. {#lezo#}.· 
+;-----------------
+6983 old <F4.1>-- 419 . Lies: «Selbst einen Theil des Lohnes, den u.s.w.»</F4> 
+6983 new <F4.1>-- 419 . Lies: «Selbst einen Theil des Lohnes, den u.s.w.»· 
+;-----------------
+7182 old <F4.1>-- 432 , <i>b</i>, <gr>a.</gr> FRITZE will {#ariM nAzaº#} lesen.</F4> 
+7182 new <F4.1>-- 432 , <i>b</i>, <gr>a.</gr> FRITZE will {#ariM nAza°#} lesen.· 
+;-----------------
+7205 old <F4.1>-- 433 . Aus dem PRASANNARA1GHAVA nach AUFRECHT a. a. O. 30.</F4> 
+7205 new <F4.1>-- 433 . Aus dem PRASANNARA1GHAVA nach AUFRECHT a. a. O. 30.· 
+;-----------------
+7450 old <F4.2>-- 449 . SPHUT2AS4LOKA. <i>c</i>. {#divaiva#}.</F4> 
+7450 new <F4.2>-- 449 . SPHUT2AS4LOKA. <i>c</i>. {#divaiva#}.· 
+;-----------------
+7547 old <F4.2>-- 455 . <i>a</i>. {#apekSante#}. {%c. d.%} {#sadA lokahitAsaktA ratnadIpA ivottamAH#}.</F4> 
+7547 new <F4.2>-- 455 . <i>a</i>. {#apekSante#}. {%c. d.%} {#sadA lokahitAsaktA ratnadIpA ivottamAH#}.· 
+;-----------------
+8056 old <F4.1>-- 487 . Von DHANADADEVA nach AUFRECHT a. a. O. 40.</F4> 
+8056 new <F4.1>-- 487 . Von DHANADADEVA nach AUFRECHT a. a. O. 40.· 
+;-----------------
+8526 old <F4.1>-- 514 . Vgl. {#abhracchAyA khalaiH prItiH paranArISu saMgatiH | paJcaite asthirA bhAvA yauvanAni dhanAni ca ||#} GA1RUD2A-P. im S4KDR. unter {#sthira#}.</F4> 
+8526 new <F4.1>-- 514 . Vgl. {#abhracchAyA khalaiH prItiH paranArISu saMgatiH | paJcaite asthirA bhAvA yauvanAni dhanAni ca ||#} GA1RUD2A-P. im S4KDR. unter {#sthira#}.· 
+;-----------------
+8544 old <F4.2>-- 515 . PRASAN3GAR. {%a. b.%} {#ºprItirnavasasyAni yoº#}.</F4> 
+8544 new <F4.2>-- 515 . PRASAN3GAR. {%a. b.%} {#°prItirnavasasyAni yo°#}.· 
+;-----------------
+8635 old <F4.1>-- 521 . In der Note ist 1177 st. 1117 zu lesen.</F4> 
+8635 new <F4.1>-- 521 . In der Note ist 1177 st. 1117 zu lesen.· 
+;-----------------
+8875 old <F4.2>-- 535 . S4A1RN3GADHARA. <i>b</i>. {#ratnAnAmiva#}. <i>c</i>. {#nidhAnAni#}.</F4> 
+8875 new <F4.2>-- 535 . S4A1RN3GADHARA. <i>b</i>. {#ratnAnAmiva#}. <i>c</i>. {#nidhAnAni#}.· 
+;-----------------
+9045 old <F4.2>-- 544 . <i>a</i>. {#ºvanavilAsavihArameva#}.</F4> 
+9045 new <F4.2>-- 544 . <i>a</i>. {#°vanavilAsavihArameva#}.· 
+;-----------------
+9078 old <F4.2>-- 545 . <i>b</i>. {#tRNaprAyatAm#}.</F4> 
+9078 new <F4.2>-- 545 . <i>b</i>. {#tRNaprAyatAm#}.· 
+;-----------------
+9106 old <F4.1>-- 546 . Auch KA1VJAPR. 161, 3. fgg. und zwar wie bei mir.</F4> 
+9106 new <F4.1>-- 546 . Auch KA1VJAPR. 161, 3. fgg. und zwar wie bei mir.· 
+;-----------------
+9122 old <F4.2>-- 547 . <i>c</i>. In der Chrestomathie habe ich {#eva#} st. {#iva#} gesetzt. So wird hier gelesen und ausserdem {#nazyanti#} st. {#nekSyante#}.</F4> 
+9122 new <F4.2>-- 547 . <i>c</i>. In der Chrestomathie habe ich {#eva#} st. {#iva#} gesetzt. So wird hier gelesen und ausserdem {#nazyanti#} st. {#nekSyante#}.· 
+;-----------------
+9178 old <F4.2>-- 550 . SABHA1TARAM3GA.</F4> 
+9178 new <F4.2>-- 550 . SABHA1TARAM3GA.· 
+;-----------------
+9242 old <F4.2>-- 553 . <i>c</i>. {#tadidamatisulabham#}. <i>d</i>. {#bhavitA jalapUrNajaladharAbhyudaye#}.</F4> 
+9242 new <F4.2>-- 553 . <i>c</i>. {#tadidamatisulabham#}. <i>d</i>. {#bhavitA jalapUrNajaladharAbhyudaye#}.· 
+;-----------------
+9340 old <F4.2>-- 559 . <i>a</i>. {#padi#} fehlt.</F4> 
+9340 new <F4.2>-- 559 . <i>a</i>. {#padi#} fehlt.· 
+;-----------------
+9357 old <F4.1>-- 560 , Note. KAPORA als Dichtername ist hier wie 789 und 1711 zu streichen; vgl. AUFRECHT a. a. O. 14, N. und [Seite4.1-660] meine Bemerkungen ebend. 628.</F4> 
+9357 new <F4.1>-- 560 , Note. KAPORA als Dichtername ist hier wie 789 und 1711 zu streichen; vgl. AUFRECHT a. a. O. 14, N. und [Seite4.1-660] meine Bemerkungen ebend. 628.· 
+;-----------------
+9471 old <F4.2>-- 567 . PRASAN3GAR. <i>c</i>. {#'pi rakSitaH#} st. {#visarjitaH#}.</F4> 
+9471 new <F4.2>-- 567 . PRASAN3GAR. <i>c</i>. {#'pi rakSitaH#} st. {#visarjitaH#}.· 
+;-----------------
+9539 old <F4.2>-- 570 . {%c. d.%} {#kRto dhRto 'ndhamukhadarpaNo yadabudho janaH sevitaH#}.</F4> 
+9539 new <F4.2>-- 570 . {%c. d.%} {#kRto dhRto 'ndhamukhadarpaNo yadabudho janaH sevitaH#}.· 
+;-----------------
+9677 old <F4.1>-- 578 , <i>a</i>, <gr>b.</gr> {#svacchandam#} ist Adj. und gehört zu {#bhramaNam#}. <i>b</i>, <gr>a.</gr> {#tanUjJAlI#} fasst FRITZE als «Härchenreihe».</F4> 
+9677 new <F4.1>-- 578 , <i>a</i>, <gr>b.</gr> {#svacchandam#} ist Adj. und gehört zu {#bhramaNam#}. <i>b</i>, <gr>a.</gr> {#tanUjJAlI#} fasst FRITZE als «Härchenreihe».· 
+;-----------------
+9971 old <F4.2>-- 597 . An zwei Stellen, ein Mal in <i>c</i>. fälschlich {#adhirUDhamAnA#}.</F4> 
+9971 new <F4.2>-- 597 . An zwei Stellen, ein Mal in <i>c</i>. fälschlich {#adhirUDhamAnA#}.· 
+;-----------------
+10016 old <F4.2>-- 599 . <i>a</i>. {#pAdarajaHsamA#}.</F4> 
+10016 new <F4.2>-- 599 . <i>a</i>. {#pAdarajaHsamA#}.· 
+;-----------------
+10083 old <F4.2>-- 602 . SPHUT2AS4LOKA. <i>c</i>. {#vidyAturANAM#}. <i>d</i>. {#na rucirna velA#}.</F4> 
+10083 new <F4.2>-- 602 . SPHUT2AS4LOKA. <i>c</i>. {#vidyAturANAM#}. <i>d</i>. {#na rucirna velA#}.· 
+;-----------------
+10195 old <F4.1>-- 606 . Lies in der Uebersetzung Z. 6: «so mache ich mir noch weniger aus dir».</F4> 
+10195 new <F4.1>-- 606 . Lies in der Uebersetzung Z. 6: «so mache ich mir noch weniger aus dir».· 
+;-----------------
+10322 old <F4.2>-- 614 . KALPATARU. <i>b</i>. {#garvaparitoSam#} ohne {#ca#}.</F4> 
+10322 new <F4.2>-- 614 . KALPATARU. <i>b</i>. {#garvaparitoSam#} ohne {#ca#}.· 
+;-----------------
+10356 old <F4.2>-- 615 . {%b%} und {%c%} wechseln die Stellen. <i>c</i>. {#doSAkulaH#} st. {#zokAkulaH#}.</F4> 
+10356 new <F4.2>-- 615 . {%b%} und {%c%} wechseln die Stellen. <i>c</i>. {#doSAkulaH#} st. {#zokAkulaH#}.· 
+;-----------------
+10531 old <F4.1>-- 623 , Note. Streiche «ed. Calc.». da die v.l. sich in einer Hdschr. findet.</F4> 
+10531 new <F4.1>-- 623 , Note. Streiche «ed. Calc.». da die v.l. sich in einer Hdschr. findet.· 
+;-----------------
+10739 old <F4.2>-- 636 . KALPATARU. <i>c</i>. {#alabhyeSu#}.</F4> 
+10739 new <F4.2>-- 636 . KALPATARU. <i>c</i>. {#alabhyeSu#}.· 
+;-----------------
+10764 old <F4.1>-- 637 . Auch KA1VJAPR. 80, 6. fgg. Wird in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 55) dem BILHAN2A zugeschrieben, was auf einer Verwechselung mit S4ILHAN2A beruhen kann.</F4> 
+10764 new <F4.1>-- 637 . Auch KA1VJAPR. 80, 6. fgg. Wird in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 55) dem BILHAN2A zugeschrieben, was auf einer Verwechselung mit S4ILHAN2A beruhen kann.· 
+;-----------------
+10888 old <F4.2>-- 645 . S4A1RN3GADHARA.</F4> 
+10888 new <F4.2>-- 645 . S4A1RN3GADHARA.· 
+;-----------------
+10890 old <F4.1>-- 645 = BHRAMARA1SHT2AKA 7 bei HAEB. 241. Lautet hier: {#alirasau nalinIvanavallabhaH kumudinIkulakelikalArasaH | vidhivazena paradezamupAgataH#} u.s.w.</F4> 
+10890 new <F4.1>-- 645 = BHRAMARA1SHT2AKA 7 bei HAEB. 241. Lautet hier: {#alirasau nalinIvanavallabhaH kumudinIkulakelikalArasaH | vidhivazena paradezamupAgataH#} u.s.w.· 
+;-----------------
+10959 old <F4.2>-- 649 . (S. 197.) <i>d</i>. {#kumbhodbhUtaH papau#}.</F4> 
+10959 new <F4.2>-- 649 . (S. 197.) <i>d</i>. {#kumbhodbhUtaH papau#}.· 
+;-----------------
+10961 old <F4.1>-- 649 . Von S4A1RN3GADHARA selbst nach AUFRECHT a. a. O. 103.</F4> 
+10961 new <F4.1>-- 649 . Von S4A1RN3GADHARA selbst nach AUFRECHT a. a. O. 103.· 
+;-----------------
+11867 old <F4.2>-- 706 . PRASAN3GAR. {%c. d.%} {#pramadA patimiva vRddhaM necchati lakSmIrupasthAtum#}.</F4> 
+11867 new <F4.2>-- 706 . PRASAN3GAR. {%c. d.%} {#pramadA patimiva vRddhaM necchati lakSmIrupasthAtum#}.· 
+;-----------------
+11927 old <F4.2>-- 710 . S4A1RN3GADHARA. <i>b</i>. {#te#} st. {#ye#}.</F4> 
+11927 new <F4.2>-- 710 . S4A1RN3GADHARA. <i>b</i>. {#te#} st. {#ye#}.· 
+;-----------------
+12030 old <F4.2>-- 716 . <i>a</i>. {#azaThamalobhamajihmaM#}.</F4> 
+12030 new <F4.2>-- 716 . <i>a</i>. {#azaThamalobhamajihmaM#}.· 
+;-----------------
+12238 old <F4.1>-- 729 . Streiche in der Note «SIM3HA1SANADV. (nach GILDEMEISTER)».</F4> 
+12238 new <F4.1>-- 729 . Streiche in der Note «SIM3HA1SANADV. (nach GILDEMEISTER)».· 
+;-----------------
+12685 old <F4.1>-- 757 . Auch MBH. 3, 91, <i>b</i>. fg. und zwar wie im BRA1HMADHARMA (vgl. Verbesserungen und Nachträge).</F4> 
+12685 new <F4.1>-- 757 . Auch MBH. 3, 91, <i>b</i>. fg. und zwar wie im BRA1HMADHARMA (vgl. Verbesserungen und Nachträge).· 
+;-----------------
+12777 old <F4.1>-- 762 , <i>a</i>, <gr>a.</gr> Man könnte {#samIyyamAnaH#} vermuthen; dieses wäre Passiv von {#samIy, ºyati#} «Jemanden für seines Gleichen halten».</F4> 
+12777 new <F4.1>-- 762 , <i>a</i>, <gr>a.</gr> Man könnte {#samIyyamAnaH#} vermuthen; dieses wäre Passiv von {#samIy, °yati#} «Jemanden für seines Gleichen halten».· 
+;-----------------
+12974 old <F4.2>-- 773 . PRASAN3GAR. {%b. d.%} {#nahi#} st. {#na ca#}.</F4> 
+12974 new <F4.2>-- 773 . PRASAN3GAR. {%b. d.%} {#nahi#} st. {#na ca#}.· 
+;-----------------
+13048 old <F4.2>-- 777 . SPHUT2AS4LOKA. <i>d</i>. {#hariH#} st. {#viSNuH#}.</F4> 
+13048 new <F4.2>-- 777 . SPHUT2AS4LOKA. <i>d</i>. {#hariH#} st. {#viSNuH#}.· 
+;-----------------
+13081 old <F4.1>-- 779 . Wird in den Berliner Hdschrr. 300 CA1N2AKJA zugeschrieben. <i>a</i>, <gr>a.</gr> {#'pIha#} st. {#khalu#}. <i>b</i>, <gr>b.</gr> {#zaMbhupUjJanam#}.</F4> 
+13081 new <F4.1>-- 779 . Wird in den Berliner Hdschrr. 300 CA1N2AKJA zugeschrieben. <i>a</i>, <gr>a.</gr> {#'pIha#} st. {#khalu#}. <i>b</i>, <gr>b.</gr> {#zaMbhupUjJanam#}.· 
+;-----------------
+13098 old <F4.1>-- 780 . Füge in der Uebersetzung «reizende» nach «(aufgegangene)» hinzu.</F4> 
+13098 new <F4.1>-- 780 . Füge in der Uebersetzung «reizende» nach «(aufgegangene)» hinzu.· 
+;-----------------
+13248 old <F4.2>-- 789 . <i>b</i>. {#bhAsvAn#} st. {#bhAgyaM#}.</F4> 
+13248 new <F4.2>-- 789 . <i>b</i>. {#bhAsvAn#} st. {#bhAgyaM#}.· 
+;-----------------
+13334 old <F4.2>-- 795 . Zweimal. <i>b</i>. {#nIrajamaNDitam#}. <i>c</i>. Das eine Mal {#ramate na marAlasya#}, das andere Mal {#ramate naiva haMsasya#}.</F4> 
+13334 new <F4.2>-- 795 . Zweimal. <i>b</i>. {#nIrajamaNDitam#}. <i>c</i>. Das eine Mal {#ramate na marAlasya#}, das andere Mal {#ramate naiva haMsasya#}.· 
+;-----------------
+13353 old <F4.1>-- 796 . Vgl. {#asthiraM jIvitaM loke asthiraM dhanaM yauvanam | asthiraM putradArAdyaM dharmaM#} (sic) {#kIrtiryazaH sthiram ||#} GA1RUD2A-P. 115 im S4KDR. unter {#sthira#}.</F4> 
+13353 new <F4.1>-- 796 . Vgl. {#asthiraM jIvitaM loke asthiraM dhanaM yauvanam | asthiraM putradArAdyaM dharmaM#} (sic) {#kIrtiryazaH sthiram ||#} GA1RUD2A-P. 115 im S4KDR. unter {#sthira#}.· 
+;-----------------
+13428 old <F4.1>-- 800 . Von RUDRAT2A; s. AUFRECHT a. a. O. 80.</F4> 
+13428 new <F4.1>-- 800 . Von RUDRAT2A; s. AUFRECHT a. a. O. 80.· 
+;-----------------
+13500 old <F4.2>-- 804 . SABHA1TARAM3GA. <i>a</i>. {#dagdhodarasya#}. <i>c</i>. {#vAnarImiva#}.</F4> 
+13500 new <F4.2>-- 804 . SABHA1TARAM3GA. <i>a</i>. {#dagdhodarasya#}. <i>c</i>. {#vAnarImiva#}.· 
+;-----------------
+13541 old <F4.2>-- 806 . SABHA1TARAM3GA.</F4> 
+13541 new <F4.2>-- 806 . SABHA1TARAM3GA.· 
+;-----------------
+13697 old <F4.1>-- 814 . Auch KA1VJAPR. 181, 1. fgg.</F4> 
+13697 new <F4.1>-- 814 . Auch KA1VJAPR. 181, 1. fgg.· 
+;-----------------
+13880 old <F4.2>-- 826 . S4A1RN3GADHARA.</F4> 
+13880 new <F4.2>-- 826 . S4A1RN3GADHARA.· 
+;-----------------
+14072 old <F4.2>-- 837 . In meinem Artikel "Zur Kritik und Erklärung verschiedener Werke" ist 836 st. 837 zu lesen.</F4> 
+14072 new <F4.2>-- 837 . In meinem Artikel "Zur Kritik und Erklärung verschiedener Werke" ist 836 st. 837 zu lesen.· 
+;-----------------
+14074 old <F4.1>-- 837 . Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.</F4> 
+14074 new <F4.1>-- 837 . Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.· 
+;-----------------
+14093 old <F4.1>-- 838 , <i>a</i>, <gr>b.</gr> {#mRdaGga#} hat hier wie 1930 die gewöhnliche Bed. «Trommel»; vgl. die Beiwörter von {#murajJa#} in Z. d.d.m.G. 28, 411.</F4> 
+14093 new <F4.1>-- 838 , <i>a</i>, <gr>b.</gr> {#mRdaGga#} hat hier wie 1930 die gewöhnliche Bed. «Trommel»; vgl. die Beiwörter von {#murajJa#} in Z. d.d.m.G. 28, 411.· 
+;-----------------
+14123 old <F4.1>-- 840 . Auch KA1VJAPR. 176, 11. fg.</F4> 
+14123 new <F4.1>-- 840 . Auch KA1VJAPR. 176, 11. fg.· 
+;-----------------
+14137 old <F4.2>-- 841 . SABHA1TARAM3GA.</F4> 
+14137 new <F4.2>-- 841 . SABHA1TARAM3GA.· 
+;-----------------
+14292 old <F4.2>-- 849 . PADJATARAM3GIN2I1. <i>b</i>. {#yatheccham#}.</F4> 
+14292 new <F4.2>-- 849 . PADJATARAM3GIN2I1. <i>b</i>. {#yatheccham#}.· 
+;-----------------
+14597 old <F4.2>-- 867 . HANU1MANNA1T2AKA. <i>a</i>. {#AghrAtaM paricumbitaM pari muhurlIDhaM punazcarvitaM#}. <i>b</i>. {#tyaktaM vA bhuvi nIrasena manasA tatra vyathAM#}. <i>c</i>. {#he sadratna, vAnareNAdarAd#}. <i>d</i>. {#antaHsAravilokanavyasaninA cUº#}.</F4> 
+14597 new <F4.2>-- 867 . HANU1MANNA1T2AKA. <i>a</i>. {#AghrAtaM paricumbitaM pari muhurlIDhaM punazcarvitaM#}. <i>b</i>. {#tyaktaM vA bhuvi nIrasena manasA tatra vyathAM#}. <i>c</i>. {#he sadratna, vAnareNAdarAd#}. <i>d</i>. {#antaHsAravilokanavyasaninA cU°#}.· 
+;-----------------
+14636 old <F4.2>-- 869 . <i>a</i>. {#tava#} st. {#bata#}. <i>b</i>. {#taccAdya#} und am Ende {#manoharasya#}. <i>d</i>. {#'yaM vilAsavasatiH#}.</F4> 
+14636 new <F4.2>-- 869 . <i>a</i>. {#tava#} st. {#bata#}. <i>b</i>. {#taccAdya#} und am Ende {#manoharasya#}. <i>d</i>. {#'yaM vilAsavasatiH#}.· 
+;-----------------
+15249 old <F4.2>-- 908 . KALPATARU.</F4> 
+15249 new <F4.2>-- 908 . KALPATARU.· 
+;-----------------
+15251 old <F4.1>-- 908 . Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.</F4> 
+15251 new <F4.1>-- 908 . Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.· 
+;-----------------
+15686 old <F4.2>-- 933 . <i>b</i>. {#itarajjane#}.</F4> 
+15686 new <F4.2>-- 933 . <i>b</i>. {#itarajjane#}.· 
+;-----------------
+15869 old <F4.1>-- 943 , <i>b</i>, <gr>a.</gr> Besser {#sarvabhakSA#}.</F4> 
+15869 new <F4.1>-- 943 , <i>b</i>, <gr>a.</gr> Besser {#sarvabhakSA#}.· 
+;-----------------
+16074 old <F4.2>-- 956 . {%c. d.%} {#gandho ghrANe 'sti yathAº#}.</F4> 
+16074 new <F4.2>-- 956 . {%c. d.%} {#gandho ghrANe 'sti yathA°#}.· 
+;-----------------
+16208 old <F4.2>-- 963 . SPHUT2AS4LOKA. <i>a</i>. {#ApadgataM#}. <i>c</i>. {#etAnprapazyasi ghaTAn#}. <i>d</i>. {#bharitAzca#} st. {#punareva#}.</F4> 
+16208 new <F4.2>-- 963 . SPHUT2AS4LOKA. <i>a</i>. {#ApadgataM#}. <i>c</i>. {#etAnprapazyasi ghaTAn#}. <i>d</i>. {#bharitAzca#} st. {#punareva#}.· 
+;-----------------
+16658 old <F4.1>-- 990 . Wird auch ADBHUTAPUN2JA zugeschrieben; s. AUFRECHT a. a. O. 6.</F4> 
+16658 new <F4.1>-- 990 . Wird auch ADBHUTAPUN2JA zugeschrieben; s. AUFRECHT a. a. O. 6.· 
+;-----------------
+16683 old <F4.1>-- 991 , <i>a</i>, <gr>b.</gr> Lies {#ºrasAnprastutAn#} und vgl. Z.d.d.m.G. 27, 11. Der Spruch wird UTKAT2A zugeschrieben.</F4> 
+16683 new <F4.1>-- 991 , <i>a</i>, <gr>b.</gr> Lies {#°rasAnprastutAn#} und vgl. Z.d.d.m.G. 27, 11. Der Spruch wird UTKAT2A zugeschrieben.· 
+;-----------------
+17053 old <F4.2>-- 1011 . PRASAN3GAR. <i>d</i>. {#vinApyatharm#}. [Seite4.2-207]</F4> 
+17053 new <F4.2>-- 1011 . PRASAN3GAR. <i>d</i>. {#vinApyatharm#}. [Seite4.2-207]· 
+;-----------------
+17215 old <F4.2>-- 1020 . SABHA1TARAM3GA. <i>c</i>. {#nirdhanA dAnamicchanti#}.</F4> 
+17215 new <F4.2>-- 1020 . SABHA1TARAM3GA. <i>c</i>. {#nirdhanA dAnamicchanti#}.· 
+;-----------------
+17554 old <F4.1>-- 1039 , <i>a</i>, <gr>b.</gr> {#ºravasmero#} ist richtig; vgl. das Wörterbuch unter {#smera#} 3).</F4> 
+17554 new <F4.1>-- 1039 , <i>a</i>, <gr>b.</gr> {#°ravasmero#} ist richtig; vgl. das Wörterbuch unter {#smera#} 3).· 
+;-----------------
+17627 old <F4.1>-- 1043 . Auch BHI1MA zugeschrieben; s. AUFRECHT a. a. O. 65.</F4> 
+17627 new <F4.1>-- 1043 . Auch BHI1MA zugeschrieben; s. AUFRECHT a. a. O. 65.· 
+;-----------------
+17672 old <F4.1>-- 1045 . Auch MBH. 12, 5278, <i>b</i>. fg.</F4> 
+17672 new <F4.1>-- 1045 . Auch MBH. 12, 5278, <i>b</i>. fg.· 
+;-----------------
+17752 old <F4.2>-- 1049 . SABHA1TARAM3GA. <i>a</i>. {#AzAyA ye#} ohne {#khalu#}. {%c. d.%} {#AzA yeSAM dAsI teSAM dAsAyate vizvam#}.</F4> 
+17752 new <F4.2>-- 1049 . SABHA1TARAM3GA. <i>a</i>. {#AzAyA ye#} ohne {#khalu#}. {%c. d.%} {#AzA yeSAM dAsI teSAM dAsAyate vizvam#}.· 
+;-----------------
+17804 old <F4.2>-- 1052 . SPRUT2AS4LOKA.</F4> 
+17804 new <F4.2>-- 1052 . SPRUT2AS4LOKA.· 
+;-----------------
+17840 old <F4.2>-- 1054 . <i>b</i>. {#puMsAm#} st. {#jantoH#}.</F4> 
+17840 new <F4.2>-- 1054 . <i>b</i>. {#puMsAm#} st. {#jantoH#}.· 
+;-----------------
+17857 old <F4.1>-- 1055 = VIVEKAVILA1SA 1, 100. Lautet hier: {#apatyotpAdane svAmisevAyAM poSyapoSaNe | dharmakRtye ca no kartuM budhyante pratihastakAH ||#}</F4> 
+17857 new <F4.1>-- 1055 = VIVEKAVILA1SA 1, 100. Lautet hier: {#apatyotpAdane svAmisevAyAM poSyapoSaNe | dharmakRtye ca no kartuM budhyante pratihastakAH ||#}· 
+;-----------------
+18332 old <F4.1>-- 1079 . Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.</F4> 
+18332 new <F4.1>-- 1079 . Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.· 
+;-----------------
+18514 old <F4.2>-- 1088 . S4A1RN3GADHARA. <i>d</i>. {#ca#} st. {#tu#}.</F4> 
+18514 new <F4.2>-- 1088 . S4A1RN3GADHARA. <i>d</i>. {#ca#} st. {#tu#}.· 
+;-----------------
+18626 old <F4.2>-- 1093 . SPHUT2AS4LOKA. <i>a</i>. {#itarakarmaphalAni yadRcchayA#}. <i>b</i>. {#vilikha#} st. {#vitara#}.</F4> 
+18626 new <F4.2>-- 1093 . SPHUT2AS4LOKA. <i>a</i>. {#itarakarmaphalAni yadRcchayA#}. <i>b</i>. {#vilikha#} st. {#vitara#}.· 
+;-----------------
+18802 old <F4.1>-- 1103 . Die erste Hälfte wird S4I1LA1BHAT2T2A1RIKA1, die zweite BHOG4A zugeschrieben; s. AUFRECHT a. a. O. 93.</F4> 
+18802 new <F4.1>-- 1103 . Die erste Hälfte wird S4I1LA1BHAT2T2A1RIKA1, die zweite BHOG4A zugeschrieben; s. AUFRECHT a. a. O. 93.· 
+;-----------------
+18871 old <F4.2>-- 1108 . <i>c</i>. {#vedhA#} Druckfehler für {#vedhAH#}.</F4> 
+18871 new <F4.2>-- 1108 . <i>c</i>. {#vedhA#} Druckfehler für {#vedhAH#}.· 
+;-----------------
+19228 old <F4.2>-- 1128 . PRASAN3GAR. <i>a</i>. {#unnatasattvazAlinI#}.</F4> 
+19228 new <F4.2>-- 1128 . PRASAN3GAR. <i>a</i>. {#unnatasattvazAlinI#}.· 
+;-----------------
+19230 old <F4.1>-- 1128 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.</F4> 
+19230 new <F4.1>-- 1128 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.· 
+;-----------------
+19345 old <F4.2>-- 1134 . RASIKAG4I1VANA.</F4> 
+19345 new <F4.2>-- 1134 . RASIKAG4I1VANA.· 
+;-----------------
+19394 old <F4.2>-- 1137 . <i>a</i>. {#ibhaturagazataiH prayAnti#}. <i>b</i>. {#prayAnti#}.</F4> 
+19394 new <F4.2>-- 1137 . <i>a</i>. {#ibhaturagazataiH prayAnti#}. <i>b</i>. {#prayAnti#}.· 
+;-----------------
+19602 old <F4.1>-- 1149 , Note. Lies VA1NARA1SHT2AKA.</F4> 
+19602 new <F4.1>-- 1149 , Note. Lies VA1NARA1SHT2AKA.· 
+;-----------------
+19735 old <F4.1>-- 1158 . Auch im Comm. zu DAS4AR. 68. <i>b</i>, <gr>b.</gr> {#nanu#} st. {#na tu#}.</F4> 
+19735 new <F4.1>-- 1158 . Auch im Comm. zu DAS4AR. 68. <i>b</i>, <gr>b.</gr> {#nanu#} st. {#na tu#}.· 
+;-----------------
+19753 old <F4.2>-- 1159 . <i>a</i>. {#nAriGgyAM#}.</F4> 
+19753 new <F4.2>-- 1159 . <i>a</i>. {#nAriGgyAM#}.· 
+;-----------------
+20020 old <F4.2>-- 1171 . <i>c</i>. {#krUrAnkaNTakino bahirnirasayan#}.</F4> 
+20020 new <F4.2>-- 1171 . <i>c</i>. {#krUrAnkaNTakino bahirnirasayan#}.· 
+;-----------------
+20368 old <F4.2>-- 1190 . KALPATARU. <i>a</i>. {#guruM#} st. {#mama#}. <i>b</i>. {#ciraM maraNaM bho#}. <i>c</i>. {#ityuktvA#} und {#zavaM#}. <i>d</i>. {#varam#} st. {#sukham#} und {#sthitam#}.</F4> 
+20368 new <F4.2>-- 1190 . KALPATARU. <i>a</i>. {#guruM#} st. {#mama#}. <i>b</i>. {#ciraM maraNaM bho#}. <i>c</i>. {#ityuktvA#} und {#zavaM#}. <i>d</i>. {#varam#} st. {#sukham#} und {#sthitam#}.· 
+;-----------------
+20424 old <F4.2>-- 1193 . S4A1RN3GADHARA. <i>b</i>. {#kAko 'pi pakvaphalam#}. <i>c</i>. {#siMho balI gajavidAraNadAruNo 'pi#}. <i>d</i>. {#sIdatyaho tarutale khalu hInapakSaH#}.</F4> 
+20424 new <F4.2>-- 1193 . S4A1RN3GADHARA. <i>b</i>. {#kAko 'pi pakvaphalam#}. <i>c</i>. {#siMho balI gajavidAraNadAruNo 'pi#}. <i>d</i>. {#sIdatyaho tarutale khalu hInapakSaH#}.· 
+;-----------------
+21031 old <F4.2>-- 1233 . S4A1RN3GADHARA. <i>a</i>. {#eva#} st. {#eSa#}. {%c. d.%} {#vibhAvayansamRddhInAM phalaM suhRdanugraham#} (= {#suhRtsvanugraham#} Glosse).</F4> 
+21031 new <F4.2>-- 1233 . S4A1RN3GADHARA. <i>a</i>. {#eva#} st. {#eSa#}. {%c. d.%} {#vibhAvayansamRddhInAM phalaM suhRdanugraham#} (= {#suhRtsvanugraham#} Glosse).· 
+;-----------------
+21053 old <F4.2>-- 1234 . PRASAN3GAR. <i>a</i>. {#udAracaritastyAgI#}.</F4> 
+21053 new <F4.2>-- 1234 . PRASAN3GAR. <i>a</i>. {#udAracaritastyAgI#}.· 
+;-----------------
+21074 old <F4.2>-- 1235 . <i>a</i>. {#dvijarAje#}. <i>b</i>. {#hRdayaM mudaM parAM dhatte#}. <i>d</i>. {#hara hara#}.</F4> 
+21074 new <F4.2>-- 1235 . <i>a</i>. {#dvijarAje#}. <i>b</i>. {#hRdayaM mudaM parAM dhatte#}. <i>d</i>. {#hara hara#}.· 
+;-----------------
+21187 old <F4.2>-- 1241 . KALPATARU. <i>a</i>. {#udbhAsitAkhilakhalasya = aviSkRtasakaladuSTasya#} Glosse.</F4> 
+21187 new <F4.2>-- 1241 . KALPATARU. <i>a</i>. {#udbhAsitAkhilakhalasya = aviSkRtasakaladuSTasya#} Glosse.· 
+;-----------------
+21288 old <F4.2>-- 1247 . SPHUT2AS4LOKA. <i>b</i>. {#buddhiH zaktiH parAº#}. <i>c</i>. {#SaDete yatra vartante#}. <i>d</i>. {#tatra devaH sahAyakRt#}.</F4> 
+21288 new <F4.2>-- 1247 . SPHUT2AS4LOKA. <i>b</i>. {#buddhiH zaktiH parA°#}. <i>c</i>. {#SaDete yatra vartante#}. <i>d</i>. {#tatra devaH sahAyakRt#}.· 
+;-----------------
+21443 old <F4.2>-- 1255 . SABHA1TAR. <i>b</i>. {#daivaM pradhAnamiti#}. <i>c</i>. {#daivaM vihAya#}. Nach AUFRECHT in Z.d.d.m.G. 27, 18 ist KR2SHN2AMIS4RA der Verfasser.</F4> 
+21443 new <F4.2>-- 1255 . SABHA1TAR. <i>b</i>. {#daivaM pradhAnamiti#}. <i>c</i>. {#daivaM vihAya#}. Nach AUFRECHT in Z.d.d.m.G. 27, 18 ist KR2SHN2AMIS4RA der Verfasser.· 
+;-----------------
+21588 old <F4.2>-- 1264 . SABHA1TAR. <i>c</i>. {#ºgataH pRSadgaNaº#} (dieses = {#ambukaNasamudAyaH#} Glosse).</F4> 
+21588 new <F4.2>-- 1264 . SABHA1TAR. <i>c</i>. {#°gataH pRSadgaNa°#} (dieses = {#ambukaNasamudAyaH#} Glosse).· 
+;-----------------
+21717 old <F4.2>-- 1272 . <i>a</i>. {#priyaM kartuM#}. <i>d</i>. {#zItalIkRtaH#}.</F4> 
+21717 new <F4.2>-- 1272 . <i>a</i>. {#priyaM kartuM#}. <i>d</i>. {#zItalIkRtaH#}.· 
+;-----------------
+21865 old <F4.2>-- 1281 . {%c. d.%} vor {%a. b.%}</F4> 
+21865 new <F4.2>-- 1281 . {%c. d.%} vor {%a. b.%}· 
+;-----------------
+22475 old <F4.1>-- 1316 . Wird auch ARGAT2A zugeschrieben; s. AUFRECHT a. a. O. 8.</F4> 
+22475 new <F4.1>-- 1316 . Wird auch ARGAT2A zugeschrieben; s. AUFRECHT a. a. O. 8.· 
+;-----------------
+22641 old <F4.2>-- 1324 . <i>b</i>. {#grAsaiH#} st. {#ghAsaiH#}. <i>d</i>. {#hAsyate#}.</F4> 
+22641 new <F4.2>-- 1324 . <i>b</i>. {#grAsaiH#} st. {#ghAsaiH#}. <i>d</i>. {#hAsyate#}.· 
+;-----------------
+22910 old <F4.2>-- 1340 . <i>c</i>. {#mriyate vA pipAsAyAM#}.</F4> 
+22910 new <F4.2>-- 1340 . <i>c</i>. {#mriyate vA pipAsAyAM#}.· 
+;-----------------
+22912 old <F4.1>-- 1340 , <i>a</i>. {#ekasravakhagamaNizciraM#} Z. f. d. K. d. M. 4, [Seite4.1-661] 375.</F4> 
+22912 new <F4.1>-- 1340 , <i>a</i>. {#ekasravakhagamaNizciraM#} Z. f. d. K. d. M. 4, [Seite4.1-661] 375.· 
+;-----------------
+23016 old <F4.1>-- 1347 . In der Note hätte die Lesart der anderen Recension (GORR. 2, 17, 27) angegeben werden müssen. Sie lautet: {#ekameva hi vandhyAyA duHkhaM bhavati putraka | aprajJAsmIti na tvIdRgiSTApatyaviyogajJam ||#}</F4> 
+23016 new <F4.1>-- 1347 . In der Note hätte die Lesart der anderen Recension (GORR. 2, 17, 27) angegeben werden müssen. Sie lautet: {#ekameva hi vandhyAyA duHkhaM bhavati putraka | aprajJAsmIti na tvIdRgiSTApatyaviyogajJam ||#}· 
+;-----------------
+23174 old <F4.2>-- 1357 . KALPATARU. <i>d</i>. {#nabhasthalam#}.</F4> 
+23174 new <F4.2>-- 1357 . KALPATARU. <i>d</i>. {#nabhasthalam#}.· 
+;-----------------
+23258 old <F4.2>-- 1362 . <i>b</i>. {#vidapo#} Druckfehler für {#vipado#}.</F4> 
+23258 new <F4.2>-- 1362 . <i>b</i>. {#vidapo#} Druckfehler für {#vipado#}.· 
+;-----------------
+23747 old <F4.2>-- 1388 . <i>c</i>. {#kAraNam#} st. {#bhAjanam#}. <i>d</i>. {#duSpUram#}.</F4> 
+23747 new <F4.2>-- 1388 . <i>c</i>. {#kAraNam#} st. {#bhAjanam#}. <i>d</i>. {#duSpUram#}.· 
+;-----------------
+23749 old <F4.1>-- 1388 . Der Sinn ist besser getroffen worden von AUFRECHT a. a. O. 25. Der Verfasser ist GOVARDHANA1CA1RJA. Davor ist einzuschalten: {#ekasravakhagamaNizciram#} s. oben 1340.</F4> 
+23749 new <F4.1>-- 1388 . Der Sinn ist besser getroffen worden von AUFRECHT a. a. O. 25. Der Verfasser ist GOVARDHANA1CA1RJA. Davor ist einzuschalten: {#ekasravakhagamaNizciram#} s. oben 1340.· 
+;-----------------
+23869 old <F4.2>-- 1395 . <i>c</i>. {#sattvoMcchrite#}.</F4> 
+23869 new <F4.2>-- 1395 . <i>c</i>. {#sattvoMcchrite#}.· 
+;-----------------
+24197 old <F4.2>-- 1412 . SPHUT2AS4LOKA. {%a. b.%} {#ekena zuSkavRkSeNa dahyamAnena vahninA#}. <i>d</i>. {#duSputreNa#}.</F4> 
+24197 new <F4.2>-- 1412 . SPHUT2AS4LOKA. {%a. b.%} {#ekena zuSkavRkSeNa dahyamAnena vahninA#}. <i>d</i>. {#duSputreNa#}.· 
+;-----------------
+24258 old <F4.2>-- 1416 . HITOPADES4A. <i>b</i>. {#bhAsate#} st. {#sAdhunA#}. {%c. d.%} {#kulaM puruSasiMhena candreNeva hi zarvarI#}.</F4> 
+24258 new <F4.2>-- 1416 . HITOPADES4A. <i>b</i>. {#bhAsate#} st. {#sAdhunA#}. {%c. d.%} {#kulaM puruSasiMhena candreNeva hi zarvarI#}.· 
+;-----------------
+24260 old <F4.1>-- 1416 . Lies in der Uebersetzung «erfrischt» st. «verklärt».</F4> 
+24260 new <F4.1>-- 1416 . Lies in der Uebersetzung «erfrischt» st. «verklärt».· 
+;-----------------
+24281 old <F4.2>-- 1417 . KALPATARU. <i>d</i>. {#rAsabhI#} st. {#gardabhI#}.</F4> 
+24281 new <F4.2>-- 1417 . KALPATARU. <i>d</i>. {#rAsabhI#} st. {#gardabhI#}.· 
+;-----------------
+24300 old <F4.2>-- 1418 . SPHUT2AS4LOKA. <i>a</i>. {#ekena hi suº#}.</F4> 
+24300 new <F4.2>-- 1418 . SPHUT2AS4LOKA. <i>a</i>. {#ekena hi su°#}.· 
+;-----------------
+24325 old <F4.2>-- 1419 . SABHA1TARAM3GA. <i>b</i>. {#padAkrAntaM mahItalam#}.</F4> 
+24325 new <F4.2>-- 1419 . SABHA1TARAM3GA. <i>b</i>. {#padAkrAntaM mahItalam#}.· 
+;-----------------
+24477 old <F4.2>-- 1428 . PRASAN3GAR. {%a. b.%} {#viMzatiH strINAM snAnArthaM zarayUM gatA#}. {%c. d.%} {#viMzatiH punarAyAtA eko vyAº#}.</F4> 
+24477 new <F4.2>-- 1428 . PRASAN3GAR. {%a. b.%} {#viMzatiH strINAM snAnArthaM zarayUM gatA#}. {%c. d.%} {#viMzatiH punarAyAtA eko vyA°#}.· 
+;-----------------
+24735 old <F4.2>-- 1441 . KA1VJASAM3GRAHA. {%c. d.%} {#na tena dRSTaM kavinA samastaM dAridyamekaM guNakoTihAri#}.</F4> 
+24735 new <F4.2>-- 1441 . KA1VJASAM3GRAHA. {%c. d.%} {#na tena dRSTaM kavinA samastaM dAridyamekaM guNakoTihAri#}.· 
+;-----------------
+24763 old <F4.2>-- 1442 . <i>a</i>. {#mUSikazca#} st. {#sUkarazca#}. <i>b</i>. [Seite4.2-208] {#vegAdruº#}. <i>c</i>. {#niHzaGkaM, unmoTate#}.</F4> 
+24763 new <F4.2>-- 1442 . <i>a</i>. {#mUSikazca#} st. {#sUkarazca#}. <i>b</i>. [Seite4.2-208] {#vegAdru°#}. <i>c</i>. {#niHzaGkaM, unmoTate#}.· 
+;-----------------
+25150 old <F4.2>-- 1460 . <i>a</i>. {#te vai satpuruSAH#} <i>b</i>. {#tu paropakAraniratAH#}.</F4> 
+25150 new <F4.2>-- 1460 . <i>a</i>. {#te vai satpuruSAH#} <i>b</i>. {#tu paropakAraniratAH#}.· 
+;-----------------
+25454 old <F4.2>-- 1478 . KALPATARU. <i>a</i>. {#ehi svAgatamAvizAsanam#}. <i>b</i>. {#paridurbalo, nitarAM#} st. {#kuzalaM#}. {%c. d.%} {#ityevaM samupAgataM dvijavaraM saMbhAvayantyAdarAtteSAM yuktamazaGkitena manasA geheSu gantuM sadA#}.</F4> 
+25454 new <F4.2>-- 1478 . KALPATARU. <i>a</i>. {#ehi svAgatamAvizAsanam#}. <i>b</i>. {#paridurbalo, nitarAM#} st. {#kuzalaM#}. {%c. d.%} {#ityevaM samupAgataM dvijavaraM saMbhAvayantyAdarAtteSAM yuktamazaGkitena manasA geheSu gantuM sadA#}.· 
+;-----------------
+25596 old <F4.2>-- 1487 . KALPATARU und zwar zwei Mal. <i>c</i>. Ein Mal {#balavatAM#} st. {#prabhavitur#}.</F4> 
+25596 new <F4.2>-- 1487 . KALPATARU und zwar zwei Mal. <i>c</i>. Ein Mal {#balavatAM#} st. {#prabhavitur#}.· 
+;-----------------
+26051 old <F4.2>-- 1513 . <i>c</i>. {#sarabhasadhvaº, spRhAM#} st. {#janaM#}. <i>d</i>. {#karoti#} st. {#prayAti#}.</F4> 
+26051 new <F4.2>-- 1513 . <i>c</i>. {#sarabhasadhva°, spRhAM#} st. {#janaM#}. <i>d</i>. {#karoti#} st. {#prayAti#}.· 
+;-----------------
+26150 old <F4.2>-- 1519 . <i>c</i>. {#adhomukhasyApi tanUº#}.</F4> 
+26150 new <F4.2>-- 1519 . <i>c</i>. {#adhomukhasyApi tanU°#}.· 
+;-----------------
+26205 old <F4.2>-- 1522 . SPHUT2AS4LOKA. <i>b</i>. {#zyAmAyAH#} st. {#kAntAyAH#}. <i>c</i>. {#aye snigdhe mugdhe capalanayane#}. <i>d</i>. {#prasIdetyAkroº#}.</F4> 
+26205 new <F4.2>-- 1522 . SPHUT2AS4LOKA. <i>b</i>. {#zyAmAyAH#} st. {#kAntAyAH#}. <i>c</i>. {#aye snigdhe mugdhe capalanayane#}. <i>d</i>. {#prasIdetyAkro°#}.· 
+;-----------------
+26302 old <F4.2>-- 1526 . SABHA1TARAM3GA. <i>c</i>. {#hi zobhate#} st. {#sa zoº#}.</F4> 
+26302 new <F4.2>-- 1526 . SABHA1TARAM3GA. <i>c</i>. {#hi zobhate#} st. {#sa zo°#}.· 
+;-----------------
+26385 old <F4.1>-- 1531 . Wird BHA1SA zugeschrieben; s. AUFRECHT a. a. O. 65.</F4> 
+26385 new <F4.1>-- 1531 . Wird BHA1SA zugeschrieben; s. AUFRECHT a. a. O. 65.· 
+;-----------------
+26487 old <F4.2>-- 1537 . {#kAnpRcchAmaH sudhA#} (so muss es heissen).</F4> 
+26487 new <F4.2>-- 1537 . {#kAnpRcchAmaH sudhA#} (so muss es heissen).· 
+;-----------------
+26526 old <F4.2>-- 1539 . PRASAN3GAR. <i>a</i>. {#karasphoTo#}. <i>c</i>. {#vAruNIsaMgatAvasthA#}.</F4> 
+26526 new <F4.2>-- 1539 . PRASAN3GAR. <i>a</i>. {#karasphoTo#}. <i>c</i>. {#vAruNIsaMgatAvasthA#}.· 
+;-----------------
+26687 old <F4.1>-- 1548 = VIKRAMA1N3KADEVACARITA 1, 29. <i>a</i>, <gr>b.</gr> {#doSe prayatnaH#} und {#khalAnAm#}. <i>b</i>, <gr>a.</gr> {#nirIkSate#} und {#pravizya#}.</F4> 
+26687 new <F4.1>-- 1548 = VIKRAMA1N3KADEVACARITA 1, 29. <i>a</i>, <gr>b.</gr> {#doSe prayatnaH#} und {#khalAnAm#}. <i>b</i>, <gr>a.</gr> {#nirIkSate#} und {#pravizya#}.· 
+;-----------------
+26975 old <F4.1>-- 1566 , Note, Z. 2. Lies 4, 40 st. 4, 70.</F4> 
+26975 new <F4.1>-- 1566 , Note, Z. 2. Lies 4, 40 st. 4, 70.· 
+;-----------------
+27119 old <F4.2>-- 1575 . Lies "Wort" st. "Werk".</F4> 
+27119 new <F4.2>-- 1575 . Lies "Wort" st. "Werk".· 
+;-----------------
+27188 old <F4.2>-- 1580 . <i>d</i>. {#anyair#}.</F4> 
+27188 new <F4.2>-- 1580 . <i>d</i>. {#anyair#}.· 
+;-----------------
+27250 old <F4.1>-- 1583 . Von DHANADADEVA; s. AUFRECHT a. a. O. 40.</F4> 
+27250 new <F4.1>-- 1583 . Von DHANADADEVA; s. AUFRECHT a. a. O. 40.· 
+;-----------------
+27265 old <F4.2>-- 1584 . Ein ähnlicher Spruch aus PRASAN3GAR.: {#kaviH karoti padyAni lAlayatyuttamo janaH | taruH prasUte puSpANi marudvahati saurabham#}.</F4> 
+27265 new <F4.2>-- 1584 . Ein ähnlicher Spruch aus PRASAN3GAR.: {#kaviH karoti padyAni lAlayatyuttamo janaH | taruH prasUte puSpANi marudvahati saurabham#}.· 
+;-----------------
+27297 old <F4.1>-- 1586 , <i>a</i>, <gr>a.</gr> Besser {#kavIndraM#} andere Hdschrr.; s. AUFRECHT a. a. O. 105.</F4> 
+27297 new <F4.1>-- 1586 , <i>a</i>, <gr>a.</gr> Besser {#kavIndraM#} andere Hdschrr.; s. AUFRECHT a. a. O. 105.· 
+;-----------------
+27391 old <F4.2>-- 1592 . {%a. b.%} {#kiMcidAzrayasaundaryAddhatte zobhAmasAdhvapi#}.</F4> 
+27391 new <F4.2>-- 1592 . {%a. b.%} {#kiMcidAzrayasaundaryAddhatte zobhAmasAdhvapi#}.· 
+;-----------------
+27464 old <F4.2>-- 1596 . SPHUT2AS4LOKA. <i>b</i>. {#yauvaneSu dAº#}. <i>d</i>. {#parAnnaM ca#} st. {#pravAsaH#}.</F4> 
+27464 new <F4.2>-- 1596 . SPHUT2AS4LOKA. <i>b</i>. {#yauvaneSu dA°#}. <i>d</i>. {#parAnnaM ca#} st. {#pravAsaH#}.· 
+;-----------------
+27492 old <F4.2>-- 1598 . SABHA1TARAM3GA. {%a. b.%} {#gaNikA gaNako 'pi ca rAjasevako vaidyaH#}. <i>d</i>. {#parasya yaccittaraJjanaM vRttiH#}.</F4> 
+27492 new <F4.2>-- 1598 . SABHA1TARAM3GA. {%a. b.%} {#gaNikA gaNako 'pi ca rAjasevako vaidyaH#}. <i>d</i>. {#parasya yaccittaraJjanaM vRttiH#}.· 
+;-----------------
+27527 old <F4.2>-- 1600 . S4A1RN3GADHARA. {%c. d.%} {#adya sAmyaM bhajAmIti jRmbhate zazalAJchanaH#}.</F4> 
+27527 new <F4.2>-- 1600 . S4A1RN3GADHARA. {%c. d.%} {#adya sAmyaM bhajAmIti jRmbhate zazalAJchanaH#}.· 
+;-----------------
+27607 old <F4.1>-- 1603 . Von S4AKTIKUMA1RA; s. AUFRECHT a. a. O. 90.</F4> 
+27607 new <F4.1>-- 1603 . Von S4AKTIKUMA1RA; s. AUFRECHT a. a. O. 90.· 
+;-----------------
+27797 old <F4.2>-- 1613 . S4A1RN3GADHARA. <i>a</i>. {#ratiM na kurute haMso na kUº#}. <i>b</i>. {#mUrkhaH paNDitasaMgame na ramate dAso na siMhAsane#}. <i>c</i>. {#kustrI sajjanasaMgame, sevate#} st. {#vAJchati#}. <i>d</i>. {#kenApi na tyajyate#}.</F4> 
+27797 new <F4.2>-- 1613 . S4A1RN3GADHARA. <i>a</i>. {#ratiM na kurute haMso na kU°#}. <i>b</i>. {#mUrkhaH paNDitasaMgame na ramate dAso na siMhAsane#}. <i>c</i>. {#kustrI sajjanasaMgame, sevate#} st. {#vAJchati#}. <i>d</i>. {#kenApi na tyajyate#}.· 
+;-----------------
+27845 old <F4.2>-- 1616 . SPHUT2AS4LOKA. {#kAkasya gAtraM yadi kAJcanasya mANikyaratnaM yadi caJcudeze | ekaikapakSe grathitaM#} (= {#grathanaM#} Glosse) {#maNInAM tathApi kAko na tu rAº#}.</F4> 
+27845 new <F4.2>-- 1616 . SPHUT2AS4LOKA. {#kAkasya gAtraM yadi kAJcanasya mANikyaratnaM yadi caJcudeze | ekaikapakSe grathitaM#} (= {#grathanaM#} Glosse) {#maNInAM tathApi kAko na tu rA°#}.· 
+;-----------------
+27979 old <F4.1>-- 1622 . Lies in der Uebersetzung Z. 1 «gerade heraus» st. «leise».</F4> 
+27979 new <F4.1>-- 1622 . Lies in der Uebersetzung Z. 1 «gerade heraus» st. «leise».· 
+;-----------------
+28074 old <F4.2>-- 1626 . <i>a</i>. {#lunanti#} st. {#khananti#}. <i>b</i>. {#kopakRzAnutApaH#}. <i>c</i>. {#viSayAMzca na lobhapAzA#}.</F4> 
+28074 new <F4.2>-- 1626 . <i>a</i>. {#lunanti#} st. {#khananti#}. <i>b</i>. {#kopakRzAnutApaH#}. <i>c</i>. {#viSayAMzca na lobhapAzA#}.· 
+;-----------------
+28167 old <F4.1>-- 1631 , <i>a</i>, <gr>b.</gr> {#svasti#} so v.a. «lebe wohl».</F4> 
+28167 new <F4.1>-- 1631 , <i>a</i>, <gr>b.</gr> {#svasti#} so v.a. «lebe wohl».· 
+;-----------------
+28544 old <F4.1>-- 1653 . Vgl. MA1RK. P. 37, 24.</F4> 
+28544 new <F4.1>-- 1653 . Vgl. MA1RK. P. 37, 24.· 
+;-----------------
+28787 old <F4.1>-- 1669 . Füge in der Uebersetzung «stets» vor «Mitleid» hinzu.</F4> 
+28787 new <F4.1>-- 1669 . Füge in der Uebersetzung «stets» vor «Mitleid» hinzu.· 
+;-----------------
+28884 old <F4.2>-- 1674 . <i>b</i>. {#dhanaM ca#}.</F4> 
+28884 new <F4.2>-- 1674 . <i>b</i>. {#dhanaM ca#}.· 
+;-----------------
+29106 old <F4.2>-- 1686 . S4A1RN3GADHARA. <i>b</i>. {#bhojyeSu#} st. {#sneheSu#} und {#rambhA#} st. {#vezyA#}. <i>d</i>. {#bhAryA ca SADguNyavatIha durlabhA#}.</F4> 
+29106 new <F4.2>-- 1686 . S4A1RN3GADHARA. <i>b</i>. {#bhojyeSu#} st. {#sneheSu#} und {#rambhA#} st. {#vezyA#}. <i>d</i>. {#bhAryA ca SADguNyavatIha durlabhA#}.· 
+;-----------------
+29428 old <F4.1>-- 1705 , <i>a</i>, <gr>a.</gr> {#jJaladharAH#} die neuere Ausg. in PRATNAKAMRAN. <i>b</i>, <gr>b.</gr> {#susvinaH#} d. i. {#sukhinaH#} ebend.</F4> 
+29428 new <F4.1>-- 1705 , <i>a</i>, <gr>a.</gr> {#jJaladharAH#} die neuere Ausg. in PRATNAKAMRAN. <i>b</i>, <gr>b.</gr> {#susvinaH#} d. i. {#sukhinaH#} ebend.· 
+;-----------------
+30010 old <F4.2>-- 1729 . <i>c</i>. {#daivaM#} und {#chalAnveSi#}. <i>d</i>. {#viphalAH kriyAH#}.</F4> 
+30010 new <F4.2>-- 1729 . <i>c</i>. {#daivaM#} und {#chalAnveSi#}. <i>d</i>. {#viphalAH kriyAH#}.· 
+;-----------------
+30012 old <F4.1>-- 1729 . Wird in S4A1RN3G. PADDH. dem CA1N2AKJA zugeschrieben; s. AUFRECHT a. a. O. 29. Daselbst auch Varianten.</F4> 
+30012 new <F4.1>-- 1729 . Wird in S4A1RN3G. PADDH. dem CA1N2AKJA zugeschrieben; s. AUFRECHT a. a. O. 29. Daselbst auch Varianten.· 
+;-----------------
+30099 old <F4.2>-- 1734 . {%c. d.%} {#vidyAvAndevairapi sa pUº#}.</F4> 
+30099 new <F4.2>-- 1734 . {%c. d.%} {#vidyAvAndevairapi sa pU°#}.· 
+;-----------------
+30278 old <F4.2>-- 1743 . SABHA1TARAM3GA. <i>a</i>. und <i>b</i>. umgestellt. <i>b</i>. {#rAjanItikuzalo#}. <i>d</i>. {#nirdayo#}.</F4> 
+30278 new <F4.2>-- 1743 . SABHA1TARAM3GA. <i>a</i>. und <i>b</i>. umgestellt. <i>b</i>. {#rAjanItikuzalo#}. <i>d</i>. {#nirdayo#}.· 
+;-----------------
+30365 old <F4.2>-- 1748 . KALPATARU. <i>b</i>. {#na dogdhrI na garbhiNI#}. <i>d</i>. {#dhArmikaH#} st. {#bhaktimAn#}.</F4> 
+30365 new <F4.2>-- 1748 . KALPATARU. <i>b</i>. {#na dogdhrI na garbhiNI#}. <i>d</i>. {#dhArmikaH#} st. {#bhaktimAn#}.· 
+;-----------------
+30481 old <F4.2>-- 1753 . <i>a</i>. {#vA#} st. des zweiten {#te#}. <i>b</i>. {#vA#} st. {#te#}. <i>d</i>. {#AkaNTham#}.</F4> 
+30481 new <F4.2>-- 1753 . <i>a</i>. {#vA#} st. des zweiten {#te#}. <i>b</i>. {#vA#} st. {#te#}. <i>d</i>. {#AkaNTham#}.· 
+;-----------------
+30483 old <F4.1>-- 1753 , <i>b</i>, <gr>a.</gr> Lies {#ºpathikastomaH#} «eine Schaar von Reisenden» und vgl. Z. d. d. m. G. 27, 67. 635.</F4> 
+30483 new <F4.1>-- 1753 , <i>b</i>, <gr>a.</gr> Lies {#°pathikastomaH#} «eine Schaar von Reisenden» und vgl. Z. d. d. m. G. 27, 67. 635.· 
+;-----------------
+30596 old <F4.1>-- 1759 , <i>b</i>, <gr>b.</gr> {#dhRtAtman#} könnte auch «standhaft» bedeuten.</F4> 
+30596 new <F4.1>-- 1759 , <i>b</i>, <gr>b.</gr> {#dhRtAtman#} könnte auch «standhaft» bedeuten.· 
+;-----------------
+30671 old <F4.2>-- 1763 . Wie bei mir.</F4> 
+30671 new <F4.2>-- 1763 . Wie bei mir.· 
+;-----------------
+30780 old <F4.1>-- 1769 , <i>b</i>, <gr>b.</gr> {#niravadhi#} gehört wohl zu {#cetas#}.</F4> 
+30780 new <F4.1>-- 1769 , <i>b</i>, <gr>b.</gr> {#niravadhi#} gehört wohl zu {#cetas#}.· 
+;-----------------
+31031 old <F4.1>-- 1781 = KA1M. NI1TIS. 13, 12. <i>a</i>, <gr>b.</gr> {#mUrdhasu trANasAriSu#}. <i>b</i>, <gr>a.</gr> {#nAvidviSAM#}. <gr>b.</gr> {#bhadram#} st. {#zriyam#}.</F4> 
+31031 new <F4.1>-- 1781 = KA1M. NI1TIS. 13, 12. <i>a</i>, <gr>b.</gr> {#mUrdhasu trANasAriSu#}. <i>b</i>, <gr>a.</gr> {#nAvidviSAM#}. <gr>b.</gr> {#bhadram#} st. {#zriyam#}.· 
+;-----------------
+31146 old <F4.2>-- 1787 . <i>a</i>. {#ºpaGkenAGkitadehA#}.</F4> 
+31146 new <F4.2>-- 1787 . <i>a</i>. {#°paGkenAGkitadehA#}.· 
+;-----------------
+31837 old <F4.2>-- 1827 . SPHUT2AS4LOKA. <i>b</i>. {#jIvitasya#} {%c. d.%} {#sakalaM vanitA#} st. {#tatkSaNamabalA#}.</F4> 
+31837 new <F4.2>-- 1827 . SPHUT2AS4LOKA. <i>b</i>. {#jIvitasya#} {%c. d.%} {#sakalaM vanitA#} st. {#tatkSaNamabalA#}.· 
+;-----------------
+32133 old <F4.2>-- 1846 . <i>a</i>. {#kamale kamalotpattiH#}.</F4> 
+32133 new <F4.2>-- 1846 . <i>a</i>. {#kamale kamalotpattiH#}.· 
+;-----------------
+32234 old <F4.2>-- 1851 . Zwei Mal. <i>a</i>. [Seite4.2-209] Ein Mal {#nipatita#} st. {#niyamita#}. Ein Mal {#garte#} st. {#vAse#}. <i>b</i>. {#viSame#} und {#samaye#} st. {#viSamo;#} ein Mal {#viprayogaH#} st. {#copabhogaH#}. <i>c</i>. Ein Mal {#nArINAmapyavajJA vilasati niyataM vRddhabhAve#}. <i>d</i>. Ein Mal {#stokam#} st. {#svalpam#}.</F4> 
+32234 new <F4.2>-- 1851 . Zwei Mal. <i>a</i>. [Seite4.2-209] Ein Mal {#nipatita#} st. {#niyamita#}. Ein Mal {#garte#} st. {#vAse#}. <i>b</i>. {#viSame#} und {#samaye#} st. {#viSamo;#} ein Mal {#viprayogaH#} st. {#copabhogaH#}. <i>c</i>. Ein Mal {#nArINAmapyavajJA vilasati niyataM vRddhabhAve#}. <i>d</i>. Ein Mal {#stokam#} st. {#svalpam#}.· 
+;-----------------
+32608 old <F4.1>-- 1875 , <i>a</i>. Vgl. PRAB. 70, 3.</F4> 
+32608 new <F4.1>-- 1875 , <i>a</i>. Vgl. PRAB. 70, 3.· 
+;-----------------
+32648 old <F4.2>-- 1877 . {%a. b.%} {#arkamadrAkSma#}.</F4> 
+32648 new <F4.2>-- 1877 . {%a. b.%} {#arkamadrAkSma#}.· 
+;-----------------
+32989 old <F4.1>-- 1896 , Note. Lies 80 st. 89.</F4> 
+32989 new <F4.1>-- 1896 , Note. Lies 80 st. 89.· 
+;-----------------
+33129 old <F4.2>-- 1904 . Lies "Vorstellungen" st. "Verstellungen".</F4> 
+33129 new <F4.2>-- 1904 . Lies "Vorstellungen" st. "Verstellungen".· 
+;-----------------
+33295 old <F4.2>-- 1913 . Füge vor "begeben" hinzu "mit den vielen Blitzen".</F4> 
+33295 new <F4.2>-- 1913 . Füge vor "begeben" hinzu "mit den vielen Blitzen".· 
+;-----------------
+33364 old <F4.2>-- 1916 . <i>b</i>. {#hyantarvaº#}. <i>c</i>. {#satataM nivAsaruciraM#}.</F4> 
+33364 new <F4.2>-- 1916 . <i>b</i>. {#hyantarva°#}. <i>c</i>. {#satataM nivAsaruciraM#}.· 
+;-----------------
+33399 old <F4.2>-- 1918 . <i>b</i>. {#jAlAntare niº#}. <i>c</i>. {#daivAttato vigalito gilito#}. <i>d</i>. {#vakre vidhau vada kathaM vyavasAyasiddhiH#}.</F4> 
+33399 new <F4.2>-- 1918 . <i>b</i>. {#jAlAntare ni°#}. <i>c</i>. {#daivAttato vigalito gilito#}. <i>d</i>. {#vakre vidhau vada kathaM vyavasAyasiddhiH#}.· 
+;-----------------
+33504 old <F4.2>-- 1925 . KALPATARU. <i>a</i>. {#koTarAntaH sthito#}. <i>b</i>. {#dahetkhalu#}. <i>d</i>. {#nAzayatyaho#}.</F4> 
+33504 new <F4.2>-- 1925 . KALPATARU. <i>a</i>. {#koTarAntaH sthito#}. <i>b</i>. {#dahetkhalu#}. <i>d</i>. {#nAzayatyaho#}.· 
+;-----------------
+33607 old <F4.2>-- 1930 . <i>b</i>. {#mukhe#}.</F4> 
+33607 new <F4.2>-- 1930 . <i>b</i>. {#mukhe#}.· 
+;-----------------
+33609 old <F4.1>-- 1930 . Vgl. oben unter 838.</F4> 
+33609 new <F4.1>-- 1930 . Vgl. oben unter 838.· 
+;-----------------
+33877 old <F4.2>-- 1943 . <i>b</i>. {#samayacyutir#}.</F4> 
+33877 new <F4.2>-- 1943 . <i>b</i>. {#samayacyutir#}.· 
+;-----------------
+34164 old <F4.2>-- 1958 . <i>a</i>. {#kRmijaM, indIvaraM gomayAt#}. <i>b</i>. Am Ende {#gopittato rocanam#}. <i>c</i>. Am Ende {#dUrvApi goromataH#}. <i>d</i>. {#prAkAzyaM svaguNodayena guNino yAsyanti kiM#}.</F4> 
+34164 new <F4.2>-- 1958 . <i>a</i>. {#kRmijaM, indIvaraM gomayAt#}. <i>b</i>. Am Ende {#gopittato rocanam#}. <i>c</i>. Am Ende {#dUrvApi goromataH#}. <i>d</i>. {#prAkAzyaM svaguNodayena guNino yAsyanti kiM#}.· 
+;-----------------
+34267 old <F4.1>-- 1963 = KIRA1TA1RG4. 1, 4.</F4> 
+34267 new <F4.1>-- 1963 = KIRA1TA1RG4. 1, 4.· 
+;-----------------
+34446 old <F4.2>-- 1975 . Lies "o Hochweise".</F4> 
+34446 new <F4.2>-- 1975 . Lies "o Hochweise".· 
+;-----------------
+34729 old <F4.2>-- 1989 . <i>b</i>. vor <i>a</i>.</F4> 
+34729 new <F4.2>-- 1989 . <i>b</i>. vor <i>a</i>.· 
+;-----------------
+34762 old <F4.1>-- 1991 . Auch GOVINDASVA1MIN und NIKAT2ANITAMBA1 zugeschrieben; s. AUFRECHT a. a. O. 27.</F4> 
+34762 new <F4.1>-- 1991 . Auch GOVINDASVA1MIN und NIKAT2ANITAMBA1 zugeschrieben; s. AUFRECHT a. a. O. 27.· 
+;-----------------
+34960 old <F4.2>-- 2000 . Lies "So spottet gleichsam laut...Unverstandes der von Liebe Geblendeten, indem er die Zähne". FRITZE.</F4> 
+34960 new <F4.2>-- 2000 . Lies "So spottet gleichsam laut...Unverstandes der von Liebe Geblendeten, indem er die Zähne". FRITZE.· 
+;-----------------
+34994 old <F4.1>-- 2002 , Note, Z. 2. Lies 15 st. 6.</F4> 
+34994 new <F4.1>-- 2002 , Note, Z. 2. Lies 15 st. 6.· 
+;-----------------
+35140 old <F4.2>-- 2009 . <i>a</i>. {#kSapAM#} und {#upahRtyAmbu#}. <i>d</i>. {#ºdIpAlokair#} und {#carantIha#}.</F4> 
+35140 new <F4.2>-- 2009 . <i>a</i>. {#kSapAM#} und {#upahRtyAmbu#}. <i>d</i>. {#°dIpAlokair#} und {#carantIha#}.· 
+;-----------------
+35160 old <F4.2>-- 2010 . <i>d</i>. {#sidhyati#}.</F4> 
+35160 new <F4.2>-- 2010 . <i>d</i>. {#sidhyati#}.· 
+;-----------------
+35184 old <F4.2>-- 2011 . <i>a</i>. {#kSAntiº#}. <i>b</i>. {#na toSAtparamaM#}. <i>c</i>. {#nAsti#} st. {#na ca#}.</F4> 
+35184 new <F4.2>-- 2011 . <i>a</i>. {#kSAnti°#}. <i>b</i>. {#na toSAtparamaM#}. <i>c</i>. {#nAsti#} st. {#na ca#}.· 
+;-----------------
+35358 old <F4.1>-- 2018 . Auch im Comm. zu DAS4AR. 156.</F4> 
+35358 new <F4.1>-- 2018 . Auch im Comm. zu DAS4AR. 156.· 
+;-----------------
+35770 old <F4.2>-- 2038 . Füge vor "Regen" hinzu "der Jahreszeit entsprechend".</F4> 
+35770 new <F4.2>-- 2038 . Füge vor "Regen" hinzu "der Jahreszeit entsprechend".· 
+;-----------------
+35819 old <F4.2>-- 2041 . <i>d</i>. {#palaM vA mauSikaM labhet#}.</F4> 
+35819 new <F4.2>-- 2041 . <i>d</i>. {#palaM vA mauSikaM labhet#}.· 
+;-----------------
+35932 old <F4.2>-- 2047 . <i>d</i>. {#paramito#}.</F4> 
+35932 new <F4.2>-- 2047 . <i>d</i>. {#paramito#}.· 
+;-----------------
+36066 old <F4.2>-- 2053 . <i>d</i>. {#ºrato manuSyaH#}.</F4> 
+36066 new <F4.2>-- 2053 . <i>d</i>. {#°rato manuSyaH#}.· 
+;-----------------
+36331 old <F4.2>-- 2067 . <i>a</i>. {#gatasAre 'tra#}.</F4> 
+36331 new <F4.2>-- 2067 . <i>a</i>. {#gatasAre 'tra#}.· 
+;-----------------
+36356 old <F4.1>-- 2068 . Vgl. Jenaer Literaturzeitung 1874, S. 352.</F4> 
+36356 new <F4.1>-- 2068 . Vgl. Jenaer Literaturzeitung 1874, S. 352.· 
+;-----------------
+36497 old <F4.2>-- 2077 . SPHUT2AS4LOKA. <i>b</i>. {#rAjavallabhAH#}. <i>c</i>. {#bhavatyartho#}.</F4> 
+36497 new <F4.2>-- 2077 . SPHUT2AS4LOKA. <i>b</i>. {#rAjavallabhAH#}. <i>c</i>. {#bhavatyartho#}.· 
+;-----------------
+36559 old <F4.2>-- 2081 . <i>b</i>. {#candaneSu#}. <i>c</i>. {#dhanADhyo na tu dIrghajIvI#}.</F4> 
+36559 new <F4.2>-- 2081 . <i>b</i>. {#candaneSu#}. <i>c</i>. {#dhanADhyo na tu dIrghajIvI#}.· 
+;-----------------
+36593 old <F4.2>-- 2082 . KA1VJASAM3GRAHA. <i>b</i>. {#tAM tyaktvAzu gataH sa candanavanaM pazcAt#}. <i>c</i>. {#sahasA rodityasau mandadhIH#}. <i>d</i>. {#sarvo janaH#} st. {#kAmAturaH#}.</F4> 
+36593 new <F4.2>-- 2082 . KA1VJASAM3GRAHA. <i>b</i>. {#tAM tyaktvAzu gataH sa candanavanaM pazcAt#}. <i>c</i>. {#sahasA rodityasau mandadhIH#}. <i>d</i>. {#sarvo janaH#} st. {#kAmAturaH#}.· 
+;-----------------
+36618 old <F4.2>-- 2083 . KA1VJASAM3GRAHA. <i>a</i>. {#gandhairADhyA bhuvanaº#}. <i>b</i>. {#puSpabhrAntyA kSudhitamadhupaH#}. <i>c</i>. {#andhIbhUtastadanu rajasA kaNTakaizchinnapakSaH#}. <i>d</i>. {#kSaNam#} st. {#dvayam#}.</F4> 
+36618 new <F4.2>-- 2083 . KA1VJASAM3GRAHA. <i>a</i>. {#gandhairADhyA bhuvana°#}. <i>b</i>. {#puSpabhrAntyA kSudhitamadhupaH#}. <i>c</i>. {#andhIbhUtastadanu rajasA kaNTakaizchinnapakSaH#}. <i>d</i>. {#kSaNam#} st. {#dvayam#}.· 
+;-----------------
+36761 old <F4.2>-- 2092 . <i>a</i>. Lies {#garbhaklezaH#}.</F4> 
+36761 new <F4.2>-- 2092 . <i>a</i>. Lies {#garbhaklezaH#}.· 
+;-----------------
+36831 old <F4.1>-- 2095 . Auch bei WEBER, VAG4RASU1CI1 255. <i>a</i>, <gr>a.</gr> {#parAn#}. <gr>b.</gr> {#uktaM kenacidapriyeNa sahate#}. <i>b</i>, <gr>b.</gr> {#hyetat#} st. des von mir ergänzten {#popaM#}.</F4> 
+36831 new <F4.1>-- 2095 . Auch bei WEBER, VAG4RASU1CI1 255. <i>a</i>, <gr>a.</gr> {#parAn#}. <gr>b.</gr> {#uktaM kenacidapriyeNa sahate#}. <i>b</i>, <gr>b.</gr> {#hyetat#} st. des von mir ergänzten {#popaM#}.· 
+;-----------------
+36865 old <F4.2>-- 2097 . SPHUT2AS4LOKA. <i>b</i>. {#jAyate dadhi#}.</F4> 
+36865 new <F4.2>-- 2097 . SPHUT2AS4LOKA. <i>b</i>. {#jAyate dadhi#}.· 
+;-----------------
+36867 old <F4.1>-- 2097 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.</F4> 
+36867 new <F4.1>-- 2097 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.· 
+;-----------------
+37183 old <F4.1>-- 2113 , <i>a</i>, <gr>a.</gr> Lies {#guNadAridryaº#}.</F4> 
+37183 new <F4.1>-- 2113 , <i>a</i>, <gr>a.</gr> Lies {#guNadAridrya°#}.· 
+;-----------------
+37250 old <F4.2>-- 2117 . S4A1RN3GADHARA.</F4> 
+37250 new <F4.2>-- 2117 . S4A1RN3GADHARA.· 
+;-----------------
+37289 old <F4.1>-- 2119 , <i>b</i>, <gr>a.</gr> Könnte auch heissen: «frage nach der Zaubermacht, nicht nach dem Zauberspruch». Vgl. 3754.</F4> 
+37289 new <F4.1>-- 2119 , <i>b</i>, <gr>a.</gr> Könnte auch heissen: «frage nach der Zaubermacht, nicht nach dem Zauberspruch». Vgl. 3754.· 
+;-----------------
+37332 old <F4.2>-- 2121 . <i>c</i>. Lies {#dIpazikhAº#}.</F4> 
+37332 new <F4.2>-- 2121 . <i>c</i>. Lies {#dIpazikhA°#}.· 
+;-----------------
+37607 old <F4.2>-- 2138 . S4A1RN3GADHARA. <i>b</i>. {#tadidamapi no#} st. {#kimiti jagatAM#}. <i>c</i>. {#mahAmeghaH kSAraM pibati kurute vAri#}. <i>d</i>. {#kSIraM pItvA#}.</F4> 
+37607 new <F4.2>-- 2138 . S4A1RN3GADHARA. <i>b</i>. {#tadidamapi no#} st. {#kimiti jagatAM#}. <i>c</i>. {#mahAmeghaH kSAraM pibati kurute vAri#}. <i>d</i>. {#kSIraM pItvA#}.· 
+;-----------------
+37699 old <F4.2>-- 2143 . {%c. d.%} {#vasudevaM parityajya vAsudevaM namejjanaH#}.</F4> 
+37699 new <F4.2>-- 2143 . {%c. d.%} {#vasudevaM parityajya vAsudevaM namejjanaH#}.· 
+;-----------------
+37726 old <F4.2>-- 2144 . Wie bei mir.</F4> 
+37726 new <F4.2>-- 2144 . Wie bei mir.· 
+;-----------------
+37781 old <F4.2>-- 2147 . <i>c</i>. {#hAraH kaNThagataH#}.</F4> 
+37781 new <F4.2>-- 2147 . <i>c</i>. {#hAraH kaNThagataH#}.· 
+;-----------------
+37854 old <F4.2>-- 2151 . SPHUT2AS4LOKA. Wie bei mir.</F4> 
+37854 new <F4.2>-- 2151 . SPHUT2AS4LOKA. Wie bei mir.· 
+;-----------------
+37971 old <F4.2>-- 2158 . PRASAN3GAR. Zweimal und beide Male wie CA1N2., <i>b</i>. lautet aber: {#kimATopaiH praº#}.</F4> 
+37971 new <F4.2>-- 2158 . PRASAN3GAR. Zweimal und beide Male wie CA1N2., <i>b</i>. lautet aber: {#kimATopaiH pra°#}.· 
+;-----------------
+38009 old <F4.1>-- 2160 . Wird BHARTR2HARI zugeschrieben; s. AUFRECHT a. a. O. 60.</F4> 
+38009 new <F4.1>-- 2160 . Wird BHARTR2HARI zugeschrieben; s. AUFRECHT a. a. O. 60.· 
+;-----------------
+38030 old <F4.2>-- 2161 . SABHA1TARAM3GA. Zweimal. <i>c</i>. {#ºzikharArUDhaH#} st. {#ºzikharastho 'pi#}. Ob dieser [Seite4.2-210] oder der vorhergehende Spruch dem BHARTR2HARI zugeschrieben wird, kann bei AUFRECHT a. a. O. nicht entschieden werden.</F4> 
+38030 new <F4.2>-- 2161 . SABHA1TARAM3GA. Zweimal. <i>c</i>. {#°zikharArUDhaH#} st. {#°zikharastho 'pi#}. Ob dieser [Seite4.2-210] oder der vorhergehende Spruch dem BHARTR2HARI zugeschrieben wird, kann bei AUFRECHT a. a. O. nicht entschieden werden.· 
+;-----------------
+38074 old <F4.2>-- 2164 . PRASAN3GAR. Zweimal. <i>a</i>. {#ºkalpo#} st. {#ºtulyo#} beide Male.</F4> 
+38074 new <F4.2>-- 2164 . PRASAN3GAR. Zweimal. <i>a</i>. {#°kalpo#} st. {#°tulyo#} beide Male.· 
+;-----------------
+38761 old <F4.1>-- 2205 . Besser FRITZE: «Was Einem sogar von hundert Kühen zu Gute kommt, ist doch nur Kuhmilch (nämlich das Quantum, das man zu trinken im Stande ist); so gewährt auch nur ein Scheffel Korn, hätte man deren auch hundert, wahren Nutzen; nur die Hälfte (der mit der Gattin zu theilenden) Lagerstätte ist eigentlich Alles, was man Vortheilhaftes [Seite4.1-662] vom Palaste hat. Alles Uebrige ist fremder Reichthum».</F4> 
+38761 new <F4.1>-- 2205 . Besser FRITZE: «Was Einem sogar von hundert Kühen zu Gute kommt, ist doch nur Kuhmilch (nämlich das Quantum, das man zu trinken im Stande ist); so gewährt auch nur ein Scheffel Korn, hätte man deren auch hundert, wahren Nutzen; nur die Hälfte (der mit der Gattin zu theilenden) Lagerstätte ist eigentlich Alles, was man Vortheilhaftes [Seite4.1-662] vom Palaste hat. Alles Uebrige ist fremder Reichthum».· 
+;-----------------
+38780 old <F4.2>-- 2206 . <i>a</i>. {#gauSThikaº#}.</F4> 
+38780 new <F4.2>-- 2206 . <i>a</i>. {#gauSThika°#}.· 
+;-----------------
+38882 old <F4.1>-- 2213 , Note. Lies 2213 st. 2313.</F4> 
+38882 new <F4.1>-- 2213 , Note. Lies 2213 st. 2313.· 
+;-----------------
+38900 old <F4.2>-- 2214 . <i>a</i>. Lies {#yadyavAsako#} und vgl. 3936.</F4> 
+38900 new <F4.2>-- 2214 . <i>a</i>. Lies {#yadyavAsako#} und vgl. 3936.· 
+;-----------------
+38902 old <F4.1>-- 2214 , <i>a</i>, <gr>a.</gr> Lies {#yadyavAsako#} und vgl. 3936.</F4> 
+38902 new <F4.1>-- 2214 , <i>a</i>, <gr>a.</gr> Lies {#yadyavAsako#} und vgl. 3936.· 
+;-----------------
+38933 old <F4.2>-- 2215 . <i>a</i>. {#muktAvalir#}.</F4> 
+38933 new <F4.2>-- 2215 . <i>a</i>. {#muktAvalir#}.· 
+;-----------------
+38978 old <F4.1>-- 2217 . Vgl. KERN in der Note zu seiner Uebersetzung von VARA1H. BR2H. S. 78, 11.</F4> 
+38978 new <F4.1>-- 2217 . Vgl. KERN in der Note zu seiner Uebersetzung von VARA1H. BR2H. S. 78, 11.· 
+;-----------------
+39013 old <F4.2>-- 2219 . KALPATARU. <i>a</i>. {#cArugandhaM#}. <i>b</i>. {#svAdu caivekSukANDam#}. <i>d</i>. {#na prANAnte praº#}.</F4> 
+39013 new <F4.2>-- 2219 . KALPATARU. <i>a</i>. {#cArugandhaM#}. <i>b</i>. {#svAdu caivekSukANDam#}. <i>d</i>. {#na prANAnte pra°#}.· 
+;-----------------
+39163 old <F4.2>-- 2226 . SPHUT2AS4LOKA. <i>a</i>. {#cANDAlazca#}. <i>b</i>. {#dvAvetau sadRzAviha#}. {%c. d.%} {#cANDAlo 'pi daridro 'pi sarvakarmasu ninditaH#}.</F4> 
+39163 new <F4.2>-- 2226 . SPHUT2AS4LOKA. <i>a</i>. {#cANDAlazca#}. <i>b</i>. {#dvAvetau sadRzAviha#}. {%c. d.%} {#cANDAlo 'pi daridro 'pi sarvakarmasu ninditaH#}.· 
+;-----------------
+39431 old <F4.2>-- 2244 . Wie bei mir, nur in <i>d</i>. {#zaGkA#} st. {#cintA#}.</F4> 
+39431 new <F4.2>-- 2244 . Wie bei mir, nur in <i>d</i>. {#zaGkA#} st. {#cintA#}.· 
+;-----------------
+39465 old <F4.2>-- 2246 . <i>c</i>. {#rAtriH kalpazatAyate#} st. {#AlokastimirAyate#}.</F4> 
+39465 new <F4.2>-- 2246 . <i>c</i>. {#rAtriH kalpazatAyate#} st. {#AlokastimirAyate#}.· 
+;-----------------
+39634 old <F4.1>-- 2255 , <i>b</i>, <gr>b.</gr> Man könnte auch {#strIbhavaM#} lesen.</F4> 
+39634 new <F4.1>-- 2255 , <i>b</i>, <gr>b.</gr> Man könnte auch {#strIbhavaM#} lesen.· 
+;-----------------
+39767 old <F4.2>-- 2263 . <i>b</i>. {#cale jIvitayauvane#}.</F4> 
+39767 new <F4.2>-- 2263 . <i>b</i>. {#cale jIvitayauvane#}.· 
+;-----------------
+40557 old <F4.2>-- 2308 . G4A1NAKI1PARIN2AJA.</F4> 
+40557 new <F4.2>-- 2308 . G4A1NAKI1PARIN2AJA.· 
+;-----------------
+40595 old <F4.2>-- 2309 . <i>a</i>. {#viSThAvaliptacchadaH#}. <i>b</i>. {#kRtasaMzrayaH#}. <i>d</i>. {#yatrAGgIkRtasattvasaMplavabhare bhagnApado 'nye drumAH#}.</F4> 
+40595 new <F4.2>-- 2309 . <i>a</i>. {#viSThAvaliptacchadaH#}. <i>b</i>. {#kRtasaMzrayaH#}. <i>d</i>. {#yatrAGgIkRtasattvasaMplavabhare bhagnApado 'nye drumAH#}.· 
+;-----------------
+40785 old <F4.1>-- 2318 , <i>b</i>, <gr>a.</gr> {#svajJanaiH#} KA1M. NI1TIS. im Text, {#sujJanaiH#} im Comm.</F4> 
+40785 new <F4.1>-- 2318 , <i>b</i>, <gr>a.</gr> {#svajJanaiH#} KA1M. NI1TIS. im Text, {#sujJanaiH#} im Comm.· 
+;-----------------
+40946 old <F4.2>-- 2328 . <i>b</i>. {#yazca#}.</F4> 
+40946 new <F4.2>-- 2328 . <i>b</i>. {#yazca#}.· 
+;-----------------
+40948 old <F4.1>-- 2328 . Vgl. 2465.</F4> 
+40948 new <F4.1>-- 2328 . Vgl. 2465.· 
+;-----------------
+41128 old <F4.2>-- 2337 . <i>a</i>. {#vyarthatAM#}.</F4> 
+41128 new <F4.2>-- 2337 . <i>a</i>. {#vyarthatAM#}.· 
+;-----------------
+41186 old <F4.1>-- 2341 , <i>b</i>, <gr>b.</gr> Man könnte auch {#sve#} lesen.</F4> 
+41186 new <F4.1>-- 2341 , <i>b</i>, <gr>b.</gr> Man könnte auch {#sve#} lesen.· 
+;-----------------
+41997 old <F4.2>-- 2386 . <i>c</i>. {#adhunA#} st. {#saMprati#}.</F4> 
+41997 new <F4.2>-- 2386 . <i>c</i>. {#adhunA#} st. {#saMprati#}.· 
+;-----------------
+42091 old <F4.2>-- 2390 . <i>c</i>. {#yAsyati#}. <i>d</i>. {#naSTam#} st. {#kaSTam#}.</F4> 
+42091 new <F4.2>-- 2390 . <i>c</i>. {#yAsyati#}. <i>d</i>. {#naSTam#} st. {#kaSTam#}.· 
+;-----------------
+42276 old <F4.1>-- 2401 , <i>b</i>, <gr>a.</gr> {#visphUrjJita#} n. bedeutet «das Hervortreten, Erscheinen».</F4> 
+42276 new <F4.1>-- 2401 , <i>b</i>, <gr>a.</gr> {#visphUrjJita#} n. bedeutet «das Hervortreten, Erscheinen».· 
+;-----------------
+42372 old <F4.1>-- 2406 . Auch in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 45). <i>b</i>, <gr>a.</gr> {#parirabhya#}. <gr>b.</gr> {#ºdaridraH kRtaH#}.</F4> 
+42372 new <F4.1>-- 2406 . Auch in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 45). <i>b</i>, <gr>a.</gr> {#parirabhya#}. <gr>b.</gr> {#°daridraH kRtaH#}.· 
+;-----------------
+42388 old <F4.1>-- 2407 , Note Z. 1. Lies BR2H.</F4> 
+42388 new <F4.1>-- 2407 , Note Z. 1. Lies BR2H.· 
+;-----------------
+42474 old <F4.1>-- 2413 . Nach KLATT geben die Lesarten der Berliner Hdschrr. <i>a</i>, <gr>a.</gr> {#kRSirjayati durbhikSaM#}. <i>b</i>, <gr>a.</gr> {#jitA dhanavatA nArI#} einen metrisch bessern Text.</F4> 
+42474 new <F4.1>-- 2413 . Nach KLATT geben die Lesarten der Berliner Hdschrr. <i>a</i>, <gr>a.</gr> {#kRSirjayati durbhikSaM#}. <i>b</i>, <gr>a.</gr> {#jitA dhanavatA nArI#} einen metrisch bessern Text.· 
+;-----------------
+43426 old <F4.2>-- 2466 . S4A1RN3GADHARA.</F4> 
+43426 new <F4.2>-- 2466 . S4A1RN3GADHARA.· 
+;-----------------
+43469 old <F4.2>-- 2468 . <i>a</i>. {#praviza ktaTiti#}. <i>c</i>. {#tava mukhamakalaGkaM vIkSya rAhuH sa nUnaM#}. <i>d</i>. {#candrabimbaM#} st. {#pUrNacandraM#}.</F4> 
+43469 new <F4.2>-- 2468 . <i>a</i>. {#praviza ktaTiti#}. <i>c</i>. {#tava mukhamakalaGkaM vIkSya rAhuH sa nUnaM#}. <i>d</i>. {#candrabimbaM#} st. {#pUrNacandraM#}.· 
+;-----------------
+43518 old <F4.1>-- 2470 . Auch im Comm. zu DAS4AR. 183.</F4> 
+43518 new <F4.1>-- 2470 . Auch im Comm. zu DAS4AR. 183.· 
+;-----------------
+43710 old <F4.1>-- 2480 , <i>a</i>, <gr>a.</gr> {#haTha#} bedeutet hier «absolute Nothwendigkeit».</F4> 
+43710 new <F4.1>-- 2480 , <i>a</i>, <gr>a.</gr> {#haTha#} bedeutet hier «absolute Nothwendigkeit».· 
+;-----------------
+43770 old <F4.1>-- 2483 . Vgl. {#tadbhujJyate yaddvijabhuktazeSaM sa buddhimAnyo na karoti pApam | tatsauhRdaM yatkriyate parokSe dambhairvinA yaH kriyate sa dharmaH ||#} GA1RUD2A-P. 115 im S4KDR. unter {#sauhRda#}.</F4> 
+43770 new <F4.1>-- 2483 . Vgl. {#tadbhujJyate yaddvijabhuktazeSaM sa buddhimAnyo na karoti pApam | tatsauhRdaM yatkriyate parokSe dambhairvinA yaH kriyate sa dharmaH ||#} GA1RUD2A-P. 115 im S4KDR. unter {#sauhRda#}.· 
+;-----------------
+43801 old <F4.2>-- 2484 . <i>d</i>. {#kaJcukIº#}.</F4> 
+43801 new <F4.2>-- 2484 . <i>d</i>. {#kaJcukI°#}.· 
+;-----------------
+44037 old <F4.1>-- 2496 . Wird in S4A1RN3G. PADDH. dem CHAMACHCHAMIKA1RATNA zugeschrieben; s. AUFRECHT a. a. O. 29. Varianten in <i>b</i>.</F4> 
+44037 new <F4.1>-- 2496 . Wird in S4A1RN3G. PADDH. dem CHAMACHCHAMIKA1RATNA zugeschrieben; s. AUFRECHT a. a. O. 29. Varianten in <i>b</i>.· 
+;-----------------
+44601 old <F4.1>-- 2528 , <i>b</i>, <gr>b.</gr> {#saMzliSTA#} st. {#sAzliSTA#} KA1VJAPR. neuere Ausg. 62.</F4> 
+44601 new <F4.1>-- 2528 , <i>b</i>, <gr>b.</gr> {#saMzliSTA#} st. {#sAzliSTA#} KA1VJAPR. neuere Ausg. 62.· 
+;-----------------
+44694 old <F4.2>-- 2533 . <i>a</i>. {#manastadeva#} st. {#tadeva nAma#}. <i>d</i>. {#hyanyaH#}.</F4> 
+44694 new <F4.2>-- 2533 . <i>a</i>. {#manastadeva#} st. {#tadeva nAma#}. <i>d</i>. {#hyanyaH#}.· 
+;-----------------
+44723 old <F4.1>-- 2534 . Von LAKSHMAN2ASENA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 81.</F4> 
+44723 new <F4.1>-- 2534 . Von LAKSHMAN2ASENA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 81.· 
+;-----------------
+44876 old <F4.2>-- 2542 . SPHUT2AS4LOKA. <i>b</i>. {#kalaGkarahito mAnI kRtajJaH kaviH#}. <i>c</i>. {#ºrataH suzIlaguNavAMstAvatpratiSThAnvito#}.</F4> 
+44876 new <F4.2>-- 2542 . SPHUT2AS4LOKA. <i>b</i>. {#kalaGkarahito mAnI kRtajJaH kaviH#}. <i>c</i>. {#°rataH suzIlaguNavAMstAvatpratiSThAnvito#}.· 
+;-----------------
+45455 old <F4.1>-- 2575 . Darnach einzuschalten: {#tIrthe kAnte#} s. weiter unten 2956.</F4> 
+45455 new <F4.1>-- 2575 . Darnach einzuschalten: {#tIrthe kAnte#} s. weiter unten 2956.· 
+;-----------------
+45538 old <F4.2>-- 2580 . S4A1RN3GADHARA. <i>a</i>. {#tuGgAsanAstuGgatarAH#}. <i>d</i>. {#nidAghadAhaM zamituM na nadyaH#} und {#zamayanti nAnye#}.</F4> 
+45538 new <F4.2>-- 2580 . S4A1RN3GADHARA. <i>a</i>. {#tuGgAsanAstuGgatarAH#}. <i>d</i>. {#nidAghadAhaM zamituM na nadyaH#} und {#zamayanti nAnye#}.· 
+;-----------------
+45662 old <F4.2>-- 2587 . PRASAN3GAR. Wie bei mir.</F4> 
+45662 new <F4.2>-- 2587 . PRASAN3GAR. Wie bei mir.· 
+;-----------------
+45890 old <F4.2>-- 2597 . <i>b</i>. {#anupAhi#}. <i>c</i>. {#hyAcchAdaya#}.</F4> 
+45890 new <F4.2>-- 2597 . <i>b</i>. {#anupAhi#}. <i>c</i>. {#hyAcchAdaya#}.· 
+;-----------------
+45975 old <F4.1>-- 2602 , <i>a</i>. Vgl. MBH. 12, 878, <i>b</i>.</F4> 
+45975 new <F4.1>-- 2602 , <i>a</i>. Vgl. MBH. 12, 878, <i>b</i>.· 
+;-----------------
+46227 old <F4.1>-- 2617 . Lies in der Uebersetzung: «ein Gedicht durch seine Reize».</F4> 
+46227 new <F4.1>-- 2617 . Lies in der Uebersetzung: «ein Gedicht durch seine Reize».· 
+;-----------------
+46281 old <F4.2>-- 2620 . PRASAN3GAR. <i>b</i>. {#parahitavighnaM#}. <i>c</i>. {#kavale patitA#}. <i>d</i>. {#makSikAnnabhoktAram#}.</F4> 
+46281 new <F4.2>-- 2620 . PRASAN3GAR. <i>b</i>. {#parahitavighnaM#}. <i>c</i>. {#kavale patitA#}. <i>d</i>. {#makSikAnnabhoktAram#}.· 
+;-----------------
+46318 old <F4.2>-- 2622 . <i>b</i>. {#putrAzca dArAzca#} st. {#dArAzca bhRtyAzca#}. {%c. d.%} {#tamarthavantaM punarAzrayanti hyartho#}.</F4> 
+46318 new <F4.2>-- 2622 . <i>b</i>. {#putrAzca dArAzca#} st. {#dArAzca bhRtyAzca#}. {%c. d.%} {#tamarthavantaM punarAzrayanti hyartho#}.· 
+;-----------------
+46861 old <F4.1>-- 2653 . Die neuere Ausg. liest, wie ich geändert hatte. <i>b</i>, <gr>b.</gr> {#na ratiM#} st. {#surataM#}.</F4> 
+46861 new <F4.1>-- 2653 . Die neuere Ausg. liest, wie ich geändert hatte. <i>b</i>, <gr>b.</gr> {#na ratiM#} st. {#surataM#}.· 
+;-----------------
+46923 old <F4.2>-- 2655 . S4A1RN3GADHARA. <i>b</i>. {#kAJcanakuNDalAni#} und {#hemnaH punaH#}. <i>c</i>. {#mUrdhnA cedvahase jaDAMzum#} und {#lokatraye#}.</F4> 
+46923 new <F4.2>-- 2655 . S4A1RN3GADHARA. <i>b</i>. {#kAJcanakuNDalAni#} und {#hemnaH punaH#}. <i>c</i>. {#mUrdhnA cedvahase jaDAMzum#} und {#lokatraye#}.· 
+;-----------------
+47008 old <F4.2>-- 2661 . <i>c</i>. {#kimambhoda vadAsmAkaM#}.</F4> 
+47008 new <F4.2>-- 2661 . <i>c</i>. {#kimambhoda vadAsmAkaM#}.· 
+;-----------------
+47060 old <F4.1>-- 2664 , Note. Lies BHARAT2AKADVA1TRIM3S4.</F4> 
+47060 new <F4.1>-- 2664 , Note. Lies BHARAT2AKADVA1TRIM3S4.· 
+;-----------------
+47120 old <F4.1>-- 2668 . <i>b</i>, <gr>b.</gr> {#kusumaM#} st. {#kumudaM#} die neuere Ausg.</F4> 
+47120 new <F4.1>-- 2668 . <i>b</i>, <gr>b.</gr> {#kusumaM#} st. {#kumudaM#} die neuere Ausg.· 
+;-----------------
+47398 old <F4.1>-- 2685 . Lies in der Uebersetzung: «Wenn der Schöpfer darauf besteht u.s.w. Kraft erzeugen zu wollen».</F4> 
+47398 new <F4.1>-- 2685 . Lies in der Uebersetzung: «Wenn der Schöpfer darauf besteht u.s.w. Kraft erzeugen zu wollen».· 
+;-----------------
+47607 old <F4.1>-- 2698 , Note. Lies 2698 st. 2798.</F4> 
+47607 new <F4.1>-- 2698 , Note. Lies 2698 st. 2798.· 
+;-----------------
+47745 old <F4.2>-- 2705 . <i>b</i>. {#spRzati#} st. {#sphurati#}.</F4> 
+47745 new <F4.2>-- 2705 . <i>b</i>. {#spRzati#} st. {#sphurati#}.· 
+;-----------------
+47886 old <F4.2>-- 2713 . <i>b</i>. {#kurUpatA zIlatayA#}. <i>c</i>. {#kubhojanaM#}. <i>d</i>. {#kuvastratA zubhratayA#}.</F4> 
+47886 new <F4.2>-- 2713 . <i>b</i>. {#kurUpatA zIlatayA#}. <i>c</i>. {#kubhojanaM#}. <i>d</i>. {#kuvastratA zubhratayA#}.· 
+;-----------------
+47992 old <F4.1>-- 2719 , <i>a</i>, <gr>a.</gr> Das Versmaass verlangt {#harate#}.</F4> 
+47992 new <F4.1>-- 2719 , <i>a</i>, <gr>a.</gr> Das Versmaass verlangt {#harate#}.· 
+;-----------------
+48378 old <F4.2>-- 2742 . <i>b</i>. Ein Mal {#pazyedaM madhukariNAM#}, das andere Mal {#pazyAmi madhukarINAM#}.</F4> 
+48378 new <F4.2>-- 2742 . <i>b</i>. Ein Mal {#pazyedaM madhukariNAM#}, das andere Mal {#pazyAmi madhukarINAM#}.· 
+;-----------------
+48400 old <F4.2>-- 2743 . <i>c</i>. Lies {#sukulazca#}.</F4> 
+48400 new <F4.2>-- 2743 . <i>c</i>. Lies {#sukulazca#}.· 
+;-----------------
+48427 old <F4.2>-- 2744 . <i>b</i>. {#syAnniSphalo#}.</F4> 
+48427 new <F4.2>-- 2744 . <i>b</i>. {#syAnniSphalo#}.· 
+;-----------------
+48725 old <F4.2>-- 2759 . BHA1MINI1VILA1SA.</F4> 
+48725 new <F4.2>-- 2759 . BHA1MINI1VILA1SA.· 
+;-----------------
+48981 old <F4.2>-- 2773 . <i>c</i>. FRITZR verbessert {#tadyaddhariº#}.</F4> 
+48981 new <F4.2>-- 2773 . <i>c</i>. FRITZR verbessert {#tadyaddhari°#}.· 
+;-----------------
+49143 old <F4.1>-- 2781 , <i>b</i>, <gr>a.</gr> Besser {#zokanihato#}.</F4> 
+49143 new <F4.1>-- 2781 , <i>b</i>, <gr>a.</gr> Besser {#zokanihato#}.· 
+;-----------------
+49359 old <F4.2>-- 2793 . SPHUT2AS4LOKA. Wie bei mir.</F4> 
+49359 new <F4.2>-- 2793 . SPHUT2AS4LOKA. Wie bei mir.· 
+;-----------------
+49589 old <F4.2>-- 2808 . PRASAN3GAR. <i>b</i>. {#garvaM no#} st. {#na garvaM#}. <i>d</i>. {#raTaraTAyate#}.</F4> 
+49589 new <F4.2>-- 2808 . PRASAN3GAR. <i>b</i>. {#garvaM no#} st. {#na garvaM#}. <i>d</i>. {#raTaraTAyate#}.· 
+;-----------------
+49682 old <F4.2>-- 2812 . <i>c</i>. {#velAsamudra#} ist "das hochgehende Meer zur Zeit der Fluth".</F4> 
+49682 new <F4.2>-- 2812 . <i>c</i>. {#velAsamudra#} ist "das hochgehende Meer zur Zeit der Fluth".· 
+;-----------------
+49722 old <F4.2>-- 2813 . {%a. b.%} Ueberall Nom. st. Acc. und {#dazyeta#} st. {#dRSTvaiva#}. <i>b</i>. {#nirannavidhurA#}.</F4> 
+49722 new <F4.2>-- 2813 . {%a. b.%} Ueberall Nom. st. Acc. und {#dazyeta#} st. {#dRSTvaiva#}. <i>b</i>. {#nirannavidhurA#}.· 
+;-----------------
+49848 old <F4.1>-- 2820 . fgg. Vgl. KA1M. NI1TIS. 18, 50, <i>b</i>. fgg.</F4> 
+49848 new <F4.1>-- 2820 . fgg. Vgl. KA1M. NI1TIS. 18, 50, <i>b</i>. fgg.· 
+;-----------------
+50027 old <F4.2>-- 2830 . <i>c</i>. {#viSayAmRtalAlasa#}. [Seite4.2-211]</F4> 
+50027 new <F4.2>-- 2830 . <i>c</i>. {#viSayAmRtalAlasa#}. [Seite4.2-211]· 
+;-----------------
+50161 old <F4.1>-- 2837 . Vgl. MBH. 12, 4540.</F4> 
+50161 new <F4.1>-- 2837 . Vgl. MBH. 12, 4540.· 
+;-----------------
+50380 old <F4.2>-- 2849 . S4A1RN3GADHARA. <i>b</i>. {#durjanaM sujanaM kartuM nopakArazatairapi | apAnaM mRtsahasreNa dhautaM cAsyaM kathaM bhavet ||#}.</F4> 
+50380 new <F4.2>-- 2849 . S4A1RN3GADHARA. <i>b</i>. {#durjanaM sujanaM kartuM nopakArazatairapi | apAnaM mRtsahasreNa dhautaM cAsyaM kathaM bhavet ||#}.· 
+;-----------------
+50517 old <F4.2>-- 2855 . <i>b</i>. {#sujane 'pyavizvAsaH#}.</F4> 
+50517 new <F4.2>-- 2855 . <i>b</i>. {#sujane 'pyavizvAsaH#}.· 
+;-----------------
+50538 old <F4.2>-- 2856 . {%c. d.%} {#agururapi vidahyamAnaH svabhAvagandhaM parityajati kiM nu#}.</F4> 
+50538 new <F4.2>-- 2856 . {%c. d.%} {#agururapi vidahyamAnaH svabhAvagandhaM parityajati kiM nu#}.· 
+;-----------------
+50556 old <F4.1>-- 2857 . Füge darnach hinzu: {#durjanasya hi saGgena sujano 'pi vinazyati | prasannaM jalamityAhuH kardamaiH kaluSIkRtam ||#} GA1RUD2A-P. im S4KDR. unter {#sujana#}.</F4> 
+50556 new <F4.1>-- 2857 . Füge darnach hinzu: {#durjanasya hi saGgena sujano 'pi vinazyati | prasannaM jalamityAhuH kardamaiH kaluSIkRtam ||#} GA1RUD2A-P. im S4KDR. unter {#sujana#}.· 
+;-----------------
+50980 old <F4.2>-- 2882 . <i>b</i>. {#vacanIyametat#}. <i>d</i>. {#bandhamatha dakSiNasindhurAjaH#}.</F4> 
+50980 new <F4.2>-- 2882 . <i>b</i>. {#vacanIyametat#}. <i>d</i>. {#bandhamatha dakSiNasindhurAjaH#}.· 
+;-----------------
+50995 old <F4.2>-- 2883 . PRASAN3GAR. <i>c</i>. {#dazanavyayam#}. Glosse: {#dantanAzam#}.</F4> 
+50995 new <F4.2>-- 2883 . PRASAN3GAR. <i>c</i>. {#dazanavyayam#}. Glosse: {#dantanAzam#}.· 
+;-----------------
+51623 old <F4.2>-- 2920 . <i>b</i>. {#tAta#} st. {#te nu#}.</F4> 
+51623 new <F4.2>-- 2920 . <i>b</i>. {#tAta#} st. {#te nu#}.· 
+;-----------------
+51733 old <F4.1>-- 2926 . Von KSHEMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN4G4IKA1.</F4> 
+51733 new <F4.1>-- 2926 . Von KSHEMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN4G4IKA1.· 
+;-----------------
+51771 old <F4.2>-- 2928 . S4A1RN3GADHARA. <i>a</i>. {#bhUrinimbataravaH#}. <i>b</i>. {#vajro maNirdulabhaH#}. <i>d</i>. {#khalu#} st. {#khala, kSitau#} st. {#kalau#}.</F4> 
+51771 new <F4.2>-- 2928 . S4A1RN3GADHARA. <i>a</i>. {#bhUrinimbataravaH#}. <i>b</i>. {#vajro maNirdulabhaH#}. <i>d</i>. {#khalu#} st. {#khala, kSitau#} st. {#kalau#}.· 
+;-----------------
+51974 old <F4.1>-- 2937 . Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 3, 2, 4.</F4> 
+51974 new <F4.1>-- 2937 . Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 3, 2, 4.· 
+;-----------------
+52031 old <F4.2>-- 2939 . <i>a</i>. {#bho adhane, sarvadA#} st. {#saMpade#}. <i>c</i>. {#AzcaryaM#} st. {#asmAkaM#}. <i>d</i>. {#ºyugalaM gharSantyaho#}.</F4> 
+52031 new <F4.2>-- 2939 . <i>a</i>. {#bho adhane, sarvadA#} st. {#saMpade#}. <i>c</i>. {#AzcaryaM#} st. {#asmAkaM#}. <i>d</i>. {#°yugalaM gharSantyaho#}.· 
+;-----------------
+52323 old <F4.1>-- 2956 . Vgl. {#tIrthe kAnte 'bhISTadeve gurau mantre bhavauSadhe | AsthA ca yAdRzI yAsAM siddhistAsAM ca tAdRzI ||#} BRAHMAVAIV. P., KR2SHN2AG4ANMAKH. 39 im S4KDR. unter {#siddhi#}.</F4> 
+52323 new <F4.1>-- 2956 . Vgl. {#tIrthe kAnte 'bhISTadeve gurau mantre bhavauSadhe | AsthA ca yAdRzI yAsAM siddhistAsAM ca tAdRzI ||#} BRAHMAVAIV. P., KR2SHN2AG4ANMAKH. 39 im S4KDR. unter {#siddhi#}.· 
+;-----------------
+52667 old <F4.2>-- 2978 . S4A1RN3GADHARA. <i>a</i>. {#utpanne#}.</F4> 
+52667 new <F4.2>-- 2978 . S4A1RN3GADHARA. <i>a</i>. {#utpanne#}.· 
+;-----------------
+52868 old <F4.2>-- 2990 . <i>b</i>. {#ºsamarthanena#}. <i>d</i>. Es ist wohl {#ºparaMparAyAH#} zu lesen. In der Uebersetzung ist vor "Messern" einzuschalten "scharfen".</F4> 
+52868 new <F4.2>-- 2990 . <i>b</i>. {#°samarthanena#}. <i>d</i>. Es ist wohl {#°paraMparAyAH#} zu lesen. In der Uebersetzung ist vor "Messern" einzuschalten "scharfen".· 
+;-----------------
+53177 old <F4.2>-- 3006 . <i>c</i>. {#zikSitA#}.</F4> 
+53177 new <F4.2>-- 3006 . <i>c</i>. {#zikSitA#}.· 
+;-----------------
+53201 old <F4.2>-- 3007 . <i>a</i>. {#dvAvimAvambhasi kSepyau#}.</F4> 
+53201 new <F4.2>-- 3007 . <i>a</i>. {#dvAvimAvambhasi kSepyau#}.· 
+;-----------------
+54090 old <F4.2>-- 3063 . <i>c</i>. {#tannimitto#}.</F4> 
+54090 new <F4.2>-- 3063 . <i>c</i>. {#tannimitto#}.· 
+;-----------------
+54385 old <F4.1>-- 3080 . Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.</F4> 
+54385 new <F4.1>-- 3080 . Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.· 
+;-----------------
+54548 old <F4.1>-- 3089 . Auch MBH. 3, 17413. <i>b</i>, <gr>a.</gr> {#tasmAddharmaM na tyajJAmi#}.</F4> 
+54548 new <F4.1>-- 3089 . Auch MBH. 3, 17413. <i>b</i>, <gr>a.</gr> {#tasmAddharmaM na tyajJAmi#}.· 
+;-----------------
+54622 old <F4.2>-- 3092 . <i>b</i>. {#kuTilA laulyaM gatA brAº#}. <i>c</i>. {#striyazca capalAH putrAH piturdveSiNaH#}. <i>d</i>. {#prabhavati prApte kalau duryuge#}.</F4> 
+54622 new <F4.2>-- 3092 . <i>b</i>. {#kuTilA laulyaM gatA brA°#}. <i>c</i>. {#striyazca capalAH putrAH piturdveSiNaH#}. <i>d</i>. {#prabhavati prApte kalau duryuge#}.· 
+;-----------------
+55000 old <F4.1>-- 3117 . Vgl. noch Comm. zu TS. PRA1T. 4, 23.</F4> 
+55000 new <F4.1>-- 3117 . Vgl. noch Comm. zu TS. PRA1T. 4, 23.· 
+;-----------------
+55103 old <F4.1>-- 3122 . Auch im Comm. zu KA1VJA1DARS4A 1, 5.</F4> 
+55103 new <F4.1>-- 3122 . Auch im Comm. zu KA1VJA1DARS4A 1, 5.· 
+;-----------------
+55318 old <F4.2>-- 3135 . G4INADHARMAVIVEKA.</F4> 
+55318 new <F4.2>-- 3135 . G4INADHARMAVIVEKA.· 
+;-----------------
+55381 old <F4.2>-- 3138 . S4A1RN3GADHARA. <i>b</i>. {#kimiti#}. <i>c</i>. {#bhavati#}.</F4> 
+55381 new <F4.2>-- 3138 . S4A1RN3GADHARA. <i>b</i>. {#kimiti#}. <i>c</i>. {#bhavati#}.· 
+;-----------------
+55413 old <F4.2>-- 3140 . <i>b</i>. {#yannAbhimUle kRtA#}. {%c. d.,%} die bei mir fehlen, lauten: {#yadyevaM pizunasya hanta rasanAmUle 'kariSyastadA prAyAsena#} ({#prakRSTena yatnena#} Glosse) {#vinAbhaviSyadatulA kIrtizca nirdoSatA ||#}.</F4> 
+55413 new <F4.2>-- 3140 . <i>b</i>. {#yannAbhimUle kRtA#}. {%c. d.,%} die bei mir fehlen, lauten: {#yadyevaM pizunasya hanta rasanAmUle 'kariSyastadA prAyAsena#} ({#prakRSTena yatnena#} Glosse) {#vinAbhaviSyadatulA kIrtizca nirdoSatA ||#}.· 
+;-----------------
+55657 old <F4.2>-- 3154 . <i>b</i>. {#tRSAprazAntim#}. <i>d</i>. {#ca samupaiti#}.</F4> 
+55657 new <F4.2>-- 3154 . <i>b</i>. {#tRSAprazAntim#}. <i>d</i>. {#ca samupaiti#}.· 
+;-----------------
+56099 old <F4.2>-- 3178 . <i>b</i>. {#kaNa#} st. {#tRNa#}.</F4> 
+56099 new <F4.2>-- 3178 . <i>b</i>. {#kaNa#} st. {#tRNa#}.· 
+;-----------------
+56264 old <F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] {#«nAtra kazciº»#} d. i. 3556.</F4> 
+56264 new <F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] {#«nAtra kazci°»#} d. i. 3556.· 
+;-----------------
+56286 old <F4.2>-- 3190 . <i>c</i>. {#ataH zvaH kaº#}.</F4> 
+56286 new <F4.2>-- 3190 . <i>c</i>. {#ataH zvaH ka°#}.· 
+;-----------------
+56474 old <F4.1>-- 3201 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.</F4> 
+56474 new <F4.1>-- 3201 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.· 
+;-----------------
+56595 old <F4.2>-- 3208 . Wie bei mir.</F4> 
+56595 new <F4.2>-- 3208 . Wie bei mir.· 
+;-----------------
+56902 old <F4.2>-- 3223 . <i>b</i>. {#maJjarI#} st. {#mallikA#}.</F4> 
+56902 new <F4.2>-- 3223 . <i>b</i>. {#maJjarI#} st. {#mallikA#}.· 
+;-----------------
+57006 old <F4.2>-- 3229 . <i>b</i>. {#yadi#} ohne {#api#}.</F4> 
+57006 new <F4.2>-- 3229 . <i>b</i>. {#yadi#} ohne {#api#}.· 
+;-----------------
+57189 old <F4.2>-- 3240 . {%a. b.%} {#na corahAryaM na ca rAjahAryaM na bhrAtRbhAjyaM na ca bhAº#}. {%c. d.%} {#vyaye kRte vardhata eva nityaM vidyAdhanaM sarvadhanapradhAnam#}.</F4> 
+57189 new <F4.2>-- 3240 . {%a. b.%} {#na corahAryaM na ca rAjahAryaM na bhrAtRbhAjyaM na ca bhA°#}. {%c. d.%} {#vyaye kRte vardhata eva nityaM vidyAdhanaM sarvadhanapradhAnam#}.· 
+;-----------------
+57350 old <F4.1>-- 3250 . Wird in S4A1RN3G. PADDH. dem BHARTR2SVA1MIN = BHAT2T2I zugeschrieben; s. AUFRECHT a. a. O. 60.</F4> 
+57350 new <F4.1>-- 3250 . Wird in S4A1RN3G. PADDH. dem BHARTR2SVA1MIN = BHAT2T2I zugeschrieben; s. AUFRECHT a. a. O. 60.· 
+;-----------------
+57565 old <F4.2>-- 3264 . <i>d</i>. {#vAji#} st. {#vAri#}.</F4> 
+57565 new <F4.2>-- 3264 . <i>d</i>. {#vAji#} st. {#vAri#}.· 
+;-----------------
+58065 old <F4.2>-- 3295 . <i>b</i>. {#ºprakArairapi sevyamAnaH#}. <i>c</i>. {#bhUyo 'pi siktaH#}.</F4> 
+58065 new <F4.2>-- 3295 . <i>b</i>. {#°prakArairapi sevyamAnaH#}. <i>c</i>. {#bhUyo 'pi siktaH#}.· 
+;-----------------
+58244 old <F4.2>-- 3306 . <i>c</i>. {#anudyamena#}. <i>d</i>. {#prAptumicchati#}.</F4> 
+58244 new <F4.2>-- 3306 . <i>c</i>. {#anudyamena#}. <i>d</i>. {#prAptumicchati#}.· 
+;-----------------
+58478 old <F4.2>-- 3319 . {#na naTo na viTo na gAyako na ca vezyAghaTako na cApi vezyA | kathamatra labhemahi pratiSThAmasatI vA yuvatI na me 'sti rAmA ||#} als SPHUT2AS4LOKA.</F4> 
+58478 new <F4.2>-- 3319 . {#na naTo na viTo na gAyako na ca vezyAghaTako na cApi vezyA | kathamatra labhemahi pratiSThAmasatI vA yuvatI na me 'sti rAmA ||#} als SPHUT2AS4LOKA.· 
+;-----------------
+58771 old <F4.1>-- 3334 . Lies in der Uebersetzung «gefressen» st. «herbeigebracht».</F4> 
+58771 new <F4.1>-- 3334 . Lies in der Uebersetzung «gefressen» st. «herbeigebracht».· 
+;-----------------
+58858 old <F4.2>-- 3339 . <i>c</i>. {#tatraivAramata#}.</F4> 
+58858 new <F4.2>-- 3339 . <i>c</i>. {#tatraivAramata#}.· 
+;-----------------
+59337 old <F4.2>-- 3367 . <i>a</i>. {#hatadhiyaste#}.</F4> 
+59337 new <F4.2>-- 3367 . <i>a</i>. {#hatadhiyaste#}.· 
+;-----------------
+59551 old <F4.2>-- 3379 . S4A1RN3GADHARA. <i>b</i>. {#vitatabahutarAº#}.</F4> 
+59551 new <F4.2>-- 3379 . S4A1RN3GADHARA. <i>b</i>. {#vitatabahutarA°#}.· 
+;-----------------
+60109 old <F4.1>-- 3413 , <i>b</i>, <gr>b.</gr> Streiche die Silben {#gala#}.</F4> 
+60109 new <F4.1>-- 3413 , <i>b</i>, <gr>b.</gr> Streiche die Silben {#gala#}.· 
+;-----------------
+60130 old <F4.1>-- 3414 . Neue Varianten in zwei Berliner Hdschrr.: <i>a</i>, <gr>a.</gr> {#nAvanItaM#}, <i>b</i>, <gr>a.</gr> {#tadubhayametadviparItaM hi#} ohne {#kSatriyasya#}. <gr>b.</gr> {#nAvanItI#}.</F4> 
+60130 new <F4.1>-- 3414 . Neue Varianten in zwei Berliner Hdschrr.: <i>a</i>, <gr>a.</gr> {#nAvanItaM#}, <i>b</i>, <gr>a.</gr> {#tadubhayametadviparItaM hi#} ohne {#kSatriyasya#}. <gr>b.</gr> {#nAvanItI#}.· 
+;-----------------
+60243 old <F4.2>-- 3421 . {%c. d.%} {#munerapi vanasthasya manazcalati darzanAt#}.</F4> 
+60243 new <F4.2>-- 3421 . {%c. d.%} {#munerapi vanasthasya manazcalati darzanAt#}.· 
+;-----------------
+60298 old <F4.2>-- 3424 . <i>a</i>. Gleichfalls {#paravAdena#}, aber {#parivAdena#} bei AUFRECHT a. a. O. 89.</F4> 
+60298 new <F4.2>-- 3424 . <i>a</i>. Gleichfalls {#paravAdena#}, aber {#parivAdena#} bei AUFRECHT a. a. O. 89.· 
+;-----------------
+60465 old <F4.1>-- 3433 . Auch MBH. 12, 5161.</F4> 
+60465 new <F4.1>-- 3433 . Auch MBH. 12, 5161.· 
+;-----------------
+60545 old <F4.2>-- 3437 . <i>d</i>. {#putrapautrikam#}.</F4> 
+60545 new <F4.2>-- 3437 . <i>d</i>. {#putrapautrikam#}.· 
+;-----------------
+60639 old <F4.2>-- 3443 . S4A1RN3GADHARA. <i>b</i>. {#yAcakasyAtimAninaH#}.</F4> 
+60639 new <F4.2>-- 3443 . S4A1RN3GADHARA. <i>b</i>. {#yAcakasyAtimAninaH#}.· 
+;-----------------
+61218 old <F4.2>-- 3482 . <i>c</i>. {#tacchauryaM#}.</F4> 
+61218 new <F4.2>-- 3482 . <i>c</i>. {#tacchauryaM#}.· 
+;-----------------
+61899 old <F4.1>-- 3524 , <i>b</i>. Auch MBH. 7, 4125, <i>a</i>.</F4> 
+61899 new <F4.1>-- 3524 , <i>b</i>. Auch MBH. 7, 4125, <i>a</i>.· 
+;-----------------
+62373 old <F4.1>-- 3552 , Note, Z. 2. Lies 38, 24 st. 28, 24.</F4> 
+62373 new <F4.1>-- 3552 , Note, Z. 2. Lies 38, 24 st. 28, 24.· 
+;-----------------
+62585 old <F4.2>-- 3565 . <i>b</i>. {#lubdham#}. <i>c</i>. {#dattvAzvaratnastrIr#}.</F4> 
+62585 new <F4.2>-- 3565 . <i>b</i>. {#lubdham#}. <i>c</i>. {#dattvAzvaratnastrIr#}.· 
+;-----------------
+62631 old <F4.2>-- 3567 . S4A1RN3GADHARA. <i>b</i>. {#nApyuccAº, asti kuhacinno (!) vAgurA bhaGgurAH#}. <i>c</i>. {#paryAlocya kuraGgakena vihito nakSatranAthAzrayo#}. <i>d</i>. {#no#}, wie [Seite4.2-212] FRITZE vermuthet hatte.</F4> 
+62631 new <F4.2>-- 3567 . S4A1RN3GADHARA. <i>b</i>. {#nApyuccA°, asti kuhacinno (!) vAgurA bhaGgurAH#}. <i>c</i>. {#paryAlocya kuraGgakena vihito nakSatranAthAzrayo#}. <i>d</i>. {#no#}, wie [Seite4.2-212] FRITZE vermuthet hatte.· 
+;-----------------
+62633 old <F4.1>-- 3567 , <i>a</i>, <gr>b.</gr> Lies {#vAgurAbhaGgurA#} «eine feste Schlinge». <i>b</i>, <gr>b.</gr> FRITZE vermuthet {#no#} st. {#ko#}.</F4> 
+62633 new <F4.1>-- 3567 , <i>a</i>, <gr>b.</gr> Lies {#vAgurAbhaGgurA#} «eine feste Schlinge». <i>b</i>, <gr>b.</gr> FRITZE vermuthet {#no#} st. {#ko#}.· 
+;-----------------
+63186 old <F4.2>-- 3601 . S4A1RN3GADHARA. <i>b</i>. {#vane#} st. {#mRgaiH#}. <i>c</i>. {#ºsattvasya#} st. {#ºrAjyasya#}.</F4> 
+63186 new <F4.2>-- 3601 . S4A1RN3GADHARA. <i>b</i>. {#vane#} st. {#mRgaiH#}. <i>c</i>. {#°sattvasya#} st. {#°rAjyasya#}.· 
+;-----------------
+63358 old <F4.2>-- 3611 . <i>d</i>. Lies {#khinnAnAº#}.</F4> 
+63358 new <F4.2>-- 3611 . <i>d</i>. Lies {#khinnAnA°#}.· 
+;-----------------
+63845 old <F4.1>-- 3642 . Lies in der Uebersetzung «ohne Weiteres» st. «in raschem Fluge».</F4> 
+63845 new <F4.1>-- 3642 . Lies in der Uebersetzung «ohne Weiteres» st. «in raschem Fluge».· 
+;-----------------
+64076 old <F4.1>-- 3654 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.</F4> 
+64076 new <F4.1>-- 3654 . Von DEVES4VARA; s. AUFRECHT a. a. O. 39.· 
+;-----------------
+64110 old <F4.2>-- 3656 . <i>a</i>. {#nAvajJA nApyavaidagdhyam#}. <i>c</i>. {#yattIraº#}.</F4> 
+64110 new <F4.2>-- 3656 . <i>a</i>. {#nAvajJA nApyavaidagdhyam#}. <i>c</i>. {#yattIra°#}.· 
+;-----------------
+64597 old <F4.2>-- 3687 . KALPATARU. <i>b</i>. {#kva cidasti nitambinI#}. <i>c</i>. {#muSNantI#}. <i>d</i>. {#adhikaM#}.</F4> 
+64597 new <F4.2>-- 3687 . KALPATARU. <i>b</i>. {#kva cidasti nitambinI#}. <i>c</i>. {#muSNantI#}. <i>d</i>. {#adhikaM#}.· 
+;-----------------
+64908 old <F4.1>-- 3706 , Note. Lies GORR. st. Bomb. und 3098. fg. st. 3100. fg.</F4> 
+64908 new <F4.1>-- 3706 , Note. Lies GORR. st. Bomb. und 3098. fg. st. 3100. fg.· 
+;-----------------
+65059 old <F4.1>-- 3713 . fg. Note, Z. 2. Lies 5253 st. 5254.</F4> 
+65059 new <F4.1>-- 3713 . fg. Note, Z. 2. Lies 5253 st. 5254.· 
+;-----------------
+65625 old <F4.1>-- 3745 , <i>a</i>, <gr>b.</gr> Besser {#anAryasya#} bei AUFRECHT a. a. O. 63.</F4> 
+65625 new <F4.1>-- 3745 , <i>a</i>, <gr>b.</gr> Besser {#anAryasya#} bei AUFRECHT a. a. O. 63.· 
+;-----------------
+65758 old <F4.1>-- 3754 . Lies in der Uebersetzung «dem Uneingeweihten ist der Zauberspruch» st. «dem Uneingeweihten ist Wissen».</F4> 
+65758 new <F4.1>-- 3754 . Lies in der Uebersetzung «dem Uneingeweihten ist der Zauberspruch» st. «dem Uneingeweihten ist Wissen».· 
+;-----------------
+66186 old <F4.2>-- 3777 . S4A1RN3GADHARA. <i>c</i>. {#ºpIDAgamA#}.</F4> 
+66186 new <F4.2>-- 3777 . S4A1RN3GADHARA. <i>c</i>. {#°pIDAgamA#}.· 
+;-----------------
+66242 old <F4.1>-- 3780 . Lies in der Uebersetzung «deren Wellen an grossen Blöcken hängen bleiben».</F4> 
+66242 new <F4.1>-- 3780 . Lies in der Uebersetzung «deren Wellen an grossen Blöcken hängen bleiben».· 
+;-----------------
+66438 old <F4.2>-- 3791 . <i>a</i>. {#niHsvo 'pyekazataM, so 'pIha lakSazataM#} st. {#lakSaM saº#}. <i>b</i>. {#kSitirAjatAM#}. <i>c</i>. {#cakrezaH surarAjatAM#}.</F4> 
+66438 new <F4.2>-- 3791 . <i>a</i>. {#niHsvo 'pyekazataM, so 'pIha lakSazataM#} st. {#lakSaM sa°#}. <i>b</i>. {#kSitirAjatAM#}. <i>c</i>. {#cakrezaH surarAjatAM#}.· 
+;-----------------
+66441 old <F4.1>-- Spr. 3791, Z. 2. Lies BAHUD. st. NI1TIS4.</F4> 
+66441 new <F4.1>-- Spr. 3791, Z. 2. Lies BAHUD. st. NI1TIS4.· 
+;-----------------
+66464 old <F4.1>-- 3792 . Auch VP. 3, 18, 27. <i>b</i>, <gr>b.</gr> {#kiM tu tasmAnna hanyate#}.</F4> 
+66464 new <F4.1>-- 3792 . Auch VP. 3, 18, 27. <i>b</i>, <gr>b.</gr> {#kiM tu tasmAnna hanyate#}.· 
+;-----------------
+66523 old <F4.1>-- 3795 . {#sevA#} bedeutet an beiden Stellen «Dienst».</F4> 
+66523 new <F4.1>-- 3795 . {#sevA#} bedeutet an beiden Stellen «Dienst».· 
+;-----------------
+66632 old <F4.2>-- 3800 . <i>c</i>. {#zrutaM#} st. {#smRtiH#}. <i>d</i>. {#zIlaM#} st. {#svAsthyaM#}.</F4> 
+66632 new <F4.2>-- 3800 . <i>c</i>. {#zrutaM#} st. {#smRtiH#}. <i>d</i>. {#zIlaM#} st. {#svAsthyaM#}.· 
+;-----------------
+66634 old <F4.1>-- 3800 . Lies am Ende der Uebersetzung «Wohlbefinden» st. «die Unabhängigkeit».</F4> 
+66634 new <F4.1>-- 3800 . Lies am Ende der Uebersetzung «Wohlbefinden» st. «die Unabhängigkeit».· 
+;-----------------
+66678 old <F4.2>-- 3802 . <i>b</i>. {#kArpAsasya, me#} st. {#naH#}.</F4> 
+66678 new <F4.2>-- 3802 . <i>b</i>. {#kArpAsasya, me#} st. {#naH#}.· 
+;-----------------
+66711 old <F4.2>-- 3804 . <i>b</i>. {#kAminIstAH#}.</F4> 
+66711 new <F4.2>-- 3804 . <i>b</i>. {#kAminIstAH#}.· 
+;-----------------
+66753 old <F4.2>-- 3806 . <i>d</i>. {#cetaraH#}.</F4> 
+66753 new <F4.2>-- 3806 . <i>d</i>. {#cetaraH#}.· 
+;-----------------
+66755 old <F4.1>-- 3806 . Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.</F4> 
+66755 new <F4.1>-- 3806 . Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.· 
+;-----------------
+67495 old <F4.1>-- 3851 . Von LAKSHMI1DHARA; s. AUFRECHT a. a. O. 81.</F4> 
+67495 new <F4.1>-- 3851 . Von LAKSHMI1DHARA; s. AUFRECHT a. a. O. 81.· 
+;-----------------
+67821 old <F4.1>-- 3869 . Lies in der Uebersetzung «gewaltsame» st. «heftige». KARN2OTPALA als Autorname soll auf einem Irrthum von mir beruhen; s. AUFRECHT a. a. O. 8.</F4> 
+67821 new <F4.1>-- 3869 . Lies in der Uebersetzung «gewaltsame» st. «heftige». KARN2OTPALA als Autorname soll auf einem Irrthum von mir beruhen; s. AUFRECHT a. a. O. 8.· 
+;-----------------
+68043 old <F4.2>-- 3882 . <i>d</i>. {#janAH#} st. {#narAH#}.</F4> 
+68043 new <F4.2>-- 3882 . <i>d</i>. {#janAH#} st. {#narAH#}.· 
+;-----------------
+68137 old <F4.2>-- 3887 . Wie bei mir.</F4> 
+68137 new <F4.2>-- 3887 . Wie bei mir.· 
+;-----------------
+68273 old <F4.2>-- 3895 . <i>b</i>. {#nolUkena vilokyate#}. <i>d</i>. {#yaddhAMtrA nijabhAlapaTTalikhitaM#}.</F4> 
+68273 new <F4.2>-- 3895 . <i>b</i>. {#nolUkena vilokyate#}. <i>d</i>. {#yaddhAMtrA nijabhAlapaTTalikhitaM#}.· 
+;-----------------
+68432 old <F4.2>-- 3904 . <i>d</i>. {#klezadAhaº#}.</F4> 
+68432 new <F4.2>-- 3904 . <i>d</i>. {#klezadAha°#}.· 
+;-----------------
+68938 old <F4.1>-- 3937 , Note. Lies 11001 st. 11101.</F4> 
+68938 new <F4.1>-- 3937 , Note. Lies 11001 st. 11101.· 
+;-----------------
+69232 old <F4.2>-- 3953 . <i>a</i>. {#parAnnaM prApya durbuddhe#}. <i>d</i>. {#prANA#}.</F4> 
+69232 new <F4.2>-- 3953 . <i>a</i>. {#parAnnaM prApya durbuddhe#}. <i>d</i>. {#prANA#}.· 
+;-----------------
+69664 old <F4.1>-- 3974 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.</F4> 
+69664 new <F4.1>-- 3974 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.· 
+;-----------------
+69982 old <F4.1>-- 3993 , <i>b</i>, <gr>a.</gr> {#sAman#} bedeutet hier zugleich «Gesang».</F4> 
+69982 new <F4.1>-- 3993 , <i>b</i>, <gr>a.</gr> {#sAman#} bedeutet hier zugleich «Gesang».· 
+;-----------------
+70004 old <F4.2>-- 3994 . S4A1RN3GADHARA. <i>a</i>. {#paryaGkaH svAstaraNaH#}. <i>b</i>. {#patiranukUlo manoharaM sadanam#}. <i>d</i>. {#cauryaratiº#}.</F4> 
+70004 new <F4.2>-- 3994 . S4A1RN3GADHARA. <i>a</i>. {#paryaGkaH svAstaraNaH#}. <i>b</i>. {#patiranukUlo manoharaM sadanam#}. <i>d</i>. {#cauryarati°#}.· 
+;-----------------
+70261 old <F4.2>-- 4011 . <i>b</i>. {#tRNAya bhUpaiH#}. <i>d</i>. Wie bei mir.</F4> 
+70261 new <F4.2>-- 4011 . <i>b</i>. {#tRNAya bhUpaiH#}. <i>d</i>. Wie bei mir.· 
+;-----------------
+70505 old <F4.1>-- 4023 . Auch SA1H. D. 78.</F4> 
+70505 new <F4.1>-- 4023 . Auch SA1H. D. 78.· 
+;-----------------
+70635 old <F4.2>-- 4029 . <i>c</i>. {#jalamiva#} ist undeutlich herausgekommen.</F4> 
+70635 new <F4.2>-- 4029 . <i>c</i>. {#jalamiva#} ist undeutlich herausgekommen.· 
+;-----------------
+70861 old <F4.2>-- 4040 . <i>a</i>. {#samutthAya#}. <i>c</i>. {#evAvamAne#}.</F4> 
+70861 new <F4.2>-- 4040 . <i>a</i>. {#samutthAya#}. <i>c</i>. {#evAvamAne#}.· 
+;-----------------
+70888 old <F4.2>-- 4041 . KALPATARU. <i>c</i>. {#harSAdivaiSa pizuno 'tra manuSyadharmA#}. <i>d</i>. {#karNe paraM spRº hantyaparasya mUlam#}.</F4> 
+70888 new <F4.2>-- 4041 . KALPATARU. <i>c</i>. {#harSAdivaiSa pizuno 'tra manuSyadharmA#}. <i>d</i>. {#karNe paraM spR° hantyaparasya mUlam#}.· 
+;-----------------
+70904 old <F4.2>-- 4042 . KUVALAJA1NANDA. {%a. b.%} {#kAnte dhAvaya me pAdAviti bhartrA niveditA#}. <i>c</i>. {#dhAvitau#}. <i>d</i>. {#laGghitA#}.</F4> 
+70904 new <F4.2>-- 4042 . KUVALAJA1NANDA. {%a. b.%} {#kAnte dhAvaya me pAdAviti bhartrA niveditA#}. <i>c</i>. {#dhAvitau#}. <i>d</i>. {#laGghitA#}.· 
+;-----------------
+71007 old <F4.2>-- 4048 . <i>d</i>. {#no#} st. {#na#}.</F4> 
+71007 new <F4.2>-- 4048 . <i>d</i>. {#no#} st. {#na#}.· 
+;-----------------
+71281 old <F4.1>-- 4062 , Note. Lies PRAS4NOTTARAM.</F4> 
+71281 new <F4.1>-- 4062 , Note. Lies PRAS4NOTTARAM.· 
+;-----------------
+71354 old <F4.2>-- 4066 . <i>a</i>. {#piNDa#} möchte FRITZE hier durch "Todtenkuchen" wiedergeben.</F4> 
+71354 new <F4.2>-- 4066 . <i>a</i>. {#piNDa#} möchte FRITZE hier durch "Todtenkuchen" wiedergeben.· 
+;-----------------
+71402 old <F4.2>-- 4068 . PRASAN3GAR. {%a. b.%} Wie bei mir. <i>c</i>. {#zaGNo roditi bhikSArthI#}.</F4> 
+71402 new <F4.2>-- 4068 . PRASAN3GAR. {%a. b.%} Wie bei mir. <i>c</i>. {#zaGNo roditi bhikSArthI#}.· 
+;-----------------
+71439 old <F4.1>-- 4070 . R. ed. Bomb. 2, 106, 15 (<i>a</i>, <gr>b.</gr> {#putro yaH sAdhu manyate#}. <i>b</i>. {#tadapatyaM mataM loke viparItamato 'nyathA#}). ed. SCHL. 2, 106, 14 (<i>b</i>. Wie ed. Bomb.).</F4> 
+71439 new <F4.1>-- 4070 . R. ed. Bomb. 2, 106, 15 (<i>a</i>, <gr>b.</gr> {#putro yaH sAdhu manyate#}. <i>b</i>. {#tadapatyaM mataM loke viparItamato 'nyathA#}). ed. SCHL. 2, 106, 14 (<i>b</i>. Wie ed. Bomb.).· 
+;-----------------
+71615 old <F4.2>-- 4082 . <i>b</i>. {#svayaM na khAdanti phalAni vRkSAH#}. <i>c</i>. {#nAdanti sasyaM khalu vArivAhAH#}. <i>d</i>. {#vibhUtayaH#}.</F4> 
+71615 new <F4.2>-- 4082 . <i>b</i>. {#svayaM na khAdanti phalAni vRkSAH#}. <i>c</i>. {#nAdanti sasyaM khalu vArivAhAH#}. <i>d</i>. {#vibhUtayaH#}.· 
+;-----------------
+71732 old <F4.1>-- 4088 . Auch RATNA1KARA zugeschrieben; s. AUFRECHT a. a. O. 76.</F4> 
+71732 new <F4.1>-- 4088 . Auch RATNA1KARA zugeschrieben; s. AUFRECHT a. a. O. 76.· 
+;-----------------
+71963 old <F4.2>-- 4102 . <i>b</i>. {#ºdvijavaraºkaNTham#}. <i>c</i>. {#pranRtto#} st. {#praviSTo, pravRtto#} st. {#kSudhArto#}.</F4> 
+71963 new <F4.2>-- 4102 . <i>b</i>. {#°dvijavara°kaNTham#}. <i>c</i>. {#pranRtto#} st. {#praviSTo, pravRtto#} st. {#kSudhArto#}.· 
+;-----------------
+72011 old <F4.2>-- 4103 . <i>b</i>. {#ºpallavaiH kuru tRNairuttiSTha yAmo vane#}. <i>d</i>. {#ºvivekasaMkulagirAM#}.</F4> 
+72011 new <F4.2>-- 4103 . <i>b</i>. {#°pallavaiH kuru tRNairuttiSTha yAmo vane#}. <i>d</i>. {#°vivekasaMkulagirAM#}.· 
+;-----------------
+72668 old <F4.2>-- 4142 . <i>b</i>. {#ahamapi hatAzA priyatamA#}.</F4> 
+72668 new <F4.2>-- 4142 . <i>b</i>. {#ahamapi hatAzA priyatamA#}.· 
+;-----------------
+72670 old <F4.1>-- 4142 , <i>a</i>, <gr>a.</gr> {#yadAbhUdaº#} S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 8.</F4> 
+72670 new <F4.1>-- 4142 , <i>a</i>, <gr>a.</gr> {#yadAbhUda°#} S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 8.· 
+;-----------------
+73440 old <F4.2>-- 4186 . <i>d</i>. {#ratnasaMjJA#}.</F4> 
+73440 new <F4.2>-- 4186 . <i>d</i>. {#ratnasaMjJA#}.· 
+;-----------------
+73454 old <F4.1>-- 4187 . Unmittelbar darauf einzuschalten: {#pRthvIpateH santi na yasya#} s. weiter unten zu 4773.</F4> 
+73454 new <F4.1>-- 4187 . Unmittelbar darauf einzuschalten: {#pRthvIpateH santi na yasya#} s. weiter unten zu 4773.· 
+;-----------------
+73505 old <F4.2>-- 4189 . <i>c</i>. {#ityetadbhuvi#}.</F4> 
+73505 new <F4.2>-- 4189 . <i>c</i>. {#ityetadbhuvi#}.· 
+;-----------------
+73587 old <F4.2>-- 4193 . KALPATARU. <i>b</i>. und <i>c</i>. wechseln die Stellen. <i>b</i>. {#vane ca#} st. {#kathaM na#}. <i>c</i>. {#ramatA jJAto na doSo nu kiM#} st. {#sahasA#} u.s.w.</F4> 
+73587 new <F4.2>-- 4193 . KALPATARU. <i>b</i>. und <i>c</i>. wechseln die Stellen. <i>b</i>. {#vane ca#} st. {#kathaM na#}. <i>c</i>. {#ramatA jJAto na doSo nu kiM#} st. {#sahasA#} u.s.w.· 
+;-----------------
+73845 old <F4.2>-- 4208 . KALPATARU. <i>a</i>. {#prajJayA vA viº#}. <i>b</i>. {#balena dhanena vA#}.</F4> 
+73845 new <F4.2>-- 4208 . KALPATARU. <i>a</i>. {#prajJayA vA vi°#}. <i>b</i>. {#balena dhanena vA#}.· 
+;-----------------
+73911 old <F4.1>-- 4212 . Vgl. MBH. 12, 5623 und zu <i>b</i>, <gr>a</gr> 3, 14789, <i>b</i>, <gr>a.</gr></F4> 
+73911 new <F4.1>-- 4212 . Vgl. MBH. 12, 5623 und zu <i>b</i>, <gr>a</gr> 3, 14789, <i>b</i>, <gr>a.</gr>· 
+;-----------------
+74307 old <F4.1>-- 4238 . Lies in der Uebersetzung «bei der Arbeit» st. «nach vollbrachter Arbeit».</F4> 
+74307 new <F4.1>-- 4238 . Lies in der Uebersetzung «bei der Arbeit» st. «nach vollbrachter Arbeit».· 
+;-----------------
+74408 old <F4.2>-- 4243 . <i>c</i>. {#eko 'nukaroti kRtaM#}. <i>d</i>. {#yatparaH kurute#} st. {#kurute 'nyaH#}.</F4> 
+74408 new <F4.2>-- 4243 . <i>c</i>. {#eko 'nukaroti kRtaM#}. <i>d</i>. {#yatparaH kurute#} st. {#kurute 'nyaH#}.· 
+;-----------------
+74509 old <F4.2>-- 4249 . Zweimal. <i>c</i>. Das eine Mal {#dadati jalamanalpaM svAdu tajjIº#}.</F4> 
+74509 new <F4.2>-- 4249 . Zweimal. <i>c</i>. Das eine Mal {#dadati jalamanalpaM svAdu tajjI°#}.· 
+;-----------------
+74638 old <F4.2>-- 4255 . <i>c</i>. {#netra#} st. {#dRSTi#}.</F4> 
+74638 new <F4.2>-- 4255 . <i>c</i>. {#netra#} st. {#dRSTi#}.· 
+;-----------------
+75143 old <F4.1>-- 4283 , <i>a</i>, <gr>a.</gr> {#prasahya#} bedeutet hier «jedenfalls».</F4> 
+75143 new <F4.1>-- 4283 , <i>a</i>, <gr>a.</gr> {#prasahya#} bedeutet hier «jedenfalls».· 
+;-----------------
+75275 old <F4.1>-- 4290 . Vgl. VET. in LA. (III) 23 nebst der Annotatio critica.</F4> 
+75275 new <F4.1>-- 4290 . Vgl. VET. in LA. (III) 23 nebst der Annotatio critica.· 
+;-----------------
+75789 old <F4.2>-- 4319 . <i>c</i>. {#tRSNA#} st. {#doSA#}.</F4> 
+75789 new <F4.2>-- 4319 . <i>c</i>. {#tRSNA#} st. {#doSA#}.· 
+;-----------------
+75979 old <F4.2>-- 4330 . KALPATARU.</F4> 
+75979 new <F4.2>-- 4330 . KALPATARU.· 
+;-----------------
+76122 old <F4.2>-- 4339 . Zweimal. {%c. d.%} An einer Stelle {#yacca koTidvayopetaM lakSaM prArthayate dhanuH#}.</F4> 
+76122 new <F4.2>-- 4339 . Zweimal. {%c. d.%} An einer Stelle {#yacca koTidvayopetaM lakSaM prArthayate dhanuH#}.· 
+;-----------------
+76195 old <F4.2>-- 4342 . <i>d</i>. {#prArabhya cottamaº#}.</F4> 
+76195 new <F4.2>-- 4342 . <i>d</i>. {#prArabhya cottama°#}.· 
+;-----------------
+76240 old <F4.2>-- 4345 . <i>c</i>. {#zAradAbhrasya#}.</F4> 
+76240 new <F4.2>-- 4345 . <i>c</i>. {#zAradAbhrasya#}.· 
+;-----------------
+76365 old <F4.2>-- 4352 . PRASAN3GAR. <i>d</i>. {#kA#} st. {#kiM#}.</F4> 
+76365 new <F4.2>-- 4352 . PRASAN3GAR. <i>d</i>. {#kA#} st. {#kiM#}.· 
+;-----------------
+76491 old <F4.1>-- 4357 . Vgl. MBH. 3, 13473, <i>b</i>. fg.</F4> 
+76491 new <F4.1>-- 4357 . Vgl. MBH. 3, 13473, <i>b</i>. fg.· 
+;-----------------
+76507 old <F4.1>-- 4358 . Füge in der Noto <i>a</i>. vor {#priyA#} ein.</F4> 
+76507 new <F4.1>-- 4358 . Füge in der Noto <i>a</i>. vor {#priyA#} ein.· 
+;-----------------
+77502 old <F4.2>-- 4415 . <i>d</i>. Lies {#yathA#}. [Seite4.2-213]</F4> 
+77502 new <F4.2>-- 4415 . <i>d</i>. Lies {#yathA#}. [Seite4.2-213]· 
+;-----------------
+77559 old <F4.2>-- 4419 . <i>b</i>. Lies {#paNDitamAninaH#}.</F4> 
+77559 new <F4.2>-- 4419 . <i>b</i>. Lies {#paNDitamAninaH#}.· 
+;-----------------
+77842 old <F4.2>-- 4435 . CARPAT2APAN4G4ARI1.</F4> 
+77842 new <F4.2>-- 4435 . CARPAT2APAN4G4ARI1.· 
+;-----------------
+77980 old <F4.1>-- 4443 , Note. KUMA1RADA1SA st. KUSUMADA1SA AUFRECHT a. a. O. 17.</F4> 
+77980 new <F4.1>-- 4443 , Note. KUMA1RADA1SA st. KUSUMADA1SA AUFRECHT a. a. O. 17.· 
+;-----------------
+78239 old <F4.2>-- 4458 . <i>b</i>. {#netrazapharI#}. In der Uebersetzung ist zu lesen "als Wasser darin erscheint die Anmuth". FRITZE.</F4> 
+78239 new <F4.2>-- 4458 . <i>b</i>. {#netrazapharI#}. In der Uebersetzung ist zu lesen "als Wasser darin erscheint die Anmuth". FRITZE.· 
+;-----------------
+78290 old <F4.1>-- 4461 , <i>a</i>, <gr>a.</gr> {#bimbauSTha#} beide Ausgg. des KA1VJAPR.</F4> 
+78290 new <F4.1>-- 4461 , <i>a</i>, <gr>a.</gr> {#bimbauSTha#} beide Ausgg. des KA1VJAPR.· 
+;-----------------
+78324 old <F4.2>-- 4462 (189, 5). <i>a</i>. {#latAbhiruditaM#}.</F4> 
+78324 new <F4.2>-- 4462 (189, 5). <i>a</i>. {#latAbhiruditaM#}.· 
+;-----------------
+78852 old <F4.2>-- 4491 . <i>b</i>. {#upabhogavantyapi#}. <i>c</i>. {#prApto dRDhapratyayo#}.</F4> 
+78852 new <F4.2>-- 4491 . <i>b</i>. {#upabhogavantyapi#}. <i>c</i>. {#prApto dRDhapratyayo#}.· 
+;-----------------
+79157 old <F4.1>-- 4509 . Von KSHEMENDRA; [Seite4.1-664] s. AUFRECHT a. a. O. 22.</F4> 
+79157 new <F4.1>-- 4509 . Von KSHEMENDRA; [Seite4.1-664] s. AUFRECHT a. a. O. 22.· 
+;-----------------
+79204 old <F4.1>-- 4512 , <i>b</i>, <gr>b.</gr> {#sparzavant#} kann hier auch «angenehm bei der Berührung» bedeuten.</F4> 
+79204 new <F4.1>-- 4512 , <i>b</i>, <gr>b.</gr> {#sparzavant#} kann hier auch «angenehm bei der Berührung» bedeuten.· 
+;-----------------
+79254 old <F4.1>-- 4515 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 22.</F4> 
+79254 new <F4.1>-- 4515 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 22.· 
+;-----------------
+79379 old <F4.2>-- 4521 . {%a. b.%} {#bhaktadveSo jaDaprItiH surucirgurulaGghane#}. <i>c</i>. {#mukhe kaTukatA#}.</F4> 
+79379 new <F4.2>-- 4521 . {%a. b.%} {#bhaktadveSo jaDaprItiH surucirgurulaGghane#}. <i>c</i>. {#mukhe kaTukatA#}.· 
+;-----------------
+79579 old <F4.2>-- 4531 (79, 3). SABHA1TARAM3GA. <i>a</i>. {#bhadraM bhadraM kRtaM#}. {%c. d.%} {#vaktAro dardurA yatra tatra maunaM samAcaret#}.</F4> 
+79579 new <F4.2>-- 4531 (79, 3). SABHA1TARAM3GA. <i>a</i>. {#bhadraM bhadraM kRtaM#}. {%c. d.%} {#vaktAro dardurA yatra tatra maunaM samAcaret#}.· 
+;-----------------
+79618 old <F4.1>-- 4533 , <i>a</i>, <gr>b.</gr> Vgl. das Wörterbuch unter {#sAdhu#} 5) {%c%}).</F4> 
+79618 new <F4.1>-- 4533 , <i>a</i>, <gr>b.</gr> Vgl. das Wörterbuch unter {#sAdhu#} 5) {%c%}).· 
+;-----------------
+79897 old <F4.1>-- 4552 , <i>a</i>, <gr>a.</gr> {#subhagatva#} ist hier «Beliebtheit».</F4> 
+79897 new <F4.1>-- 4552 , <i>a</i>, <gr>a.</gr> {#subhagatva#} ist hier «Beliebtheit».· 
+;-----------------
+81423 old <F4.1>-- 4633 , <i>a</i>, <gr>a.</gr> Lies {#saudAmanI#}.</F4> 
+81423 new <F4.1>-- 4633 , <i>a</i>, <gr>a.</gr> Lies {#saudAmanI#}.· 
+;-----------------
+81635 old <F4.2>-- 4642 . <i>d</i>. {#ºviDamvanaM#}.</F4> 
+81635 new <F4.2>-- 4642 . <i>d</i>. {#°viDamvanaM#}.· 
+;-----------------
+81670 old <F4.1>-- 4643 , <i>a</i>, <gr>a.</gr> Lies {#bhrAntaM#} st. {#bhAntaM#}.</F4> 
+81670 new <F4.1>-- 4643 , <i>a</i>, <gr>a.</gr> Lies {#bhrAntaM#} st. {#bhAntaM#}.· 
+;-----------------
+81778 old <F4.2>-- 4648 . <i>d</i>. {#nAmAsya#} Druckfehler für {#mAnasya#}.</F4> 
+81778 new <F4.2>-- 4648 . <i>d</i>. {#nAmAsya#} Druckfehler für {#mAnasya#}.· 
+;-----------------
+81780 old <F4.1>-- 4648 . Auch BHADANTAG4N4A1NAVARMAN zugeschrieben; s. AUFRECHT a. a. O. 59.</F4> 
+81780 new <F4.1>-- 4648 . Auch BHADANTAG4N4A1NAVARMAN zugeschrieben; s. AUFRECHT a. a. O. 59.· 
+;-----------------
+81892 old <F4.2>-- 4654 . <i>c</i>. {#sakalaM#} st. {#vipulaM#}. <i>d</i>. {#no bhAvyaM#}.</F4> 
+81892 new <F4.2>-- 4654 . <i>c</i>. {#sakalaM#} st. {#vipulaM#}. <i>d</i>. {#no bhAvyaM#}.· 
+;-----------------
+82166 old <F4.2>-- 4668 . <i>d</i>. Lies {#ulUkAnAm#}.</F4> 
+82166 new <F4.2>-- 4668 . <i>d</i>. Lies {#ulUkAnAm#}.· 
+;-----------------
+82280 old <F4.2>-- 4675 . <i>b</i>. {#kadambavanaM#}. <i>c</i>. {#tadapi#} st. {#anati#}.</F4> 
+82280 new <F4.2>-- 4675 . <i>b</i>. {#kadambavanaM#}. <i>c</i>. {#tadapi#} st. {#anati#}.· 
+;-----------------
+82448 old <F4.1>-- 4686 . Vgl. SA1H. D. 367. <i>a</i>, <gr>a.</gr> {#manaH prakRtyaiva calaM#}.</F4> 
+82448 new <F4.1>-- 4686 . Vgl. SA1H. D. 367. <i>a</i>, <gr>a.</gr> {#manaH prakRtyaiva calaM#}.· 
+;-----------------
+82488 old <F4.1>-- 4688 . Vgl. MBH. 3, 1226.</F4> 
+82488 new <F4.1>-- 4688 . Vgl. MBH. 3, 1226.· 
+;-----------------
+82575 old <F4.2>-- 4693 . <i>d</i>. {#kArye cAnyaº#}.</F4> 
+82575 new <F4.2>-- 4693 . <i>d</i>. {#kArye cAnya°#}.· 
+;-----------------
+82931 old <F4.2>-- 4715 . <i>c</i>. {#'pi#} st. {#hi#}.</F4> 
+82931 new <F4.2>-- 4715 . <i>c</i>. {#'pi#} st. {#hi#}.· 
+;-----------------
+83184 old <F4.1>-- 4733 = VIKRAMA1N3KADEVACARITA 1, 26. <i>a</i>, <gr>a.</gr> {#pRthvIpateH#} st. {#mahIpateH#}. <i>b</i>, <gr>a.</gr> Fehlerhaft {#urvyA#}. <gr>b.</gr> Umgestellt {#jJAnAti nAmApi#}.</F4> 
+83184 new <F4.1>-- 4733 = VIKRAMA1N3KADEVACARITA 1, 26. <i>a</i>, <gr>a.</gr> {#pRthvIpateH#} st. {#mahIpateH#}. <i>b</i>, <gr>a.</gr> Fehlerhaft {#urvyA#}. <gr>b.</gr> Umgestellt {#jJAnAti nAmApi#}.· 
+;-----------------
+83322 old <F4.2>-- 4740 . <i>d</i>. {#tara#} ({#tarUnajA iti loke#} Glosse) st. {#tvara#}.</F4> 
+83322 new <F4.2>-- 4740 . <i>d</i>. {#tara#} ({#tarUnajA iti loke#} Glosse) st. {#tvara#}.· 
+;-----------------
+83570 old <F4.2>-- 4755 . <i>a</i>. {#saMsargaH#}. <i>c</i>. {#vAri#} st. {#toyaM#}.</F4> 
+83570 new <F4.2>-- 4755 . <i>a</i>. {#saMsargaH#}. <i>c</i>. {#vAri#} st. {#toyaM#}.· 
+;-----------------
+84327 old <F4.2>-- 4795 . {#gavAzanAnAM sa zRNoti vAkyamahaM hi rAjanpaThitaM munInAm | na tasya doSo na ca madguNo vA saMsargajadoSaguNA bhavanti ||#} Glosse: {#yavanAnAM yavanagRhasthitaM sahodaraM zukamuddizya munigRhasthitasya zukasyoktiriyam#}.</F4> 
+84327 new <F4.2>-- 4795 . {#gavAzanAnAM sa zRNoti vAkyamahaM hi rAjanpaThitaM munInAm | na tasya doSo na ca madguNo vA saMsargajadoSaguNA bhavanti ||#} Glosse: {#yavanAnAM yavanagRhasthitaM sahodaraM zukamuddizya munigRhasthitasya zukasyoktiriyam#}.· 
+;-----------------
+84448 old <F4.1>-- 4802 . VJA1SA zugeschrieben in S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 89.</F4> 
+84448 new <F4.1>-- 4802 . VJA1SA zugeschrieben in S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 89.· 
+;-----------------
+84541 old <F4.2>-- 4807 . <i>b</i>. {#kAnteva cApi ramaº#}. <i>c</i>. {#lakSmIM tanoti vitanoti ca dikSu kIrtiM#}. <i>d</i>. {#kiM kiM na sAdhayati kalpalateva vidyA#}.</F4> 
+84541 new <F4.2>-- 4807 . <i>b</i>. {#kAnteva cApi rama°#}. <i>c</i>. {#lakSmIM tanoti vitanoti ca dikSu kIrtiM#}. <i>d</i>. {#kiM kiM na sAdhayati kalpalateva vidyA#}.· 
+;-----------------
+84610 old <F4.1>-- 4811 , <i>b</i>, <gr>b.</gr> {#smarasmera#} bedeutet «verliebt».</F4> 
+84610 new <F4.1>-- 4811 , <i>b</i>, <gr>b.</gr> {#smarasmera#} bedeutet «verliebt».· 
+;-----------------
+84866 old <F4.2>-- 4824 . <i>b</i>. Wie bei mir.</F4> 
+84866 new <F4.2>-- 4824 . <i>b</i>. Wie bei mir.· 
+;-----------------
+85017 old <F4.1>-- 4831 . Wird in S4A1RN3G. PADDH. BHOG4ADEVA zugeschrieben; vgl. AUFRECHT a. a. O. 68. <i>a</i>, <gr>a.</gr> {#sa mahIpatiH#}. <i>b</i>, <gr>a.</gr> {#yAvanta evAbhavan#}.</F4> 
+85017 new <F4.1>-- 4831 . Wird in S4A1RN3G. PADDH. BHOG4ADEVA zugeschrieben; vgl. AUFRECHT a. a. O. 68. <i>a</i>, <gr>a.</gr> {#sa mahIpatiH#}. <i>b</i>, <gr>a.</gr> {#yAvanta evAbhavan#}.· 
+;-----------------
+85092 old <F4.1>-- 4836 , <i>a</i>, <gr>a.</gr> Lies {#mArutaH#}.</F4> 
+85092 new <F4.1>-- 4836 , <i>a</i>, <gr>a.</gr> Lies {#mArutaH#}.· 
+;-----------------
+85224 old <F4.1>-- 4844 , <i>a</i>, <gr>b.</gr> Lies {#vyAghrA#}.</F4> 
+85224 new <F4.1>-- 4844 , <i>a</i>, <gr>b.</gr> Lies {#vyAghrA#}.· 
+;-----------------
+85732 old <F4.2>-- 4873 . Schalte "stets" nach "wandert" ein.</F4> 
+85732 new <F4.2>-- 4873 . Schalte "stets" nach "wandert" ein.· 
+;-----------------
+85897 old <F4.2>-- 4882 . <i>b</i>. {#vAcA candanazItalA#}. <i>c</i>. {#krodhasaMyuktaM#}.</F4> 
+85897 new <F4.2>-- 4882 . <i>b</i>. {#vAcA candanazItalA#}. <i>c</i>. {#krodhasaMyuktaM#}.· 
+;-----------------
+85978 old <F4.2>-- 4886 . <i>b</i>. {#hRdayAnnAnayatyadhaH#}.</F4> 
+85978 new <F4.2>-- 4886 . <i>b</i>. {#hRdayAnnAnayatyadhaH#}.· 
+;-----------------
+86359 old <F4.2>-- 4907 . <i>c</i>. FRITZE vermuthet {#ca#} st. {#sa#}.</F4> 
+86359 new <F4.2>-- 4907 . <i>c</i>. FRITZE vermuthet {#ca#} st. {#sa#}.· 
+;-----------------
+86429 old <F4.2>-- 4910 . <i>b</i>. Lies {#ºbhojako#}, wie in der ersten Auflage steht. Im SUBHA1SHITAR. werden für diesen Spruch bloss meine Indischen Sprüche als Quelle angeführt. Es kann nur die erste Auflage gemeint sein, da der 3. Theil der 2. Auflage ein Jahr später als der SUBHA1SHITAR. erschienen ist. Dessenungeachtet finden wir folgende Lesarten: <i>b</i>. {#rAtriMdivaM#}. <i>c</i>. {#ºvicAraNAndhabadhiro, samaH#}. <i>d</i>. {#prAyeNAmayavarjito dRDhavapurmUrkhaH sukhaM jIº#}.</F4> 
+86429 new <F4.2>-- 4910 . <i>b</i>. Lies {#°bhojako#}, wie in der ersten Auflage steht. Im SUBHA1SHITAR. werden für diesen Spruch bloss meine Indischen Sprüche als Quelle angeführt. Es kann nur die erste Auflage gemeint sein, da der 3. Theil der 2. Auflage ein Jahr später als der SUBHA1SHITAR. erschienen ist. Dessenungeachtet finden wir folgende Lesarten: <i>b</i>. {#rAtriMdivaM#}. <i>c</i>. {#°vicAraNAndhabadhiro, samaH#}. <i>d</i>. {#prAyeNAmayavarjito dRDhavapurmUrkhaH sukhaM jI°#}.· 
+;-----------------
+86559 old <F4.1>-- 4918 = VIVEKAVI1LA1SA 5, 11. Lautet hier: {#mUrkhanirdhanadUresthasUramokSAbhilASiNAm | triguNAdhikavarSANAM nApi deyA hi kanyakA ||#}</F4> 
+86559 new <F4.1>-- 4918 = VIVEKAVI1LA1SA 5, 11. Lautet hier: {#mUrkhanirdhanadUresthasUramokSAbhilASiNAm | triguNAdhikavarSANAM nApi deyA hi kanyakA ||#}· 
+;-----------------
+87233 old <F4.2>-- 4956 . <i>b</i>. {#dhanarakSaM vasuMdharA#}.</F4> 
+87233 new <F4.2>-- 4956 . <i>b</i>. {#dhanarakSaM vasuMdharA#}.· 
+;-----------------
+87235 old <F4.1>-- 4956 . Auch bei AUFRECHT a. a. O. 53. <i>a</i>, <gr>b.</gr> {#dhanagoptAraM vasuMdharA#}. <i>b</i>, <gr>a.</gr> {#duzcAriNIva hasati#}.</F4> 
+87235 new <F4.1>-- 4956 . Auch bei AUFRECHT a. a. O. 53. <i>a</i>, <gr>b.</gr> {#dhanagoptAraM vasuMdharA#}. <i>b</i>, <gr>a.</gr> {#duzcAriNIva hasati#}.· 
+;-----------------
+87779 old <F4.2>-- 4987 . <i>a</i>. {#vAtalo#}. <i>b</i>. {#vasati ca sadA#}.</F4> 
+87779 new <F4.2>-- 4987 . <i>a</i>. {#vAtalo#}. <i>b</i>. {#vasati ca sadA#}.· 
+;-----------------
+87795 old <F4.1>-- 4988 , <i>b</i>, <gr>a.</gr> AUFRECHT a. a. O. 22 will {#'mitre#} lesen st. {#mitre#}, das keinen Sinn geben soll. Ich möchte das Umgekehrte behaupten.</F4> 
+87795 new <F4.1>-- 4988 , <i>b</i>, <gr>a.</gr> AUFRECHT a. a. O. 22 will {#'mitre#} lesen st. {#mitre#}, das keinen Sinn geben soll. Ich möchte das Umgekehrte behaupten.· 
+;-----------------
+87885 old <F4.1>-- 4994 , Note. Lies 5, 1135.</F4> 
+87885 new <F4.1>-- 4994 , Note. Lies 5, 1135.· 
+;-----------------
+88377 old <F4.1>-- 5026 , <i>b</i>, <gr>a.</gr> KLATT möchte {#puraSotsavazca nArINAm#} lesen. Wäre der Vers aus dem alten Epos, so könnte man über den fünfsilbigen ersten Fuss dreist hinwegsehen.</F4> 
+88377 new <F4.1>-- 5026 , <i>b</i>, <gr>a.</gr> KLATT möchte {#puraSotsavazca nArINAm#} lesen. Wäre der Vers aus dem alten Epos, so könnte man über den fünfsilbigen ersten Fuss dreist hinwegsehen.· 
+;-----------------
+88773 old <F4.2>-- 5051 . <i>a</i>. {#pazyati ziº#}.</F4> 
+88773 new <F4.2>-- 5051 . <i>a</i>. {#pazyati zi°#}.· 
+;-----------------
+89125 old <F4.2>-- 5075 . <i>b</i>. Ich habe in der Chrestomathie {#taM tyaktvA#} gesetzt.</F4> 
+89125 new <F4.2>-- 5075 . <i>b</i>. Ich habe in der Chrestomathie {#taM tyaktvA#} gesetzt.· 
+;-----------------
+89262 old <F4.1>-- 5083 . Auch KA1VJAPR. 168, 15. fgg. (324, 11. fgg.). <i>a</i>, <gr>a.</gr> {#bhruvaM#} beide Ausgg. <gr>b.</gr> {#tatraiva prapatanti#} ohne {#yat#} die ältere Ausg. <i>b</i>, <gr>a.</gr> {#cApamaJcitazaraº#} beide Ausgg., {#ºpresvatkaraH#} die ältere Ausg. <gr>b.</gr> {#sadAsAM#} st. {#tadAsAM#} beide Ausgg.</F4> 
+89262 new <F4.1>-- 5083 . Auch KA1VJAPR. 168, 15. fgg. (324, 11. fgg.). <i>a</i>, <gr>a.</gr> {#bhruvaM#} beide Ausgg. <gr>b.</gr> {#tatraiva prapatanti#} ohne {#yat#} die ältere Ausg. <i>b</i>, <gr>a.</gr> {#cApamaJcitazara°#} beide Ausgg., {#°presvatkaraH#} die ältere Ausg. <gr>b.</gr> {#sadAsAM#} st. {#tadAsAM#} beide Ausgg.· 
+;-----------------
+89630 old <F4.2>-- 5105 . <i>a</i>. {#vAco#}. <i>b</i>. {#kriyAH#}.</F4> 
+89630 new <F4.2>-- 5105 . <i>a</i>. {#vAco#}. <i>b</i>. {#kriyAH#}.· 
+;-----------------
+89951 old <F4.1>-- 5125 , <i>b</i>, <gr>b.</gr> {#sAdhu#} bedeutet hier «sicherlich». In der Note ist 6, 14 zu lesen.</F4> 
+89951 new <F4.1>-- 5125 , <i>b</i>, <gr>b.</gr> {#sAdhu#} bedeutet hier «sicherlich». In der Note ist 6, 14 zu lesen.· 
+;-----------------
+90642 old <F4.2>-- 5173 . <i>b</i>. {#savituravikAntaH#} ({#avikAntaH sUryakAntamaNiH#} Glosse).</F4> 
+90642 new <F4.2>-- 5173 . <i>b</i>. {#savituravikAntaH#} ({#avikAntaH sUryakAntamaNiH#} Glosse).· 
+;-----------------
+90949 old <F4.1>-- 5192 , <i>a</i>. Vgl. WEBER, VAG4RASU1CI1 227, S4I. 51, <i>a</i>. In der Note ist BHA1G. P. zu lesen.</F4> 
+90949 new <F4.1>-- 5192 , <i>a</i>. Vgl. WEBER, VAG4RASU1CI1 227, S4I. 51, <i>a</i>. In der Note ist BHA1G. P. zu lesen.· 
+;-----------------
+91304 old <F4.2>-- 5211 . <i>a</i>. Lies {#dakSaH#}.</F4> 
+91304 new <F4.2>-- 5211 . <i>a</i>. Lies {#dakSaH#}.· 
+;-----------------
+91487 old <F4.2>-- 5223 . <i>b</i>. Lies {#kathaMcinnopapadyate#}.</F4> 
+91487 new <F4.2>-- 5223 . <i>b</i>. Lies {#kathaMcinnopapadyate#}.· 
+;-----------------
+91726 old <F4.2>-- 5237 . Zweimal. <i>b</i>. Das eine Mal {#kevalam#} st. {#te svayam#}. <i>d</i>. Das eine Mal {#nivAryate#}.</F4> 
+91726 new <F4.2>-- 5237 . Zweimal. <i>b</i>. Das eine Mal {#kevalam#} st. {#te svayam#}. <i>d</i>. Das eine Mal {#nivAryate#}.· 
+;-----------------
+92029 old <F4.1>-- 5256 , <i>b</i>, <gr>a.</gr> Es ist {#mandaspandaM#} zu lesen.</F4> 
+92029 new <F4.1>-- 5256 , <i>b</i>, <gr>a.</gr> Es ist {#mandaspandaM#} zu lesen.· 
+;-----------------
+92252 old <F4.2>-- 5267 . <i>c</i>. {#cittavatsakRpaNAM#}.</F4> 
+92252 new <F4.2>-- 5267 . <i>c</i>. {#cittavatsakRpaNAM#}.· 
+;-----------------
+92415 old <F4.2>-- 5278 . [Seite4.2-214] S4A1RN3GADHARA (Autor GOVARDHANA nach AUFRECHT). Zweimal. <i>b</i>. {#hi kRtaH#} st. {#vihitaH#} an einer Stelle.</F4> 
+92415 new <F4.2>-- 5278 . [Seite4.2-214] S4A1RN3GADHARA (Autor GOVARDHANA nach AUFRECHT). Zweimal. <i>b</i>. {#hi kRtaH#} st. {#vihitaH#} an einer Stelle.· 
+;-----------------
+92633 old <F4.2>-- 5292 . <i>d</i>. In meiner Chrestomathie habe ich {#kiMnAma#} als Comp. gefasst.</F4> 
+92633 new <F4.2>-- 5292 . <i>d</i>. In meiner Chrestomathie habe ich {#kiMnAma#} als Comp. gefasst.· 
+;-----------------
+92806 old <F4.1>-- 5302 , <i>b</i>, <gr>b.</gr> {#visphUrjJita#} n. ist «das Erscheinen, Hervortreten, zu Tage Kommen».</F4> 
+92806 new <F4.1>-- 5302 , <i>b</i>, <gr>b.</gr> {#visphUrjJita#} n. ist «das Erscheinen, Hervortreten, zu Tage Kommen».· 
+;-----------------
+92882 old <F4.2>-- 5306 . <i>b</i>. {#'pi girA yat#}.</F4> 
+92882 new <F4.2>-- 5306 . <i>b</i>. {#'pi girA yat#}.· 
+;-----------------
+92899 old <F4.1>-- 5307 , Note, Z. 3. 4. Lies {#svapratikaraM#}.</F4> 
+92899 new <F4.1>-- 5307 , Note, Z. 3. 4. Lies {#svapratikaraM#}.· 
+;-----------------
+93126 old <F4.1>-- 5323 , <i>a</i>, <gr>b.</gr> {#haTha#} ist hier «absolute Nothwendigkeit».</F4> 
+93126 new <F4.1>-- 5323 , <i>a</i>, <gr>b.</gr> {#haTha#} ist hier «absolute Nothwendigkeit».· 
+;-----------------
+93611 old <F4.2>-- 5352 . <i>d</i>. {#na tatra divasaM vaset#}.</F4> 
+93611 new <F4.2>-- 5352 . <i>d</i>. {#na tatra divasaM vaset#}.· 
+;-----------------
+93713 old <F4.2>-- 5358 . <i>c</i>. {#nigrahAnugrahau na staH#}.</F4> 
+93713 new <F4.2>-- 5358 . <i>c</i>. {#nigrahAnugrahau na staH#}.· 
+;-----------------
+93840 old <F4.1>-- 5366 , Note, Z. 4. Lies 5388.</F4> 
+93840 new <F4.1>-- 5366 , Note, Z. 4. Lies 5388.· 
+;-----------------
+93871 old <F4.2>-- 5367 . <i>b</i>. {#kuryAttasya sadA priyam#}. {%c. d.%} {#vyAdho#} und {#gAyati#}.</F4> 
+93871 new <F4.2>-- 5367 . <i>b</i>. {#kuryAttasya sadA priyam#}. {%c. d.%} {#vyAdho#} und {#gAyati#}.· 
+;-----------------
+94062 old <F4.1>-- 5377 . Vgl. 7301.</F4> 
+94062 new <F4.1>-- 5377 . Vgl. 7301.· 
+;-----------------
+94130 old <F4.2>-- 5381 . <i>a</i>. {#naiva vidvAn#}. <i>b</i>. {#dhArmikaH#} am Ende. <i>c</i>. {#aprakAzaM#}. <i>d</i>. {#naSTacandreva zarvarI#}.</F4> 
+94130 new <F4.2>-- 5381 . <i>a</i>. {#naiva vidvAn#}. <i>b</i>. {#dhArmikaH#} am Ende. <i>c</i>. {#aprakAzaM#}. <i>d</i>. {#naSTacandreva zarvarI#}.· 
+;-----------------
+94313 old <F4.2>-- 5390 . <i>a</i>. {#saMbhASA#}. <i>c</i>. {#mitreNa saha yo bhuGkte#}.</F4> 
+94313 new <F4.2>-- 5390 . <i>a</i>. {#saMbhASA#}. <i>c</i>. {#mitreNa saha yo bhuGkte#}.· 
+;-----------------
+94591 old <F4.2>-- 5409 . In <i>a</i>. und <i>b</i>. {#arthAH#}, in <i>c</i>. und <i>d</i>. {#arthaH#}.</F4> 
+94591 new <F4.2>-- 5409 . In <i>a</i>. und <i>b</i>. {#arthAH#}, in <i>c</i>. und <i>d</i>. {#arthaH#}.· 
+;-----------------
+94838 old <F4.1>-- 5426 , Note. Lies 529 st. 259.</F4> 
+94838 new <F4.1>-- 5426 , Note. Lies 529 st. 259.· 
+;-----------------
+95063 old <F4.1>-- 5438 , <i>b</i>, <gr>a.</gr> LASSEN und WEBER möchten {#parizuSyati#} lesen.</F4> 
+95063 new <F4.1>-- 5438 , <i>b</i>, <gr>a.</gr> LASSEN und WEBER möchten {#parizuSyati#} lesen.· 
+;-----------------
+95189 old <F4.1>-- 5445 , Note, Z. 3. Füge {#ca#} nach {#ºvAdI#} hinzu.</F4> 
+95189 new <F4.1>-- 5445 , Note, Z. 3. Füge {#ca#} nach {#°vAdI#} hinzu.· 
+;-----------------
+95638 old <F4.1>-- 5473 . Vgl. WEBER, VAG4RASU1CI1 234, 22. fg.</F4> 
+95638 new <F4.1>-- 5473 . Vgl. WEBER, VAG4RASU1CI1 234, 22. fg.· 
+;-----------------
+95677 old <F4.2>-- 5476 . Schalte "tausend" vor "Jahre" ein.</F4> 
+95677 new <F4.2>-- 5476 . Schalte "tausend" vor "Jahre" ein.· 
+;-----------------
+95846 old <F4.1>-- 5486 , <i>a</i>, <gr>b.</gr> {#no#} st. {#na#} in der neueren Ausg.</F4> 
+95846 new <F4.1>-- 5486 , <i>a</i>, <gr>b.</gr> {#no#} st. {#na#} in der neueren Ausg.· 
+;-----------------
+97112 old <F4.2>-- 5561 . <i>b</i>. {#ºbhaGgaiH#}. <i>c</i>. {#khalu rAjahaMsAH#} st. {#kalaº#}. <i>d</i>. {#Azrayanti#}. Im Uebrigen wie bei mir.</F4> 
+97112 new <F4.2>-- 5561 . <i>b</i>. {#°bhaGgaiH#}. <i>c</i>. {#khalu rAjahaMsAH#} st. {#kala°#}. <i>d</i>. {#Azrayanti#}. Im Uebrigen wie bei mir.· 
+;-----------------
+97408 old <F4.1>-- 5578 , Note. Lies 1438, <i>b</i>. 1439, <i>a</i>.</F4> 
+97408 new <F4.1>-- 5578 , Note. Lies 1438, <i>b</i>. 1439, <i>a</i>.· 
+;-----------------
+97448 old <F4.2>-- 5579 . <i>a</i>. {#ºprabodhamanasasteSAmabhinnA#}. <i>d</i>. Lies {#rocate#}.</F4> 
+97448 new <F4.2>-- 5579 . <i>a</i>. {#°prabodhamanasasteSAmabhinnA#}. <i>d</i>. Lies {#rocate#}.· 
+;-----------------
+97463 old <F4.1>-- 5580 . Lies in der Uebersetzung «Klugen» st. «Glücklichen».</F4> 
+97463 new <F4.1>-- 5580 . Lies in der Uebersetzung «Klugen» st. «Glücklichen».· 
+;-----------------
+97507 old <F4.1>-- 5582 , <i>a</i>, <gr>a.</gr> Es ist {#cApyAyitaH somaH#} mit M. zu lesen.</F4> 
+97507 new <F4.1>-- 5582 , <i>a</i>, <gr>a.</gr> Es ist {#cApyAyitaH somaH#} mit M. zu lesen.· 
+;-----------------
+97825 old <F4.2>-- 5602 . <i>c</i>. {#tRNamayakRtrimapuruSo#}.</F4> 
+97825 new <F4.2>-- 5602 . <i>c</i>. {#tRNamayakRtrimapuruSo#}.· 
+;-----------------
+97965 old <F4.2>-- 5610 . KALPATARU. <i>a</i>. {#yo nAtmaje na ca gurau na ca bhRtyavarge#}. <i>b</i>. {#bandhuvarge#} am Ende.</F4> 
+97965 new <F4.2>-- 5610 . KALPATARU. <i>a</i>. {#yo nAtmaje na ca gurau na ca bhRtyavarge#}. <i>b</i>. {#bandhuvarge#} am Ende.· 
+;-----------------
+98141 old <F4.2>-- 5621 . GOVARDHANASAPTAS4ATI1. Wie in S4A1RN3G. PADDH., nur am Ende {#so 'gurubhavo#}.</F4> 
+98141 new <F4.2>-- 5621 . GOVARDHANASAPTAS4ATI1. Wie in S4A1RN3G. PADDH., nur am Ende {#so 'gurubhavo#}.· 
+;-----------------
+98308 old <F4.2>-- 5632 . SABHA1TARAM3GA. <i>b</i>. {#vibhuH#} st. {#payaH#}. <i>c</i>. {#vighAnAya#}.</F4> 
+98308 new <F4.2>-- 5632 . SABHA1TARAM3GA. <i>b</i>. {#vibhuH#} st. {#payaH#}. <i>c</i>. {#vighAnAya#}.· 
+;-----------------
+99040 old <F4.1>-- 5681 , <i>b</i>, <gr>a.</gr> Lies {#prAvRTkAle#}.</F4> 
+99040 new <F4.1>-- 5681 , <i>b</i>, <gr>a.</gr> Lies {#prAvRTkAle#}.· 
+;-----------------
+99056 old <F4.2>-- 5682 . SPHUT2AS4LOKA. {%b. c.%} {#ArogyaM vyAdhibhirhatam | jIvitaM mRtyurabhyeti#}.</F4> 
+99056 new <F4.2>-- 5682 . SPHUT2AS4LOKA. {%b. c.%} {#ArogyaM vyAdhibhirhatam | jIvitaM mRtyurabhyeti#}.· 
+;-----------------
+99543 old <F4.2>-- 5712 . <i>b</i>. {#caraNarahitaH#}. <i>d</i>. {#bhavati#} st. {#vasati#}.</F4> 
+99543 new <F4.2>-- 5712 . <i>b</i>. {#caraNarahitaH#}. <i>d</i>. {#bhavati#} st. {#vasati#}.· 
+;-----------------
+99635 old <F4.1>-- 5715 , Note. Lies KAT2AJAVEMA.</F4> 
+99635 new <F4.1>-- 5715 , Note. Lies KAT2AJAVEMA.· 
+;-----------------
+99661 old <F4.1>-- 5716 , <i>a</i>, <gr>b.</gr> Statt {#sarala#} [Seite4.1-665] ist wohl {#sarasa#} «geschmackvoll» zu lesen.</F4> 
+99661 new <F4.1>-- 5716 , <i>a</i>, <gr>b.</gr> Statt {#sarala#} [Seite4.1-665] ist wohl {#sarasa#} «geschmackvoll» zu lesen.· 
+;-----------------
+99733 old <F4.2>-- 5719 (168, 1). S4A1RN3GADHARA. <i>b</i>. {#ko 'nyeSAmudayagrahaH#}.</F4> 
+99733 new <F4.2>-- 5719 (168, 1). S4A1RN3GADHARA. <i>b</i>. {#ko 'nyeSAmudayagrahaH#}.· 
+;-----------------
+100315 old <F4.1>-- 5753 , <i>b</i>. Vgl. MBH. 12, 453, <i>b</i>.</F4> 
+100315 new <F4.1>-- 5753 , <i>b</i>. Vgl. MBH. 12, 453, <i>b</i>.· 
+;-----------------
+100804 old <F4.1>-- 5780 . Schalte in der Uebersetzung «eiligst» nach «Groll» ein.</F4> 
+100804 new <F4.1>-- 5780 . Schalte in der Uebersetzung «eiligst» nach «Groll» ein.· 
+;-----------------
+101284 old <F4.2>-- 5802 . <i>b</i>. {#vasanti#} st. {#hi santi#}.</F4> 
+101284 new <F4.2>-- 5802 . <i>b</i>. {#vasanti#} st. {#hi santi#}.· 
+;-----------------
+101570 old <F4.2>-- 5818 . SPHUT2AS4LOKA. <i>c</i>. {#dharAbharaklAnte#}. <i>d</i>. {#nArAyaNaH#} st. {#laº#}.</F4> 
+101570 new <F4.2>-- 5818 . SPHUT2AS4LOKA. <i>c</i>. {#dharAbharaklAnte#}. <i>d</i>. {#nArAyaNaH#} st. {#la°#}.· 
+;-----------------
+101725 old <F4.1>-- 5826 . Schalte in der Uebersetzung «schlimmen» vor «Fall» ein.</F4> 
+101725 new <F4.1>-- 5826 . Schalte in der Uebersetzung «schlimmen» vor «Fall» ein.· 
+;-----------------
+102237 old <F4.1>-- 5853 . Auch KA1VJAPR. 142, 6. 7. 185, 1. 2.</F4> 
+102237 new <F4.1>-- 5853 . Auch KA1VJAPR. 142, 6. 7. 185, 1. 2.· 
+;-----------------
+102307 old <F4.2>-- 5857 . <i>c</i>. {#nalinyAM#}.</F4> 
+102307 new <F4.2>-- 5857 . <i>c</i>. {#nalinyAM#}.· 
+;-----------------
+102372 old <F4.1>-- 5860 . Auch bei MALLIN. zu KIRA1TA1RG4. 1, 12. <i>a</i>, <gr>a.</gr> {#gRhIyAd#}. <gr>b.</gr> {#sAdhum#} st. {#kruddham#}. <i>b</i>, <gr>a.</gr> {#chandAnuroghena#}. <gr>b.</gr> {#tattvArthena ca paº#}.</F4> 
+102372 new <F4.1>-- 5860 . Auch bei MALLIN. zu KIRA1TA1RG4. 1, 12. <i>a</i>, <gr>a.</gr> {#gRhIyAd#}. <gr>b.</gr> {#sAdhum#} st. {#kruddham#}. <i>b</i>, <gr>a.</gr> {#chandAnuroghena#}. <gr>b.</gr> {#tattvArthena ca pa°#}.· 
+;-----------------
+102399 old <F4.1>-- 5861 , <i>b</i>, <gr>b.</gr> Besser {#nihanyete#}.</F4> 
+102399 new <F4.1>-- 5861 , <i>b</i>, <gr>b.</gr> Besser {#nihanyete#}.· 
+;-----------------
+102413 old <F4.2>-- 5862 . <i>b</i>. und <i>d</i>. wechseln die Stellen.</F4> 
+102413 new <F4.2>-- 5862 . <i>b</i>. und <i>d</i>. wechseln die Stellen.· 
+;-----------------
+102991 old <F4.2>-- 5896 . <i>b</i>. {#alinAM#}.</F4> 
+102991 new <F4.2>-- 5896 . <i>b</i>. {#alinAM#}.· 
+;-----------------
+103096 old <F4.1>-- 5902 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 23.</F4> 
+103096 new <F4.1>-- 5902 . Von KSHEMENDRA; s. AUFRECHT a. a. O. 23.· 
+;-----------------
+103210 old <F4.2>-- 5909 . <i>d</i>. {#hi#} st. {#nu#}.</F4> 
+103210 new <F4.2>-- 5909 . <i>d</i>. {#hi#} st. {#nu#}.· 
+;-----------------
+103305 old <F4.2>-- 5914 . {#vadanaM dazanavihInaM vAco na parisphuTA gatA zaktiH | avyaktendriyazaktiH punarapi bAlyaM kRtaM jarayA ||#}</F4> 
+103305 new <F4.2>-- 5914 . {#vadanaM dazanavihInaM vAco na parisphuTA gatA zaktiH | avyaktendriyazaktiH punarapi bAlyaM kRtaM jarayA ||#}· 
+;-----------------
+103579 old <F4.2>-- 5931 . S4A1RN3GADHARA. <i>a</i>. {#siMhA mRgamAMsabhakSiNo#}. <i>b</i>. {#bubhukSitA naiva tRNe caranti#}. <i>c</i>. {#evaM kulInA vyasanAbhibhUtA#}. <i>d</i>. {#samAcaranti#} st. {#kadA kaº#}.</F4> 
+103579 new <F4.2>-- 5931 . S4A1RN3GADHARA. <i>a</i>. {#siMhA mRgamAMsabhakSiNo#}. <i>b</i>. {#bubhukSitA naiva tRNe caranti#}. <i>c</i>. {#evaM kulInA vyasanAbhibhUtA#}. <i>d</i>. {#samAcaranti#} st. {#kadA ka°#}.· 
+;-----------------
+103706 old <F4.1>-- 5938 = VIVEKAVILA1SA 5, 10. <i>a</i>, <gr>b.</gr> {#vidyA kSamA yazaH#}.</F4> 
+103706 new <F4.1>-- 5938 = VIVEKAVILA1SA 5, 10. <i>a</i>, <gr>b.</gr> {#vidyA kSamA yazaH#}.· 
+;-----------------
+103754 old <F4.2>-- 5940 . S4A1RN3GADHARA. <i>b</i>. {#jalpantIti prage dvikAH#}. {%c. d.%} {#timirAristamo hanyAditi zaGkitamAnasAH#}.</F4> 
+103754 new <F4.2>-- 5940 . S4A1RN3GADHARA. <i>b</i>. {#jalpantIti prage dvikAH#}. {%c. d.%} {#timirAristamo hanyAditi zaGkitamAnasAH#}.· 
+;-----------------
+103874 old <F4.2>-- 5947 . <i>a</i>. {#bhaikSyaM#}. <i>c</i>. {#vivekahInAnAM#}.</F4> 
+103874 new <F4.2>-- 5947 . <i>a</i>. {#bhaikSyaM#}. <i>c</i>. {#vivekahInAnAM#}.· 
+;-----------------
+104004 old <F4.2>-- 5953 (239, 87). <i>a</i>. {#varo#}.</F4> 
+104004 new <F4.2>-- 5953 (239, 87). <i>a</i>. {#varo#}.· 
+;-----------------
+104135 old <F4.2>-- 5960 . <i>b</i>. {#kanyA vijanitA#}.</F4> 
+104135 new <F4.2>-- 5960 . <i>b</i>. {#kanyA vijanitA#}.· 
+;-----------------
+104283 old <F4.2>-- 5969 . <i>c</i>. {#ºtaTImuktazcAº#}.</F4> 
+104283 new <F4.2>-- 5969 . <i>c</i>. {#°taTImuktazcA°#}.· 
+;-----------------
+104539 old <F4.1>-- 5982 , <i>b</i>, <gr>a.</gr> KLATT macht mich darauf aufmerksam, dass {#rUpavatIM#} metrisch falsch sei.</F4> 
+104539 new <F4.1>-- 5982 , <i>b</i>, <gr>a.</gr> KLATT macht mich darauf aufmerksam, dass {#rUpavatIM#} metrisch falsch sei.· 
+;-----------------
+104819 old <F4.2>-- 6000 . Von MUKTA1PI1D2A; s. AUFRECHT a. a. O. 74. Ohne Variante.</F4> 
+104819 new <F4.2>-- 6000 . Von MUKTA1PI1D2A; s. AUFRECHT a. a. O. 74. Ohne Variante.· 
+;-----------------
+104884 old <F4.1>-- 6004 , <i>a</i>, <gr>b.</gr> {#kimaparam#} so v. a. «was thut das zur Sache ? gleichviel». In der Note ist 6004 st. 6604 zu lesen.</F4> 
+104884 new <F4.1>-- 6004 , <i>a</i>, <gr>b.</gr> {#kimaparam#} so v. a. «was thut das zur Sache ? gleichviel». In der Note ist 6004 st. 6604 zu lesen.· 
+;-----------------
+104905 old <F4.1>-- 6005 , <i>b</i>, <gr>b.</gr> Zu {#udvasa#} vgl. {#udvasita = zUnyIkRta, vasatizUnyIkRta#} «verödet» in Z. d. d. m. G. 28, 407. In der Note ist 6005 st. 6605 zu lesen.</F4> 
+104905 new <F4.1>-- 6005 , <i>b</i>, <gr>b.</gr> Zu {#udvasa#} vgl. {#udvasita = zUnyIkRta, vasatizUnyIkRta#} «verödet» in Z. d. d. m. G. 28, 407. In der Note ist 6005 st. 6605 zu lesen.· 
+;-----------------
+104934 old <F4.2>-- 6007 . <i>c</i>. In meiner Chrestomathie habe ich {#kAle na#} getrennt.</F4> 
+104934 new <F4.2>-- 6007 . <i>c</i>. In meiner Chrestomathie habe ich {#kAle na#} getrennt.· 
+;-----------------
+105054 old <F4.2>-- 6013 . <i>b</i>. {#kAlaviparyayaH#}. <i>c</i>. {#athaivamAgate kAle#}.</F4> 
+105054 new <F4.2>-- 6013 . <i>b</i>. {#kAlaviparyayaH#}. <i>c</i>. {#athaivamAgate kAle#}.· 
+;-----------------
+105155 old <F4.1>-- 6018 , Note, Z. 2. Lies 11000 st. 10999.</F4> 
+105155 new <F4.1>-- 6018 , Note, Z. 2. Lies 11000 st. 10999.· 
+;-----------------
+105428 old <F4.1>-- 6032 , <i>b</i>, <gr>b.</gr> {#sarasaH#} ist wohl als Abl. von {#saras#} zu fassen.</F4> 
+105428 new <F4.1>-- 6032 , <i>b</i>, <gr>b.</gr> {#sarasaH#} ist wohl als Abl. von {#saras#} zu fassen.· 
+;-----------------
+105502 old <F4.2>-- 6035 . <i>a</i>. {#sthita#} st. {#cyuta#}.</F4> 
+105502 new <F4.2>-- 6035 . <i>a</i>. {#sthita#} st. {#cyuta#}.· 
+;-----------------
+105650 old <F4.2>-- 6043 . In der Uebersetzung ist nach "war" ein Semikolon zu setzen und hinzuzufügen: "die Gan5ga1 und andere Ströme ergiessen sich in's Meer". [Seite4.2-215]</F4> 
+105650 new <F4.2>-- 6043 . In der Uebersetzung ist nach "war" ein Semikolon zu setzen und hinzuzufügen: "die Gan5ga1 und andere Ströme ergiessen sich in's Meer". [Seite4.2-215]· 
+;-----------------
+105771 old <F4.2>-- 6049 . <i>c</i>. {#jalpator#}.</F4> 
+105771 new <F4.2>-- 6049 . <i>c</i>. {#jalpator#}.· 
+;-----------------
+105958 old <F4.1>-- 6060 , Note. Lies BHARAT2AKADVA1TRIM3S4IKA1.</F4> 
+105958 new <F4.1>-- 6060 , Note. Lies BHARAT2AKADVA1TRIM3S4IKA1.· 
+;-----------------
+106063 old <F4.2>-- 6066 . <i>d</i>. {#tathA#} st. {#zucir#}.</F4> 
+106063 new <F4.2>-- 6066 . <i>d</i>. {#tathA#} st. {#zucir#}.· 
+;-----------------
+106083 old <F4.2>-- 6067 . S4A1RN3GADHARA. <i>a</i>. {#davAture#}. <i>b</i>. {#cirapipAsitacAtakapotake#}. <i>c</i>. {#pracalite maruti kSaNamanyathA#}.</F4> 
+106083 new <F4.2>-- 6067 . S4A1RN3GADHARA. <i>a</i>. {#davAture#}. <i>b</i>. {#cirapipAsitacAtakapotake#}. <i>c</i>. {#pracalite maruti kSaNamanyathA#}.· 
+;-----------------
+106167 old <F4.1>-- 6071 , Note. Lies 8, 4.</F4> 
+106167 new <F4.1>-- 6071 , Note. Lies 8, 4.· 
+;-----------------
+106444 old <F4.2>-- 6088 . <i>d</i>. {#preSitaH#}.</F4> 
+106444 new <F4.2>-- 6088 . <i>d</i>. {#preSitaH#}.· 
+;-----------------
+106708 old <F4.1>-- 6104 , Note. Lies GORR. st. Bomb.</F4> 
+106708 new <F4.1>-- 6104 , Note. Lies GORR. st. Bomb.· 
+;-----------------
+106940 old <F4.2>-- 6117 . SABHA1TARAM3GA. <i>d</i>. {#rahitakriyaH#} st. {#hataº#}.</F4> 
+106940 new <F4.2>-- 6117 . SABHA1TARAM3GA. <i>d</i>. {#rahitakriyaH#} st. {#hata°#}.· 
+;-----------------
+107199 old <F4.1>-- 6134 , Note. Lies BHARAT2AKADVA1TRIM3S4IKA1.</F4> 
+107199 new <F4.1>-- 6134 , Note. Lies BHARAT2AKADVA1TRIM3S4IKA1.· 
+;-----------------
+107230 old <F4.1>-- 6136 . Lies in der Uebersetzung «kein Glück» st. «keine Schönheit».</F4> 
+107230 new <F4.1>-- 6136 . Lies in der Uebersetzung «kein Glück» st. «keine Schönheit».· 
+;-----------------
+107456 old <F4.1>-- 6149 . Auch KA1VJAPR. 93, 13. fg.</F4> 
+107456 new <F4.1>-- 6149 . Auch KA1VJAPR. 93, 13. fg.· 
+;-----------------
+107918 old <F4.2>-- 6174 . {%a. b.%} {#ivApyapasarati#}.</F4> 
+107918 new <F4.2>-- 6174 . {%a. b.%} {#ivApyapasarati#}.· 
+;-----------------
+107920 old <F4.1>-- 6174 . Angeblich von einem Hofdichter BHOG4ARA1G4A'S; s. AUFRECHT a. a. O. 69.</F4> 
+107920 new <F4.1>-- 6174 . Angeblich von einem Hofdichter BHOG4ARA1G4A'S; s. AUFRECHT a. a. O. 69.· 
+;-----------------
+107965 old <F4.1>-- 6176 . Auch S4I1LA1BHAT2T2A1RIKA1 zugeschrieben; s. AUFRECHT a. a. O. 93.</F4> 
+107965 new <F4.1>-- 6176 . Auch S4I1LA1BHAT2T2A1RIKA1 zugeschrieben; s. AUFRECHT a. a. O. 93.· 
+;-----------------
+108090 old <F4.1>-- 6184 . Lies in der Uebersetzung: «Wenn der Mond in Wirklichkeit schmölze und zu u.s.w.». Der Spruch findet sich im 2ten Act der VIDDHAS4A1LABHAN4G4IKA1. <i>a</i>, <gr>b.</gr> {#virucendIvaravanam#}.</F4> 
+108090 new <F4.1>-- 6184 . Lies in der Uebersetzung: «Wenn der Mond in Wirklichkeit schmölze und zu u.s.w.». Der Spruch findet sich im 2ten Act der VIDDHAS4A1LABHAN4G4IKA1. <i>a</i>, <gr>b.</gr> {#virucendIvaravanam#}.· 
+;-----------------
+108583 old <F4.2>-- 6214 . <i>d</i>. {#sukuladveSI#}.</F4> 
+108583 new <F4.2>-- 6214 . <i>d</i>. {#sukuladveSI#}.· 
+;-----------------
+109172 old <F4.1>-- 6246 , Note. Lies SAPTARATNA.</F4> 
+109172 new <F4.1>-- 6246 , Note. Lies SAPTARATNA.· 
+;-----------------
+109483 old <F4.1>-- 6266 = VIVEKAVILA1SA 1, 79. <i>a</i>, <gr>b.</gr> {#zizuH sutaH#}. Auch bei WEBER, VAG4RASU1CI1 237. <i>a</i>, <gr>b.</gr> Umgestellt {#bhAryA sAdhvI#}.</F4> 
+109483 new <F4.1>-- 6266 = VIVEKAVILA1SA 1, 79. <i>a</i>, <gr>b.</gr> {#zizuH sutaH#}. Auch bei WEBER, VAG4RASU1CI1 237. <i>a</i>, <gr>b.</gr> Umgestellt {#bhAryA sAdhvI#}.· 
+;-----------------
+109642 old <F4.1>-- 6275 . Vgl. Notices of Skt Mss. 2, 90. <i>a</i>, <gr>b.</gr> {#vidhIyatAm#}, wie ich geändert hatte. {#kAmye#} st. {#kAme#}.</F4> 
+109642 new <F4.1>-- 6275 . Vgl. Notices of Skt Mss. 2, 90. <i>a</i>, <gr>b.</gr> {#vidhIyatAm#}, wie ich geändert hatte. {#kAmye#} st. {#kAme#}.· 
+;-----------------
+109825 old <F4.2>-- 6286 . KALPATARU. <i>b</i>. {#yatirmUrkhaH#} am Ende. <i>c</i>. {#kaTake prAhuNiko#}.</F4> 
+109825 new <F4.2>-- 6286 . KALPATARU. <i>b</i>. {#yatirmUrkhaH#} am Ende. <i>c</i>. {#kaTake prAhuNiko#}.· 
+;-----------------
+109869 old <F4.2>-- 6288 . SPHUT2AS4LOKA. <i>a</i>. {#ºVIKaRaN#}. <i>b</i>. {#jyotirvido grahagatiM parivartayanti#}. <i>c</i>. {#bhUtAbhiSaGga iti bhUtavido vadanti#}. <i>d</i>. {#prAcInakarma balavanmunayo vadanti#}.</F4> 
+109869 new <F4.2>-- 6288 . SPHUT2AS4LOKA. <i>a</i>. {#°VIKaRaN#}. <i>b</i>. {#jyotirvido grahagatiM parivartayanti#}. <i>c</i>. {#bhUtAbhiSaGga iti bhUtavido vadanti#}. <i>d</i>. {#prAcInakarma balavanmunayo vadanti#}.· 
+;-----------------
+109883 old <F4.2>-- 6289 . Besser: Auch Aerzte sind bisweilen krank, Kräftige schwach und Reiche zeugungsunfähig. FRITZE.</F4> 
+109883 new <F4.2>-- 6289 . Besser: Auch Aerzte sind bisweilen krank, Kräftige schwach und Reiche zeugungsunfähig. FRITZE.· 
+;-----------------
+110566 old <F4.2>-- 6331 . SABHA1TARAM3GA. {#vyAlAzrito 'pi viphalo 'pi sakaNTako 'pi vakro 'pi paGkajanito 'pi durAsado 'pi | gandhena bandhurasi ketaka puSpajena hyeko#}.</F4> 
+110566 new <F4.2>-- 6331 . SABHA1TARAM3GA. {#vyAlAzrito 'pi viphalo 'pi sakaNTako 'pi vakro 'pi paGkajanito 'pi durAsado 'pi | gandhena bandhurasi ketaka puSpajena hyeko#}.· 
+;-----------------
+110760 old <F4.1>-- 6342 . Vgl. MBH. 5, 2452. fg.</F4> 
+110760 new <F4.1>-- 6342 . Vgl. MBH. 5, 2452. fg.· 
+;-----------------
+110886 old <F4.2>-- 6348 . <i>c</i>. {#mantraH#}.</F4> 
+110886 new <F4.2>-- 6348 . <i>c</i>. {#mantraH#}.· 
+;-----------------
+111257 old <F4.1>-- 6371 , Note. Lies PAN4CAT.</F4> 
+111257 new <F4.1>-- 6371 , Note. Lies PAN4CAT.· 
+;-----------------
+111353 old <F4.2>-- 6378 . SPHUT2AS4LOKA. <i>a</i>. {#zrutvA#} st. {#matvA#}. <i>b</i>. {#sauhArdam#}.</F4> 
+111353 new <F4.2>-- 6378 . SPHUT2AS4LOKA. <i>a</i>. {#zrutvA#} st. {#matvA#}. <i>b</i>. {#sauhArdam#}.· 
+;-----------------
+111507 old <F4.2>-- 6388 . <i>d</i>. {#sattattvam#} am Ende.</F4> 
+111507 new <F4.2>-- 6388 . <i>d</i>. {#sattattvam#} am Ende.· 
+;-----------------
+111540 old <F4.2>6390-6392 . PRASAN3GAR. {#zanaiH panthAH zanaiH kanthA zanaiH parvatamastake | zanairvidyA zanairvittaM paJcaitAni zanaiH zanaiH#}.</F4> 
+111540 new <F4.2>6390-6392 . PRASAN3GAR. {#zanaiH panthAH zanaiH kanthA zanaiH parvatamastake | zanairvidyA zanairvittaM paJcaitAni zanaiH zanaiH#}.· 
+;-----------------
+111617 old <F4.1>-- 6395 . Lies am Ende der Uebersetzung «nimmer aber ohne Weiteres».</F4> 
+111617 new <F4.1>-- 6395 . Lies am Ende der Uebersetzung «nimmer aber ohne Weiteres».· 
+;-----------------
+111712 old <F4.2>-- 6401 . VIS4VAGUN2A1DARS4A. <i>c</i>. {#baddhum#}. <i>d</i>. {#hastinaM kamalanAlatantunA#}.</F4> 
+111712 new <F4.2>-- 6401 . VIS4VAGUN2A1DARS4A. <i>c</i>. {#baddhum#}. <i>d</i>. {#hastinaM kamalanAlatantunA#}.· 
+;-----------------
+111911 old <F4.1>-- 6412 . Vgl. MBH. 13, 2258, <i>b</i>. fg.</F4> 
+111911 new <F4.1>-- 6412 . Vgl. MBH. 13, 2258, <i>b</i>. fg.· 
+;-----------------
+112251 old <F4.2>-- 6433 . <i>b</i>. {#yathA ravau#}.</F4> 
+112251 new <F4.2>-- 6433 . <i>b</i>. {#yathA ravau#}.· 
+;-----------------
+112542 old <F4.1>-- 6448 , <i>b</i>, <gr>a.</gr> {#haThena#} bedeutet hier «gewaltsam».</F4> 
+112542 new <F4.1>-- 6448 , <i>b</i>, <gr>a.</gr> {#haThena#} bedeutet hier «gewaltsam».· 
+;-----------------
+112714 old <F4.2>-- 6457 . S4A1RN3GADHARA. Zweimal. <i>b</i>. {#saumyena#}.</F4> 
+112714 new <F4.2>-- 6457 . S4A1RN3GADHARA. Zweimal. <i>b</i>. {#saumyena#}.· 
+;-----------------
+112964 old <F4.2>-- 6472 . <i>c</i>. {#kimu miº#}.</F4> 
+112964 new <F4.2>-- 6472 . <i>c</i>. {#kimu mi°#}.· 
+;-----------------
+113020 old <F4.1>-- 6475 . Auch bei WEBER, VAG4RASU1CI1 223. <i>b</i>, <gr>a.</gr> {#bahavo narAH nIcakulaprasUtAH#}. <gr>b.</gr> {#upetya#} st. {#avApya#}.</F4> 
+113020 new <F4.1>-- 6475 . Auch bei WEBER, VAG4RASU1CI1 223. <i>b</i>, <gr>a.</gr> {#bahavo narAH nIcakulaprasUtAH#}. <gr>b.</gr> {#upetya#} st. {#avApya#}.· 
+;-----------------
+113460 old <F4.1>-- 6501 . Ebend. 222.</F4> 
+113460 new <F4.1>-- 6501 . Ebend. 222.· 
+;-----------------
+113499 old <F4.1>-- 6503 . Ebend. 226. <i>b</i>, <gr>b.</gr> {#zUdrAtpratyaparo bhavet#}.</F4> 
+113499 new <F4.1>-- 6503 . Ebend. 226. <i>b</i>, <gr>b.</gr> {#zUdrAtpratyaparo bhavet#}.· 
+;-----------------
+113615 old <F4.1>-- 6509 , <i>a</i>. Eine Umstellung von 4536, <i>a</i>. Die ungeschickten Aenderungen sind zur Herstellung des Metrums vorgenommen worden.</F4> 
+113615 new <F4.1>-- 6509 , <i>a</i>. Eine Umstellung von 4536, <i>a</i>. Die ungeschickten Aenderungen sind zur Herstellung des Metrums vorgenommen worden.· 
+;-----------------
+113701 old <F4.2>-- 6514 . SABHA1TARAM3GA. <i>a</i>. {#zUrazca kRtavidyazca#}. <i>b</i>. {#yoSitaH#} st. {#yA striyaH#}. <i>d</i>. {#kRtAdarAH#}.</F4> 
+113701 new <F4.2>-- 6514 . SABHA1TARAM3GA. <i>a</i>. {#zUrazca kRtavidyazca#}. <i>b</i>. {#yoSitaH#} st. {#yA striyaH#}. <i>d</i>. {#kRtAdarAH#}.· 
+;-----------------
+113779 old <F4.1>-- 6518 , <i>b</i>, <gr>a.</gr> {#saubhAgya#} ist hier «eheliches Glück».</F4> 
+113779 new <F4.1>-- 6518 , <i>b</i>, <gr>a.</gr> {#saubhAgya#} ist hier «eheliches Glück».· 
+;-----------------
+113880 old <F4.2>-- 6522 . <i>b</i>. {#bhajantyazucayaH#}. <i>c</i>. {#kiM vAtaH paramucyate#}.</F4> 
+113880 new <F4.2>-- 6522 . <i>b</i>. {#bhajantyazucayaH#}. <i>c</i>. {#kiM vAtaH paramucyate#}.· 
+;-----------------
+114144 old <F4.1>-- 6538 , Note. Lies 2,8.</F4> 
+114144 new <F4.1>-- 6538 , Note. Lies 2,8.· 
+;-----------------
+114452 old <F4.1>-- 6558 , <i>a</i>, <gr>a.</gr> {#sumantra#} bedeutet «gute Pläne machend».</F4> 
+114452 new <F4.1>-- 6558 , <i>a</i>, <gr>a.</gr> {#sumantra#} bedeutet «gute Pläne machend».· 
+;-----------------
+114844 old <F4.1>-- 6581 , <i>b</i>, <gr>b.</gr> Besser {#skhalitamRdu vaco#}.</F4> 
+114844 new <F4.1>-- 6581 , <i>b</i>, <gr>b.</gr> Besser {#skhalitamRdu vaco#}.· 
+;-----------------
+114923 old <F4.2>-- 6586 . <i>c</i>. {#kAyaH khalu sajjanAnAM#}.</F4> 
+114923 new <F4.2>-- 6586 . <i>c</i>. {#kAyaH khalu sajjanAnAM#}.· 
+;-----------------
+115178 old <F4.2>-- 6599 . <i>b</i>. {#jarAparibhavasya yadeva puMsAm#}.</F4> 
+115178 new <F4.2>-- 6599 . <i>b</i>. {#jarAparibhavasya yadeva puMsAm#}.· 
+;-----------------
+115243 old <F4.2>-- 6603 . <i>c</i>. {#ca#} st. {#tu#}.</F4> 
+115243 new <F4.2>-- 6603 . <i>c</i>. {#ca#} st. {#tu#}.· 
+;-----------------
+115607 old <F4.2>-- 6627 . SABHA1TARAM3GA.</F4> 
+115607 new <F4.2>-- 6627 . SABHA1TARAM3GA.· 
+;-----------------
+115778 old <F4.2>-- 6636 . G4INADHARMAVIVEKA. <i>b</i>. {#hyamRtopame#}. <i>c</i>. {#subhASitarasAsvAdaH#}.</F4> 
+115778 new <F4.2>-- 6636 . G4INADHARMAVIVEKA. <i>b</i>. {#hyamRtopame#}. <i>c</i>. {#subhASitarasAsvAdaH#}.· 
+;-----------------
+115821 old <F4.1>-- 6638 . Lies in der Uebersetzung «Mittel» st. «Ursache».</F4> 
+115821 new <F4.1>-- 6638 . Lies in der Uebersetzung «Mittel» st. «Ursache».· 
+;-----------------
+115925 old <F4.2>-- 6643 . <i>a</i>. {#saMsAra tava niHsAraº#}.</F4> 
+115925 new <F4.2>-- 6643 . <i>a</i>. {#saMsAra tava niHsAra°#}.· 
+;-----------------
+116340 old <F4.2>-- 6668 . Lies: "Ich meine, die Armuth sei gar wohl ein neues, ein sechstes".</F4> 
+116340 new <F4.2>-- 6668 . Lies: "Ich meine, die Armuth sei gar wohl ein neues, ein sechstes".· 
+;-----------------
+116430 old <F4.1>-- 6673 , <i>b</i>, <gr>a.</gr> Vielleicht {#upasRpyatAM#} [Seite4.1-666] zu lesen.</F4> 
+116430 new <F4.1>-- 6673 , <i>b</i>, <gr>a.</gr> Vielleicht {#upasRpyatAM#} [Seite4.1-666] zu lesen.· 
+;-----------------
+117037 old <F4.1>-- 6712 . fg. Note. Lies 4, 34, 7 st. 4, 37, 7.</F4> 
+117037 new <F4.1>-- 6712 . fg. Note. Lies 4, 34, 7 st. 4, 37, 7.· 
+;-----------------
+117244 old <F4.1>-- 6724 . Auch bei WEBER, VAG4RAS. 221. <i>b</i>, <gr>a.</gr> {#sarvabhUte#}.</F4> 
+117244 new <F4.1>-- 6724 . Auch bei WEBER, VAG4RAS. 221. <i>b</i>, <gr>a.</gr> {#sarvabhUte#}.· 
+;-----------------
+117351 old <F4.1>-- 6731 . Ebend. <i>b</i>, <gr>a.</gr> {#sarvabhUte#}.</F4> 
+117351 new <F4.1>-- 6731 . Ebend. <i>b</i>, <gr>a.</gr> {#sarvabhUte#}.· 
+;-----------------
+117381 old <F4.1>-- 6733 . Auch KA1VJAPR. 115, 1. 2. <i>a</i>, <gr>a.</gr> Besser {#rAmAH#} st. {#kAmAH#}.</F4> 
+117381 new <F4.1>-- 6733 . Auch KA1VJAPR. 115, 1. 2. <i>a</i>, <gr>a.</gr> Besser {#rAmAH#} st. {#kAmAH#}.· 
+;-----------------
+117828 old <F4.2>-- 6759 . Lies in der letzten Zeile "Umfangen" st. "Umfange".</F4> 
+117828 new <F4.2>-- 6759 . Lies in der letzten Zeile "Umfangen" st. "Umfange".· 
+;-----------------
+118038 old <F4.1>-- 6773 , Note. Lies 17, 14.</F4> 
+118038 new <F4.1>-- 6773 , Note. Lies 17, 14.· 
+;-----------------
+118936 old <F4.2>-- 6824 . <i>c</i>. {#ºpathagatA#} zu lesen. <i>d</i>. Umgestellt {#hRdi na#}.</F4> 
+118936 new <F4.2>-- 6824 . <i>c</i>. {#°pathagatA#} zu lesen. <i>d</i>. Umgestellt {#hRdi na#}.· 
+;-----------------
+118938 old <F4.1>-- 6824 . Auch BA1N2ABHAT2T2A zugeschrieben; s. AUFRECHT a. a. O. 54.</F4> 
+118938 new <F4.1>-- 6824 . Auch BA1N2ABHAT2T2A zugeschrieben; s. AUFRECHT a. a. O. 54.· 
+;-----------------
+119053 old <F4.2>-- 6831 . <i>b</i>. {#pUryamANAnyanekazaH#}.</F4> 
+119053 new <F4.2>-- 6831 . <i>b</i>. {#pUryamANAnyanekazaH#}.· 
+;-----------------
+119144 old <F4.1>-- 6837 , Note. Lies 3, 56, 27 st. 3, 51, 27.</F4> 
+119144 new <F4.1>-- 6837 , Note. Lies 3, 56, 27 st. 3, 51, 27.· 
+;-----------------
+119561 old <F4.2>-- 6861 . <i>d</i>. {#alaktaka#} ist hier "ein mit Lack durchtränktes Bällchen Baumwolle".</F4> 
+119561 new <F4.2>-- 6861 . <i>d</i>. {#alaktaka#} ist hier "ein mit Lack durchtränktes Bällchen Baumwolle".· 
+;-----------------
+119629 old <F4.2>-- 6865 . <i>b</i>. {#parAnno hanti#}. <i>c</i>. {#vidhvaMsitAº#}.</F4> 
+119629 new <F4.2>-- 6865 . <i>b</i>. {#parAnno hanti#}. <i>c</i>. {#vidhvaMsitA°#}.· 
+;-----------------
+120119 old <F4.1>-- 6896 . Auch im Comm. zu DAS4AR. 93.</F4> 
+120119 new <F4.1>-- 6896 . Auch im Comm. zu DAS4AR. 93.· 
+;-----------------
+120196 old <F4.2>-- 6899 . S4A1RN3GADHARA. {%c. d.%} {#mantreNazAmyate sarpo na khalaH zAmyate kadA#}.</F4> 
+120196 new <F4.2>-- 6899 . S4A1RN3GADHARA. {%c. d.%} {#mantreNazAmyate sarpo na khalaH zAmyate kadA#}.· 
+;-----------------
+120514 old <F4.2>-- 6919 . SPRUT2AS4LOKA. <i>c</i>. {#saMtyaktaº#}. <i>d</i>. {#saMprati jayatyekaiva#}.</F4> 
+120514 new <F4.2>-- 6919 . SPRUT2AS4LOKA. <i>c</i>. {#saMtyakta°#}. <i>d</i>. {#saMprati jayatyekaiva#}.· 
+;-----------------
+120541 old <F4.1>-- 6921 , <i>a</i>, <gr>b.</gr> {#mAdhyastha#} fasst FRITZE hier sehr passend als «das Maasshalten». Hiernach könnte man {#dRzyatAM#} vermuthen.</F4> 
+120541 new <F4.1>-- 6921 , <i>a</i>, <gr>b.</gr> {#mAdhyastha#} fasst FRITZE hier sehr passend als «das Maasshalten». Hiernach könnte man {#dRzyatAM#} vermuthen.· 
+;-----------------
+120575 old <F4.2>-- 6923 . <i>b</i>. {#janaiH#} st. {#budhaiH#}.</F4> 
+120575 new <F4.2>-- 6923 . <i>b</i>. {#janaiH#} st. {#budhaiH#}.· 
+;-----------------
+120687 old <F4.2>-- 6929 . PRASAN3GAR. <i>b</i>. {#hyardhaM#}. <i>d</i>. {#na jAyate#} st. {#hi duHº#}.</F4> 
+120687 new <F4.2>-- 6929 . PRASAN3GAR. <i>b</i>. {#hyardhaM#}. <i>d</i>. {#na jAyate#} st. {#hi duH°#}.· 
+;-----------------
+120891 old <F4.1>-- 6943 = MBH. 13, 1664. <i>a</i>, <gr>a.</gr> {#nivRttAzca#} beide Ausgg. <gr>b.</gr> {#sarvasahAzca#} ed. Bomb.</F4> 
+120891 new <F4.1>-- 6943 = MBH. 13, 1664. <i>a</i>, <gr>a.</gr> {#nivRttAzca#} beide Ausgg. <gr>b.</gr> {#sarvasahAzca#} ed. Bomb.· 
+;-----------------
+121036 old <F4.2>-- 6952 . Lies: "dürfen die trauen, die das Vertrauen Anderer missbrauchten". FRITZE.</F4> 
+121036 new <F4.2>-- 6952 . Lies: "dürfen die trauen, die das Vertrauen Anderer missbrauchten". FRITZE.· 
+;-----------------
+121263 old <F4.1>-- 6965 . Auch KAPILARUDRA zugeschrieben; s. AUFRECHT a. a. O. 14.</F4> 
+121263 new <F4.1>-- 6965 . Auch KAPILARUDRA zugeschrieben; s. AUFRECHT a. a. O. 14.· 
+;-----------------
+121348 old <F4.1>-- 6970 = KIRA1TA1RG4. 2, 30. Auch im Comm. zu DAS4AR. 4, 25. <i>b</i>, <gr>a.</gr> {#vRNute#} an beiden Stellen.</F4> 
+121348 new <F4.1>-- 6970 = KIRA1TA1RG4. 2, 30. Auch im Comm. zu DAS4AR. 4, 25. <i>b</i>, <gr>a.</gr> {#vRNute#} an beiden Stellen.· 
+;-----------------
+121446 old <F4.2>-- 6977 . <i>d</i>. {#projktituM#}.</F4> 
+121446 new <F4.2>-- 6977 . <i>d</i>. {#projktituM#}.· 
+;-----------------
+121465 old <F4.2>-- 6978 . <i>d</i>. {#zakSyati#} [Seite4.2-216] st. {#pazyati#}.</F4> 
+121465 new <F4.2>-- 6978 . <i>d</i>. {#zakSyati#} [Seite4.2-216] st. {#pazyati#}.· 
+;-----------------
+121629 old <F4.2>-- 6988 . PRASAN3GAR. <i>c</i>. {#zuSkApi hi nadI mArge#}.</F4> 
+121629 new <F4.2>-- 6988 . PRASAN3GAR. <i>c</i>. {#zuSkApi hi nadI mArge#}.· 
+;-----------------
+121675 old <F4.1>-- 6991 , Note, Z. 2. Lies <i>b</i>. st. <i>c</i>.</F4> 
+121675 new <F4.1>-- 6991 , Note, Z. 2. Lies <i>b</i>. st. <i>c</i>.· 
+;-----------------
+121815 old <F4.2>-- 6998 . BHARTR2HARI. <i>a</i>. {#sutAzca, na durbhASiNI#}. <i>b</i>. {#sanmitraM sadhanaM#} st. {#icchAº, ratizcAjJAº#}. <i>c</i>. {#ºpAnaM#}. <i>d</i>. {#hi#} st. {#ca#}.</F4> 
+121815 new <F4.2>-- 6998 . BHARTR2HARI. <i>a</i>. {#sutAzca, na durbhASiNI#}. <i>b</i>. {#sanmitraM sadhanaM#} st. {#icchA°, ratizcAjJA°#}. <i>c</i>. {#°pAnaM#}. <i>d</i>. {#hi#} st. {#ca#}.· 
+;-----------------
+121898 old <F4.1>-- 7002 . Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 4, 3, 12. <i>b</i>, <gr>b.</gr> {#anyajJanAzrayair#}.</F4> 
+121898 new <F4.1>-- 7002 . Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 4, 3, 12. <i>b</i>, <gr>b.</gr> {#anyajJanAzrayair#}.· 
+;-----------------
+122245 old <F4.1>-- 7023 . Auch BHAT2T2A INDURA1G4A zugeschrieben; s. AUFRECHT a. a. O. 11.</F4> 
+122245 new <F4.1>-- 7023 . Auch BHAT2T2A INDURA1G4A zugeschrieben; s. AUFRECHT a. a. O. 11.· 
+;-----------------
+122339 old <F4.1>-- 7028 . Von RUDRAT2A; s. AUFRECHT a. a. O. 81.</F4> 
+122339 new <F4.1>-- 7028 . Von RUDRAT2A; s. AUFRECHT a. a. O. 81.· 
+;-----------------
+122490 old <F4.1>-- 7036 und 7037 sind umzustellen.</F4> 
+122490 new <F4.1>-- 7036 und 7037 sind umzustellen.· 
+;-----------------
+122809 old <F4.2>-- 7052 . (64, 3). <i>c</i>. {#maitrI#} st. {#toSaH, vairaM#} st. {#roSaH#}. <i>d</i>. {#kalikautukAni#}.</F4> 
+122809 new <F4.2>-- 7052 . (64, 3). <i>c</i>. {#maitrI#} st. {#toSaH, vairaM#} st. {#roSaH#}. <i>d</i>. {#kalikautukAni#}.· 
+;-----------------
+123186 old <F4.1>-- 7075 müsste nach 7077 stehen.</F4> 
+123186 new <F4.1>-- 7075 müsste nach 7077 stehen.· 
+;-----------------
+123298 old <F4.2>-- 7082 . KALPATARU. <i>a</i>. {#na ko 'pi dAtA#}. <i>b</i>. {#eSA#} st. {#eva sA#}. {%c. d.%} {#ahaM karomIti vRthAbhimAnaH svakarmasUtragrathito hi lokaH#}.</F4> 
+123298 new <F4.2>-- 7082 . KALPATARU. <i>a</i>. {#na ko 'pi dAtA#}. <i>b</i>. {#eSA#} st. {#eva sA#}. {%c. d.%} {#ahaM karomIti vRthAbhimAnaH svakarmasUtragrathito hi lokaH#}.· 
+;-----------------
+123588 old <F4.2>-- 7098 . S4A1RN3GADHARA. <i>b</i>. {#cAruvaMzasamudbhavam#}. {%c. d.%} {#AtmAnaM ca paribhrAmya paratApanivAraNam#}.</F4> 
+123588 new <F4.2>-- 7098 . S4A1RN3GADHARA. <i>b</i>. {#cAruvaMzasamudbhavam#}. {%c. d.%} {#AtmAnaM ca paribhrAmya paratApanivAraNam#}.· 
+;-----------------
+123609 old <F4.2>-- 7099 . <i>b</i>. {#parahitakArye viº#}.</F4> 
+123609 new <F4.2>-- 7099 . <i>b</i>. {#parahitakArye vi°#}.· 
+;-----------------
+123611 old <F4.1>-- 7099 . RAVIGUPTA zugeschrieben; s. AUFRECHT a. a. O. 76.</F4> 
+123611 new <F4.1>-- 7099 . RAVIGUPTA zugeschrieben; s. AUFRECHT a. a. O. 76.· 
+;-----------------
+123667 old <F4.2>-- 7102 . <i>a</i>. {#maunaM#} st. {#kopaM#}.</F4> 
+123667 new <F4.2>-- 7102 . <i>a</i>. {#maunaM#} st. {#kopaM#}.· 
+;-----------------
+123897 old <F4.2>-- 7114 . <i>a</i>. {#subhASitamayadravyasaMgrahaM#}. <i>c</i>. {#prastAvayajJe saMprApte#}.</F4> 
+123897 new <F4.2>-- 7114 . <i>a</i>. {#subhASitamayadravyasaMgrahaM#}. <i>c</i>. {#prastAvayajJe saMprApte#}.· 
+;-----------------
+123920 old <F4.2>-- 7115 . G4INADHARMAVIVEKA. <i>d</i>. {#kavayaH sukhamAsate#}.</F4> 
+123920 new <F4.2>-- 7115 . G4INADHARMAVIVEKA. <i>d</i>. {#kavayaH sukhamAsate#}.· 
+;-----------------
+123936 old <F4.2>-- 7116 . G4INADHARMAVIVEKA. <i>d</i>. {#hyatha vA#}.</F4> 
+123936 new <F4.2>-- 7116 . G4INADHARMAVIVEKA. <i>d</i>. {#hyatha vA#}.· 
+;-----------------
+124168 old <F4.1>-- 7130 , Note. Lies HAEB.</F4> 
+124168 new <F4.1>-- 7130 , Note. Lies HAEB.· 
+;-----------------
+124242 old <F4.1>-- 7134 . Statt des zweiten 7134 ist 7135 zu lesen.</F4> 
+124242 new <F4.1>-- 7134 . Statt des zweiten 7134 ist 7135 zu lesen.· 
+;-----------------
+124482 old <F4.2>-- 7150 . <i>d</i>. {#janaH#} nach {#duHkhaM#} eingeschaltet.</F4> 
+124482 new <F4.2>-- 7150 . <i>d</i>. {#janaH#} nach {#duHkhaM#} eingeschaltet.· 
+;-----------------
+124806 old <F4.2>-- 7169 . <i>c</i>. {#svAyattatvaM zarIrasya#}.</F4> 
+124806 new <F4.2>-- 7169 . <i>c</i>. {#svAyattatvaM zarIrasya#}.· 
+;-----------------
+124824 old <F4.2>-- 7170 . KALPATARU. {%a. b.%} {#ºvRttiryairuktA na taiH samyagudAhRtam |#} {%c. d.%} {#svacchandacArI kutra zvA vikrItAsuH kva sevakaH ||#}</F4> 
+124824 new <F4.2>-- 7170 . KALPATARU. {%a. b.%} {#°vRttiryairuktA na taiH samyagudAhRtam |#} {%c. d.%} {#svacchandacArI kutra zvA vikrItAsuH kva sevakaH ||#}· 
+;-----------------
+124980 old <F4.2>-- 7178 . DHANAM3G4AJAVJA1JOGA. <i>a</i>. {#vIra#}. <i>b</i>. {#nijaguNAlApe ca maunaº#}. <i>c</i>. {#aviluptavIryanicayAH#}. <i>d</i>. {#ºviSajvAlAtatAH#}.</F4> 
+124980 new <F4.2>-- 7178 . DHANAM3G4AJAVJA1JOGA. <i>a</i>. {#vIra#}. <i>b</i>. {#nijaguNAlApe ca mauna°#}. <i>c</i>. {#aviluptavIryanicayAH#}. <i>d</i>. {#°viSajvAlAtatAH#}.· 
+;-----------------
+125349 old <F4.2>-- 7200 . <i>b</i>. {#svAsthyaM#} st. {#satyaM, saMhatirasadvRttezca vAº#}. <i>c</i>. {#sadarcanaM#} st. {#manodamaH#}. <i>d</i>. {#prajJAyA#} st. {#sevAyA, natitatiH#} st. {#guNacayaH#}.</F4> 
+125349 new <F4.2>-- 7200 . <i>b</i>. {#svAsthyaM#} st. {#satyaM, saMhatirasadvRttezca vA°#}. <i>c</i>. {#sadarcanaM#} st. {#manodamaH#}. <i>d</i>. {#prajJAyA#} st. {#sevAyA, natitatiH#} st. {#guNacayaH#}.· 
+;-----------------
+125717 old <F4.1>-- 7223 . Vgl. folgende Sprüche aus GA1RUD2A-P. im S4KDR. (unter {#sthAnabhraSTa#} und {#sthAnacyuta#}): {#sthAnasthitAni pUjyante pUjyante ca padasthitAH | sthAnabhraSTA na pUjyante kezA dantA nakhA narAH || sthAnasthitasya padmasya mitrau varuNabhAskarau | sthAnacyutasya tasyaiva kledazoSaNakArakau ||#}</F4> 
+125717 new <F4.1>-- 7223 . Vgl. folgende Sprüche aus GA1RUD2A-P. im S4KDR. (unter {#sthAnabhraSTa#} und {#sthAnacyuta#}): {#sthAnasthitAni pUjyante pUjyante ca padasthitAH | sthAnabhraSTA na pUjyante kezA dantA nakhA narAH || sthAnasthitasya padmasya mitrau varuNabhAskarau | sthAnacyutasya tasyaiva kledazoSaNakArakau ||#}· 
+;-----------------
+125787 old <F4.2>-- 7226 . <i>a</i>. {#ºkaNAMzcAº#}. <i>b</i>. {#laGgAlAdyair#}.</F4> 
+125787 new <F4.2>-- 7226 . <i>a</i>. {#°kaNAMzcA°#}. <i>b</i>. {#laGgAlAdyair#}.· 
+;-----------------
+125903 old <F4.2>-- 7232 . <i>b</i>. {#ºbuddhyA na bAdhate#}.</F4> 
+125903 new <F4.2>-- 7232 . <i>b</i>. {#°buddhyA na bAdhate#}.· 
+;-----------------
+125930 old <F4.2>-- 7233 . <i>a</i>. {#kAsAzruº#}.</F4> 
+125930 new <F4.2>-- 7233 . <i>a</i>. {#kAsAzru°#}.· 
+;-----------------
+126172 old <F4.2>-- 7247 . S4A1RN3GADHARA. {%c. d.%} vor {%a. b. b.%} {#asti tadeva#} st. {#etadihAsya#}. <i>d</i>. {#ºkuceSu viluNThanam#}.</F4> 
+126172 new <F4.2>-- 7247 . S4A1RN3GADHARA. {%c. d.%} vor {%a. b. b.%} {#asti tadeva#} st. {#etadihAsya#}. <i>d</i>. {#°kuceSu viluNThanam#}.· 
+;-----------------
+126285 old <F4.2>-- 7253 . Füge "ohne Unterlage" vor "festsitzt" hinzu.</F4> 
+126285 new <F4.2>-- 7253 . Füge "ohne Unterlage" vor "festsitzt" hinzu.· 
+;-----------------
+126642 old <F4.1>-- 7272 , <i>a</i>, <gr>a.</gr> Trenne {#saumya#} (Voc.) {#jJalAzayAH#}.</F4> 
+126642 new <F4.1>-- 7272 , <i>a</i>, <gr>a.</gr> Trenne {#saumya#} (Voc.) {#jJalAzayAH#}.· 
+;-----------------
+126923 old <F4.2>-- 7289 . S4A1RN3GADHARA.</F4> 
+126923 new <F4.2>-- 7289 . S4A1RN3GADHARA.· 
+;-----------------
+127074 old <F4.2>-- 7299 . <i>a</i>. {#sadbhAvena jayenmitraM#}.</F4> 
+127074 new <F4.2>-- 7299 . <i>a</i>. {#sadbhAvena jayenmitraM#}.· 
+;-----------------
+127189 old <F4.1>-- 7307 , <i>a</i>, <gr>a.</gr> Verbinde {#svayaMguNaº#}.</F4> 
+127189 new <F4.1>-- 7307 , <i>a</i>, <gr>a.</gr> Verbinde {#svayaMguNa°#}.· 
+;-----------------
+127269 old <F4.1>-- 7313 . Vgl. einen ähnlichen Spruch bei AUFRECHT a. a. O. 89 ({#vepathurmalinaM#} u.s.w.).</F4> 
+127269 new <F4.1>-- 7313 . Vgl. einen ähnlichen Spruch bei AUFRECHT a. a. O. 89 ({#vepathurmalinaM#} u.s.w.).· 
+;-----------------
+127534 old <F4.1>-- 7328 . Auch im Comm. zu DAS4AR. 66. <i>b</i>, <gr>b.</gr> {#chAyayopAzritAnAm#}.</F4> 
+127534 new <F4.1>-- 7328 . Auch im Comm. zu DAS4AR. 66. <i>b</i>, <gr>b.</gr> {#chAyayopAzritAnAm#}.· 
+;-----------------
+127611 old <F4.2>-- 7332 . Füge "allmählich" nach "gehen" hinzu.</F4> 
+127611 new <F4.2>-- 7332 . Füge "allmählich" nach "gehen" hinzu.· 
+;-----------------
+127687 old <F4.2>-- 7336 . Nur die Indischen Sprüche als Quelle citirt und dennoch in <i>d</i>. {#IpsitaM#} st. {#IrSyitaM#} gesetzt.</F4> 
+127687 new <F4.2>-- 7336 . Nur die Indischen Sprüche als Quelle citirt und dennoch in <i>d</i>. {#IpsitaM#} st. {#IrSyitaM#} gesetzt.· 
+;-----------------
+127720 old <F4.1>-- 7337 , Note, Z. 1. Lies HAEB.</F4> 
+127720 new <F4.1>-- 7337 , Note, Z. 1. Lies HAEB.· 
+;-----------------
+128063 old <F4.1>-- 7357 . Auch im Comm. zu DAS4AR. 121.</F4> 
+128063 new <F4.1>-- 7357 . Auch im Comm. zu DAS4AR. 121.· 
+;-----------------
+128103 old <F4.2>-- 7359 . <i>c</i>. {#uttamapuSpaº, mithyonnate#}.</F4> 
+128103 new <F4.2>-- 7359 . <i>c</i>. {#uttamapuSpa°, mithyonnate#}.· 
+;-----------------
+128124 old <F4.2>-- 7360 . Füge "der Pfau seinen Tanz" nach "Gesang" hinzu.</F4> 
+128124 new <F4.2>-- 7360 . Füge "der Pfau seinen Tanz" nach "Gesang" hinzu.· 
+;-----------------
+128403 old <F4.1>-- 7375 , Note. Lies 13, 2238.</F4> 
+128403 new <F4.1>-- 7375 , Note. Lies 13, 2238.· 
+;-----------------
+128493 old <F4.2>-- 7380 . <i>b</i>. und <i>c</i>. wechseln die Stellen. <i>b</i>. {#vinazyati#}. <i>c</i>. {#zailamAtraH paviH#}.</F4> 
+128493 new <F4.2>-- 7380 . <i>b</i>. und <i>c</i>. wechseln die Stellen. <i>b</i>. {#vinazyati#}. <i>c</i>. {#zailamAtraH paviH#}.· 
+;-----------------
+128542 old <F4.1>-- 7382 . Lies in der Uebersetzung «der Beredsamkeit» st. «beredten Leuten».</F4> 
+128542 new <F4.1>-- 7382 . Lies in der Uebersetzung «der Beredsamkeit» st. «beredten Leuten».· 
+;-----------------
+128727 old <F4.1>-- 7394 , <i>a</i>, <gr>b.</gr> Wohl {#pAriNAmikam#} zu lesen.</F4> 
+128727 new <F4.1>-- 7394 , <i>a</i>, <gr>b.</gr> Wohl {#pAriNAmikam#} zu lesen.· 
+;-----------------
+129194 old <F4.2>-- 7420 . SPHUT2AS4LOKA. <i>a</i>. {#ºcapale mUDhe ca pApe 'dhame#}. <i>b</i>. {#na tvaM cottamapAtramicchasi, duzcAriNi#}. <i>c</i>. {#ye devArcanasatyazaucaniratA ye cApi dharme ratAs#}. <i>d</i>. {#tebhyo laº nirdaye gatamatirnIco#}.</F4> 
+129194 new <F4.2>-- 7420 . SPHUT2AS4LOKA. <i>a</i>. {#°capale mUDhe ca pApe 'dhame#}. <i>b</i>. {#na tvaM cottamapAtramicchasi, duzcAriNi#}. <i>c</i>. {#ye devArcanasatyazaucaniratA ye cApi dharme ratAs#}. <i>d</i>. {#tebhyo la° nirdaye gatamatirnIco#}.· 
+;-----------------
+129362 old <F4.2>-- 7431 . <i>a</i>. {#plavante#}.</F4> 
+129362 new <F4.2>-- 7431 . <i>a</i>. {#plavante#}.· 
+;-----------------
+129447 old <F4.1>-- 7436 . Lies in der Uebersetzung «Mittel» st. «Hauptursachen».</F4> 
+129447 new <F4.1>-- 7436 . Lies in der Uebersetzung «Mittel» st. «Hauptursachen».· 
+;-----------------
+129491 old <F4.1>-- 7439 , <i>a</i>, <gr>b.</gr> {#bhUyaH#} ist, wie KLATT bemerkt, metrisch falsch. {#bhayam#} wird wohl richtig sein und der Fehler in {#bhetavyaM (kartavyaM ?)#} stecken. <i>b</i>. KLATT will {#ºzekharo meruH pAtitaH#} lesen.</F4> 
+129491 new <F4.1>-- 7439 , <i>a</i>, <gr>b.</gr> {#bhUyaH#} ist, wie KLATT bemerkt, metrisch falsch. {#bhayam#} wird wohl richtig sein und der Fehler in {#bhetavyaM (kartavyaM ?)#} stecken. <i>b</i>. KLATT will {#°zekharo meruH pAtitaH#} lesen.· 
+;-----------------
+129924 old <F4.2>-- 7467 . KALPATARU. <i>d</i>. {#kaTukenaiva zAmyati#}.</F4> 
+129924 new <F4.2>-- 7467 . KALPATARU. <i>d</i>. {#kaTukenaiva zAmyati#}.· 
+;-----------------
+129966 old <F4.1>-- 7469 , <i>b</i>, <gr>a.</gr> {#jighAMsantaM jighAMsIyAnna#} u.s.w. MBH. 12, 1224, <i>b</i>.</F4> 
+129966 new <F4.1>-- 7469 , <i>b</i>, <gr>a.</gr> {#jighAMsantaM jighAMsIyAnna#} u.s.w. MBH. 12, 1224, <i>b</i>.· 
+;-----------------
+130012 old <F4.2>-- 7472 . KALPATARU. <i>a</i>. {#sukhAyaiva#}. <i>d</i>. {#pralayAvahA#}.</F4> 
+130012 new <F4.2>-- 7472 . KALPATARU. <i>a</i>. {#sukhAyaiva#}. <i>d</i>. {#pralayAvahA#}.· 
+;-----------------
+130146 old <F4.2>-- 7480 . S4A1RN3GADHARA. {%c. d.%} {#kUjitaM bhavati mAnadhanAyA hUM hu hUM hu hu hu hUM hu hu hUM hUm ||#}</F4> 
+130146 new <F4.2>-- 7480 . S4A1RN3GADHARA. {%c. d.%} {#kUjitaM bhavati mAnadhanAyA hUM hu hUM hu hu hu hUM hu hu hUM hUm ||#}· 
+;-----------------
+130148 old <F4.1>-- 7480 . Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.</F4> 
+130148 new <F4.1>-- 7480 . Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.· 
+;-----------------
+130331 old <F4.1>-- 7493 , Note, Z. 3. Lies {#zUdro#} st. {#zUro#}.</F4> 
+130331 new <F4.1>-- 7493 , Note, Z. 3. Lies {#zUdro#} st. {#zUro#}.· 
+;-----------------
+130386 old <F4.1>-- 7496 , <i>a</i>, <gr>b.</gr> Der metrische Fehler, auf den mich KLATT aufmerksam macht, würde verschwinden, wenn man {#cAmitraº#} lesen wollte. KLATT möchte mit der einen Hdschr. {#kAle mitre ca#} lesen.</F4> 
+130386 new <F4.1>-- 7496 , <i>a</i>, <gr>b.</gr> Der metrische Fehler, auf den mich KLATT aufmerksam macht, würde verschwinden, wenn man {#cAmitra°#} lesen wollte. KLATT möchte mit der einen Hdschr. {#kAle mitre ca#} lesen.· 
+;-----------------
+130465 old <F4.2>-- 7500 . <i>d</i>. {#kSobhAmoTanaº#}.</F4> 
+130465 new <F4.2>-- 7500 . <i>d</i>. {#kSobhAmoTana°#}.· 
+;-----------------
+130482 old <F4.1>-- 7501 . Wird in S4A1RN3G. PADDH. dem BHOG4ARA1G4A zugeschrieben; vgl. [Seite4.1-667] AUFRECHT a. a. O. 67. <i>b</i>, <gr>b.</gr> Lies {#bhavAdRzAH#}.</F4> 
+130482 new <F4.1>-- 7501 . Wird in S4A1RN3G. PADDH. dem BHOG4ARA1G4A zugeschrieben; vgl. [Seite4.1-667] AUFRECHT a. a. O. 67. <i>b</i>, <gr>b.</gr> Lies {#bhavAdRzAH#}.· 
+;-----------------
+130912 old <F4.1>-- 7527 , <i>b</i>, <gr>b.</gr> {#sitAbhrazakala#} ist hier «ein Stück Kampher».</F4> 
+130912 new <F4.1>-- 7527 , <i>b</i>, <gr>b.</gr> {#sitAbhrazakala#} ist hier «ein Stück Kampher».· 
+;-----------------
+131130 old <F4.2>-- 7541 . Füge "ohne Schamgefühl" [Seite4.2-217] nach "Frau" hinzu.</F4> 
+131130 new <F4.2>-- 7541 . Füge "ohne Schamgefühl" [Seite4.2-217] nach "Frau" hinzu.· 
+;-----------------
+131155 old <F4.2>-- 7543 . {%a. b.%} {#prathamaM vande sajjanaM#}. {%c. d.%} {#mukhaprakSAlanAtpUrvaM gudapraº#}. Bei mir ist in <i>c</i>. {#pAdaº#} zu lesen.</F4> 
+131155 new <F4.2>-- 7543 . {%a. b.%} {#prathamaM vande sajjanaM#}. {%c. d.%} {#mukhaprakSAlanAtpUrvaM gudapra°#}. Bei mir ist in <i>c</i>. {#pAda°#} zu lesen.· 
+;-----------------
+131473 old <F4.1>-- 7564 . Nach KLATT eine Variante von Spr. 271 der Berliner Hdschrr. des CA1N2AKJA.</F4> 
+131473 new <F4.1>-- 7564 . Nach KLATT eine Variante von Spr. 271 der Berliner Hdschrr. des CA1N2AKJA.· 
+;-----------------
+131504 old <F4.1>-- 7566 , Note, Z. 2. Lies <i>c</i>. st. <i>b</i>. An diesen Spruch schliesst sich nach KLATT als nähere Erklärung Spr. 51 der Berliner Hdschrr. des CA1NAKJA an.</F4> 
+131504 new <F4.1>-- 7566 , Note, Z. 2. Lies <i>c</i>. st. <i>b</i>. An diesen Spruch schliesst sich nach KLATT als nähere Erklärung Spr. 51 der Berliner Hdschrr. des CA1NAKJA an.· 
+;-----------------
+131567 old <F4.1>-- 7570 . In der hierauf folgenden Zeile ist {#nAdharmaH kAraNApekSIM#} zu lesen.</F4> 
+131567 new <F4.1>-- 7570 . In der hierauf folgenden Zeile ist {#nAdharmaH kAraNApekSIM#} zu lesen.· 
+;-----------------
+131634 old <F4.1>-- 7575 . Lies in der Uebersetzung «Ohne Dorf keine Markung».</F4> 
+131634 new <F4.1>-- 7575 . Lies in der Uebersetzung «Ohne Dorf keine Markung».· 
+;-----------------
+131682 old <F4.1>-- 7578 , <i>b</i>. Die Hdschrr. lesen nach KLATT {#raticAture#} und {#ratIcAtula#}.</F4> 
+131682 new <F4.1>-- 7578 , <i>b</i>. Die Hdschrr. lesen nach KLATT {#raticAture#} und {#ratIcAtula#}.· 
+;-----------------
+131815 old <F4.2>-- 7586 . Zu vergleichen aus S4A1RN3GADHARA'S PADDH.: {#paropadezavelAyAM ziSTAH sarve bhavanti vai | vismarantIha ziSTatvaM svakArye samupasthite ||#}</F4> 
+131815 new <F4.2>-- 7586 . Zu vergleichen aus S4A1RN3GADHARA'S PADDH.: {#paropadezavelAyAM ziSTAH sarve bhavanti vai | vismarantIha ziSTatvaM svakArye samupasthite ||#}· 
+;-----------------
+131857 old <F4.2>-- 7589 . Vgl. aus KALPATARU: {#putrapautravadhUbhRtyaiH saMpUrNamapi sarvadA | bhAryAhInagRhasthasya zUnyameva gRhaM matam ||#}</F4> 
+131857 new <F4.2>-- 7589 . Vgl. aus KALPATARU: {#putrapautravadhUbhRtyaiH saMpUrNamapi sarvadA | bhAryAhInagRhasthasya zUnyameva gRhaM matam ||#}· 
+;-----------------
+131965 old <F4.1>-- 7595 . Wird BHOG4ARA1G4A zugeschrieben; s. AUFRECHT a. a. O. 68.</F4> 
+131965 new <F4.1>-- 7595 . Wird BHOG4ARA1G4A zugeschrieben; s. AUFRECHT a. a. O. 68.· 
+;-----------------
+132185 old <F4.1>-- 7609 , Note. Lies BAHUDARS4ANA.</F4> 
+132185 new <F4.1>-- 7609 , Note. Lies BAHUDARS4ANA.· 
+;-----------------
+132305 old <l>dhArAbhiruSNamabhiSiJcati hRtpradezam || 7619 ||</l></lg></p>· 
+132305 new <l>dhArAbhiruSNamabhiSiJcati hRtpradezam || 7619 ||</l></lg>· 
+;-----------------
+132370 old <l>zirasi pratibhAti cAruveNI kathameNInayanA na tIrtharAjaH || 7628 ||</l></lg></p>· 
+132370 new <l>zirasi pratibhAti cAruveNI kathameNInayanA na tIrtharAjaH || 7628 ||</l></lg>· 
+;-----------------
+132430 old <l>pItvA viSamapi zaMbhurmRtyuMjayatAmavApa tatkAlam || 7636 ||</l></lg></p>· 
+132430 new <l>pItvA viSamapi zaMbhurmRtyuMjayatAmavApa tatkAlam || 7636 ||</l></lg>· 
+;-----------------
+132493 old <l>sarvAnandinyaGgake kAminInAmIrmaM mArgatyeSa vai bambharAliH || 7645 ||</l></lg></p>· 
+132493 new <l>sarvAnandinyaGgake kAminInAmIrmaM mArgatyeSa vai bambharAliH || 7645 ||</l></lg>· 
+;-----------------
+132560 old <l>upakAriSu yaH sAdhuH sAdhutve tasya kaH guNaH || 7654 ||</l></lg></p>· 
+132560 new <l>upakAriSu yaH sAdhuH sAdhutve tasya kaH guNaH || 7654 ||</l></lg>· 
+;-----------------
+132627 old <l>sukhAnyapi tathAyAnti daivamatrAtiricyate || 7663 ||</l></lg></p>· 
+132627 new <l>sukhAnyapi tathAyAnti daivamatrAtiricyate || 7663 ||</l></lg>· 
+;-----------------
+132668 old <F>7668) SPHUT2AS4LOKA. <i>c</i>. {#sakala#} st. {#nikhila#} v. l.<h3>{#amuM kAlakSepaM#} u.s.w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5.<br/>In <i>d</i>. ist bei AUFRECHT zu lesen: {#°jvAlAvalijaTila°#}.</p>· 
+132668 new <F>7668) SPHUT2AS4LOKA. <i>c</i>. {#sakala#} st. {#nikhila#} v. l.<h3>{#amuM kAlakSepaM#} u.s.w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5.<br/>In <i>d</i>. ist bei AUFRECHT zu lesen: {#°jvAlAvalijaTila°#}.· 
+;-----------------
+132688 old <l>abdhirapi potalaGghyaH satAM manaH kena tulyaM syAt || 7671 ||</l></lg></p>· 
+132688 new <l>abdhirapi potalaGghyaH satAM manaH kena tulyaM syAt || 7671 ||</l></lg>· 
+;-----------------
+132748 old <l>iha na pazyasi dAraya mAraya grasa pibeti zukAnapi jalpataH || 7679 ||</l></lg></p>· 
+132748 new <l>iha na pazyasi dAraya mAraya grasa pibeti zukAnapi jalpataH || 7679 ||</l></lg>· 
+;-----------------
+132796 old <l>tadantaHzalyaM me svamiva punaruddhartumucitaH || 7685 ||</l></lg></p>· 
+132796 new <l>tadantaHzalyaM me svamiva punaruddhartumucitaH || 7685 ||</l></lg>· 
+;-----------------
+132816 old <F>7687) SPHUT2AS4LOKA.<h3>{#arthA na santi#} u.s.w. herausgegeben von AUFRECHT a. a. O. S. 73.<br/><i>b</i>. {#dAtA na saMkucita°#} st. {#tyAgAnna saMkucati#}.</p>· 
+132816 new <F>7687) SPHUT2AS4LOKA.<h3>{#arthA na santi#} u.s.w. herausgegeben von AUFRECHT a. a. O. S. 73.<br/><i>b</i>. {#dAtA na saMkucita°#} st. {#tyAgAnna saMkucati#}.· 
+;-----------------
+132836 old <l>pazcAdyAmItyukte kRpaNaH praNato 'JjaliM kurute || 7690 ||</l></lg></p>· 
+132836 new <l>pazcAdyAmItyukte kRpaNaH praNato 'JjaliM kurute || 7690 ||</l></lg>· 
+;-----------------
+132851 old <l>bahu vacanamalpasAraM yaH kathayati vipralApI saH || 7692 ||</l></lg></p>· 
+132851 new <l>bahu vacanamalpasAraM yaH kathayati vipralApI saH || 7692 ||</l></lg>· 
+;-----------------
+132916 old <l>mupAyo nAstyanyastava hRdayadAhopazamane || 7701 ||</l></lg></p>· 
+132916 new <l>mupAyo nAstyanyastava hRdayadAhopazamane || 7701 ||</l></lg>· 
+;-----------------
+132973 old <l>ye svalpapIDanavazAnna vayaM tilAste || 7708 ||</l></lg></p>· 
+132973 new <l>ye svalpapIDanavazAnna vayaM tilAste || 7708 ||</l></lg>· 
+;-----------------
+133107 old <l>tathA cedvizvakartAraM ko na mucyeta bandhanAt || 7726 ||</l></lg></p>· 
+133107 new <l>tathA cedvizvakartAraM ko na mucyeta bandhanAt || 7726 ||</l></lg>· 
+;-----------------
+133169 old <l>mIno nu hanta katamAM gatimabhyupaitu || 7734 ||</l></lg></p>· 
+133169 new <l>mIno nu hanta katamAM gatimabhyupaitu || 7734 ||</l></lg>· 
+;-----------------
+133233 old <l>adhunAbjena manAktava mAnini tulanA mukhasyAptA || 7743 ||</l></lg></p>· 
+133233 new <l>adhunAbjena manAktava mAnini tulanA mukhasyAptA || 7743 ||</l></lg>· 
+;-----------------
+133352 old <l>Asanne 'pi ca sAraGge na vAJchAM kurute hariH || 7758 ||</l></lg></p>· 
+133352 new <l>Asanne 'pi ca sAraGge na vAJchAM kurute hariH || 7758 ||</l></lg>· 
+;-----------------
+133400 old <l>zrIrAmabhaktimANikyamadeyamapi dehi me || 7764 ||</l></lg></p>· 
+133400 new <l>zrIrAmabhaktimANikyamadeyamapi dehi me || 7764 ||</l></lg>· 
+;-----------------
+133457 old <l>mUrchAM gato mRto vA nidarzanaM pArado 'tra rasaH || 7771 ||</l></lg></p>· 
+133457 new <l>mUrchAM gato mRto vA nidarzanaM pArado 'tra rasaH || 7771 ||</l></lg>· 
+;-----------------
+133529 old <l>antato 'nnAya vastrAya tAmbUlAya ca kalpate || 7781 ||</l></lg></p>· 
+133529 new <l>antato 'nnAya vastrAya tAmbUlAya ca kalpate || 7781 ||</l></lg>· 
+;-----------------
+133641 old <l>nidrAluH zlathabAhuvallikamalAzleSo hariH sIdati || 7795 ||</l></lg></p>· 
+133641 new <l>nidrAluH zlathabAhuvallikamalAzleSo hariH sIdati || 7795 ||</l></lg>· 
+;-----------------
+133697 old <l>kiM kuryAtkAtaro yuddhe mRgAtsiMhaH palAyanam || 7803 ||</l></lg></p>· 
+133697 new <l>kiM kuryAtkAtaro yuddhe mRgAtsiMhaH palAyanam || 7803 ||</l></lg>· 
+;-----------------
+133747 old <l>yasyaite karadA bhavanti sakhi tadvande vinidraM tamaH || 7809 ||</l></lg></p>· 
+133747 new <l>yasyaite karadA bhavanti sakhi tadvande vinidraM tamaH || 7809 ||</l></lg>· 
+;-----------------
+133807 old <l>kAmimAnasavanAntaracArI mUlamutkhanati mAnalatAyAH || 7817 ||</l></lg></p>· 
+133807 new <l>kAmimAnasavanAntaracArI mUlamutkhanati mAnalatAyAH || 7817 ||</l></lg>· 
+;-----------------
+133860 old <l>pRSTAH sasmitanamramUkavadanAH saptarSayaH pAntu vaH || 7824 ||</l></lg></p>· 
+133860 new <l>pRSTAH sasmitanamramUkavadanAH saptarSayaH pAntu vaH || 7824 ||</l></lg>· 
+;-----------------
+133915 old <l>kathaya tathApi mude mama kathayiSyati pAntha tava jAyA || 7831 ||</l></lg></p>· 
+133915 new <l>kathaya tathApi mude mama kathayiSyati pAntha tava jAyA || 7831 ||</l></lg>· 
+;-----------------
+133979 old <l>kasya na kampayate kaM jareva jIrNasya satkavervANI || 7840 ||</l></lg></p>· 
+133979 new <l>kasya na kampayate kaM jareva jIrNasya satkavervANI || 7840 ||</l></lg>· 
+;-----------------
+134080 old <l>puNyaireva hi labhyate sukRtibhiH satsaMgatirdurlabhA || 7853 ||</l></lg></p>· 
+134080 new <l>puNyaireva hi labhyate sukRtibhiH satsaMgatirdurlabhA || 7853 ||</l></lg>· 
+;-----------------
+134150 old <l>udanvantazca santazca mahAsattvatayA tathA || 7863 ||</l></lg></p>· 
+134150 new <l>udanvantazca santazca mahAsattvatayA tathA || 7863 ||</l></lg>· 
+;-----------------
+134164 old <l>pipIlikA tu tenaiva sakuTumbopajIvati || 7865 ||</l></lg></p>· 
+134164 new <l>pipIlikA tu tenaiva sakuTumbopajIvati || 7865 ||</l></lg>· 
+;-----------------
