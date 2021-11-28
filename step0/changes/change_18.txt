@@ -1,0 +1,408 @@
+;  detach multiple HS
+;   EXAMPLE:
+; OLD:
+; <HS>{#indro vai khaNDamAhuH#} s. Spruch� 
+; 1110. {#ipsitaM manasaH saram#} s.� 
+; Spruch 1148.�
+; NEW:
+; <HS>{#indro vai khaNDamAhuH#} s. Spruch 1110. � 
+;  
+; <HS>{#ipsitaM manasaH saram#} s. Spruch 1148.� 
+;
+;
+19111 old <HS>{#indro vai khaNDamAhuH#} s. Spruch· 
+19111 new <HS>{#indro vai khaNDamAhuH#} s. Spruch 1110. · 
+;-----------------
+19112 old 1110. {#ipsitaM manasaH saram#} s.· 
+19112 new  
+;-----------------
+19113 old Spruch 1148.· 
+19113 new <HS>{#ipsitaM manasaH saram#} s. Spruch 1148.· 
+;-----------------
+23157 old <HS>{#ekaH prasUyate jantuH#} s. Spruch· 
+23157 new <HS>{#ekaH prasUyate jantuH#} s. Spruch 1355. · 
+;-----------------
+23158 old 1355. {#ekakArye vinirdiSTaH#} s. Spruch· 
+23158 new  
+;-----------------
+23159 old {#kArye karmaNi nirvRtte#}.· 
+23159 new <HS>{#ekakArye vinirdiSTaH#} s. Spruch {#kArye karmaNi nirvRtte#}.· 
+;-----------------
+23425 old <HS>{#ekameca viSaM hanti#} s. Spruch· 
+23425 new <HS>{#ekameca viSaM hanti#} s. Spruch 1349.· 
+;-----------------
+23426 old 1349. {#ekameva hi vandhyAyAH#} s.· 
+23426 new  
+;-----------------
+23427 old Spruch 1347. {#ekamevAkSaraM yastu#} s.· 
+23427 new <HS>{#ekameva hi vandhyAyAH#} s. Spruch 1347.· 
+;-----------------
+23428 old Spruch 1367.· 
+23428 new  
+;-----------------
+23429 old  
+23429 new <HS>{#ekamevAkSaraM yastu#} s. Spruch 1367.· 
+;-----------------
+23430 old <S> ekamevAdvitIyaM tadyadrAjannAvabudhyase |· 
+23430 new  
+;-----------------
+23431 old satyaM svargasya sopAnaM pArAvArasya nauriva ||· 
+23431 new <S> ekamevAdvitIyaM tadyadrAjannAvabudhyase |· 
+;-----------------
+23432 old  
+23432 new satyaM svargasya sopAnaM pArAvArasya nauriva ||· 
+;-----------------
+23551 old <HS>{#ekastapo dviradhyAnam#} s. Spruch· 
+23551 new <HS>{#ekastapo dviradhyAnam#} s. Spruch 1392.· 
+;-----------------
+23552 old 1392. {#ekasthAne prasUte vAk#} s.· 
+23552 new  
+;-----------------
+23553 old Spruch 1403.· 
+23553 new <HS>{#ekasthAne prasUte vAk#} s. Spruch 1403.· 
+;-----------------
+24151 old <HS>{#ekena vanavRkSeNa#} s. Spruch· 
+24151 new <HS>{#ekena vanavRkSeNa#} s. Spruch 1418.· 
+;-----------------
+24152 old 1418. {#ekena zuSkavRkSeNa#} s. Spruch· 
+24152 new  
+;-----------------
+24153 old 1412.· 
+24153 new <HS>{#ekena zuSkavRkSeNa#} s. Spruch 1412.· 
+;-----------------
+24640 old <HS>{#eko 'rthaM vimRzet#} und {#eko· 
+24640 new <HS>{#eko 'rthaM vimRzet#} und {#eko 'rthaM vimRSati#} s. nach Spruch {#trividhAH puruSA loke#} fgg.· 
+;-----------------
+24641 old 'rthaM vimRSati#} s. nach Spruch· 
+24641 new  
+;-----------------
+24642 old {#trividhAH puruSA loke#} fgg. {#eko· 
+24642 new <HS>{#eko vRkSo hi yo grAme#} s. nach Spruch {#jJAtayo yasya naiva syuH#}.· 
+;-----------------
+24643 old vRkSo hi yo grAme#} s. nach Spruch· 
+24643 new  
+;-----------------
+24644 old {#jJAtayo yasya naiva syuH#}. {#eko 'sya· 
+24644 new <HS>{#eko 'sya sumahAprAjJa#} s. Spruch 1342.· 
+;-----------------
+24645 old sumahAprAjJa#} s. Spruch 1342.· 
+24645 new  
+;-----------------
+25268 old {#evameva manuSyANAm#} s. nach Spruch· 
+25268 new  
+;-----------------
+25269 old {#yathA grAmAntaraM gacchan#}. {#evaM· 
+25269 new <HS>{#evameva manuSyANAm#} s. nach Spruch {#yathA grAmAntaraM gacchan#}.· 
+;-----------------
+25270 old pUrvairgato mArgaH#} s. Spruch {#yathA· 
+25270 new  
+;-----------------
+25271 old hi sArthaM gacchantam#}.· 
+25271 new <HS>{#evaM pUrvairgato mArgaH#} s. Spruch {#yathA hi sArthaM gacchantam#}.· 
+;-----------------
+31439 old <HS>{#kumitraM ca kudezaM ca#} s. Spruch· 
+31439 new <HS>{#kumitraM ca kudezaM ca#} s. Spruch 1802.· 
+;-----------------
+31440 old 1802. {#kumitre nAsti vizvAsaH#} s.· 
+31440 new  
+;-----------------
+31441 old Spruch 1800.· 
+31441 new <HS>{#kumitre nAsti vizvAsaH#} s. Spruch 1800.· 
+;-----------------
+31680 old <HS>{#kurvanhi vaitasIM vRttim#} s.· 
+31680 new <HS>{#kurvanhi vaitasIM vRttim#} s. Spruch {#samAkrAnto balavatA#} fg.· 
+;-----------------
+31681 old Spruch {#samAkrAnto balavatA#} fg.· 
+31681 new  
+;-----------------
+31682 old {#kurvANaM hi karma#} s. nach Spruch· 
+31682 new <HS>{#kurvANaM hi karma#} s. nach Spruch {#na mAM kazcidvijAnIte#}.· 
+;-----------------
+31683 old {#na mAM kazcidvijAnIte#}.· 
+31683 new  
+;-----------------
+36846 old <HS>{#garhitAnyo 'nyamatayaH#} s. Spruch· 
+36846 new <HS>{#garhitAnyo 'nyamatayaH#} s. Spruch 1481.· 
+;-----------------
+36847 old 1481. {#gallasthaleSu madavAriSu#} s.· 
+36847 new  
+;-----------------
+36848 old Spruch 2061.· 
+36848 new <HS>{#gallasthaleSu madavAriSu#} s. Spruch 2061.· 
+;-----------------
+38186 old <HS>{#guruprayojanoddezAt#} s. Spruch· 
+38186 new <HS>{#guruprayojanoddezAt#} s. Spruch 1271.· 
+;-----------------
+38187 old 1271. {#gurumaparAdhaM kRtvA#} s. Spruch· 
+38187 new  
+;-----------------
+38188 old {#mahatAM yo 'parAdhyeta#}.· 
+38188 new <HS>{#gurumaparAdhaM kRtvA#} s. Spruch {#mahatAM yo 'parAdhyeta#}.· 
+;-----------------
+47888 old <HS>{#daridrAnbhara kaunteya mA· 
+47888 new  
+;-----------------
+47889 old prayacchezvare dhanam |· 
+47889 new  
+;-----------------
+47890 old vyAdhitasyauSadhaM pathyaM nIrujastu· 
+47890 new  
+;-----------------
+47891 old vimauSadhaiH ||#}· 
+47891 new  
+;-----------------
+61192 old <HS>{#na sA bhAryeti vaktavyA· 
+61192 new <HS>{#na sA bhAryeti vaktavyA (vikhyAtA)#} s. Spruch 3484.· 
+;-----------------
+61193 old (vikhyAtA)#} s. Spruch 3484.· 
+61193 new  
+;-----------------
+61194 old <HS>{#na sA vidyA na tacchilpam· 
+61194 new <HS>{#na sA vidyA na tacchilpam (taddAnam)#} s. den folgenden Spruch.· 
+;-----------------
+61195 old (taddAnam)#} s. den folgenden Spruch.· 
+61195 new  
+;-----------------
+65131 old <HS>{#nityaM mAnopahAriNyA#} s. den· 
+65131 new <HS>{#nityaM mAnopahAriNyA#} s. den vorangehenden Spruch.· 
+;-----------------
+65132 old vorangehenden Spruch.· 
+65132 new  
+;-----------------
+65133 old <HS>{#nityodyatasya puruSasya bhaveddhi· 
+65133 new <HS>{#nityodyatasya puruSasya bhaveddhi lakSmIH#} s. Spruch 1255.· 
+;-----------------
+65134 old lakSmIH#} s. Spruch 1255.· 
+65134 new  
+;-----------------
+69396 old <HS>{#parityAge na labhate#} s. Spruch· 
+69396 new <HS>{#parityAge na labhate#} s. Spruch 3973.· 
+;-----------------
+69397 old 3973.· 
+69397 new  
+;-----------------
+69398 old <HS>{#paripatya yadA sUnuH#} s. Spruch· 
+69398 new <HS>{#paripatya yadA sUnuH#} s. Spruch {#pratipadya yadA sUnuH#}.· 
+;-----------------
+69399 old {#pratipadya yadA sUnuH#}.· 
+69399 new  
+;-----------------
+70507 old <HS>{#pAtakaM vA sadoSam vA#} s. Spruch· 
+70507 new <HS>{#pAtakaM vA sadoSam vA#} s. Spruch 2276.· 
+;-----------------
+70508 old 2276. {#pAtayitumeva nIcaH#} s. Spruch· 
+70508 new  
+;-----------------
+70509 old 3660.· 
+70509 new <HS>{#pAtayitumeva nIcaH#} s. Spruch 3660.· 
+;-----------------
+71318 old <HS>{#pArzvayorubhayorazvAH#} s. Spruch· 
+71318 new <HS>{#pArzvayorubhayorazvAH#} s. Spruch 3610.· 
+;-----------------
+71319 old 3610. {#pAvanaM vA sadoSaM vA#} s.· 
+71319 new  
+;-----------------
+71320 old Spruch 2276. {#pitA ca RNavAn zatruH#}· 
+71320 new <HS>{#pAvanaM vA sadoSaM vA#} s. Spruch 2276.· 
+;-----------------
+71321 old s. Spruch 1330.· 
+71321 new  
+;-----------------
+71322 old  
+71322 new <HS>{#pitA ca RNavAn zatruH#} s. Spruch 1330.· 
+;-----------------
+71323 old <S> pitAcAryaH suhRnmAtA bhAryA putraH purohitaH |· 
+71323 new  
+;-----------------
+71324 old nAdaNDyo nAma rAjJo 'sti yaH svadharme na tiSThati ||· 
+71324 new <S> pitAcAryaH suhRnmAtA bhAryA putraH purohitaH |· 
+;-----------------
+71325 old  
+71325 new nAdaNDyo nAma rAjJo 'sti yaH svadharme na tiSThati ||· 
+;-----------------
+72969 old <HS>{#pustakasthA tu (pustakasthApi) yA· 
+72969 new <HS>{#pustakasthA tu (pustakasthApi) yA vidyA#} s. den vorangehenden Spruch.· 
+;-----------------
+72970 old vidyA#} s. den vorangehenden Spruch.· 
+72970 new  
+;-----------------
+72972 old <HS>{#pustake pratyayadhItam#} und· 
+72972 new <HS>{#pustake pratyayadhItam#} und {#pustakeSu ca nAdhItaH#} {#(nAdhItam)#} s. Spruch 4155.· 
+;-----------------
+72973 old {#pustakeSu ca nAdhItaH#} {#(nAdhItam)#}· 
+72973 new  
+;-----------------
+72974 old s. Spruch 4155.· 
+72974 new  
+;-----------------
+72975 old <HS>{#pustakeSu ca yA vidyA#} S. Spruch· 
+72975 new <HS>{#pustakeSu ca yA vidyA#} S. Spruch 4156.· 
+;-----------------
+72976 old 4156.· 
+72976 new  
+;-----------------
+75638 old <HS>{#prANAtipAtaH stainyaM ca#} s. den· 
+75638 new <HS>{#prANAtipAtaH stainyaM ca#} s. den vorangehenden Spruch.· 
+;-----------------
+75639 old vorangehenden Spruch.· 
+75639 new  
+;-----------------
+75640 old <HS>{#prANAtyaye samutpanne#} s. Spruch· 
+75640 new <HS>{#prANAtyaye samutpanne#} s. Spruch 4308. [Seite2.432]· 
+;-----------------
+75641 old 4308. [Seite2.432]· 
+75641 new 
+;-----------------
+77276 old <HS>{#balAdhyakSaH puro yAyAt#} s.· 
+77276 new <HS>{#balAdhyakSaH puro yAyAt#} s. Spruch 3609. [Seite2.452] · 
+;-----------------
+77277 old Spruch 3609. [Seite2.452] {#balinApi na· 
+77277 new  
+;-----------------
+77278 old badhyante#} s. den folgenden Spruch.· 
+77278 new <HS>{#balinApi na badhyante#} s. den folgenden Spruch.· 
+;-----------------
+81637 old <HS>{#bhraSTAcAramadharmajJam#} s.· 
+81637 new <HS>{#bhraSTAcAramadharmajJam#} s. Spruch 564.· 
+;-----------------
+81638 old Spruch 564. {#bhrAtaH kaSTamaho#} s.· 
+81638 new  
+;-----------------
+81639 old Spruch {#sA ramyA nagarI#}.· 
+81639 new <HS>{#bhrAtaH kaSTamaho#} s. Spruch {#sA ramyA nagarI#}.· 
+;-----------------
+81640 old {#bhrAtRbhirvaNTanaM naiva#} s. Spruch· 
+81640 new  
+;-----------------
+81641 old 2445.· 
+81641 new <HS>{#bhrAtRbhirvaNTanaM naiva#} s. Spruch +2445.· 
+;-----------------
+98188 old <HS> {#yo balAtpronnataM pAti#} s. den· 
+98188 new <HS> {#yo balAtpronnataM pAti#} s. den vorangehenden Spruch.· 
+;-----------------
+98189 old vorangehenden Spruch.· 
+98189 new  
+;-----------------
+98190 old <HS> {#yo bhRtyaH paramaM kAryam#} s.· 
+98190 new <HS> {#yo bhRtyaH paramaM kAryam#} s. nach Spruch {#yo hi bhRtyo niyuktaH san#}.· 
+;-----------------
+98191 old nach Spruch {#yo hi bhRtyo niyuktaH· 
+98191 new  
+;-----------------
+98192 old san#}.· 
+98192 new <HS> {#yo 'bhyarcitaH sadbhiH#} s. den folgenden Spruch.· 
+;-----------------
+98193 old <HS> {#yo 'bhyarcitaH sadgiH#} s. den· 
+98193 new  
+;-----------------
+98194 old folgenden Spruch.· 
+98194 new  
+;-----------------
+112113 old s. Spruch 6423. s. den vorangehenden· 
+112113 new s. den vorangehenden Spruch.· 
+;-----------------
+112114 old Spruch.· 
+112114 new  
+;-----------------
+121555 old <HS>{#sA tRSNa cetparityaktA#} s. Spruch· 
+121555 new <HS>{#sA tRSNa cetparityaktA#} s. Spruch 2598.· 
+;-----------------
+121556 old 2598.· 
+121556 new  
+;-----------------
+121557 old <HS>{#sAdhavo yatra pUjyante#} s. Spruch· 
+121557 new <HS>{#sAdhavo yatra pUjyante#} s. Spruch 4917.· 
+;-----------------
+121558 old 4917.· 
+121558 new  
+;-----------------
+121559 old <HS>{#sA dhIrasya sumantrasya#} s.· 
+121559 new <HS>{#sA dhIrasya sumantrasya#} s. Spruch 6558. [Seite3.487]· 
+;-----------------
+121560 old Spruch 6558. [Seite3.487]· 
+121560 new  
+;-----------------
+129863 old <HS>{#asaMtuSTo dvijo naSTaH#} s. zu· 
+129863 new <HS>{#asaMtuSTo dvijo naSTaH#} s. zu Spruch 755.· 
+;-----------------
+129864 old Spruch 755.· 
+129864 new  
+;-----------------
+129865 old <HS>{#asArasya padArthasya#} s. Spruch· 
+129865 new <HS>{#asArasya padArthasya#} s. Spruch 3785.· 
+;-----------------
+129866 old 3785.· 
+129866 new  
+;-----------------
+129867 old <HS>{#asAre 'pIha saMsAre#} s. zu Spruch· 
+129867 new <HS>{#asAre 'pIha saMsAre#} s. zu Spruch 779.· 
+;-----------------
+129868 old 779.· 
+129868 new  
+;-----------------
+129869 old <HS>{#asthiraM jIvanaM loke#} s. zu· 
+129869 new <HS>{#asthiraM jIvanaM loke#} s. zu Spruch 796.· 
+;-----------------
+129870 old Spruch 796.· 
+129870 new  
+;-----------------
+130734 old <HS>{#gavAzanAnAM sa giraH zRNoti#} s.· 
+130734 new <HS>{#gavAzanAnAM sa giraH zRNoti#} s. Spruch 4795.· 
+;-----------------
+130735 old Spruch 4795.· 
+130735 new  
+;-----------------
+130736 old <HS>{#gIte vAdye tathA nRtte#} s. zu· 
+130736 new <HS>{#gIte vAdye tathA nRtte#} s. zu Spruch 2111.· 
+;-----------------
+130737 old Spruch 2111.· 
+130737 new  
+;-----------------
+130738 old <HS>{#guNibhiH saha saMparkam#} s. zu· 
+130738 new <HS>{#guNibhiH saha saMparkam#} s. zu Spruch 1841.· 
+;-----------------
+130739 old Spruch 1841.· 
+130739 new  
+;-----------------
+130740 old <HS>{#guNeSu kriyatAM yatnaH#} s. zu· 
+130740 new <HS>{#guNeSu kriyatAM yatnaH#} s. zu Spruch 2158.· 
+;-----------------
+130741 old Spruch 2158.· 
+130741 new  
+;-----------------
+130888 old <HS>{#jJAtavyAH preSaNe bhRtyAH#} s. zu· 
+130888 new <HS>{#jJAtavyAH preSaNe bhRtyAH#} s. zu Spruch 2405.· 
+;-----------------
+130889 old Spruch 2405.· 
+130889 new  
+;-----------------
+130890 old <HS>{#jJAtibhirvaNTanenaiva#} s. zu· 
+130890 new <HS>{#jJAtibhirvaNTanenaiva#} s. zu Spruch 2445.· 
+;-----------------
+130891 old Spruch 2445.· 
+130891 new  
+;-----------------
+131112 old <HS>{#dimapi rajanI sAyaM prAtaH#} s. zu· 
+131112 new <HS>{#dimapi rajanI sAyaM prAtaH#} s. zu Spruch 2794.· 
+;-----------------
+131113 old Spruch 2794.· 
+131113 new  
+;-----------------
+131114 old <HS>{#divyaM cUtaphalaM prApya#} s. zu· 
+131114 new <HS>{#divyaM cUtaphalaM prApya#} s. zu Spruch 2808.· 
+;-----------------
+131115 old Spruch 2808.· 
+131115 new  
+;-----------------
+131859 old <HS>{#putrayojanA bhAryA#} s. zu Spruch· 
+131859 new <HS>{#putrayojanA bhAryA#} s. zu Spruch 4112.· 
+;-----------------
+131860 old 4112.· 
+131860 new  
+;-----------------
+131861 old <HS>{#putrAstu vivdhaiH zAstraiH#} s. zu· 
+131861 new <HS>{#putrAstu vivdhaiH zAstraiH#} s. zu Spruch 4116.· 
+;-----------------
+131862 old Spruch 4116.· 
+131862 new  
+;-----------------
