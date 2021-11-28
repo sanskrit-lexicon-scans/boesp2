@@ -1,0 +1,222 @@
+; manual correction of errors noticed in hk conversion.
+;
+;
+3745 old vibrUyAd#}. ²d. {#Gleichfalls#}· 
+3745 new vibrUyAd#}. ²d. Gleichfalls· 
+;-----------------
+18646 old <S> itaH svapiti kezavaH kulamitastadIyadviSAmitazca zaraNArthinaH zikharipattriNaH zeraqte |· 
+18646 new <S> itaH svapiti kezavaH kulamitastadIyadviSAmitazca zaraNArthinaH zikharipattriNaH zerate |· 
+;-----------------
+21591 old hRdayeSveva lOyante vidhavAstrIstabAviva ||· 
+21591 new hRdayeSveva lIyante vidhavAstrIstabAviva ||· 
+;-----------------
+22954 old {#bhUjIta#}. ²b. {#yadIxxheyt#} st.· 
+22954 new {#bhUjIta#}. ²b. {#yadIcchet#} st.· 
+;-----------------
+23931 old <S> eKAkSarapradAtAraM yo guruM naiva manyate |· 
+23931 new <S> ekAkSarapradAtAraM yo guruM naiva manyate |· 
+;-----------------
+24615 old ; {#LALaNa, SAmGO, SAmGGE#}. ²c.· 
+24615 new ; {#lalAnA, samgo, saMgge#}. ²c.· 
+;-----------------
+24926 old ersten und {#mugho#} st. des {#zweiten#}· 
+24926 new ersten und {#mugho#} st. des zweiten· 
+;-----------------
+27853 old paKSe gaja°#} BAHUDARS4ANA.· 
+27853 new pakSe gaja°#} BAHUDARS4ANA.· 
+;-----------------
+28258 old vidaqdhati dhaniSu na dainyaM kila pazave vayaM suMdhiyaH ||· 
+28258 new vidadhati dhaniSu na dainyaM kila pazave vayaM suMdhiyaH ||· 
+;-----------------
+29289 old <S> kAlAtikramaNaM vftteryo na kurvanti bhUpatiH |· 
+29289 new <S> kAlAtikramaNaM vRtteryo na kurvanti bhUpatiH |· 
+;-----------------
+30349 old <S> kiM tayA kriyate dhenvA yA na mUte na dugdhaqdA |· 
+30349 new <S> kiM tayA kriyate dhenvA yA na sUte na dugdhadA |· 
+;-----------------
+30350 old ko 'rthaH putreNa jAtena yo na vidvAnna bhaktiMNan ||· 
+30350 new ko 'rthaH putreNa jAtena yo na vidvAnna bhaktimAn ||· 
+;-----------------
+33374 old <V3>1917. ²d. {#BROCKHAUS#} verbessert· 
+33374 new <V3>1917. ²d. BROCKHAUS verbessert· 
+;-----------------
+34676 old <S> kvacidruSTaH kvacittuSTo ruSTastuSTaH kSaNe KSaNe |· 
+34676 new <S> kvacidruSTaH kvacittuSTo ruSTastuSTaH kSaNe kSaNe |· 
+;-----------------
+35884 old <S> khalAnAM kaNBTAkAnAM ca dvividhaiva pratikriyA |· 
+35884 new <S> khalAnAM kaNTAkAnAM ca dvividhaiva pratikriyA |· 
+;-----------------
+36541 old <S> handhaH suvarNe phalamiKSudaNDe nAkAri puSpaM khalu candanasya |· 
+36541 new <S> handhaH suvarNe phalamikSudaNDe nAkAri puSpaM khalu candanasya |· 
+;-----------------
+37141 old <F>2111) SUBHA1S2. 136. ²a. {#NatE· 
+37141 new <F>2111) SUBHA1S2. 136. ²a. {#nATe· 
+;-----------------
+37142 old PAtHE#} die Hdschr. ²d. {#°lajjA#} die· 
+37142 new paTe#} die Hdschr. ²d. {#°lajjA#} die· 
+;-----------------
+38568 old {#ziKSA#} st. {#ziSyA#} eine Ausg.· 
+38568 new {#zikSA#} st. {#ziSyA#} eine Ausg.· 
+;-----------------
+39178 old parihAraistathA rASTramabhivarSEjjanAdhipaH ||· 
+39178 new parihAraistathA rASTramabhivarSaijjanAdhipaH ||· 
+;-----------------
+51803 old ityAkSipya yadA samastamaghRNi gantuM pravRttaH zaThaH PurvaM prANaparigraho dayitayA muktastato vallbhaH ||· 
+51803 new ityAkSipya yadA samastamaghRNi gantuM pravRttaH zaThaH purvaM prANaparigraho dayitayA muktastato vallbhaH ||· 
+;-----------------
+56195 old juhYtaM#} und {#juhvAnaM#}. ²d.· 
+56195 new juhUtaM#} und {#juhvAnaM#}. ²d.· 
+;-----------------
+57599 old <S> na tasya bIjaMK rohati rohakAle na sya varSaM varSati varSakAle |· 
+57599 new <S> na tasya bIjaM rohati rohakAle na sya varSaM varSati varSakAle |· 
+;-----------------
+59796 old <S> narqapatihitakartA dveSyatAM yAti loke janapadahitakartA tyajyate pArthivendraiH |· 
+59796 new <S> narapatihitakartA dveSyatAM yAti loke· 
+;-----------------
+59797 old iti mahati virodhe vartamAne samAne nRpatijanapadAnAM durlabhaH kAryakartA ||· 
+59797 new janapadahitakartA tyajyate pArthivendraiH |· 
+;-----------------
+59798 old  
+59798 new iti mahati virodhe vartamAne samAne· 
+;-----------------
+59799 old  
+59799 new nRpatijanapadAnAM durlabhaH kAryakartA ||· 
+;-----------------
+60699 old na vai teSAM svadate pathyamuktaM yogaKSemaM kalpate naiva teSAm |· 
+60699 new na vai teSAM svadate pathyamuktaM yogakSemaM kalpate naiva teSAm |· 
+;-----------------
+65654 old dhArAnipAtaiH saha kiM nu vANTaZCANDRO 'yamityArtataraM rarAme ||· 
+65654 new dhArAnipAtaiH saha kiM nu vAntazcandro 'yamityArtataraM rarAme ||· 
+;-----------------
+71992 old und {#priyaH#} st. {#priya; prAnAYINam#}· 
+71992 new und {#priyaH#} st. {#priya; praNayInAm#}· 
+;-----------------
+73545 old <HS>{#pOrA hyanugatA duHlkhAt#} s. den fogenden Spruch.· 
+73545 new <HS>{#paurA hyanugatA duHkhAt#} s. den fogenden Spruch.· 
+;-----------------
+73764 old <S> prAjAnAM pAlanaM zasyaM svargakozaqsya vardhanam |· 
+73764 new <S> prAjAnAM pAlanaM zasyaM svargakozasya vardhanam |· 
+;-----------------
+75448 old und {#kRtvehaH PAta, vAsudhA#}. ²c.· 
+75448 new und {#kRtvehaH pAta, vAsudhA#}. ²c.· 
+;-----------------
+75449 old {#bhasmAsthiH sakala#} st. {#zakala,· 
+75449 new {#bhasmAsthiH sakala#} st. {#zakala,· cd
+;-----------------
+75707 old <S> prANebhyo 'pIha ye 'bhISTA yairvinA na KSaNaM ratiH |· 
+75707 new <S> prANebhyo 'pIha ye 'bhISTA yairvinA na kSaNaM ratiH |· 
+;-----------------
+77003 old <S> bandhutyAfastanutyAgo dezatyAga iti triSu |· 
+77003 new <S> bandhutyAgastanutyAgo dezatyAga iti triSu |· 
+;-----------------
+77035 old <S> bandhustrIbhRtyavarfasya buddheH sattvasya cAtmanaH |· 
+77035 new <S> bandhustrIbhRtyavargasya buddheH sattvasya cAtmanaH |· 
+;-----------------
+77420 old PAN5CAT. ²c. {#nApafacchanti#} PAN5CAT.· 
+77420 new PAN5CAT. ²c. {#nApagacchanti#} PAN5CAT.· 
+;-----------------
+80261 old {#kESNapakSe#} unsere Aenderung für· 
+80261 new {#kRSNapakSe#} unsere Aenderung für· 
+;-----------------
+80390 old <S> bhAvo yo 'yamanuprApto bhavitavyaqmidaM mama |· 
+80390 new <S> bhAvo yo 'yamanuprApto bhavitavyamidaM mama |· 
+;-----------------
+82491 old bhavanti tasya tAnyeva iha lOke paratra ca ||· 
+82491 new bhavanti tasya tAnyeva iha loke paratra ca ||· 
+;-----------------
+83629 old Lesart {#sekO 'stu#} oder {#seko 'sti#}· 
+83629 new Lesart {#seko 'stu#} oder {#seko 'sti#}· 
+;-----------------
+85125 old <S> mArjyamANaH sadA yadvaddarpaNO nirmalo bhadet |· 
+85125 new <S> mArjyamANaH sadA yadvaddarpaNo nirmalo bhadet |· 
+;-----------------
+87471 old <S> meghahInO hto dezaH putrahInaM hataM kulam |· 
+87471 new <S> meghahIno hato dezaH putrahInaM hataM kulam |· 
+;-----------------
+87533 old dhIro yathoktavAdI ca eSa rUtO vidhIyate ||· 
+87533 new dhIro yathoktavAdI ca eSa hUto vidhIyate ||· 
+;-----------------
+87743 old <S> mainAnmUkaH pravacanapaDurvAtulO jalpako vA dhRSTaH pArzve bhavati ca tathA dUratazcAprAgalabhaH |· 
+87743 new <S> mainAnmUkaH pravacanapaDurvAtulo jalpako vA· 
+;-----------------
+87744 old kSAntyA bhIruryadi na sahate prAyazo nAbhijAtaH mevAdharmaH paramagahano yoginAmapyagamyaH ||· 
+87744 new dhRSTaH pArzve bhavati ca tathA dUratazcAprAgalabhaH |· 
+;-----------------
+87745 old  
+87745 new kSAntyA bhIruryadi na sahate prAyazo nAbhijAtaH· 
+;-----------------
+87746 old  
+87746 new mevAdharmaH paramagahano yoginAmapyagamyaH ||· 
+;-----------------
+90898 old <S> yadA tu bhAgyakSayapIDitAM dazAM naraH kRtAntopahitAM prapadyate |· 
+90898 new <S> yadA tu bhAgyakSayapIDitAM dazAM· 
+;-----------------
+90899 old tadAsya mitrANyapi yAntyamitratAM cirAnurakto 'pi virajyate janaH ||· 
+90899 new naraH kRtAntopahitAM prapadyate |· 
+;-----------------
+90900 old  
+90900 new tadAsya mitrANyapi yAntyamitratAM· 
+;-----------------
+90901 old  
+90901 new cirAnurakto 'pi virajyate janaH ||· 
+;-----------------
+90916 old <HS> {#yadA tu rOpito vRkSaH#} s. Spruch· 
+90916 new <HS> {#yadA tu ropito vRkSaH#} s. Spruch· 
+;-----------------
+96253 old <S> yudhyate 'haMkRtiM kRtvA durbalo 'pi balOyasA |· 
+96253 new <S> yudhyate 'haMkRtiM kRtvA durbalo 'pi balIyasA |· 
+;-----------------
+98184 old nihantuM suBalaM ripum, 'pyariH#}. ²d.· 
+98184 new nihantuM subalaM ripum, 'pyariH#}. ²d.· 
+;-----------------
+99332 old die Hdschr. ²c. {#°koDIsthAt#} die· 
+99332 new die Hdschr. ²c. {#°koTIsthAt#} die· 
+;-----------------
+99333 old Hdschr. ²d. {#kOTI#} die Hdschr.· 
+99333 new Hdschr. ²d. {#koTI#} die Hdschr.· 
+;-----------------
+100679 old <S> rAjyalObhAdahaMkArAdicchataH svAminaH padam |· 
+100679 new <S> rAjyalobhAdahaMkArAdicchataH svAminaH padam |· 
+;-----------------
+100855 old prAtarbAti madhau prakAmavikasadrAjIvarAjIrajojAlAmodamanOharo ratirasaglAntiM haranmArutaH ||· 
+100855 new prAtarbAti madhau prakAmavikasadrAjIvarAjIrajojAlAmodamanoharo ratirasaglAntiM haranmArutaH ||· 
+;-----------------
+101513 old zraddhA ca dharmeNa samaM sametya dhanyasya puMsaH saphalObhavanti ||· 
+101513 new zraddhA ca dharmeNa samaM sametya dhanyasya puMsaH saphalIbhavanti ||· 
+;-----------------
+101753 old (KAntAsaGgaH#} KOSEG.);· 
+101753 new (kAntAsaGgaH#} KOSEG.);· 
+;-----------------
+101803 old 179. ²a. {#vRsKA#} die Hdschrr. ²b.· 
+101803 new 179. ²a. {#vRkSA#} die Hdschrr. ²b.· 
+;-----------------
+103596 old BENFEY) {#KURYaDA#} KOSEG. ²d.· 
+103596 new BENFEY) {#kuryAd#} KOSEG. ²d.· 
+;-----------------
+107408 old <S> vipadi mahatAM dhairyadhvaMsaMK yadIkSituhase virama viramAyAsAdasmAdduradhyavasAyataH |· 
+107408 new <S> vipadi mahatAM dhairyadhvaMsaM yadIkSituhase virama viramAyAsAdasmAdduradhyavasAyataH |· 
+;-----------------
+107840 old (sic) {#vidyante yAsu taDrZO, bhUmayaH#}· 
+107840 new (sic) {#vidyante yAsu tAdrzo bhUmayaH#}· 
+;-----------------
+108688 old virama virama cetaH saMnidhAnAdamISAM sukhakaNamaNihetoH sAhasaM mA sma KArSIH ||· 
+108688 new virama virama cetaH saMnidhAnAdamISAM sukhakaNamaNihetoH sAhasaM mA sma kArSIH ||· 
+;-----------------
+109869 old <F4.2>-- 6288 . SPHUT2AS4LOKA. <i>a</i>. {#°VIKaRaN#}. <i>b</i>. {#jyotirvido grahagatiM parivartayanti#}. <i>c</i>. {#bhUtAbhiSaGga iti bhUtavido vadanti#}. <i>d</i>. {#prAcInakarma balavanmunayo vadanti#}.· 
+109869 new <F4.2>-- 6288 . SPHUT2AS4LOKA. <i>a</i>. {#°vikArAn#}. <i>b</i>. {#jyotirvido grahagatiM parivartayanti#}. <i>c</i>. {#bhUtAbhiSaGga iti bhUtavido vadanti#}. <i>d</i>. {#prAcInakarma balavanmunayo vadanti#}.· 
+;-----------------
+113485 old <S> zUdro 'pi SIlasaMpanno guRavAnbrAhmaNO bhavet |· 
+113485 new <S> zUdro 'pi SIlasaMpanno guRavAnbrAhmaNo bhavet |· 
+;-----------------
+119073 old new yuddhe balavato nAzo bhavettasya pramAdataH ||· 
+119073 new yuddhe balavato nAzo bhavettasya pramAdataH ||· 
+;-----------------
+120719 old jederzeit fröhlich sein. {#Bollensen#}.· 
+120719 new jederzeit fröhlich sein. <i>Bollensen</i>.· 
+;-----------------
+122779 old <S> sItayA durapqavAdabhItayA pAvake svatanurAhutiH kRtA |· 
+122779 new <S> sItayA durapavAdabhItayA pAvake svatanurAhutiH kRtA |· 
+;-----------------
+128729 old <S> hitAya nAhitAyaq syAnmahAnsaMtApito 'pi hi |· 
+128729 new <S> hitAya nAhitAya syAnmahAnsaMtApito 'pi hi |· 
+;-----------------

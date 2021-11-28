@@ -1,6 +1,7 @@
 ; ------ changes discussed in #29.
 ; specifically at comment
 ;  https://github.com/funderburkjim/boesp-prep/issues/29#issuecomment-979620332
+; result is boesp_16.txt = boesp_utf8.txt at commit 9bfe9ee2
 1 old <F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».</F4> 
 1 new <F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
 ;-----------------
