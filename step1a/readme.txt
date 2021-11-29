@@ -149,3 +149,8 @@ cp boesp_deva_san_2.txt ../../boesp-prep-ab/sanproof/boesp-2_deva.txt
 
 Now Sampada and Andhrabharati will proofread.
 
+; -------------------------------------------------------
+; sanproof_1_01
+Comparison number 01 of two proofreadings of volume 1 digitizations.
+About 350 verses have differences (out of about 2200 verses).
+diff_verses.txt  provided back to the two proofreaders for review.

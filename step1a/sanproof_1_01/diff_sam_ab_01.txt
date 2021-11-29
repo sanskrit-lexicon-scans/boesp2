@@ -1,0 +1,1659 @@
+46c46
+< ; 12 : page 1.2
+---
+> ; 12 : page 1.3
+98c98
+<     akAle kftyamArabDaM karturnATAya kalpate .
+---
+>     akAle kftyamArabDaM karturnArTAya kalpate .
+111c111
+<     avekzamARastrIMlokAnna tulyamiha lakzaye ..
+---
+>     avekzamARastrI~llokAnna tulyamiha lakzaye ..
+123c123
+<     patatyevADamAllokAnyAvacCabdaH prakIrtyate ..
+---
+>     patatyevADamA~llokAnyAvacCabdaH prakIrtyate ..
+127c127
+<     saMsArakAraRam yozidyozitaM varjayettataH ..
+---
+>     saMsArakAraRaM yozidyozitaM varjayettataH ..
+231c231
+<     abIjakamapi kzetraM kevalaM sTaRqiLaM Bavet ..
+---
+>     abIjakamapi kzetraM kevalaM sTaRqilaM Bavet ..
+286c286
+<     prajYApOruzahInAnAM jIviketi bahaspatiH ..
+---
+>     prajYApOruzahInAnAM jIviketi bfhaspatiH ..
+290c290
+<     ratiputraPalA dArA dattaBuktaPalaM DanaM ..
+---
+>     ratiputraPalA dArA dattaBuktaPalaM Danam ..
+323c323
+<     aDaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .
+---
+>     aGaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .
+333c333
+<     karaDftakampitaSoBitadaRqaM tadapi na muYcatyASA BaRqaM ..
+---
+>     karaDftakampitaSoBitadaRqaM tadapi na muYcatyASA BaRqam ..
+342c342
+<     aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlaM .
+---
+>     aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlam .
+405c405
+< ; 96 : page 1.18
+---
+> ; 96 : page 1.19
+428c428
+< ; 101 : page 1.19
+---
+> ; 101 : page 1.20
+431c431
+<     ajAyudDa fziSrAdDe praBAte meGaqambare .
+---
+>     ajAyudDe fziSrAdDe praBAte meGaqambare .
+434c434
+< ; 102 : page 1.19
+---
+> ; 102 : page 1.20
+439c439
+< ; 103 : page 1.19
+---
+> ; 103 : page 1.20
+470c470
+<     Soko dinezu gacCatsu varDatAmapayAti kim ..
+---
+>     Soko dinesu gacCatsu varDatAmapayAti kim ..
+473c473
+<     ajYAnAdyati vA jYAnAtkftvA karma vigarhitam .
+---
+>     ajYAnAdyadi vA jYAnAtkftvA karma vigarhitam .
+504c504
+<     aNjalisTAni puzpARi vAsayanti karadvayam .
+---
+>     aYjalisTAni puzpARi vAsayanti karadvayam .
+516c516
+<     aRuByaSca mahadDyaSca SAstreByaH kuSalo naraH .
+---
+>     aRuByaSca mahadByaSca SAstreByaH kuSalo naraH .
+526c526
+< +   <s>ata eva vivektF2RAM</s> s. nach Spruch <s>vfttiM svAM bahu manyate</s>.
+---
+> +   <s>ata eva vivektFRAM</s> s. nach Spruch <s>vfttiM svAM bahu manyate</s>.
+541c541
+<     hemnaH kaWinasyApi dravaRopAyo'sti na tfnAnAm ..
+---
+>     hemnaH kaWinasyApi dravaRopAyo'sti na tfRAnAm ..
+591c591
+<     SItalASca puraryAnti kA kasya paridevanA ..
+---
+>     SItalASca punaryAnti kA kasya paridevanA ..
+603c603
+<     atiBIrumatiktIbaM dIrGasUtraM pramAdinam .
+---
+>     atiBIrumatiklIbaM dIrGasUtraM pramAdinam .
+611c611
+<     atimAtraBAsuratvaM puzyati BAnuH parigrahAdahnaH .
+---
+>     atimAtraBAsuratvaM puzyati BAtuH parigrahAdahnaH .
+625c625
+<     atiyantragfhIto'pi KalaH KalaKalAyate .
+---
+>     atiyatnagfhIto'pi KalaH KalaKalAyate .
+690c690
+< +   <s>anfptivyADi°</s> s. Spruch <s>avfttivyADi°</s>.
+---
+> +   <s>atfptivyADi°</s> s. Spruch <s>avfttivyADi°</s>.
+738c738
+<     prajYABimAninaM cEva SrIBaryAnnopasarpati ..
+---
+>     prajYABimAninaM cEva SrIrBayAnnopasarpati ..
+753c753
+< ; 178 : page 1.33
+---
+> ; 178 : page 1.34
+795c795
+< ; 188 : page 1.35
+---
+> ; 188 : page 1.36
+802c802
+< ; 189 : page 1.35
+---
+> ; 189 : page 1.36
+820,821c820,821
+< ; 193 : page 1.36
+< +   <s>ardurgavizayaH kasya</s> und <s>adurgavizayo yasya</s> s. den folgenden Spruch.
+---
+> ; 193 : page 1.37
+> +   <s>adurgavizayaH kasya</s> und <s>adurgavizayo yasya</s> s. den folgenden Spruch.
+830c830
+<     adfzwavyAparaM gatavati dinAnAmaDipatO yaSaHSezIBUte SaSini gataDAmni grahagaRe .
+---
+>     adfzwavyApAraM gatavati dinAnAmaDipatO yaSaHSezIBUte SaSini gataDAmni grahagaRe .
+864c864
+< +   <s>adyAtkAkaH puroNaSam</s> s. nach Spruch <s>yadi na praRayedrAjA</s>.
+---
+> +   <s>adyAtkAkaH puroqASam</s> s. nach Spruch <s>yadi na praRayedrAjA</s>.
+886c886
+<     ardrohaH sarvaBUtezu karmaRA manasA girA .
+---
+>     adrohaH sarvaBUtezu karmaRA manasA girA .
+890c890
+<     aDaH karoti yadratnaM mUrDrA DArayate tfRam .
+---
+>     aDaH karoti yadratnaM mUrDnA DArayate tfRam .
+958c958
+<     aDikAra FRaM garBaScaturTaM SvAnamETunam .
+---
+>     aDikAra fRaM garBaScaturTaM SvAnamETunam .
+961c961
+< ; 227 : page 1.42
+---
+> ; 227 : page 1.43
+980c980
+< +   <s>aDodfzwirBavetkftvA</s> s. nach Spruch <s>ayAti sKalitEH</s>.
+---
+> +   <s>aDodfzwirBavetkftvA</s> s. nach Spruch <s>AyAti sKalitEH</s>.
+1036c1036
+< ; 244 : page 1.45
+---
+> ; 244 : page 1.46
+1042c1042
+<     antaSAstraM bahulASca vidyAH svalpaSca kAlo bahuviGnatA ca .
+---
+>     anantaSAstraM bahulASca vidyAH svalpaSca kAlo bahuviGnatA ca .
+1057c1057
+< ; 249 : page 1.46
+---
+> ; 249 : page 1.47
+1059c1059
+<     anaBrAkramaRaM SOryaM DanaM nijaBujArjitam .
+---
+>     anamrAkramaRaM SOryaM DanaM nijaBujArjitam .
+1072c1072
+<     damBaM stEnyaM pESunaM na sevate yaSca suKI sadEva ..
+---
+>     damBaM stEnyaM pESunaM madyapAnaM na sevate yaSca suKI sadEva ..
+1107c1107
+<     anvApyaM ca Sokena SarIraM copatapyate .
+---
+>     anavApyaM ca Sokena SarIraM copatapyate .
+1252c1252
+<     kfpaRezu dayAlutvaM sarvatra maDutra giraH ..
+---
+>     kfpaRezu dayAlutvaM sarvatra maDutra maDurA giraH ..
+1263c1263
+<     aniyuktA hi sAcivya yadvadanti hitEziRaH .
+---
+>     aniyuktA hi sAcivye yadvadanti hitEziRaH .
+1393c1393
+< ; 331 : page 1.60
+---
+> ; 331 : page 1.61
+1419c1419
+<     antaHprataptamarumEkatadahyamAnamUlasya campakataroH kva vikAsacintA .
+---
+>     antaHprataptamarusEkatadahyamAnamUlasya campakataroH kva vikAsacintA .
+1436c1436
+<     SakuniH SakawAraSca dfzwAntAvatra BUyate ..
+---
+>     SakuniH SakawAraSca dfzwAntAvatra BUpate ..
+1447c1447
+<     antarye satataM luWantyagaRitAneva pAToDarE-
+---
+>     antarye satataM luWantyagaRistAneva pAToDarE-
+1450c1450
+<       prAyo'nyena kftAdaro laGurapi prApto'caryate svAmiBiH ..
+---
+>       prAyo'nyena kftAdaro laGurapi prApto'rcyate svAmiBiH ..
+1482c1482
+< ; 352 : page 1.64
+---
+> ; 352 : page 1.65
+1525c1525
+<     annahIno dahedrAzwraM mantrahInaSca FtvijaH .
+---
+>     annahIno dahedrAzwraM mantrahInaSca ftvijaH .
+1549c1549
+< ; 368 : page 1.67
+---
+> ; 368 : page 1.68
+1573c1573
+<     ravirapi na dahati tAdfgyAdfghyuttaptavAlukAnikaraH ..
+---
+>     ravirapi na dahati tAdfgyAdfg‍hyuttaptavAlukAnikaraH ..
+1611c1611
+<     kasmAnna lajjAmavahaYCOce cintAM na vA daDuH ..
+---
+>     kasmAnna lajjAmavahaYCoce cintAM na vA daDuH ..
+1614c1614
+<     anyo DanaM pretagatasya BuNkte vayaMsi cAgniSca SarIraDAtUn .
+---
+>     anyo DanaM pretagatasya BuNkte vayAMsi cAgniSca SarIraDAtUn .
+1752c1752
+<     meDAvino nItiviDiprayuktAM puraH sPuraMntImiva varRayanti ..
+---
+>     meDAvino nItiviDiprayuktAM puraH sPurantImiva varRayanti ..
+1804c1804
+< ; 427 : page 1.78
+---
+> ; 427 : page 1.79
+1810c1810
+<     api prARasamAnizwAnpAlitAM2llAlitAnapi .
+---
+>     api prARasamAnizwAnpAlitA~llAlitAnapi .
+1815c1815
+<     tadarTena vicIrRena na karTaMcitsuhfddruhaH ..
+---
+>     tadarTena vicIrRena na kaTaMcitsuhfddruhaH ..
+1819c1819
+<     nAdaRqyo nAma rajYo'sti DarmAdvicalitaH svakAt ..
+---
+>     nAdaRqyo nAma rAjYo'sti DarmAdvicalitaH svakAt ..
+1847c1847
+< +   <s>api saMmAnayuktASca</s> und <s>api saMmAnasaMyuktAH</s> s. Spruch <s>svAmisaMmAnasaMyuktAH</s>
+---
+> +   <s>api saMmAnayuktASca</s> und <s>api saMmAnasaMyuktAH</s> s. Spruch <s>svAmisaMmAnasaMyuktAH</s>.
+1864c1864
+<     apiqayanbalaM SatrUYjigIzuraBizeRayet .
+---
+>     apIqayanbalaM SatrUYjigIzuraBizeRayet .
+1892c1892
+<     apUrvaH'pi kopAgniH sajjanasya Kalasya ca .
+---
+>     apUrvaH ko'pi kopAgniH sajjanasya Kalasya ca .
+1934c1934
+<     dEryaM prApte mahInATe na sa yAti parABavam ..
+---
+>     DEryaM prApte mahInATe na sa yAti parABavam ..
+1966c1966
+< ; 466 : page 1.85
+---
+> ; 466 : page 1.86
+2077c2077
+<     kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKI deva dAnaM tvadIyam ..
+---
+>     kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKIM deva dAnaM tvadIyam ..
+2118c2118
+<     seveta sidDimanvicCaYSlAGyaM vinDyamiveSvaram ..
+---
+>     seveta sidDimanvicCaYClAGyaM vinDyamiveSvaram ..
+2124c2124
+< ; 505 : page 1.92
+---
+> ; 505 : page 1.93
+2168c2168
+<     alpenEva vinaSyanti yovanAni DanAni ca ..
+---
+>     alpenEva vinaSyanti yOvanAni DanAni ca ..
+2219c2219
+<     yadADyAnAmagre draviRamadaniHsaMjYamanasAM kftaM vItavrIqErnijaguRakaTApAtakamapi ..
+---
+>     yadAQyAnAmagre draviRamadaniHsaMjYamanasAM kftaM vItavrIqErnijaguRakaTApAtakamapi ..
+2228c2228
+<     amftaM guRavadBAryA amftaM bAlaBAzitaM ..
+---
+>     amftaM guRavadBAryA amftaM bAlaBAzitam ..
+2231c2231
+<     amftaM SiSiri vahniramftaM priyadarSanam .
+---
+>     amftaM SiSire vahniramftaM priyadarSanam .
+2246c2246
+<       vadatu yadihanyatsvAdu syAtpriyAradanacCadAt ..
+---
+>       vadatu yadihAnyatsvAdu syAtpriyAradanacCadAt ..
+2265c2265
+<     amftAtmani padmanAM dvezwari snigDatArake .
+---
+>     amftAtmani padmAnAM dvezwari snigDatArake .
+2299,2301c2299,2301
+< ; 545 : page 1.101
+<     aByoDiH sTalatAM sTalaM jalaDitAM DUlIlavaH SElatAM
+<       merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAM .
+---
+> ; 545 : page 1.100
+>     amBoDiH sTalatAM sTalaM jalaDitAM DUlIlavaH SElatAM
+>     //merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAm .
+2303c2303
+<       lIlAdurlalitAdButavyasanine dEvAya tasmE namaH ..
+---
+>     //lIlAdurlalitAdButavyasanine dEvAya tasmE namaH .. [Seite1.101]
+2386c2386
+<     yuktaM bahu BAzante yatra kutrApi Serate .
+---
+>     ayuktaM bahu BAzante yatra kutrApi Serate .
+2432c2432
+<     vidyAdalakzmIkatamaM janAnAM muKe nibadDAM nirFtiM vahantam ..
+---
+>     vidyAdalakzmIkatamaM janAnAM muKe nibadDAM nirftiM vahantam ..
+2448c2448
+< ; 580,581 : page 1.107
+---
+> ; 580,581 : page 1.108
+2480c2480
+<     arTaM brUyAnna cAsatsu guRAMnbrUyAnna cAtmanaH .
+---
+>     arTaM brUyAnna cAsatsu guRAnbrUyAnna cAtmanaH .
+2567c2567
+<     indriyARAmanESvaryAdESvaryAdDraSyate hi saH ..
+---
+>     indriyARAmanESvaryAdESvaryAdBraSyate hi saH ..
+2637c2637
+<       prodBUtAsahyatfzRo maDumadanirato harmyapfzWe vivikte .
+---
+>     //prodBUtAsahyatfzRo maDumadanirato harmyapfzWe vivikte .
+2639c2639
+<       jyotsnABinnAcCaDAraM na pibati salilaM SAradaM mandaBAgyaH ..
+---
+>     //jyotsnABinnAcCaDAraM na pibati salilaM SAradaM mandaBAgyaH ..
+2697c2697
+<     alabDezu manasTApaH saMcitArTo vinaSyati ..
+---
+>     alabDezu manastApaH saMcitArTo vinaSyati ..
+2701c2701
+<       tpariRativirasatvAtsaMgamenANganAyAH .
+---
+>     //tpariRativirasatvAtsaMgamenANganAyAH .
+2703c2703
+<       stadapi na hariRAkzIM vismaratyantarAtmA ..
+---
+>     //stadapi na hariRAkzIM vismaratyantarAtmA ..
+2745c2745
+< ; 648 : page 1.120
+---
+> ; 648 : page 1.121
+2786c2786
+<     Dane suKalA yA tu sApi duHKErviDIyate ..
+---
+>     Dane suKakalA yA tu sApi duHKErviDIyate ..
+2825c2825
+<     karSayanti tu Darmasya mArutodDUtaSIkarAH ..
+---
+>     karSayanti tu Garmasya mArutodDUtaSIkarAH ..
+2897c2897
+<     nirAhArAH prajAH SocyAH SocyaM rAzwramarAjakam ..
+---
+>     nirAhArAH prajAH SocyaH SocyaM rAzwramarAjakam ..
+2904c2904
+< ; 686 : page 1.127
+---
+> ; 686 : page 1.128
+2935c2935
+<     pravAsarasike kAnte yaTA saDvyAH stanonnatiH ..
+---
+>     pravAsarasike kAnte yaTA sADvyAH stanonnatiH ..
+2950c2950
+<     avisaMvAdako dakzaH kftajno matimAnfjuH .
+---
+>     avisaMvAdako dakzaH kftajYo matimAnfjuH .
+3031c3031
+<     aSanamAtrakftajYatayA gurorna piSuno'pi Suno laBate tulAM .
+---
+>     aSanamAtrakftajYatayA gurorna piSuno'pi Suno laBate tulAm .
+3089c3089
+<     aSvameDasahasrAdDi matyameva viSizyate .. [Seite1.136] 
+---
+>     aSvameDasahasrAdDi satyameva viSizyate .. [Seite1.136]
+3137c3137
+< ; 744 : page 1.137
+---
+> ; 744 : page 1.138
+3151c3151
+<     asatAM saNgdozeRa sADavo yAnti vikriyAm .
+---
+>     asatAM saNgadozeRa sADavo yAnti vikriyAm .
+3173c3173
+<     BartAraM naBimanyante vinipAtagataM striyaH ..
+---
+>     BartAraM nABimanyante vinipAtagataM striyaH ..
+3181c3181
+<     PalaM kiMpAkavakzasya DvANkzA Bakzanti netare ..
+---
+>     PalaM kiMpAkavfkzasya DvANkzA Bakzanti netare ..
+3188c3188
+< +   <s>asanto nAByarTyAH</s> s. Spruch <s>priyA nyAyyA</s>
+---
+> +   <s>asanto nAByarTyAH</s> s. Spruch <s>priyA nyAyyA</s>.
+3288c3288
+< ; 780 : page 1.144
+---
+> ; 780 : page 1.145
+3302c3302
+<     asukESca vinAlApo guhyasya kaTanaM taTA .
+---
+>     asuKESca vinAlApo guhyasya kaTanaM taTA .
+3380c3380
+< ; 802 : page 1.148
+---
+> ; 802 : page 1.149
+3387c3387
+<     mUQEH paribfQErApatsevako maNgalecCuBiH ..
+---
+>     mUQEH parivfQErApatsevako maNgalecCuBiH ..
+3404c3404
+<     asrAkzInnavanIlanIrajadalopAntAtisUkzmAyata-
+---
+>     asrAkzInnavanIlanIrajadalopAntAtisUkzmAyata
+3406,3407c3406,3407
+<     pratyagrakzaradasrapiSitagrAsagrahaM gfhRato
+<       gfDraDvANGavfkAMstanO nipatataH ko vA kaTaM vArayet ..
+---
+>     pratyagrakzaradasramiSrapiSitagrAsagrahaM gfhRato
+>       gfDraDvANkzavfkAMstanO nipatataH ko vA kaTaM vArayet ..
+3425c3425
+< ; 812 : page 1.150
+---
+> ; 812 : page 1.151
+3430c3430
+< ; 813 : page 1.150
+---
+> ; 813 : page 1.151
+3436c3436
+<     ahameva guruH sudAruRAnAmiti hAlAhala mA sma tAta dfzyaH .
+---
+>     ahameva guruH sudAruRAnAmiti hAlAhala mA sma tAta dfpyaH .
+3456c3456
+< +   <s>ahiMsasya tapo'kzayyam</s> s. Spruch 825.
+---
+> +   <s>ahiMsasya tayo'kzayyam</s> s. Spruch 825.
+3490c3490
+< ; 828 : page 1.153
+---
+> ; 828 : page 1.154
+3526c3526
+<     yenApatrapate sADurasADustena tuzyati ..
+---
+>     yenApatrapate sAMDurasADustena tuzyati ..
+3564c3564
+<     kAlakUwaH suDAsinDoH prARinAM prARahAraRaH ..
+---
+>     kAlakUwaH suDAsinDoH prARinAM prARahArakaH ..
+3583c3583
+<     akiMcanyaM suKaM loke paTyaM SivamanAmayam .
+---
+>     AkiMcanyaM suKaM loke paTyaM SivamanAmayam .
+3617c3617
+<     AkroSena na dUyate na ca puwuH proktaH samAnandyate
+---
+>     AkroSena na dUyate na ca pawuH proktaH samAnandyate
+3663c3663
+<     AGrAya pustakaM sarvaM vidma iti sTitAH .
+---
+>     AGrAya pustakaM DanyAH sarvaM vidma iti sTitAH .
+3695c3695
+<     yezAmete zaqguRA na pravfttAH ko'rTastezAM pArTivopASrayeRa ..
+---
+>     yezAmete zaNguRA na pravfttAH ko'rTastezAM pArTivopASrayeRa ..
+3711c3711
+<     jYAnamAtraPalA vidyA dattaBuktaPalaM DanaM ..
+---
+>     jYAnamAtraPalA vidyA dattaBuktaPalaM Danam ..
+3730c3730
+< ; 885 : page 1.164
+---
+> ; 885 : page 1.165
+3735c3735
+< ; 886 : page 1.164
+---
+> ; 886 : page 1.165
+3827c3827
+< ; 908 : page 1.168
+---
+> ; 908 : page 1.169
+3872c3872
+< ; 919 : page 1.170
+---
+> ; 919 : page 1.171
+3916c3916
+< ; 929 : page 1.172
+---
+> ; 929 : page 1.173
+3978c3978
+< ; 942 : page 1.175
+---
+> ; 942 : page 1.176
+3989c3989
+<     ADivyADiparItAya adya Svo vA vinASite .
+---
+>     ADivyADiparItAya adya Svo vA vinASine .
+4168c4168
+<     AyAti yAti punareva jalaM prayAti padmANkurARi viDunoti Dunoti pakzaU .
+---
+>     AyAti yAti punareva jalaM prayAti padmANkurARi viDunoti Dunoti pakzO .
+4194,4195c4194,4195
+<     AyuH kallolalolaM katipayadivasasTAyinI yOvanaSrI-
+<       rarTAH saMkalpakalpA GanasamayataqidviBrama BogapUgAH .
+---
+>     AyuH kallolalolaM katipayadivasasTAyinI yOvanaSrI--
+>    //rarTAH saMkalpakalpA GanasamayataqidviBramA BogapUgAH .
+4246c4246
+<     dinasya pUrvArDaparArDaBinnA CAyeva KalasajjanAnAm ..
+---
+>     dinasya pUrvArDaparArDaBinnA CAyeva mEtrI KalasajjanAnAm ..
+4364c4364
+< ; 1032 : page 1.193
+---
+> ; 1032 : page 1.194
+4371c4371
+<     padboDayanti suptAM janmani yUnAM tadeva Palam ..
+---
+>     yadboDayanti suptAM janmani yUnAM tadeva Palam ..
+4430c4430
+<     viGnaM nimittato brayAnnimittaM cApi hetutaH ..
+---
+>     viGnaM nimittato brUyAnnimittaM cApi hetutaH ..
+4477c4477
+<     vivfdDASca vinASAya tasmAnnodvejayeprajAH ..
+---
+>     vivfdDAMSca vinASAya tasmAnnodvejayetprajAH ..
+4503c4503
+<     nAsya kaScidvasedgehe Saktito'narcito'tiTiH ..
+---
+>     nAsya kAScidvasedgehe Saktito'narcito'tiTiH ..
+4519c4519
+<     prAyeRa BUmipatayaH pramadA latASca latASca yatpArSvato Bavati tatparivezwayanti ..
+---
+>     prAyeRa BUmipatayaH pramadA latASca yatpArSvato Bavati tatparivezwayanti ..
+4544c4544
+<     AmrAvayedupacitAnsADu duzwavraRAniva .
+---
+>     AsrAvayedupacitAnsADu duzwavraRAniva .
+4555c4555
+<       mA BUtkasyacidapyayaM pariBavo yAYceti saMsAriRaH .
+---
+>       mA BUtkasyacidapyayaM pariBavo yAcYeti saMsAriRaH .
+4574c4574
+<     AhArayati na svasTo vinidro na prabuDyati .
+---
+>     AhArayati na svasTo vinidro na prabuDyate .
+4579c4579
+<       nAsAgre nayanaM yaccEkatAnaM manaH .
+---
+>       nAsAgre nayanaM tadetadaparaM yaccEkatAnaM manaH .
+4591c4591
+<       candraScaRqakarAyate mfdugatirvato'pi vajrAyate .
+---
+>       candraScaRqakarAyate mfdugatirvAto'pi vajrAyate .
+4593c4593
+<       hA hanta priyaviprayogasamayaH saMhArakAlayate ..
+---
+>       hA hanta priyaviprayogasamayaH saMhArakAlAyate ..
+4597c4597
+<     zaqguRo vyavasAyaSca kAmaScAzwaguRaH smftaH ..
+---
+>     zaNguRo vyavasAyaSca kAmaScAzwaguRaH smftaH ..
+4601c4601
+<     asanmEtrI ca veSyA ca SrISca yasya kadA sTirA ..
+---
+>     asanmEtrI ca veSyA ca SrISca kasya kadA sTirA ..
+4613c4613
+<     BakzayitvApi kartavyAH sAnadAnAdikAH kriyAH ..
+---
+>     BakzayitvApi kartavyAH snAnadAnAdikAH kriyAH ..
+4644c4644
+<     itaH sa dEtyaH prAptaSrIrneta evarhati kzayam .
+---
+>     itaH sa dEtyaH prAptaSrIrneta evArhati kzayam .
+4653c4653
+<     maraRam vA samIpasTaM kAmiloko na paSyati ..
+---
+>     maraRaM vA samIpasTaM kAmiloko na paSyati ..
+4689c4689
+<     dfzwvEva puruzaM hfdyaM yoniH praktlidyate striyAH ..
+---
+>     dfzwvEva puruzaM hfdyaM yoniH praklidyate striyAH ..
+4721c4721
+<     tadasya harate budDim nAvaM vAyurivAmBasi ..
+---
+>     tadasya harate budDiM nAvaM vAyurivAmBasi ..
+4729c4729
+<     indriyARAM tu sarvezAM tu sarvezAM yadyekaM kzaratIndriyam .
+---
+>     indriyARAM tu sarvezAM yadyekaM kzaratIndriyam .
+4743c4743
+<     saMniyamya tu tAnyeva tataH sidDIM nigacCati ..
+---
+>     saMniyamya tu tAnyeva tataH sidDiM nigacCati ..
+4751c4751
+<     indrindrayARi paSUnkftvA vedIM kftvA tapomayIm .
+---
+>     indriyARi paSUnkftvA vedIM kftvA tapomayIm .
+4767c4767,4768
+< +   <s>indro vE KaRqamAhuH</s> s. Spruch 1110. <s>ipsitaM manasaH sarvam</s> s. Spruch 1148.
+---
+> +   <s>indro vE KaRqamAhuH</s> s. Spruch 1110.
+> +   <s>ipsitaM manasaH sarvam</s> s. Spruch 1148.
+4782c4783
+<     iyatyesminvA niravaDicamatkftyaSayo
+---
+>     iyatyesminvA niravaDicamatkftyatiSayo
+4792c4793
+<     iyamunnatisattvaSAlinAM mahatAM kApi kaWoracittarA .
+---
+>     iyamunnatisattvaSAlinAM mahatAM kApi kaWoracittatA .
+4820c4821
+<     iha kiM kuraNgaSAvaka kedAre kalamamaYjarIM jyajasi .
+---
+>     iha kiM kuraNgaSAvaka kedAre kalamamaYjarIM tyajasi .
+4830c4831
+<     iha turagaSatEH prayAntu mUrKA DanarahitASca buDAH prayAntu padByAm .
+---
+>     iha turagaSatEH prayAntu mUrKA DanaratitASca buDAH prayAntu padByAm .
+4890c4891
+< +   <s>iSvarA BUridAnena</s> s. den folgenden Spruch.
+---
+> +   <s>ISvarA BUridAnena</s> s. den folgenden Spruch.
+4900c4901
+<     ugram tapaH samArohennahyanuptaM prarohati ..
+---
+>     ugraM tapaH samArohennahyanuptaM prarohati ..
+4908c4909
+< ; 1157 : page 1.219
+---
+> ; 1157 : page 1.220
+4913c4914
+< ; 1158 : page 1.219
+---
+> ; 1158 : page 1.220
+4915c4916
+<     uttitaH praRayo varaM vihantuM bahavaH KaRqanahetavo hi dfzwAH .
+---
+>     ucitaH praRayo varaM vihantuM bahavaH KaRqanahetavo hi dfzwAH .
+4943,4944c4944,4945
+<     ucCidyamapi vidvAMso varDayantyarimekadA .
+<     guqena varDitaH SlezmA yato noHSezatAM vrajet ..
+---
+>     ucCedyamapi vidvAMso varDayantyarimekadA .
+>     guqena varDitaH SlezmA yato niHSezatAM vrajet ..
+4953c4954
+<     ujjvalaguRamaByuditaM kzudro drazwum na kaTamapi kzamate .
+---
+>     ujjvalaguRamaByuditaM kzudro drazwuM na kaTamapi kzamate .
+4964,4965c4965,4966
+<     utkrAmadBiSca yaH prAREH pryataH SizwasaMmataH .
+<     cintayenmanasA gaNgA sa gatiM paramAM laBet ..
+---
+>     utkrAmadBiSca yaH prAREH prayataH SizwasaMmataH .
+>     cintayenmanasA gaNgAM sa gatiM paramAM laBet ..
+4975c4976
+<     utKAtAnpratiropayankusumitAMScinvallaGUnvarDaya-
+---
+>     utKAtAnpratiropayankusumitAMScinva~llaGUnvarDaya-
+5018c5019
+<     aDamAMstu na seveta ya iCedBUtimAtmanaH ..
+---
+>     aDamAMstu na seveta ya icCedBUtimAtmanaH ..
+5030c5031
+<     nahi svarRe DvanistAdfgyAdfgyAdfkkAMsye prajAyate ..
+---
+>     nahi svarRe DvanistAdfgyAdfkkAMsye prajAyate ..
+5050c5051
+<     na tu tatsvAminastIvrapariktleSEH Palanti ye ..
+---
+>     na tu tatsvAminastIvraparikleSEH Palanti ye ..
+5112c5113
+<     bAlavEDavyadagDAnAM kulastrIRAM kucAviva ..
+---
+>     AyuzyaH KaRqamAdAya ravirastaM gamizyati ..
+5123c5124
+<     utptato'ntarikzaM vE gacCato'pi mahItalam .
+---
+>     utpatato'ntarikzaM vE gacCato'pi mahItalam .
+5139c5140
+< +   <s>utpannapaScAttApasya</s> s. den vornagebenden Spruch.
+---
+> +   <s>utpannapaScAttApasya</s> s. den vorangehenden Spruch.
+5147c5148
+<     prArTanaH puruzasyeva tasya mAtrA na vidyate ..
+---
+>     prArTanA puruzasyeva tasya mAtrA na vidyate ..
+5158c5159
+<     utpAdakabrahmadAtrorgarIyAnbrahmadaH pitA .
+---
+>     utpAdakabrahmadAtatrorgarIyAnbrahmadaH pitA .
+5239c5240
+<     udirito'rTaH paSunApi gfhyate hayASca nAgASca vahanti deSitAH .
+---
+>     udIrito'rTaH paSunApi gfhyete hayASca nAgASca vahanti deSitAH .
+5281c5282
+<     Aharo mETunaM nidrA sevyamAnA vivarDate .. [Seite1.237] 
+---
+>     AhAro mETunaM nidrA sevyamAnA vivarDate .. [Seite1.237]
+5360c5361
+<     SElaSeKaragato dfSatkaRaScArumArutaDutaH patatyaDaH ..
+---
+>     SElaSeKaragato dfzatkaRaScArumArutaDutaH patatyaDaH ..
+5375c5376
+<     umattAnAM BujaMgAnAM madyapAnAM ca hastinAm .
+---
+>     unmattAnAM BujaMgAnAM madyapAnAM ca hastinAm .
+5380c5381
+<       dvaMdvenodyatacakravAkamiTunA vakktrAmbujodBAsinI .
+---
+>       dvaMdvenodyatacakravAkamiTunA vaktrAmbujodBAsinI .
+5423c5424,5425
+< +   <s>upakaraM karomyasya</s> s. Spruch <s>mayAsyopakftaM pUrvam</s>. <s>upakArAcca lokAnAm</s> s. Spruch <s>dravatvAtsarvalohAnAm</s>.
+---
+> +   <s>upakAraM karomyasya</s> s. Spruch <s>mayAsyopakftaM pUrvam</s>.
+> +   <s>upakArAcca lokAnAm</s> s. Spruch <s>dravatvAtsarvalohAnAm</s>.
+5440c5442
+< ; 1284 : page 1.243
+---
+> ; 1284 : page 1.244
+5446c5448
+< ; 1285 : page 1.243
+---
+> ; 1285 : page 1.244
+5453c5455
+<     paSya vAnaramUrKeRa sugfhI nirgfhI kftA ..
+---
+>     paSya vAnaramUrKena sugfhI nirgfhI kftA ..
+5464c5466
+<       racitavalayEH strIvaddadDO karO hi kirIwinA ..
+---
+>       racitavalayEH strIvadbadDO karO hi kirIwinA ..
+5501c5503
+<     vAkkAyacitEH suKadaM yamaGnaM murAripAdAmbujameva cintyam ..
+---
+>     vAkkAyacittEH suKadaM yamaGnaM murAripAdAmbujameva cintyam ..
+5529,5530c5531,5532
+<     upAyena kayo yAdfgripostAdfNna hetiBiH .
+<     upAyajYo'lpakAo'pi na SUrEH pariBUyate ..
+---
+>     upAyena jayo yAdfgripostAdfNna hetiBiH .
+>     upAyajYo'lpakAyo'pi na SUrEH pariBUyate ..
+5562c5564
+<     upyante vizavallibIjavizamAH ktleSAH priyAKyA narE-
+---
+>     upyante vizavallibIjavizamAH kleSAH priyAKyA narE-
+5587c5589
+<     asaMniDAnAtsatasTitInAmanyAnyarAgaH kurute praveSam ..
+---
+>     asaMniDAnAtsatatasTitInAmanyAnyarAgaH kurute praveSam ..
+5661c5663
+<     fRani trIRyapAkftya mano mokze niveSayet .
+---
+>     fRAni trIRyapAkftya mano mokze niveSayet .
+5673c5675
+<     fzayo devartAScEva satyameva samAsate .
+---
+>     fzayo devatAScEva satyameva samAsate .
+5681c5683
+<     fzIRAM ca nadInAM na kulAnAM mahAtmanAm .
+---
+>     fzIRAM ca nadInAM ca kulAnAM ca mahAtmanAm .
+5690c5692
+<     eka eva dame dozo dvitIyo nopapadyade .
+---
+>     eka eva dame dozo dvitIyo nopapadyate .
+5749,5750c5751,5753
+< ; 1357 : page 1.257
+< +   <s>ekaH prasUyate jantuH</s> s. Spruch 1355. <s>ekakArye vinirdizwaH</s> s. Spruch <s>kArye karmaRi nirvftte</s>.
+---
+> ; 1357 : page 1.258
+> +   <s>ekaH prasUyate jantuH</s> s. Spruch 1355.
+> +   <s>ekakArye vinirdizwaH</s> s. Spruch <s>kArye karmaRi nirvftte</s>.
+5773c5776
+<     ekato vyADidurBikzapramuKA vidapo'KilAH .
+---
+>     ekato vyADidurBikzapramuKA vipado'KilAH .
+5774a5778
+> 	
+5819c5823,5825
+< +   <s>ekameca vizaM hanti</s> s. Spruch 1349. <s>ekameva hi vanDyAyAH</s> s. Spruch 1347. <s>ekamevAkzaraM yastu</s> s. Spruch 1367.
+---
+> +   <s>ekameva vizaM hanti</s> s. Spruch 1349.
+> +   <s>ekameva hi vanDyAyAH</s> s. Spruch 1347.
+> +   <s>ekamevAkzaraM yastu</s> s. Spruch 1367.
+5824c5830
+<     ekaM BUmipatH karoti sacivaM rAjye praDAnaM yadA
+---
+>     ekaM BUmipatiH karoti sacivaM rAjye praDAnaM yadA
+5838c5844
+<     ekfvakzasamArUQA nAnAvarRA vihaMgamAH .
+---
+>     ekavfkzasamArUQA nAnAvarRA vihaMgamAH .
+5839a5846
+> 	
+5846,5847c5853,5855
+< +   <s>ekastapo dviraDyayanam</s> s. Spruch 1392. <s>ekasTAne prasUte vAk</s> s. Spruch 1403.
+<     ekasmiYCayane parANnuKatayA vItottaraM tAmyato-
+---
+> +   <s>ekastapo dviraDyayanam</s> s. Spruch 1392.
+> +   <s>ekasTAne prasUte vAk</s> s. Spruch 1403.
+>     ekasmiYCayane parANmuKatayA vItottaraM tAmyato-
+5850c5858
+<       rBagno mAnakaliH sahAsaraBasavyAsaktakaRTagraham ..
+---
+>       rBagno mAnakaliH sahAsaraBasavyAsaktakaRaWagraham ..
+5868c5876
+<     ekasya janmano'rTe muQAH kurvanti yAni pApAni .
+---
+>     ekasya janmano'rTe mUQAH kurvanti yAni pApAni .
+5881c5889
+<     tasyAnekapariktleSe gfhe kiM vasataH Palam ..
+---
+>     tasyAnekaparikleSe gfhe kiM vasataH Palam ..
+5887c5895
+<     tAsminhate nAsti Badre pAtakaM nopapAtakam ..
+---
+>     tasminhate nAsti Badre pAtakaM nopapAtakam ..
+5908c5916
+<     caturBirgamanaM kzetraM YcaBirbahuBI raRaH ..
+---
+>     caturBirgamanaM kzetraM paYcaBirbahuBI raRaH ..
+5924c5932
+<     aprOQo'nupaBujyAdine dUtyArTayeta yaH ..
+---
+>     aprOQo'nupaBujyAnyadine dUtyArTayeta yaH ..
+5926c5934
+<     nItyA kAmayate'nyedyuH SocyastAByAM paro'sti kaH ..
+---
+>     nItyA kAmayate'nyedyuH SecyastAByAM paro'sti kaH ..
+5934c5942
+<     kadA SaMBo bavizyAmi karmanirmUlanakzamaH ..
+---
+>     kadA SaMBo BavizyAmi karmanirmUlanakzamaH ..
+5960c5968
+<     SaliSyAmAkayorBedaH Palena paricIyate ..
+---
+>     SAliSyAmAkayorBedaH Palena paricIyate ..
+5963c5971
+<     ekAmizapraBavameva sahodarARamujjfmBate jagati vEramiti prasidDam .
+---
+>     ekAmizapraBavameva sahodarARAmujjfmBate jagati vEramiti prasidDam .
+5968c5976
+<     sa saMhitaprayARastu saMDiH saMyoga ucyate ..
+---
+>     sa saMhitaprayARAstu saMDiH saMyoga ucyate ..
+5982c5990
+<     dAtfpAcakayorBedaH karAByAmeva sUcitaH ..
+---
+>     dAtfyAcakayorBedaH karAByAmeva sUcitaH ..
+5985c5993,5994
+< +   <s>ekena vanavfkzeRa</s> s. Spruch 1418. <s>ekena SuzkavfkzeRa</s> s. Spruch 1412.
+---
+> +   <s>ekena vanavfkzeRa</s> s. Spruch 1418.
+> +   <s>ekena SuzkavfkzeRa</s> s. Spruch 1412.
+6056c6065,6066
+<     ekona viMSatirnAryaH krIqAM kartuM vane gatAH .
+---
+> +   Räthsel.
+>     ekonA viMSatirnAryaH krIqAM kartuM vane gatAH .
+6059a6070
+> +   Auflösung.
+6068c6079
+< ; 1431 : page 1.272
+---
+> ; 1431 : page 1.273
+6096c6107,6109
+< +   <s>eko'rTaM vimfSet</s> und <s>eko'rTaM vimfzati</s> s. nach Spruch <s>triviDAH puruzA loke</s> fgg. <s>eko vfkzo hi yo grAme</s> s. nach Spruch <s>jYAtayo yasya nEva syuH</s>. <s>eko 'sya sumahAprAjYa</s> s. Spruch 1342.
+---
+> +   <s>eko'rTaM vimfSet</s> und <s>eko'rTaM vimfzati</s> s. nach Spruch <s>triviDAH puruzA loke</s> fgg.
+> +   <s>eko vfkzo hi yo grAme</s> s. nach Spruch <s>jYAtayo yasya nEva syuH</s>.
+> +   <s>eko'sya sumahAprAjYa</s> s. Spruch 1342.
+6128c6141
+< ; 1444 : page 1.275
+---
+> ; 1444 : page 1.276
+6130c6143
+<     etatkAmaPalaM loke yaddvUyorekacittatA .
+---
+>     etatkAmaPalaM loke yaddvayorekacittatA .
+6136c6149
+<     dikkAntAkucakumBakuNkumaranyAsAya paNkeruho-
+---
+>     dikkAntAkucakumBakuNkumarajanyAsAya paNkeruho-
+6158,6159c6171,6174
+<     etastAdviramendriyArTagahanAdAyAsadAdASraya SreyomArgamaSezaduHKaSamanavyApAradakzaM kzaRAt .
+<     AtmIBAvamupEhi saMtyaja nijAM kallolalolAM gatiM mA BUyo Baja BaNgurAM cetaH prasIdADunA ..
+---
+>     etastAdviramendriyArTagahanAdAyAsadAdASraya
+>       SreyomArgamaSezaduHKaSamanavyApAradakzaM kzaRAt .
+>     AtmIBAvamupEhi saMtyaja nijAM kallolalolAM gatiM
+>       mA BUyo Baja BaNgurAM BavaratiM cetaH prasIdADunA ..
+6167c6182
+<     prARErarTErDeyA vAcA Sreya evAcaretsadA ..
+---
+>     prARErarTErDiyA vAcA Sreya evAcaretsadA ..
+6183,6184c6198,6199
+<     etAScaladvalayasaMhatimeKalotTaJakAranUpuraparAjitarAhaMsAH .
+<     kurvanti kasya na mano vivaSaM taruRyo taruRyo viSvastamugDahariRIsadfSekzaRAtEH ..
+---
+>     etAScaladvalayasaMhatimeKalotTaJaMkAranUpuraparAjitarAjahaMsAH .
+>     kurvanti kasya na mano vivaSaM taruRyo viSvastamugDahariRIsadfSekzaRAntEH ..
+6186c6201
+< ; 1457 : page 1.278
+---
+> ; 1457 : page 1.279
+6205,6206c6220,6221
+< ; 1461 : page 1.279
+< +   <s>etEH saMDiM na kurvIta</s> s. nach Spruch <s>bAlo vfdDo dIrGarogaH</s>.
+---
+> ; 1461 : page 1.280
+> +   <s>etEH saMDiM na kurvIta</s> s. nach Spruch <s>bAlo vfdDo dIrDarogaH</s>.
+6216c6231
+<     putragAtrasya samsparSaScandanAdatiricyate ..
+---
+>     putragAtrasya saMsparSaScandanAdatiricyate ..
+6237c6252,6254
+< +   <s>evameva kule jAtAH</s> s. Spruch 69. <s>evameva manuzyARAm</s> s. nach Spruch <s>yaTA grAmAntaraM gacCan</s>. <s>evaM pUrvErgato mArgaH</s> s. Spruch <s>yaTA hi sArTaM gacCantam</s>.
+---
+> +   <s>evameva kule jAtAH</s> s. Spruch 69.
+> +   <s>evameva manuzyARAm</s> s. nach Spruch <s>yaTA grAmAntaraM gacCan</s>.
+> +   <s>evaM pUrvErgato mArgaH</s> s. Spruch <s>yaTA hi sArTaM gacCantam</s>.
+6250c6267
+< ; 1472 : page 1.281
+---
+> ; 1472 : page 1.282
+6291c6308
+<     abalAvirahaktleSavihvalo gaRayatyayam ..
+---
+>     abalAvirahakleSavihvalo gaRayatyayam ..
+6312c6329
+<     akroDastapasaH kzamA praBAviturDarmasya nirvyAjatA
+---
+>     akroDastapasaH kzamA praBaviturDarmasya nirvyAjatA
+6320c6337
+<     ESvarye vA suvistIrRe vyasane vA sudAruRe
+---
+>     ESvarye vA suvistIrRe vyasane vA sudAruRe .
+6351c6368
+<     samarTAnpratigfhRanti parAnapi narADipAH .. [Seite1.287] 
+---
+>     samarTAnpratigfhRanti parAnapi narAGipAH .. [Seite1.287]
+6355c6372
+<     asADyaM nasti loke'tra kiMcidbrahmARqamaDyagam ..
+---
+>     asADyaM nAsti loke'tra kiMcidbrahmARqamaDyagam ..
+6382c6399
+<     antarlalAwasaMpuwavikawAkzaramAlikAM mukttvA ..
+---
+>     antarlalAwasaMpuwavikawAkzaramAlikAM muktvA ..
+6412c6429
+< +   <s>kaTamcidahni hfdaye</s> s. nach Spruch <s>rAjanrAjanyupADyAyaH</s>.
+---
+> +   <s>kaTaMcidahni hfdaye</s> s. nach Spruch <s>rAjanrAjanyupAdyAyaH</s>.
+6420c6437
+<     asahanasaKISrotraprAptipramAdasasaMBramaM pracalitadfSA SUnye gehe samucCUsitaM punaH .. [Seite1.290] 
+---
+>     asahanasaKISrotraprAptipramAdasasaMBramaM pracalitadfSA SUnye gehe samucCvasitaM punaH .. [Seite1.290]
+6423c6440
+<     kaTamapi saKi krIqAkopAdvrajeti mayodite kaWinahfdayastyakktvA SayyAM balAdgata eva saH .
+---
+>     kaTamapi saKi krIqAkopAdvrajeti mayodite kaWinahfdayastyaktvA SayyAM balAdgata eva saH .
+6434c6451
+<     paSyADaHKanane mUQa yatanti girayo'pi ca ..
+---
+>     paSyADaHKanane mUQa patanti girayo'pi ca ..
+6444c6461
+<     aDaHkftasyApi tanUnapAto nADaH SiKA yAti kadAcideva ..
+---
+>     aDaHkftasyApi tanUnApAto nADaH SiKA yAti kadAcideva ..
+6455c6472
+<     kadA kantAgAre parimalamilatpuzpaSayene SayAnaH kAntAyAH kucayugamahaM vakzasi vahan .
+---
+>     kadA kAntAgAre parimalamilatpuzpaSayane SayAnaH kAntAyAH kucayugamahaM vakzasi vahan .
+6476c6493
+< ; 1527 : page 1.292
+---
+> ; 1527 : page 1.293
+6494c6511
+<     kapAle mArjAraH paya iti karAlloQi SaSina-
+---
+>     kapAle mArjAraH paya iti karA~lloQi SaSina-
+6520c6537
+< ; 1537 : page 1.294
+---
+> ; 1537 : page 1.295
+6566,6567c6583,6584
+<     karRasatvacaM SibirmAMsaM jIvaM jImUtavAhanaH .
+<     dadO daDIcirasTIni nAstyadeyaM mahAtmanAm ..
+---
+>     karRastvacaM SibirmAMsaM jIvaM jImUtavAhanaH .
+>     dadO daDIcirasTIni na nAstyadeyaM mahAtmanAm ..
+6615c6632
+< ; 1559 : page 1.298
+---
+> ; 1559 : page 1.299
+6661c6678
+<     karmendriyEH karmaryogamasaktaH sa viSizyate ..
+---
+>     karmendriyEH karmayogamasaktaH sa viSizyate ..
+6673,6674c6690,6691
+<     vAtyA ivAticapalAH striyo striyo BUrirajovftAH ..
+<     tattAsu na prasaktavyaM DIrasattvEH sabudDiBiH .
+---
+>     vAtyA ivAticapalAH striyo BUrirajovftAH ..
+>     tattAsu na prasaktavyaM DIrasattvEH subudDiBiH .
+6706c6723
+<     kavayaH kiM na paSyanti kiM na Bakzanti vAyasAH .
+---
+>     kavayaH kiM na paSyanti kiM na Bakzyanti vAyasAH .
+6751c6768
+<     cAraBawacOracewakanawanizWIvanaSarAvam ..
+---
+>     cAraBawacOracewakanawaviwanizWIvanaSarAvam ..
+6763c6780
+<     kazwaM Kalu mUrKatvaM Kalu yOvane'pi dAridryam .
+---
+>     kazwaM Kalu mUrKatvaM kazwaM Kalu yOvane'pi dAridryam .
+6772c6789
+<     divase divase maraRaM parajanaraYjanI vfttiH ..
+---
+>     divase divase maraRaM parajanamanaraYjanI vfttiH ..
+6798c6815
+<       na cCAyApi paropakArakftaye mArgAsTitasyApi me ..
+---
+>       na cCAyApi paropakArakftaye mArgasTitasyApi me ..
+6806c6823
+<     kasmAdudvijitavyaM samsArAraRyataH suDiyA ..
+---
+>     kasmAdudvijitavyaM saMsArAraRyataH suDiyA ..
+6835c6852
+<     kAkaH kfzRaH pikaH kfzRaH ko bedaH pikakAkayoH .
+---
+>     kAkaH kfzRaH pikaH kfzRaH ko BedaH pikakAkayoH .
+6862c6879
+<     ktlIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA ..
+---
+>     klIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA ..
+6878c6895
+< ; 1622 : page 1.310
+---
+> ; 1622 : page 1.311
+6903c6920
+<     karzanti BUrivizayASca na loBapASErlokatrayaM jayati kftsnamidaM sa vIraH ..
+---
+>     karzati BUrivizayASca na loBapASErlokatrayaM jayati kftsnamidaM sa vIraH ..
+6910c6927
+<     kAntare vanadurgezu kfcCrAsvApatsu saMBrame .
+---
+>     kAntAre vanadurgezu kfcCrAsvApatsu saMBrame .
+6918c6935
+<     kAntAviyogaH svajanApamAna FRasya SezaM kunfpasya sevA .
+---
+>     kAntAviyogaH svajanApamAna fRasya SezaM kunfpasya sevA .
+6922c6939
+<     kAnte katyapi vAsarARi gamayaM tvaM mIlayitvA dfSO
+---
+>     kAnte katyapi vAsarARi gamaya tvaM mIlayitvA dfSO
+6928c6945
+<     kAnte taTA kaTamapi praTitaM mfgAkzyA cArtuyamudDatamanoBavayA ratezu .
+---
+>     kAnte taTA kaTamapi praTitaM mfgAkzyA cAturyamudDatamanoBavayA ratezu .
+6940c6957
+<     mugDe duzkarametadityatitarAmukktvA sahAsaM balA-
+---
+>     mugDe duzkarametadityatitarAmuktvA sahAsaM balA-
+6995c7012
+<     kAmaM kroDaM loBaM mohaM tyakktvAtmAnaM paSya hi ko'ham .
+---
+>     kAmaM kroDaM loBaM mohaM tyaktvAtmAnaM paSya hi ko'ham .
+7039c7056
+<     kAmABiBUtaH kroDAdvA yo miTya pratipadyate .
+---
+>     kAmABiBUtaH kroDAdvA yo miTyA pratipadyate .
+7044c7061
+<     viTIniyamito'pyukzA SazpamAsAdya DAvati ..
+---
+>     vITIniyamito'pyukzA SazpamAsAdya DAvati ..
+7065c7082
+<     kAyaktleSena mahatA puruzaH prApnuyAtPalam .
+---
+>     kAyakleSena mahatA puruzaH prApnuyAtPalam .
+7078c7095
+<     arTArTI jIvaloko'yaM na kaScitkasyavitpriyaH ..
+---
+>     arTArTI jIvaloko'yaM na kaScitkasyacitpriyaH ..
+7139c7156
+<     nAkarRyate vikarREryoktiBiryuktamuktamapi ..
+---
+>     nAkarRyate vikarRErnayoktiBiryuktamuktamapi ..
+7145c7162
+< ; 1682 : page 1.322
+---
+> ; 1682 : page 1.323
+7167c7184
+<     kArSyaM kzutpraBavaM kadannamaSanaM SitozRayoH pAtratA
+---
+>     kArSyaM kzutpraBavaM kadannamaSanaM SItozRayoH pAtratA
+7177c7194
+<     kAlakrameRa pariRAmavaSAdanarDyA BAvA Bavanti Kalu pUrvamatIva tucCAH .
+---
+>     kAlakrameRa pariRAmavaSAdanarGyA BAvA Bavanti Kalu pUrvamatIva tucCAH .
+7198c7215
+<       deSASca pralayaM gatAh karaBarErloBaM gatAH pArTivAH .
+---
+>       deSASca pralayaM gatAH karaBarErloBaM gatAH pArTivAH .
+7209,7210c7226,7227
+< -----------------------------------------------
+< ; 1697 : 1.326
+---
+> ; ---------------------------------------------
+> ; 1697 : page 1.326
+7213c7230
+< -----------------------------------------------
+---
+> ; ---------------------------------------------
+7216c7233
+<     eRamAMsamabalA ca komalA saMBavantu mama janmanmani ..
+---
+>     eRamAMsamabalA ca komalA saMBavantu mama janmajanmani ..
+7247c7264
+<       santaH SAntiparA Bavantu kftinaH sOjanyaBAjo janAH ..
+---
+>       santaH SAntiparA Bavantu kftinaH sOjanyaBAjo janaH ..
+7255c7272
+<     kAlena gocaragatAnanapekzya BakzyAnmadakramo'pyajagaraH samupEti sidDim ..
+---
+>     kAlena gocaragatAnanapekzya BakzyAnmandakramo'pyajagaraH samupEti sidDim ..
+7263c7280
+<     kmalo hetuM vikurute svArTastamanuvartate .
+---
+>     kAlo hetuM vikurute svArTastamanuvartate .
+7283c7300
+< +   <s>kASI vivarjayeccOryam</s> s. Spruch 1715.
+---
+> +   <s>kAsI vivarjayeccOryam</s> s. Spruch 1715.
+7298c7315
+<     kAsarezu saritsu sinDuzu taTA nIcezu nIragrahaM
+---
+>     kAsArezu saritsu sinDuzu taTA nIcezu nIragrahaM
+7309c7326
+<     kiM rudDaH priyayA kayAcidaTa vA saKyA mamodvejitaH
+---
+>     kiM rudDaH priyayA kayAcidaTa vA saKyA mamodDejitaH
+7312c7329
+<       dIrGaM niHSvasitaM ciraM ca ruditaM kziptASca puzpaSrajaH ..
+---
+>       dIrGaM niHSvasitaM ciraM ca ruditaM kziptASca puzpasrajaH ..
+7325c7342
+<     muktvEkaM BavOHKaBAraracanAviDvaMsikAlAnalaM
+---
+>     muktvEkaM BavaduHKaBAraracanAviDvaMsikAlAnalaM
+7328c7345
+< ; 1722 : page 1.331
+---
+> ; 1722 : page 1.332
+7379c7396
+< +   <s>kim kiM vaktramupatpe</s> a. Spruch 1780.
+---
+> +   <s>kiM kiM vaktramupatye</s> a. Spruch 1780.
+7403c7420
+<     kiM kAmaH saMkalpaH kiM duzkarAsADanaM prajYA ..
+---
+>     kiM kAmaH saMkalpaH kiM duzkarasADanaM prajYA ..
+7407c7424
+<     sTUlo'pi yadi vAsTUlaH SreyAnkftyakaraH pumAn ..
+---
+>     sTUlo'pi yadi vAsTulaH SreyAnkftyakaraH pumAn ..
+7415c7432
+<     kiM dAridryamatozaH kiM laGutAmUlakaM yAYcA ..
+---
+>     kiM dAridryamatozaH kiM laGutAmUlakaM yAcYA ..
+7426c7443
+<       taccitraM yadi nirDano'pi puruzaH pApaM na kuryAktvacit ..
+---
+>       taccitraM yadi nirDano'pi puruzaH pApaM na kuryAtkvacit ..
+7432,7433c7449,7450
+< ; 1745 : page 1.336
+< +   <s>kiM cinmudritapAMsavaH</s> s. Spruch <s>madaM mudritapAMsavaH</s>.
+---
+> ; 1745 : page 1.337
+> +   <s>kiM cinmudritapAMsavaH</s> s. Spruch <s>mandaM mudritapAMsavaH</s>.
+7447c7464
+<     ko'rTaH putreRa jAtena yo na vidvAnna BaktiMRan ..
+---
+>     ko'rTaH putreRa jAtena yo na vidvAnna BaktimAn ..
+7455c7472
+<     saMSayya kzaRamiti niScikAya kaScidbibbokErkasahavAsinAM parokzEH ..
+---
+>     saMSayya kzaRamiti niScikAya kaScidbibbokErbakasahavAsinAM parokzEH ..
+7467c7484
+< +   <s>kiM tena Buvi jAtena</s> s. den vorangeheden Spruch.
+---
+> +   <s>kiM tena Buvi jAtena</s> s. den vorangehenden Spruch.
+7469c7486
+<       kiM te pallavalIlayA kimanayA cASoka puzpaSriyA .
+---
+> 	/kiM te pallavalIlayA kimanayA cASoka puzpaSriyA .
+7494c7511
+<     kim duHsahaM nu sADUnAM viduzAM kimapekzitam .
+---
+>     kiM duHsahaM nu sADUnAM viduzAM kimapekzitam .
+7546c7563
+<     kimiha bahuBiruktEryuktiSUnyEH pralApErdvayamiha puruzARaM sarvadA sevanIyam .
+---
+>     kimiha bahuBiruktEryuktiSUnyEH pralApErdvayamiha puruzARAM sarvadA sevanIyam .
+7598c7615
+< ; 1783 : page 1.344
+---
+> ; 1783 : page 1.345
+7601c7618
+<       kzORinATa tava pratApatapanEH saMtApitaH kzIraDiH .
+---
+>       kzORInATa tava pratApatapanEH saMtApitaH kzIraDiH .
+7617c7634
+< ; 1787 : page 1.345
+---
+> ; 1787 : page 1.346
+7644c7661
+<     avaDhIraRA kva kAryA KalaparayozitparaDanezu ..
+---
+>     avaDIraRA kva kAryA KalaparayozitparaDanezu ..
+7687,7688c7704,7706
+< ; 1804 : page 1.348
+< +   <s>kumitraM ca kudeSaM ca</s> s. Spruch 1802. <s>kumitre nAsti viSvAsaH</s> s. Spruch 1800.
+---
+> ; 1804 : page 1.349
+> +   <s>kumitraM ca kudeSaM ca</s> s. Spruch 1802.
+> +   <s>kumitre nAsti viSvAsaH</s> s. Spruch 1800.
+7694c7712
+<     piRqaH kuputre nEvasti nAsti satyaM kurAjani ..
+---
+>     piRqaH kuputre nEvAsti nAsti satyaM kurAjani ..
+7708c7726
+<       mano'smAkaM dIrGAmaBilazati yuzmatparicitam ..
+---
+>       mano'smAkaM dIrGAmaBilazati yuzmatparicitim ..
+7712c7730
+<     kudAradarESca kuto gfhe ratiH kuSizyamaDyApayataH kuto yaSaH ..
+---
+>     kudAradArESca kuto gfhe ratiH kuSizyamaTyApayataH kuto yaSaH ..
+7718c7736
+<       dUyante na ca te svapitarO Gnanto'pi SAntatrapAH ..
+---
+>       dUyante na ca te yaTA svapitarO Gnanto'pi SAntatrapAH ..
+7722c7740
+<     anDaH syAdanDavelAyAM bADiryamapi samSrayet ..
+---
+>     anDaH syAdanDavelAyAM bADiryamapi saMSrayet ..
+7732c7750
+<     ekAntaPalasidDiM tu na vindayalasaH kvacit ..
+---
+>     ekAntaPalasidDiM tu na vindatyalasaH kvacit ..
+7750,7752c7768,7771
+< ; 1819 : page 1.351
+< +   <s>kurvanhi vEtasIM vfttim</s> s. Spruch <s>samAkrAnto balavatA</s> fg. <s>kurvARaM hi naraM karma</s> s. nach Spruch <s>na mAM kaScidvijAnIte</s>.
+<     kulaM vidyASrutaM SOryaM sOSIlyaM BUnapUrvatAm .
+---
+> ; 1819 : page 1.352
+> +   <s>kurvanhi vEtasIM vfttim</s> s. Spruch <s>samAkrAnto balavatA</s> fg.
+> +   <s>kurvARaM hi naraM karma</s> s. nach Spruch <s>na mAM kaScidvijAnIte</s>.
+>     kulaM vidyASrutaM SOryaM sOSIlyaM BUtapUrvatAm .
+7774c7793
+<     jArarTe ca sutaM hanti bAnDavasya ca kA kaTA ..
+---
+>     jArArTe ca sutaM hanti bAnDavasya ca kA kaTA ..
+7788c7807
+<     SAstramArgAnusArI ca GarmizWo DarmamApnuyAt ..
+---
+>     SAstramArgAnusArI ca DarmizWo DarmamApnuyAt ..
+7795c7814
+<     kulaSIlaguRopetaH sarvaDarmaparAyaRaH .
+---
+>     kulaSIlaguRepetaH sarvaDarmaparAyaRaH .
+7800,7801c7819,7820
+<     kulAdapi varaM SIlaM SIlaM varaM dAridryamAmyAt .
+<     rAjyadapi varaM vidyA tapaso'api varam kzamA ..
+---
+>     kulAdapi varaM SIlaM varaM dAridryamAmayAt .
+>     rAjyAdapi varaM vidyA tapaso'pi varaM kzamA ..
+7828c7847
+< 	tyajantyete'vamantAram Gnanti vA mAnahetunA ..
+---
+>      tyajantyete'vamantAraM Gnanti vA mAnahetunA ..
+7839c7858
+<     kulInEH saha saMparkaM paRqitEH saha mitratAM .
+---
+>     kulInEH saha saMparkaM paRqitEH saha mitratAm .
+7868c7887
+<     praDAnapuruzaM yadvadvizRuguptena rAkzasah ..
+---
+>     praDAnapuruzaM yadvadvizRuguptena rAkzasaH ..
+7876c7895
+<     SItakAle BaveduzRakAle ca SItalam ..
+---
+>     SItakAle BaveduzRamuzRakAle ca SItalam ..
+7879c7898
+< +   <s>kUrmasamkocamAsTAya</s> s. Spruch <s>kOrmaM saMkocamAsTAya</s>. [Seite1.358]
+---
+> +   <s>kUrmasaMkocamAsTAya</s> s. Spruch <s>kOrmaM saMkocamAsTAya</s>. [Seite1.358]
+7882,7883c7901,7902
+<     vAmAkziRAmavajYAvihasitavasatirbfdDaBAvo'pyAsADuH
+<       saMsAre re manuzyA vadata yadi suKaM svalpamapyasti kiMcit ..
+---
+>     vAmAkzIRAmavajYAvihasitavasatirvfdDaBAvo'pyasADuH
+>     //saMsAre re manuzyA vadata yadi suKaM svalpamapyasti kiMcit ..
+7931c7950
+<     rAgAnuraktacittastu kim na kuryAdasAmpratam ..
+---
+>     rAgAnuraktacittastu kiM na kuryAdasAMpratam ..
+7959c7978
+< 	na SakyamanyaTA kartuM piRqitEstrIdaSErapi ..
+---
+>     na SakyamanyaTA kartuM piRqitEstridaSErapi ..
+7964c7983
+<     kusIdAddAridryaM parakaragatAtmArTakaraRA--
+---
+>     kusIdAddAridryaM parakaragatAtmArTakaraRA-
+7985c8004
+<     kfto dUrAdeva smitamaDuramaByaDuramaByudgamaviDiH
+---
+>     kfto dUrAdeva smitamaDuramaByudgamaviDiH
+7995c8014
+<     kftyaM devadvijAtInAmAtmanaSca gurostaTA .
+---
+>     kftyaM devAdvijAtInAmAtmanaSca gurostaTA .
+8070c8089
+<     kzuDAkzAmo jIrRaH piWarakapAlArditagalaH
+---
+>     kzuDAkzAmo jIrRaH piWarakakapAlArditagalaH
+8106c8125
+<     vAci vastuni cApyanye nAnye vAci ca vastuni ..
+---
+>     vAci vastuni cApyanye nAnye vAci na vastuni ..
+8145c8164
+<     kevalaM vyasanasyoktaM BezajaM nayapaRqitEH .
+---
+>     kevalaM vyasanastyoktaM BezajaM nayapaRqitEH .
+8149c8168
+<     ke vA na santi Buvi tAmarasAvataMsA haMsAvalIklayino jalasaMniveSAH ..
+---
+>     ke vA na santi Buvi tAmarasAvataMsA haMsAvalIvalayino jalasaMniveSAH .
+8164c8183
+<       antarvakttramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .
+---
+>       antarvaktramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .
+8219c8238
+<     kaH snehaH sadBAvah kiM pARqityaM paricCedaH ..
+---
+>     kaH snehaH sadBAvaH kiM pARqityaM paricCedaH ..
+8236c8255
+<     kaviprajApatIstyakttvA ramyanirmARaSAlinaH ..
+---
+>     kaviprajApatIMstyaktvA ramyanirmARaSAlinaH ..
+8296c8315
+<     jItanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..
+---
+>     jIvanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..
+8306c8325
+<     vigrahAsaktacintAnAM na ratiH kvApi jAyate .. [Seite1.378] 
+---
+>     vigrahAsaktacittAnAM na ratiH kvApi jAyate .. [Seite1.378]
+8360,8361c8379,8380
+< +   <s>kramAgato hitamatiH (hitamAnI)</s> s. Spruch <s>meDavI vAkpawuH prAjYaH</s>.
+< +   <s>kramAdvetasavfttiH san</s> s. nach Spruch <s>samAkrAnto balavatA</s>.
+---
+> +   <s>kramAgato hitamatiH (hitamAnI)</s> s. Spruch <s>meDAvI vAkpawuH prAjYaH</s>.
+> +   <s>kramAdvetasavfttiH san</s> s. Spruch <s>samAkrAnto balavatA</s>.
+8367c8386
+<     taM tAsvavasTAsvanusaMdaDIta jYAtva balaM taM parivarjayecca ..
+---
+>     taM tAsvavasTAsvanusaMdaDIta jYAtvA balaM taM parivarjayecca ..
+8465c8484
+<     DanEryAYcAlabDErnanu pariBavo'ByarTanaPalaM
+---
+>     DanEryAcYAlabDErnanu pariBavo'ByarTanaPalaM
+8471c8490
+<       kvacidBItitrastEH kvacidapi ca lIlAvilAsitEH .
+---
+>       kvacidBItitrastEH kvacidapi ca lIlAvilasitEH .
+8476c8495
+<     kvavcidBUmISayyaH kvacidapi ca paryaNkaSayanaH
+---
+>     kvacidBUmISayyaH kvacidapi ca paryaNkaSayanaH
+8487c8506
+<       kvacidvidvadgrozWI kvacidapi surAmattakalahaH .
+---
+>       kvacidvidvadgozWI kvacidapi surAmattakalahaH .
+8501,8502c8520,8521
+<       kim te nAsti saKe gfhe priyatamA sarvaM gadaM hanti yA .
+<     vAtaM te kucakumBamardanavaSAtpittaM ca vakktrAmftA-
+---
+>       kiM te nAsti saKe gfhe priyatamA sarvaM gadaM hanti yA .
+>     vAtaM te kucakumBamardanavaSAtpittaM ca vaktrAmftA-
+8506c8525
+<     kva yAmaH kaMSca pfcCAmo divi devA vayaM Buvi .
+---
+>     kva yAmaH kAMSca pfcCAmo divi devA vayaM Buvi .
+8524c8543
+<     kvAliNganaM BujanipIqitaBAhumUlaBugnonnatastanamanoharamAyatAkzyAH .
+---
+>     kvAliNganaM BujanipIqitabAhumUlaBugnonnatastanamanoharamAyatAkzyAH .
+8528c8547
+<     kvAse kva ca gamizyAmi ko nvahaM kimihAsTitaH .
+---
+>     kvAse kva ca gamizyAmi ko'nvahaM kimihAsTitaH .
+8538c8557
+<     kvEtadvakktrAravindaM kva tadaDaramaDu kvAyatAste kawAkzAH
+---
+>     kvEtadvaktrAravindaM kva tadaDaramaDu kvAyatAste kawAkzAH
+8562c8581
+<     kzaRikAH sarvasamskArA budDenoktaM mfzA vacaH .
+---
+>     kzaRikAH sarvasaMskArA budDenoktaM mfzA vacaH .
+8571c8590
+< 	pitAputrO ca vijYey tayorhi brAhmaRo guruH ..
+---
+>     pitAputrO ca vijYeyO tayorhi brAhmaRo guruH ..
+8574c8593
+<     kzatriyARAM balaM yudDaM vyApAraSca ca balaM viSAm .
+---
+>     kzatriyARAM balaM yudDaM vyapAraSca ca balaM viSAm .
+8579c8598
+<       pratApyorvI kftsnAM tarugahanamucCozya sakalam .
+---
+>       pratApyorvIM kftsnAM tarugahanamucCozya sakalam .
+8602c8621
+<     arTAnarTO samO yasya nityaM kzamA hitA ..
+---
+>     arTAnarTO samO yasya tasya nityaM kzamA hitA ..
+8605c8624
+<     kzantaM na kzamayA gfhocitasuKaM tyaktaM na saMtozataH
+---
+>     kzAntaM na kzamayA gfhocitasuKaM tyaktaM na saMtozataH
+8618c8637
+<     kziRotu kAmaM SItAmSuH kiM vasanto dunoti mAm .
+---
+>     kziRotu kAmaM SItAMSuH kiM vasanto dunoti mAm .
+8649c8668
+<     kzIranIsamAM mEtrIM praSaMsanti vicakzaRAH .
+---
+>     kzIranIrasamAM mEtrIM praSaMsanti vicakzaRAH .
+8653c8672
+<     kzIriRyaH santu gavo Bavatu vasumatI sarvasaMpannasasyA
+---
+>     kzIriRyaH santu gAvo Bavatu vasumatI sarvasaMpannasasyA
+8665,8666c8684,8685
+<     kzutkzAmo'pi jarAkfSo'pi SaTilaprayo'pi kazwAM daSA-
+<       mapanno'pi vipannadIDitirapi prARezu gacCatsvapi .
+---
+>     kzutkzAmo'pi jarAkfSo'pi SiTilaprAyo'pi kazwAM daSA-
+>       mApanno'pi vipannadIDitirapi prARezu gacCatsvapi .
+8684c8703
+<     kzudrakzeReva jAlena JazAvapihitAvurU .
+---
+>     kzudrAkzeReva jAlena JazAvapihitAvurU .
+8695,8696c8714,8715
+<     kzudyADiSca cikitsyatAM pratidinaM BikzOzaDaM BujyatAM
+<       svAdvanne na tu yatyatAm viDivaSAtprAptena saMtuzyatAm .
+---
+>     kzudvyADiSca cikitsyatAM pratidinaM BikzOzaDaM BujyatAM
+>       svAdvanne na tu yatyatAM viDivaSAtprAptena saMtuzyatAm .
+8719c8738
+<     kzetre sukfzwe hyupite ca bIje deve ca varztyftukAlayuktam .
+---
+>     kzetre sukfzwe hyupite ca bIje deve ca varzatyftukAlayuktam .
+8757,8758c8776,8778
+<       rnigfhyAntarzpaM hasitamapi SUnyena masasA .
+<     kftaScittastamBaH pratihataDiyAmaYjalirapi tvamASe moGASe kimu paramato nartayasi mAm ..
+---
+>       rnigfhyAntarbAzpaM hasitamapi SUnyena manasA .
+>     kftaScittastamBaH pratihataDiyAmaYjalirapi
+>       tvamASe moGASe kimu paramato nartayasi mAm ..
+8796c8816
+<     aprasUtA hatA nArI hato yajYAstvadakziRaH ..
+---
+>     aprasUtA hatA nArI hato yajYastvadakziRaH ..
+8837c8857
+<     yA na na vetti sadA puMsAM caturARAM ratikramam ..
+---
+>     yA na vetti sadA puMsAM caturARAM ratikramam ..
+8910c8930
+<     vidvAnDanAQyo nfpatiScirAyurDAtuH purA ko'pi na budDodo'BUt ..
+---
+>     vidvAnDanAQyo nfpatiScirAyurDAtuH purA ko'pi na budDido'BUt ..
+8913c8933
+<     ganDAQyoM navamallikAM maDukarastyakttvA gato yUTikAM
+---
+>     ganDAQyAM navamallikAM maDukarastyakttvA gato yUTikAM
+8957c8977
+<     garBakteSaH striyo manye sAPalyaM Bajate tadA .
+---
+>     garBakleSaH striyo manye sAPalyaM Bajate tadA .
+8973c8993
+<     SrutvA kAvyamalakzaRaM parakftaM samtizWate mUkava-
+---
+>     SrutvA kAvyamalakzaRaM parakftaM saMtizWate mUkava-
+8981c9001,9002
+< +   <s>garhitAnyo'nyamatayaH</s> s. Spruch 1481. <s>gallasTalezu madavArizu</s> s. Spruch 2061.
+---
+> +   <s>garhitAnyo'nyamatayaH</s> s. Spruch 1481.
+> +   <s>gallasTalezu madavArizu</s> s. Spruch 2061.
+8985c9006
+< ; 2098 : page 1.410
+---
+> ; 2098 : page 1.411
+8995c9016
+<     gavArTe brAhmaRArTe ca svAnmyarTe strIkfte'Ta vA .
+---
+>     gavArTe brAhmaRArTe ca svAmyarTe strIkfte'Ta vA .
+9010c9031
+<       dfzwirnaSyati varDate baDiratA vakktraM ca lAlAyate .
+---
+>       dfzwirnaSyati varDate baDiratA vaktraM ca lAlAyate .
+9012c9033
+<       hA kazwaM puruzasya jIrRavayasaH putro'pyamitrAyate ..
+---
+>       hA kazwaM puruzasya jIrRavayasaH putro'pyAmitrAyate ..
+9053c9074
+<     guRadAdidryanirnidrEH kzudrEH kOSalaSAlinAm .
+---
+>     guRadAridryanirnidrEH kzudrEH kOSalaSAlinAm .
+9066c9087
+<     guRadozAvavApyete puMsAM SaMSIlanAdbuDEH .
+---
+>     guRadozAvavApyete puMsAM saMSIlanAdbuDEH .
+9069c9090
+< ; 2117 : page 1.414
+---
+> ; 2117 : page 1.415
+9115c9136
+< ; 2128 : page 1.416
+---
+> ; 2128 : page 1.417
+9130c9151
+<     guRA daSa snASaSIlaM Bajante balaM rUpaM svaravarRapraSudDiH .
+---
+>     guRA daSa snAnaSIlaM Bajante balaM rUpaM svaravarRapraSudDiH .
+9150c9171
+<     guRA yatra tu pujyante DAnyaM yatra susaMcitam .
+---
+>     guRA yatra tu pUjyante DAnyaM yatra susaMcitam .
+9177c9198
+<     guRAH sarvatra pUjyante na mahatyo'pi saMpadaH .
+---
+>     guRAH sarvatra pUjyante na mahanyo'pi saMpadaH .
+9190c9211
+<     rAjallakzmIH kuraNgIva dUraM dUraM palAyate ..
+---
+>     rAja~llakzmIH kuraNgIva dUraM dUraM palAyate ..
+9201c9222
+< +   <s>guRinAmaguRAnAM</s> s. den vorangehenden Spruch.
+---
+> +   <s>guRinAmaguRAnAM ca</s> s. den vorangehenden Spruch.
+9207c9228
+<     alireti vanAtkamalaM na durddurastvekavAso'pi ..
+---
+>     alireti vanAtkamalaM na dardurastvekavAso'pi ..
+9225c9246
+< ; 2154 : page 1.421
+---
+> ; 2154 : page 1.422
+9232c9253
+<     ciraM sa BuNkte calacAmArAMSukAM sitAtapatrABaraRAM nfpaSriyam ..
+---
+>     ciraM sa BuNkte calacAmAraMSukAM sitAtapatrABaraRAM nfpaSriyam ..
+9239c9260
+<     guRazveva hi kartavyaH prayatnaH puruzEH sadA .
+---
+>     guRezveva hi kartavyaH prayatnaH puruzEH sadA .
+9250c9271
+< ; 2160 : page 1.422
+---
+> ; 2160 : page 1.423
+9275c9296
+< ; 2166 : page 1.423
+---
+> ; 2166 : page 1.424
+9280,9281c9301,9302
+< ; 2167 : page 1.423
+< +   <s>guRo BUzaRatAM yAti</s> s. den voragehenden Spruch.
+---
+> ; 2167 : page 1.424
+> +   <s>guRo BUzaRatAM yAti</s> s. den vorangehenden Spruch.
+9285c9306
+< ; 2168 : page 1.423
+---
+> ; 2168 : page 1.424
+9292c9313
+<     SanEScarAbyAM pAdAByAM reje grahamayIva sA ..
+---
+>     SanEScarAByAM pAdAByAM reje grahamayIva sA ..
+9295c9316
+<     gurupatnyAM niSADISo brAhmaRyAM brAhmaRyAM pAkaSAsanaH .
+---
+>     gurupatnyAM niSADISo brAhmaRyAM pAkaSAsanaH .
+9298,9299c9319,9321
+< ; 2171 : page 1.424
+< +   <s>guruprayojanoddeSAt</s> s. Spruch 1271. <s>gurumaparADaM kftvA</s> s. spruch <s>mahatAM yo'parADyeta</s>.
+---
+> ; 2171 : page 1.425
+> +   <s>guruprayojanoddeSAt</s> s. Spruch 2171.
+> +   <s>gurumaparADaM kftvA</s> s. Spruch <s>mahatAM yo'parADyeta</s>.
+9325c9347
+<     jagadupakaraRam pavitrayonirnarapaSunA na nimIyate gavendraH ..
+---
+>     jagadupakaraRaM pavitrayonirnarapaSunA na nimIyate gavendraH ..
+9344,9345c9366,9367
+< 	guroH srutAM mitraBAryAM svAmisevakagehinIm .
+< 	yo gacCati pumAMlloke tamAhurbrahmaGAtinam ..
+---
+>     guroH sutAM mitraBAryAM svAmisevakagehinIm .
+>     yo gacCati pumA~lloke tamAhurbrahmaGAtinam ..
+9353c9375
+<     gfDradfzwirbakAlInaH SvacezwaH siMahavikramaH .
+---
+>     gfDradfzwirbakAlInaH SvacezwaH siMhavikramaH .
+9387,9388c9409,9410
+<     gfhAramBo hi HKAya na suKAya kadA ca na .
+<     sarpaH parakftaM veSya praviSya suKameDate ..
+---
+>     gfhAramBo hi duHKAya na suKAya kadA ca na .
+>     sarpaH parakftaM veSma praviSya suKameDate ..
+9420c9442
+<       kAryAkAryAvicAraRAM na kurute kroDapramattaH pumAn ..
+---
+>       kAryAkAryavicAraRAM na kurute kroDapramattaH pumAn ..
+9454c9476
+<     sTItiruccEH payodAnAM payoDInAmaDaH punaH ..
+---
+>     sTitiruccEH payodAnAM payoDInAmaDaH punaH ..
+9477c9499
+<     GarmArtaM na taTA suSItalajalEH snAna, M na myktAvalI
+---
+>     GarmArtaM na taTA suSItalajalEH snAnaM na muktAvalI
