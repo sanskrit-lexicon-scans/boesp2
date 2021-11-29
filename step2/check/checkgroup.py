@@ -805,6 +805,7 @@ def checkgroups(entries,fileout):
    m = re.search(regexstart,line)
    if m == None:
     #outarr.append('group problem:',line)
+    print('group problem:',line)
     gtype = '?'
    else:
     gtype = m.group(1)
