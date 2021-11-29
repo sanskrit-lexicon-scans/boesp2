@@ -1,0 +1,18 @@
+Documentation of coding conventions in boesp.all_ansi.txt and
+the utf8 version boesp_utf8.txt.  Generally, the coding conventions are
+the same for the two encodings. But there will be some differences.
+
+; -------------------------------------------------
+Prinipal xml-type section tags.
+; -------------------------------------------------
+<S> = Sanskrit 
+<D> = Deutsch 
+<A> = 1. Auflage 
+<F> = Fussnote 
+<V1> = Verbesserung/Nachtrag, Vol. 1 
+<V2> = Verbesserung/Nachtrag, Vol. 2 
+<V3> = Verbesserung/Nachtrag, Vol. 3 
+<H> = Header 
+<HS> = Cross reference 
+
+  

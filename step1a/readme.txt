@@ -160,3 +160,10 @@ Now Sampada and Andhrabharati will proofread.
 Comparison number 01 of two proofreadings of volume 1 digitizations.
 About 350 verses have differences (out of about 2200 verses).
 diff_verses.txt  provided back to the two proofreaders for review.
+; -------------------------------------------------------
+temp_boesp_06.txt
+  Correct missing or mislabeled V1,V2,V3.
+  ref: https://github.com/funderburkjim/boesp-prep/issues/31
+  Copied to step0/changes/boesp_22.txt
+  cp temp_boesp_06.txt ../step0/changes/boesp_22.txt
+  

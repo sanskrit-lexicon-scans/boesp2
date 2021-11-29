@@ -1,35 +1,7 @@
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
-This is a blank line.
 
-<S> = Sanskrit 
- 
-<D> = Deutsch 
- 
-<A> = 1. Auflage 
- 
-<F> = Fussnote 
- 
-<V1> = Verbesserung/Nachtrag, Vol. 1 
- 
-<V2> = Verbesserung/Nachtrag, Vol. 2 
- 
-<V3> = Verbesserung/Nachtrag, Vol. 3 
- 
-<H> = Header 
- 
-<HS> = Cross reference 
- 
- 
 <H> Boehtlingk, Indische Sprüche, Vol.· 
 1-3, 2. Auflage, St. Petersburg 1870· 
+[Seite1.1]
  
 <S> aMzo 'pi duSTadiSTAnAM pareSAM syAdvinAzakRt |· 
 vAlalezo 'pi vyAghrANAM patsyAjjIvitahAnaye ||· 
@@ -2742,12 +2714,17 @@ Reife grässlicher Uebelthaten?·
 {#bhRtyaiH#} und {#bhItyaiH#}.· 
 [Seite1.31]· 
  
-<F4.1>-- 160 , <i>a</i>, <gr>a.</gr> Lies {#atIndriyAyAM#}.· 
+<V2>160. ²b. {#tIvra#} ist mit· 
+{#azubhapAka#} zu verbinden und demnach· 
+zu übersetzen: als Verkünder der· 
+schrecklichen Folgen von Uebelthaten.· 
  
 <V3>160. ²b. {#tIvra#} ist mit· 
 {#azubhapAka#} zu verbinden und demnach· 
 zu übersetzen: als Verkünder der· 
 schrecklichen Folgen von Uebelthaten.· 
+ 
+<F4.1>-- 160 , <i>a</i>, <gr>a.</gr> Lies {#atIndriyAyAM#}.· 
  
 <S> atIva karkazAH stabdhA hiMsrajantubhirAvRtAH |· 
 durAsadAzca viSadAzca viSamA IzvarAH parvatA iva ||· 
@@ -7629,11 +7606,7 @@ Bomb. 31. ²b. {#zakro#} st. {#zakto#}.·
 ²d. {#nanu#} st. {#na tu#}. Vergl.· 
 Spruch 39.· 
  
-<V2>460. ²b. {#tIvra#} ist mit· 
-{#azubhapAka#} zu verbinden und demnach· 
-zu übersetzen: als Verkünder der· 
-schrecklichen Folgen von Uebelthaten.· 
- 
+  
 <S> apragalbhAH padanyAse jananIrAgahetavaH |· 
 santyeke bahulAlApAH kavayo bAlakA iva ||· 
  
@@ -11911,6 +11884,8 @@ ein Kranker und treu ein altes Weib.·
 {#vyAdhito#} unsere Aenderung für· 
 {#vyAdhiSTho#}; vgl. Spruch {#vidyA· 
 mitraM pravAse ca#}.· 
+ 
+<V3>709. Eine Variante von Spruch 7459.·
  
 <S> azaktAH zaktimAtmIyAM zlAghante ye ca durjanAH |· 
 te bhavantyupahAsAya mahatAmeva saMnidhau ||· 
@@ -17193,10 +17168,10 @@ halten.·
  
 <F>1019) MBH. 5, 1508.· 
  
-<V3>1019. ²b. {#sva#} Druckfehler für· 
-{#sa#}.· 
+<V2>1019. Lies: {#arjavAtsavyapatrapam#}.· 
  
-<V1>1019. Lies: {#arjavAtsavyapatrapam#}.· 
+<V3>1019. ²b. {#sva#} Druckfehler für {#sa#}.· 
+ 
  
 <S> ArtA devAnnamasyanti tapaH kurvanti rogiNaH |· 
 nirdhano vinayaM yAti vRddhA nArI pativratA ||· 
@@ -31879,11 +31854,13 @@ S4KDR. unter {#dharmAdhyakSa#}. auch·
 GA1RUD2A-P. 112 nach S4KDR.(unter)· 
 {#bhRtya#} mit folgenden Varianten: ²b.· 
 {#satya#}(wie wir vermuthet hatten) st.· 
-{#sarva#}. ²c. ²d. {#rUpeNa· 
-suprasannazca rAjAdhyakSo vi°#}.· 
+{#sarva#}. ²c. ²d. {#rUpeNa suprasannazca rAjAdhyakSo vi°#}.· 
+ 
+<V3>1830. = VR2DDHA-CA1N2. Berl. Hdschrr. 54. ²a. {#zama#} st. {#guNa#}.· 
+²c. {#pravINaH pezalo dakSa#} und {#paNIya vazarodhekSo#}.· 
+²d. {#rAjAdhyaso#} und {#rAjAdhekzo#}. Vgl. GALAN. Varr. 73.· 
  
 <HS>{#kulAcArajanAcAraiH#} s. Spruch {#yaH kulAbhijanAcAraiH#}.· 
- 
  
 <S> kulAdapi varaM zIlaM zIlaM varaM dAridryamAmyAt |· 
 rAjyadapi varaM vidyA tapaso 'api varam kSamA ||· 
@@ -32040,12 +32017,12 @@ Freundschaft und mit Verwandten Umgang·
 pflegt, der ist nicht verloren.· 
  
 <F>1841) CA1N2. 58 bei HAEB. S. 317.· 
-SAM3SKR2TAPA1T2HOP. 54. HOEFER, Leseb.· 
-73.· 
+SAM3SKR2TAPA1T2HOP. 54. HOEFER, Leseb. 73.· 
+ 
+<V3>1841. Vgl. Spruch 1183.· 
  
 <S> kule jAtAzca klizyante dauSkuleyazAnugAH |· 
 ADyairdaridrA 'vamatAH kiM nu duHkhataraM tataH ||· 
- 
  
 <D1842> Giebt es wohl etwas Traurigeres,· 
 als dass Männer aus edlem Geschlecht· 
@@ -32230,6 +32207,8 @@ vilasita#} st. {#vihasita; vapuSo#} und·
 {#vasatir#}. ²d. {#re#} und{#api#}· 
 fehlen, {#manuSyAm yadasi#} st. {#ma°· 
 va°#}.· 
+ 
+<V3>1851. Vgl. Spruch 2825.· 
  
 <F4.2>-- 1851 . Zwei Mal. <i>a</i>. [Seite4.2-209] Ein Mal {#nipatita#} st. {#niyamita#}. Ein Mal {#garte#} st. {#vAse#}. <i>b</i>. {#viSame#} und {#samaye#} st. {#viSamo;#} ein Mal {#viprayogaH#} st. {#copabhogaH#}. <i>c</i>. Ein Mal {#nArINAmapyavajJA vilasati niyataM vRddhabhAve#}. <i>d</i>. Ein Mal {#stokam#} st. {#svalpam#}.· 
  
@@ -35962,6 +35941,9 @@ und {#tAlasya#} st. {#bilvasya#}. ²d.·
 (tatrApadA) bhAjanaM#} st. {#tatraiva· 
 yA°#}.· 
  
+<V3>2048. CARR 436. Neue Varianten: ²b. {#gacchandezamanAtapaM drutagatistAlasya mUlaM#}.· 
+²c. {#tatrApyekamahAphalena#}. ²d. {#daivahatakas#} st. {#bhAgyarahitas#}.· 
+ 
 <S> khyAtaH zakro bhagAGko vidhurapi malino mAdhavo gopajAto· 
 ezyAputraH vasiSThaH arujapadayamaH sarvabhakSyo hutAzaH |· 
 vyAso matsyodarIyaH salavaNa udadhiH pANDavA jArajAtA· 
@@ -35994,6 +35976,9 @@ Ehebruch ertappt hatte, folgenden Fluch·
 aus: {#varAggalubdhasyAGge te· 
 tatsahasraM bhaviSyati#} KATHA1S. 17,· 
 144. Vgl. Spruch 1110. [Seite1.401]· 
+ 
+<V3>2049. ²a. {#bhagAGgo#} auch KA1VYAKAL. und KA1VYAS.· 
+²b. {#vezyAputraH#} bei uns ein lapsus calami für {#°putro#}.· 
  
 <S> khyAtaH sarvarasAnAM hi lavaNo rasa uttamaH |· 
 gRSNIyAttaM vinA tena vyaJjanaM gomayAyate ||· 
@@ -39009,19 +38994,17 @@ kein Wandel ihres angeborenen Wesens.·
  
 <F>2219) SUBHA1S2. 208. ²a.· 
 {#candanazcArugandhiH#}· 
+die Hdschr. ²c. {#kAntivarNaM#}· 
+die Hdschr. ²d. {#nobhamAnAM#} die Hdschr.· 
+[Seite1.435]· 
+ 
+<V2>2219. Eine Variante von 2684.· 
+ 
+<V3>2219. Eine Variante von Spruch 2684.·
  
 <F4.2>-- 2219 . KALPATARU. <i>a</i>. {#cArugandhaM#}. <i>b</i>. {#svAdu caivekSukANDam#}. <i>d</i>. {#na prANAnte pra°#}.· 
  
-<V3>2219. Eine Variante von Spruch 2684.· 
- 
-<V2>2219. die Hdschr. ²c. {#kAntivarNaM#}· 
-die Hdschr. ²d. {#nobhamAnAM#} die· 
-Hdschr.· 
- 
-<V2>2219. Eine Variante von 2684.· 
-[Seite1.435]· 
- 
-<S> cakradharo 'pi suratvaM surabhAve sakalasurapatitvaM ca |· 
+<S> cakradharo 'pi suratvaM sura bhAve sakalasurapatitvaM ca |· 
 surapatirapi mokSapadaM tathApi na nivartate tRSNA ||· 
  
  
@@ -40841,6 +40824,8 @@ zusammen.·
 218. ²a. {#jaDe#} unsere Aenderung für· 
 {#jaDaH#}.· 
  
+<V3>2322. ²a. {#jaDaH#} auch KA1VYAKAL. und KA1VYAS.· 
+ 
 <S> janaM janapadA nityamarcayanti nRpArcitam |· 
 nRpeNAvamato yastu sa sarvairavamanyate ||· 
  
@@ -41525,6 +41510,8 @@ wo <g></g> im Gegensatz steht zu <g></g>·
 ²c. {#dhAryamANo#} WEBER'S Verbesserung· 
 für {#dhAryamAne#} und {#dhAryamAno#}.· 
 Vgl. Spruch 147.· 
+ 
+<V3>2361. Vgl. noch Spruch 6882.· 
  
 <S> jalasnAne malatyAgI dayAsnAne sadA zuciH |· 
 tapaHsnAnaM haretpApaM jJAnasnAnaM paraM padam ||· 
@@ -54263,6 +54250,9 @@ dhanaireva pApAnpunarnistaranti#}. ²c.·
 dhanebhyo viziSTo na loke 'sti kazcit#}.· 
 ²d. {#arjayiddaM#} an beiden Stellen.· 
  
+<V3>3073. = BAHUDARS4ANA 20 (hier nur die zweite Hälfte). 48. Neue Varianten:· 
+²b. {#dustaranti#} st. {#nistaranti#}. ²c. {#dhanebhyo na kazcitsuhRdvidyate ca#}.· 
+ 
 <S> dhanairviyuktasya narasya loke kiM jIvitenAdita eva yAvat |· 
 yasya pratIkAranirarthakatvAtkopaprasAdA viphalIbhavanti ||· 
  
@@ -62399,11 +62389,11 @@ allzu Schwächlichen, einem Kranken und·
 einem, dem ein Glied fehlt.· 
  
 <F>3554) SUBHA1S2. 186. ²b.· 
-{#nAtidurvyane#} die Hdschr. ²d.· 
-{#SaDbhiH#} die Hdschr.· 
+{#nAtidurvyane#} die Hdschr. ²d. {#SaDbhiH#} die Hdschr.· 
  
-<V2>3554. Vgl. Spruch {#mUrkhe nirdhane· 
-dUrasthe#}.· 
+<V2>3554. Vgl. Spruch {#mUrkhe nirdhane dUrasthe#}.· 
+ 
+<V3>3554. Vgl. Spruch 4918.· 
  
 <S> nAtinIcairna vApyuccairbhAvitavyaM phalArthinA |· 
 stokaM natvA pibannambhaH kumbhaH prApto 'tipUrNatAm ||· 
@@ -77821,7 +77811,8 @@ Mann um sein Ansehen.·
 als Neutrum! ²d. {#SaDbhir#} gegen das· 
 Versmaass die Hdschr.· 
  
-<V3>4434. = CARR 412.· 
+<V3>4434. NI1TIS4A1STRA in Telugu-Charr. 105.· 
+²c. {#gardabha#} und {#vANI#} st. {#vAkyaM#}.· 
  
 <S> bAlastAvatkrIDAsaktastaruNastAvattaruNIraktaH |· 
 vRddhastAvaccintAmagnaH parame brahmaNi ko 'pi na lagnaH ||· 
@@ -79573,8 +79564,9 @@ gethan, dass sie mit dem Eintritt der·
 Regenzeit verstummt sind: wenn Frösche· 
 reden, steht ja Schweigen wohl an.· 
  
-<F>4531) NI1TIRATNA 11 bei HAEB. 503. 10· 
-in KA1VYAKAL. 9.· 
+<F>4531) NI1TIRATNA 11 bei HAEB. 503. 10 in KA1VYAKAL. 9.· 
+ 
+<V3>4531. = CARR 412.· 
  
 <F4.2>-- 4531 (79, 3). SABHA1TARAM3GA. <i>a</i>. {#bhadraM bhadraM kRtaM#}. {%c. d.%} {#vaktAro dardurA yatra tatra maunaM samAcaret#}.· 
  
@@ -81812,6 +81804,8 @@ sieben sind dazu da um Andere zu quälen.·
  
 <F>4650) CARR 443.· 
  
+<V3>4650. = NI1TIS4A1STRA in Telugu-Charr. 99.· 
+ 
 <S> makSikA vraNamicchanti dhanamicchanti pArthivAH |· 
 nIcAH kalahamicchanti zAntimicchanti sAdhavaH ||· 
  
@@ -83226,8 +83220,10 @@ Lohnes gewahr: Einige tragen den·
 Palankin, Andere reisen im Palankin.· 
  
 <F>4735) MBH. 12, 12552. ²b.· 
-{#°saGgiSu#} ed. Calc. Vgl. MBH. 3,· 
-13863.· 
+{#°saGgiSu#} ed. Calc. Vgl. MBH. 3,13863.· 
+ 
+<V3>4735. ²b. Ich würde jetzt {#°saGgiSu#} vorziehen:· 
+Man wird bei denen, die Werken obliegen, einer u. s. w.· 
  
 <S> mahatastarasA vilaGghayannigadoSeNa kudhIrvinazyati |· 
 kurute na khalu svayecachayA zalabhAnindhanamiddhadIdhitiH ||· 
@@ -83404,8 +83400,11 @@ Schmuck des Ka1liya.·
 278. ²a. ²b. {#mahatAM paribhava· 
 zreSThaM na nIco mAnamuttamaM#} beide· 
 Hdschrr. ²c. {#kaMsAricaNAghAto#} die· 
-eine, {#kazAricaraNAghAte#} die andere· 
-Hdschr.· 
+eine, {#kazAricaraNAghAte#} die andereHdschr.· 
+ 
+<V3>4745. ²c. {#°caraNAghAto#} ein lapsus calami für {#°caraNAghAtaH#}.· 
+Aus KLATT's Dissertation ersehe ich, dass eine Hdschr. in ²a. {#mahatA paribhavaM#},· 
+in ²b. {#na nIcAt mAnum#| und in ²d. {#kAlIyasya#} liest.· 
  
 <S> mahatA spardhamAnasya vipadeva garIyasI |· 
 dantabhaGgo hi nAgAnAM zlAghyo girividAraNe ||· 
@@ -83566,6 +83565,9 @@ Pracht.·
 <F>4755) PAN5CAT. ed. KOSEG. III, 58.· 
 ed. Bomb. 61. Vgl. Spruch 4764.· 
 [Seite3.23]· 
+ 
+<V3>4755. Vgl. BAHUDARS4ANA 67:· 
+{#sAdhusaGgaguNenaiva sAdhutvamupjAyate | padmapattrasthitaM vAri muktikeva samIkSyate ||#}· 
  
 <F4.2>-- 4755 . <i>a</i>. {#saMsargaH#}. <i>c</i>. {#vAri#} st. {#toyaM#}.· 
  
@@ -84237,8 +84239,10 @@ des Geldes.·
 KA1VYAKAL. 10. KA1VYAS. 42.· 
 KAVITA1RATNA1KARA 20 bei CARR 378. ²d.· 
 {#svArthasya#} st. {#hyarthasya#};· 
-{#upArjaya srRNu#} (so) {#sakhe· 
-cArthena#} CARR.· 
+{#upArjaya srRNu#} (so) {#sakhe cArthena#} CARR.· 
+ 
+<V3>4790. = NI1TIS4A1STRA in Telugu-Charr. 108.· 
+²c. {#kurute syAlAvamAtraM#}. ²d. {#upArjaya zRNu sakhe hyarthena#}.· 
  
 <S> mAtA pitA bAndhavAnAM variSThau bhAryA jarA bIjamAtraM nu putraH |· 
 bhrAtA zatruH klinnapANirvayasya AtmA hyikaH sukhaduHkhasya bhoktA ||· 
@@ -84500,8 +84504,9 @@ statt der acc. {#paradArAMzca#} u. s. w.·
 des zweiten {#pazyati; vIkSante· 
 dharmabuddhayaH#}. Vgl. Spruch 905.· 
  
-<HS> {#mAtRvatparadArANi (paradAreSu)#} s. den vorangehenden Spruch.· 
+<V3>4805. = NI1TIS4A1STRA in Telugu-Charr. 6. Wird NAKULA in den Mund gelegt.· 
  
+<HS> {#mAtRvatparadArANi (paradAreSu)#} s. den vorangehenden Spruch.· 
  
 <S> mAtRhInazizujIvanaM vRthA kAntahInanavayauvanaM tathA |· 
 zAntihInatapasaH phalaM vRthA tintiDIrasavihInabhojanam ||· 
@@ -84517,6 +84522,9 @@ Tamarindensaft.·
  
 <F>4806) CARR 444. ²d. {#tintiDi#}· 
 unsere Aenderung für {#tiMtriNI#}.· 
+ 
+<V3>4806. = Ebend. 92. ²a. ²c. {#vRdhA#}. ²d. Gleichfalls {#tiMtriNI#},· 
+wie CARR auch sonst schreibt.· 
  
 <S> mAteva rakSati pitova hite niyuGkte bhAryeva cAbhiramayatyapanIya khedam |· 
 kIrtiM ca dikSu vitanoti tanoti vittaM vidyA karoti sakalaM khalu bandhukRtyam ||· 
@@ -84693,11 +84701,11 @@ Schritt und Tritt wäre ihm lieber.·
  
 <F>4815) BHARTR2. bei SCHIEFNER und· 
 WEBER S. 23. ²a. {#udvahataH puMso#}· 
-unsere Aenderung für {#udvahatAM· 
-puMsAM#}.· 
+unsere Aenderung für {#udvahatAM puMsAM#}.· 
+
+ <V3>4815. Vgl. Spruch 6003.· 
  
 <HS> {#mAnamudvahatAM puMsAm#} s. den vorangehenden Spruch.· 
- 
  
 <S> mAnaM muJcati gauravaM pariharatyAyAti daNDAtmatAM lajjAmutsRjati zrayatyakaruNAM nIcatvamAlambate |· 
 bhAryAbandhusuhRtsuteSvapakRtIrnAnAvidhAzceSTate kiM kiM yanna karoti ninditamapi prANI kSudhA pIDitaH ||· 
@@ -91298,12 +91306,12 @@ theilhaftig, so trifft ihn keinerlei·
 Tadel: was er erlangen soll, erlangt er· 
 doch.· 
  
-<F>5211) MBH. 10, 85. ²c. {#kiMcit#} ed.· 
-Calc.· 
- 
-<F4.2>-- 5211 . <i>a</i>. Lies {#dakSaH#}.· 
- 
+<F>5211) MBH. 10, 85. ²c. {#kiMcit#} ed. Calc.· 
+
 <V3>5211. ²a. Lies {#dakSaH#}.· 
+
+<F4.2>-- 5211. ²a. Lies {#dakSaH#}.· 
+
  
 <S> yadi dahatyanlo 'tra kimadgutaM yadi ca gauravamadriSu kiM tataH |· 
 lavaNamambu sadaiva mahodadheH prakRtireva satAmaviSAditA ||· 
@@ -113930,13 +113938,11 @@ Klugen.·
 <F>6525) MBH. 3, 62. 11, 67. 12, 751.· 
 6497, ²b. 6498, ²a. 12483. 18, 204, ²b.· 
 205, ²a. HIT. ed. SCHL. und JOHNS. I, 2.· 
-²a. ²b. {#sthAnaM#}. ²a. Ein Mal· 
-{#harSa#} st. {#zoka#}. ²b. Ein Mal· 
-{#harSa#} st. {#bhaya#}.· 
+²a. ²b. {#sthAnaM#}. ²a. Ein Mal {#harSa#} st. {#zoka#}.· 
+²b. Ein Mal {#harSa#} st. {#bhaya#}.· 
  
 <S> zokAnna dRzyate prajJA zokAdvRddhirna dRzyate |· 
 zokAnna dRzyate dharmo nAsti zokasamo ripuH ||· 
- 
  
 <D6526> Der Kummer bewirkte es, dass· 
 weder Verstand, noch Wohlfahrt, noch· 
@@ -113948,6 +113954,8 @@ gleich käme.·
 {#pazyate#} st. {#dRzyate#} die Hdschr.· 
 ²b. {#zokAnna pazyate vRddhiH#} die· 
 Hdschr. ²c. {#dharmaH#} die Hdschr.· 
+ 
+<V3>6526. Auch in Spruch 6921 haben wir das fehlerhafte {#pazyate#} für {#dRzyate#}.· 
  
 <S> zokArAtibhayatrANaM prItivizrambhabhAjanam |· 
 kena ratnamidaM sRSTaM mitramityakSaradvayam ||· 
@@ -119688,6 +119696,8 @@ Bomb. 263. HIT. ed. SCHL. II, 143.·
 JOHNS. 130. ²a. {#parApannAH#} und· 
 {#parAdhInAH#} st. {#parAyattAH#}. ²d.· 
 {#rAjasaMzritAH#} und {#rAjasevakAH#}.· 
+ 
+<V3>6869. = BAHUDARS4ANA 110. ²d. {#ke#} vor {#ye#} eingeschoben. Die einzige neue Variante.
  
 <S> saMpattezca vipattezca daivameva hi kAraNam |· 
 iti daivaparo dhyAyannAtmanA na viceSTate ||· 

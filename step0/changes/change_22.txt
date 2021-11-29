@@ -1,0 +1,7 @@
+; Manual revision.
+; Correct missing and mislabeled V1,V2,V3
+; Remove the 'This line is blank' lines temporarily in boesp_21.txt.
+; Remove the 'tag definition lines' (such as '<S> = Sanskrit')
+; and put into file step0/boesp-meta.txt file.
+; Add [Seite1.1] in <H> block before first Spruch.
+; Ref: https://github.com/funderburkjim/boesp-prep/issues/31
