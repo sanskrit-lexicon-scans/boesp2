@@ -1,0 +1,307 @@
+; repositioning of 9 <F4.1C> lines. See comments in https://github.com/funderburkjim/boesp-prep/issues/29 for details.
+1 old <F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
+1 new This is a blank line.
+;-----------------
+2 old <F4.1C>-- S. 624, Z. 9 v. u. Lies 777 st. 776.· 
+2 new This is a blank line.
+;-----------------
+3 old <F4.1C>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.· 
+3 new This is a blank line.
+;-----------------
+4 old <F4.1C>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.· 
+4 new This is a blank line.
+;-----------------
+5 old <F4.1C>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.· 
+5 new This is a blank line.
+;-----------------
+6 old <F4.1C>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».· 
+6 new This is a blank line.
+;-----------------
+7 old <F4.1C>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
+7 new This is a blank line.
+;-----------------
+8 old <F4.1C>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.· 
+8 new This is a blank line.
+;-----------------
+9 old <F4.1C>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSya°#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.· 
+9 new This is a blank line.
+;-----------------
+10 old  
+10 new This is a blank line.
+;-----------------
+11 old  
+11 new 
+;-----------------
+32 old 1, 2. Auflage, St. Petersburg 1870· 
+32 new 1-3, 2. Auflage, St. Petersburg 1870· 
+;-----------------
+13038 old <D777><A290> In dem fürwahr nichtigen· 
+13038 new <D777><A290> In dem fürwahr nichtigen Leben ist das Haus des Schwiegervaters· 
+;-----------------
+13039 old Leben ist das Haus des Schwiegervaters· 
+13039 new das Beste: S4iva ruht auf dem Hima1laya (dem Vater seiner Gattin Durga1),· 
+;-----------------
+13040 old das Beste: S4iva ruht auf dem Hima1laya· 
+13040 new Vis2n2u ruht im grossen Ocean (dem Vater seiner Gattin Laks2mi1).· 
+;-----------------
+13041 old (dem Vater seiner Gattin Durga1),· 
+13041 new  
+;-----------------
+13042 old Vis2n2u ruht im grossen Ocean (dem Vater· 
+13042 new <F>777) HALA1YUDHA, DHARMAVIVEKA 12 bei HAEB. 2. 509.· 
+;-----------------
+13043 old seiner Gattin Laks2mi1).· 
+13043 new  
+;-----------------
+13044 old  
+13044 new <V3>777. = NITIS4A1STRA in Telugu-Charr. 116. CARR 381. ²a. {#asAraM khalu saMsAraM#}· 
+;-----------------
+13045 old <F>777) HALA1YUDHA, DHARMAVIVEKA 12 bei· 
+13045 new NI1TIS4. ²c. ²d. {#himAlaye haraH zete hariH zete ma°#} Beide.· 
+;-----------------
+13046 old HAEB. 2. 509.· 
+13046 new  
+;-----------------
+13047 old  
+13047 new <F4.1>-- S. 624, Z. 9 v. u. Lies 777 st. 776.· 
+;-----------------
+13048 old <F4.2>-- 777 . SPHUT2AS4LOKA. <i>d</i>. {#hariH#} st. {#viSNuH#}.· 
+13048 new  
+;-----------------
+13049 old  
+13049 new <F4.2>-- 777 . SPHUT2AS4LOKA. <i>d</i>. {#hariH#} st. {#viSNuH#}.· 
+;-----------------
+13050 old <S> asAre khalu saMsAre sAraM sAraGgalocanA |· 
+13050 new  
+;-----------------
+13051 old tadarthaM dhanamicchanti tattyAge tu dhanena kim ||· 
+13051 new <S> asAre khalu saMsAre sAraM sAraGgalocanA |· 
+;-----------------
+13052 old  
+13052 new tadarthaM dhanamicchanti tattyAge tu dhanena kim ||· 
+;-----------------
+37877 old ²d. {#mRgendrasya#} st. {#ca siMhasya#}· 
+37877 new ²d. {#mRgendrasya#} st. {#ca siMhasya#} NI1TIS4.· 
+;-----------------
+37878 old NI1TIS4.· 
+37878 new  
+;-----------------
+37879 old  
+37879 new <F4.1>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.· 
+;-----------------
+37880 old <S> guNena spRhaNIyaH syAnna rUpeNa yuto naraH |· 
+37880 new  
+;-----------------
+37881 old saugandhyahInaM nadiyaM puSpaM kAntamapi kvacit ||· 
+37881 new <S> guNena spRhaNIyaH syAnna rUpeNa yuto naraH |· 
+;-----------------
+37882 old  
+37882 new saugandhyahInaM nadiyaM puSpaM kAntamapi kvacit ||· 
+;-----------------
+56233 old Veranlassung entstehen sowohl Freunde· 
+56233 new Veranlassung entstehen sowohl Freunde als Feinde.· 
+;-----------------
+56234 old als Feinde.· 
+56234 new  
+;-----------------
+56235 old  
+56235 new <F>3187) GA1RUD2A-P. im S4KDR. unter {#nItisAra#}; · 
+;-----------------
+56236 old <F>3187) GA1RUD2A-P. im S4KDR. unter· 
+56236 new ohne Angabe einer Aut. unter {#mitra#}; GALAN. Varr. 133.· 
+;-----------------
+56237 old {#nItisAra#}; ohne Angabe einer Aut.· 
+56237 new  
+;-----------------
+56238 old unter {#mitra#}; GALAN. Varr. 133.· 
+56238 new <V3>3187. = VR2DDHA-CA1N2. Berl. Hdschrr. 77. ²b. {#kasyacitpriyaH#}.·  
+;-----------------
+56239 old  
+56239 new ²c. ²d. {#kAraNAdeva jAyante mitrANi ripavastathA#}.· 
+;-----------------
+56240 old <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
+56240 new  
+;-----------------
+56241 old kAraNena hi jAnAti mitrANi ca ripUMstathA ||· 
+56241 new <F4.1>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.· 
+;-----------------
+56243 old  
+56243 new <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
+;-----------------
+56244 old <D3188><A1344> Niemand ist (von Hause· 
+56244 new kAraNena hi jAnAti mitrANi ca ripUMstathA ||· 
+;-----------------
+56245 old aus) eines Andern Freund, Niemand eine· 
+56245 new  
+;-----------------
+56246 old andern Feind: bei einer bestimmten· 
+56246 new <D3188><A1344> Niemand ist (von Hause· 
+;-----------------
+56247 old Veranlssung lernt man ja Freunde wie· 
+56247 new aus) eines Andern Freund, Niemand eine· 
+;-----------------
+56248 old Feinde kennen.· 
+56248 new andern Feind: bei einer bestimmten· 
+;-----------------
+56249 old  
+56249 new Veranlssung lernt man ja Freunde wie· 
+;-----------------
+56250 old <F>3188) CA1N2. 23 bei HAEB. 314.· 
+56250 new Feinde kennen.· 
+;-----------------
+56252 old <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
+56252 new <F>3188) CA1N2. 23 bei HAEB. 314.· 
+;-----------------
+56253 old vyavahAreNa mitrANi jAyante ripavastathA ||· 
+56253 new  
+;-----------------
+56254 old  
+56254 new <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
+;-----------------
+56255 old  
+56255 new vyavahAreNa mitrANi jAyante ripavastathA ||· 
+;-----------------
+56256 old <D3189><A1344> Niemand ist (von Hause· 
+56256 new  
+;-----------------
+56257 old aus) eines Andern Freund, Niemand eines· 
+56257 new <D3189><A1344> Niemand ist (von Hause· 
+;-----------------
+56258 old Andern Feind: durch den Verkehr· 
+56258 new aus) eines Andern Freund, Niemand eines· 
+;-----------------
+56259 old entstehen Freunde wie Feinde.· 
+56259 new Andern Feind: durch den Verkehr· 
+;-----------------
+56260 old  
+56260 new entstehen Freunde wie Feinde.· 
+;-----------------
+56261 old <F>3189) HIT. ed. SCHL. I, 65. JOHNS.· 
+56261 new  
+;-----------------
+56262 old 73.· 
+56262 new <F>3189) HIT. ed. SCHL. I, 65. JOHNS. 73.· 
+;-----------------
+56264 old <F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] {#«nAtra kazci°»#} d. i. 3556.· 
+56264 new <F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] · 
+;-----------------
+56265 old  
+56265 new {#«nAtra kazci°»#} d. i. 3556.· 
+;-----------------
+56266 old <V3>3189. = VR2DDHA-CA1N2. Berl.· 
+56266 new  
+;-----------------
+56267 old Hdschrr. 77. ²b. {#kasyacitpriyaH#}. ²c.· 
+56267 new  
+;-----------------
+56268 old ²d. {#kAraNAdeva jAyante mitrANi· 
+56268 new  
+;-----------------
+56269 old rapavastathA#}.· 
+56269 new  
+;-----------------
+65763 old {#asiddhazca#}. ²d. {#abhogasya#}. Vgl.· 
+65763 new {#asiddhazca#}. ²d. {#abhogasya#}. Vgl. GALAN. CA1N2. <g></g> 12.· 
+;-----------------
+65764 old GALAN. CA1N2. <g></g> 12.· 
+65764 new  
+;-----------------
+65765 old  
+65765 new <F4.1>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.· 
+;-----------------
+65766 old <S> nirguNeSvapi sattveSu dayAM kurvanti sAdhavaH |· 
+65766 new  
+;-----------------
+65767 old nahi saMharate jyotsnAM candrazcANDAlavezmani ||· 
+65767 new <S> nirguNeSvapi sattveSu dayAM kurvanti sAdhavaH |· 
+;-----------------
+65768 old  
+65768 new nahi saMharate jyotsnAM candrazcANDAlavezmani ||· 
+;-----------------
+69762 old Schreibfehler). BAHUDARS4ANA in· 
+69762 new Schreibfehler). BAHUDARS4ANA in Telugu-Cahrr. 83. CARR 464.· 
+;-----------------
+69763 old Telugu-Cahrr. 83. CARR 464.· 
+69763 new  
+;-----------------
+69764 old  
+69764 new <F4.1>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».· 
+;-----------------
+69765 old <S> paropakaraNaM yeSAM jAgarti hRdaye satAm |· 
+69765 new  
+;-----------------
+69766 old nazyanti vipadasteSAM saMpadaH syuH pade pade ||· 
+69766 new <S> paropakaraNaM yeSAM jAgarti hRdaye satAm |· 
+;-----------------
+69767 old  
+69767 new nazyanti vipadasteSAM saMpadaH syuH pade pade ||· 
+;-----------------
+72247 old {#nItijJA buddhisaMpannA#}. ²d. {#khalu· 
+72247 new {#nItijJA buddhisaMpannA#}. ²d. {#khalu pUjitA#}.· 
+;-----------------
+72248 old pUjitA#}.· 
+72248 new 
+;-----------------
+72249 old  
+72249 new <F4.1>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
+;-----------------
+72250 old <V2>4116. Statt {#zIlair#} in ²a. wird· 
+72250 new 
+;-----------------
+72251 old wohl {#zilpair#} zu lesen sein.· 
+72251 new <V2>4116. Statt {#zIlair#} in ²a. wird wohl {#zilpair#} zu lesen sein.· 
+;-----------------
+72253 old <HS>{#putrIti jAtA mahatIha cintA#} s. Spruch 2390.· 
+72253 new  
+;-----------------
+72254 old  
+72254 new <HS>{#putrIti jAtA mahatIha cintA#} s. Spruch 2390.· 
+;-----------------
+97627 old 29, 38, wo ²b. {#vrajanyAti pipIlikaH#}· 
+97627 new 29, 38, wo ²b. {#vrajanyAti pipIlikaH#} lautet.· 
+;-----------------
+97628 old lautet.· 
+97628 new  
+;-----------------
+97629 old  
+97629 new <F4.1>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.· 
+;-----------------
+97630 old <S> yo jitaH paJcavargoNa sahajenAtmakarSiNA |· 
+97630 new  
+;-----------------
+97631 old Apadastasya vardhante zuklapakSa ivodurAT ||· 
+97631 new <S> yo jitaH paJcavargoNa sahajenAtmakarSiNA |· 
+;-----------------
+97632 old  
+97632 new Apadastasya vardhante zuklapakSa ivodurAT ||· 
+;-----------------
+113988 old vardhate vyAdhirmAMsaM mAMsena vardhate· 
+113988 new vardhate vyAdhirmAMsaM mAMsena vardhate ||#}· 
+;-----------------
+113989 old ||#}· 
+113989 new  
+;-----------------
+113990 old  
+113990 new <F4.1>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSya°#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.· 
+;-----------------
+113991 old <S> zoko nAzayati prajJAM zoko nAzayati zrutam |· 
+113991 new  
+;-----------------
+113992 old zoko dhRtiM nAzayati nAsti zokasamaM tamaH ||· 
+113992 new <S> zoko nAzayati prajJAM zoko nAzayati zrutam |· 
+;-----------------
+113993 old  
+113993 new zoko dhRtiM nAzayati nAsti zokasamaM tamaH ||· 
+;-----------------
+125738 old <S> sthAne nivAsaH sukulaM kalatraM putraH pavitraH svakanAnurAgaH |· 
+125738 new <F4.1>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
+;-----------------
+125739 old nyAyAcca vintaM svahitaM ca cittaM nicchadmadharmo hi sukhAni sapta ||· 
+125739 new 
+;-----------------
+125740 old  
+125740 new <S> sthAne nivAsaH sukulaM kalatraM putraH pavitraH svakanAnurAgaH |· 
+;-----------------
+125741 old  
+125741 new nyAyAcca vintaM svahitaM ca cittaM nicchadmadharmo hi sukhAni sapta ||· 
+;-----------------

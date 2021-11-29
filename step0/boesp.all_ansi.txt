@@ -1,14 +1,14 @@
-<F4.1C>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
-<F4.1C>-- S. 624, Z. 9 v. u. Lies 777 st. 776.· 
-<F4.1C>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.· 
-<F4.1C>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.· 
-<F4.1C>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.· 
-<F4.1C>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».· 
-<F4.1C>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
-<F4.1C>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.· 
-<F4.1C>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSya°#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.· 
- 
- 
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+This is a blank line.
+
 <S> = Sanskrit 
  
 <D> = Deutsch 
@@ -29,7 +29,7 @@
  
  
 <H> Boehtlingk, Indische Sprüche, Vol.· 
-1, 2. Auflage, St. Petersburg 1870· 
+1-3, 2. Auflage, St. Petersburg 1870· 
  
 <S> aMzo 'pi duSTadiSTAnAM pareSAM syAdvinAzakRt |· 
 vAlalezo 'pi vyAghrANAM patsyAjjIvitahAnaye ||· 
@@ -13035,21 +13035,21 @@ rührt von uns her.·
 haro himAlaye zete viSNuH zete mahodadhau ||· 
  
  
-<D777><A290> In dem fürwahr nichtigen· 
-Leben ist das Haus des Schwiegervaters· 
-das Beste: S4iva ruht auf dem Hima1laya· 
-(dem Vater seiner Gattin Durga1),· 
-Vis2n2u ruht im grossen Ocean (dem Vater· 
-seiner Gattin Laks2mi1).· 
+<D777><A290> In dem fürwahr nichtigen Leben ist das Haus des Schwiegervaters· 
+das Beste: S4iva ruht auf dem Hima1laya (dem Vater seiner Gattin Durga1),· 
+Vis2n2u ruht im grossen Ocean (dem Vater seiner Gattin Laks2mi1).· 
  
-<F>777) HALA1YUDHA, DHARMAVIVEKA 12 bei· 
-HAEB. 2. 509.· 
+<F>777) HALA1YUDHA, DHARMAVIVEKA 12 bei HAEB. 2. 509.· 
+ 
+<V3>777. = NITIS4A1STRA in Telugu-Charr. 116. CARR 381. ²a. {#asAraM khalu saMsAraM#}· 
+NI1TIS4. ²c. ²d. {#himAlaye haraH zete hariH zete ma°#} Beide.· 
+ 
+<F4.1>-- S. 624, Z. 9 v. u. Lies 777 st. 776.· 
  
 <F4.2>-- 777 . SPHUT2AS4LOKA. <i>d</i>. {#hariH#} st. {#viSNuH#}.· 
  
 <S> asAre khalu saMsAre sAraM sAraGgalocanA |· 
 tadarthaM dhanamicchanti tattyAge tu dhanena kim ||· 
- 
  
 <D778><A3649> In dem fürwahr nichtigen· 
 Leben ist eine Gazellenäugige das Beste;· 
@@ -37874,12 +37874,12 @@ Verbesserung für {#vasantastha#}.·
 <V3>2152. = BAHUDARS4ANA 85.· 
 CARR 404. ²a. {#nirguNI#}· 
 NI1TIS4. ²b. {#nirbalI#} NI1TIS4.· 
-²d. {#mRgendrasya#} st. {#ca siMhasya#}· 
-NI1TIS4.· 
+²d. {#mRgendrasya#} st. {#ca siMhasya#} NI1TIS4.· 
+ 
+<F4.1>-- S. 633, Spr. 2152. Lies drei Mal BAHUD. st. NI1TIS4.· 
  
 <S> guNena spRhaNIyaH syAnna rUpeNa yuto naraH |· 
 saugandhyahInaM nadiyaM puSpaM kAntamapi kvacit ||· 
- 
  
 <D2153><A858> Man fühlt sich zum· 
 tugendhaften Manne hingezogen, nicht zum· 
@@ -56230,16 +56230,18 @@ kAraNAdeva jAyante mitrANi ripavastathA ||·
 <D3187><A1344> Niemand ist (von Hause· 
 aus) eines Andern Freund, Niemand eines· 
 Andern Feind: nur in Folge einer· 
-Veranlassung entstehen sowohl Freunde· 
-als Feinde.· 
+Veranlassung entstehen sowohl Freunde als Feinde.· 
  
-<F>3187) GA1RUD2A-P. im S4KDR. unter· 
-{#nItisAra#}; ohne Angabe einer Aut.· 
-unter {#mitra#}; GALAN. Varr. 133.· 
+<F>3187) GA1RUD2A-P. im S4KDR. unter {#nItisAra#}; · 
+ohne Angabe einer Aut. unter {#mitra#}; GALAN. Varr. 133.· 
+ 
+<V3>3187. = VR2DDHA-CA1N2. Berl. Hdschrr. 77. ²b. {#kasyacitpriyaH#}.·  
+²c. ²d. {#kAraNAdeva jAyante mitrANi ripavastathA#}.· 
+ 
+<F4.1>-- S. 639, Z. 2. Lies 3187 st. 3189 und streiche in Folge dessen {%c. d.%} u. s. w.· 
  
 <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
 kAraNena hi jAnAti mitrANi ca ripUMstathA ||· 
- 
  
 <D3188><A1344> Niemand ist (von Hause· 
 aus) eines Andern Freund, Niemand eine· 
@@ -56252,21 +56254,19 @@ Feinde kennen.·
 <S> na kazcitkasyacinmitraM na kazcitkasyacidripuH |· 
 vyavahAreNa mitrANi jAyante ripavastathA ||· 
  
- 
 <D3189><A1344> Niemand ist (von Hause· 
 aus) eines Andern Freund, Niemand eines· 
 Andern Feind: durch den Verkehr· 
 entstehen Freunde wie Feinde.· 
  
-<F>3189) HIT. ed. SCHL. I, 65. JOHNS.· 
-73.· 
+<F>3189) HIT. ed. SCHL. I, 65. JOHNS. 73.· 
  
-<F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] {#«nAtra kazci°»#} d. i. 3556.· 
+<F4.1>-- 3189 . In der darauf folgenden Zeile ist zu lesen: [Seite4.1-663] · 
+{#«nAtra kazci°»#} d. i. 3556.· 
  
-<V3>3189. = VR2DDHA-CA1N2. Berl.· 
-Hdschrr. 77. ²b. {#kasyacitpriyaH#}. ²c.· 
-²d. {#kAraNAdeva jAyante mitrANi· 
-rapavastathA#}.· 
+ 
+ 
+ 
  
 <HS>{#na kazcidanyathAbhAvam#} s. Spruch {#na kazcidyathAbhAvam#}.· 
  
@@ -65760,12 +65760,12 @@ wenn er nicht genossen wird.·
 <V3>3754. = VR2DDHA-CA1N2. Berl.· 
 Hdschrr. 29. ²a. {#aguNasya#}. ²b.· 
 {#azIlasya#} und {#asilasya#}. ²c.· 
-{#asiddhazca#}. ²d. {#abhogasya#}. Vgl.· 
-GALAN. CA1N2. <g></g> 12.· 
+{#asiddhazca#}. ²d. {#abhogasya#}. Vgl. GALAN. CA1N2. <g></g> 12.· 
+ 
+<F4.1>-- S. 641, Spr. 3754, Z. 2 lies 11 st. 12.· 
  
 <S> nirguNeSvapi sattveSu dayAM kurvanti sAdhavaH |· 
 nahi saMharate jyotsnAM candrazcANDAlavezmani ||· 
- 
  
 <D3755><A1605> Gute üben Mitleid auch· 
 gegen Geschöpfe, die keine Vorzüge· 
@@ -69759,12 +69759,12 @@ SUBHA1S2.·
  
 <V3>3979. = VR2DDHA-CA1N2. Berl.· 
 Hdschrr. 261 (hier nur unbedeutende· 
-Schreibfehler). BAHUDARS4ANA in· 
-Telugu-Cahrr. 83. CARR 464.· 
+Schreibfehler). BAHUDARS4ANA in Telugu-Cahrr. 83. CARR 464.· 
+ 
+<F4.1>-- S. 642, Spr. 3979, Z. 2. Streiche «in Telugu-Charr.».· 
  
 <S> paropakaraNaM yeSAM jAgarti hRdaye satAm |· 
 nazyanti vipadasteSAM saMpadaH syuH pade pade ||· 
- 
  
 <D3980><A4518> Ungemach schwindet und· 
 Glück zeigt sich auf Schritt und Tritt· 
@@ -72244,14 +72244,14 @@ worden.·
 Hdschrr. 24. ²a. {#putrAstu vividhaiH· 
 zAstrai#} (st. {#zIlair#}) bei uns· 
 könnte man {#zilpair#} vermuthen). ²c.· 
-{#nItijJA buddhisaMpannA#}. ²d. {#khalu· 
-pUjitA#}.· 
+{#nItijJA buddhisaMpannA#}. ²d. {#khalu pUjitA#}.· 
+
+<F4.1>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
+
+<V2>4116. Statt {#zIlair#} in ²a. wird wohl {#zilpair#} zu lesen sein.· 
  
-<V2>4116. Statt {#zIlair#} in ²a. wird· 
-wohl {#zilpair#} zu lesen sein.· 
  
 <HS>{#putrIti jAtA mahatIha cintA#} s. Spruch 2390.· 
- 
  
 <S> putreSu vA naptRSu vA na cedAtmani pazyati |· 
 phalatyeva dhruvaM pApaM guru bhuktamivodare ||· 
@@ -97624,12 +97624,12 @@ Hdschr.·
 {#vajAnApi#} und Z. 3 {#pipIDikA#} zu· 
 lesen. Der Spruch steht, wie wir durch· 
 KLATT erfahren, auch MA1RK.P.· 
-29, 38, wo ²b. {#vrajanyAti pipIlikaH#}· 
-lautet.· 
+29, 38, wo ²b. {#vrajanyAti pipIlikaH#} lautet.· 
+ 
+<F4.1>-- S. 647, Spr. 5589, Z. 2. Lies 20, 38. Am Ende hinzuzufügen: <i>d</i>. {#pAdam#} st. {#padam#}.· 
  
 <S> yo jitaH paJcavargoNa sahajenAtmakarSiNA |· 
 Apadastasya vardhante zuklapakSa ivodurAT ||· 
- 
  
 <D5590><A4902> Wer von der eingeborenen· 
 Schar der Fünfe (der Sinne), die den· 
@@ -113985,12 +113985,12 @@ aufmerksam macht. NI1TIS4A1STRA in·
 Telugu-Charr. giebt den Spruch un· 
 folgender Fassung: {#ghRtena vardhate· 
 buddhiH kSIreNAyuSavardhanam | zAkena· 
-vardhate vyAdhirmAMsaM mAMsena vardhate· 
-||#}· 
+vardhate vyAdhirmAMsaM mAMsena vardhate ||#}· 
+ 
+<F4.1>-- S. 649, Spr. 6528, Z. 3. Lies {#kSIreNAyuSya°#}. --- Zum Schluss bemerke ich noch, dass alle hier mitgetheilten Berichtigungen und Ergänzungen zu den Indischen Sprüchen in den vorangehenden Artikeln schon verwerthet worden sind.· 
  
 <S> zoko nAzayati prajJAM zoko nAzayati zrutam |· 
 zoko dhRtiM nAzayati nAsti zokasamaM tamaH ||· 
- 
  
 <D6529><A3024> Der Kummer vernichtet die· 
 Einsicht, der Kummer vernichtet die· 
@@ -125735,10 +125735,10 @@ Gazellen den Tod.·
 {#satpuruSAH#} ²d. {#kApuruSAH#}. Vgl.· 
 Spr. 2638. 3929. 7118.· 
  
+<F4.1>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
+
 <S> sthAne nivAsaH sukulaM kalatraM putraH pavitraH svakanAnurAgaH |· 
 nyAyAcca vintaM svahitaM ca cittaM nicchadmadharmo hi sukhAni sapta ||· 
- 
- 
  
 <D7225> Ein Aufenthalt an passendem· 
 Orte, ein Weib aus edlem Geschlecht, ein· 

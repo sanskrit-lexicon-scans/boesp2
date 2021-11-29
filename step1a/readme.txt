@@ -120,6 +120,12 @@ diff temp_boesp_04.txt temp_boesp_slp1_hk.txt
   (if differences, correct temp_boesp_hk.txt and rerun.
 
 ; -------------------------------------------------------------------------
+temp_boesp_05.txt
+Manual repositioning of the '<F4.1C>' items which are at top of
+  temp_boesp_04.txt
+  Ref: https://github.com/funderburkjim/boesp-prep/issues/29#issuecomment-979656156
+
+; -------------------------------------------------------------------------
 ; TRANSCODING to Devanagari
 ; -------------------------------------------------------------------------
 Transcoding rules slp1_deva.xml and deva_slp1.xml copied from
