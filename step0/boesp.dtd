@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT  boesp (entry)*>
-<!ELEMENT entry (info,HS*,S,D+,F,FDUMMY*,V1*,V2*,V3*,F4.1*,F4.2*)*>
+<!ELEMENT entry (info,HS*,S,D+,F,FDUMMY*,V1*,V2*,V3*,V4*,V5*)*>
 <!ELEMENT info EMPTY >
 <!ENTITY % body_elts "b | i | s | pb | pb1 | wide | gr | g | Poem">
 <!ELEMENT S (#PCDATA  | lg | %body_elts;)*>
@@ -11,8 +11,8 @@
 <!ELEMENT V1 (#PCDATA  | %body_elts;)*>
 <!ELEMENT V2 (#PCDATA  | %body_elts;)*>
 <!ELEMENT V3 (#PCDATA  | %body_elts; | Poem)*>
-<!ELEMENT F4.1 (#PCDATA  | %body_elts;)*>
-<!ELEMENT F4.2 (#PCDATA  | %body_elts;)*>
+<!ELEMENT V4 (#PCDATA  | %body_elts;)*>
+<!ELEMENT V5 (#PCDATA  | %body_elts;)*>
 <!ELEMENT h3 (#PCDATA  | %body_elts;)*>  <!-- significance unclear -->
 <!ELEMENT h4 (#PCDATA  | %body_elts;)*>  <!-- Same as h3? -->
 <!ELEMENT s (#PCDATA)*>  <!-- Sanskrit text in unspecified encoding -->
@@ -39,7 +39,7 @@
 <!ATTLIST V1 n CDATA #REQUIRED>
 <!ATTLIST V2 n CDATA #REQUIRED>
 <!ATTLIST V3 n CDATA #REQUIRED>
-<!ATTLIST F4.1 n CDATA #REQUIRED>
-<!ATTLIST F4.2 n CDATA #REQUIRED>
+<!ATTLIST V4 n CDATA #REQUIRED>
+<!ATTLIST V5 n CDATA #REQUIRED>
 <!ATTLIST pb n CDATA #REQUIRED> 
 <!ATTLIST pb1 n CDATA #REQUIRED> 
