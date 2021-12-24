@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT  boesp (entry)*>
-<!ELEMENT entry (info,HS*,S,D+,F,FDUMMY*,V1*,V2*,V3*,V4*,V5*)*>
+<!ELEMENT entry ((info,HS+) | (info,S,D+,F,FDUMMY*,V1*,V2*,V3*,V4*,V5*))>
 <!ELEMENT info EMPTY >
 <!ENTITY % body_elts "b | i | s | pb | pb1 | wide | gr | g | Poem">
 <!ELEMENT S (#PCDATA  | lg | %body_elts;)*>
