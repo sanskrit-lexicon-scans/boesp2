@@ -3,7 +3,7 @@
 <!ELEMENT entry ((info,HS+) | (info,S,D+,F,V1*,V2*,V3*,V4*,V5*))>
 <!ELEMENT info EMPTY >
 <!ENTITY % body_elts "b | i | s | pb | pb1 | wide | gr | g | Poem">
-<!ELEMENT S (#PCDATA  | lg | %body_elts;)*>
+<!ELEMENT S (#PCDATA  |  %body_elts;)*>
 <!ELEMENT HS (#PCDATA  | %body_elts;)*>
 <!ELEMENT D (#PCDATA  | footnote | %body_elts;)*>
 <!ELEMENT F (#PCDATA  | h3 | h4 | %body_elts;)*>
@@ -24,8 +24,6 @@
 <!ELEMENT pb1 EMPTY> <!-- page break, originally [PageX] -->
 <!ELEMENT Poem (#PCDATA | s)*> <!-- twice, in V3:2505 -->
 <!ELEMENT footnote (#PCDATA | s)*> <!-- 14 times, in D -->
-<!ELEMENT lg (#PCDATA | l)*> <!-- lines of Spruch. alternate coding of <S> -->
-<!ELEMENT l (#PCDATA)*>  <!-- line of Spruch   -->
 
 <!ATTLIST info L CDATA #REQUIRED>
 <!ATTLIST info page CDATA #REQUIRED>
