@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.2" encoding="UTF-8"?>
 <!ELEMENT  boesp (entry)*>
-<!ELEMENT entry ((info,HS+) | (info,S,D+,F,FDUMMY*,V1*,V2*,V3*,V4*,V5*))>
+<!ELEMENT entry ((info,HS+) | (info,S,D+,F,V1*,V2*,V3*,V4*,V5*))>
 <!ELEMENT info EMPTY >
 <!ENTITY % body_elts "b | i | s | pb | pb1 | wide | gr | g | Poem">
 <!ELEMENT S (#PCDATA  | lg | %body_elts;)*>
 <!ELEMENT HS (#PCDATA  | %body_elts;)*>
 <!ELEMENT D (#PCDATA  | footnote | %body_elts;)*>
 <!ELEMENT F (#PCDATA  | h3 | h4 | %body_elts;)*>
-<!ELEMENT FDUMMY (#PCDATA)*>  <!-- TO BE REMOVED -->
 <!ELEMENT V1 (#PCDATA  | %body_elts;)*>
 <!ELEMENT V2 (#PCDATA  | %body_elts;)*>
 <!ELEMENT V3 (#PCDATA  | %body_elts; | Poem)*>
-<!ELEMENT V4 (#PCDATA  | %body_elts;)*>
-<!ELEMENT V5 (#PCDATA  | %body_elts;)*>
-<!ELEMENT h3 (#PCDATA  | %body_elts;)*>  <!-- significance unclear -->
-<!ELEMENT h4 (#PCDATA  | %body_elts;)*>  <!-- Same as h3? -->
+<!ELEMENT V4 (#PCDATA  | %body_elts;)*>  <!-- Melange Asiatiques 8/1 Ref:#28 -->
+<!ELEMENT V5 (#PCDATA  | %body_elts;)*>  <!-- Melange Asiatiques 8/2 Ref:#28 -->
+<!ELEMENT h3 (#PCDATA  | %body_elts;)*>  <!-- Aufrecht's contributions Ref:#28-->
+<!ELEMENT h4 (#PCDATA  | %body_elts;)*>  <!-- References to ? Ref:#28 -->
 <!ELEMENT s (#PCDATA)*>  <!-- Sanskrit text in unspecified encoding -->
 <!ELEMENT b (#PCDATA)*>  <!-- bold  -->
 <!ELEMENT i (#PCDATA)*>  <!-- italic  -->
