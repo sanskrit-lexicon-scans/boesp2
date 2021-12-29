@@ -1,9 +1,9 @@
-<?xml version="1.2" encoding="UTF-8"?>
+<?xml version="1.3" encoding="UTF-8"?>
 <!ELEMENT  boesp (entry)*>
 <!ELEMENT entry ((info,HS+) | (info,S,D+,F,V1*,V2*,V3*,V4*,V5*))>
 <!ELEMENT info EMPTY >
 <!ENTITY % body_elts "b | i | s | pb | pb1 | wide | gr | g | Poem">
-<!ELEMENT S (#PCDATA  |  %body_elts;)*>
+<!ELEMENT S (s+,pb?)>
 <!ELEMENT HS (#PCDATA  | %body_elts;)*>
 <!ELEMENT D (#PCDATA  | footnote | %body_elts;)*>
 <!ELEMENT F (#PCDATA  | h3 | h4 | %body_elts;)*>
@@ -28,7 +28,7 @@
 <!ATTLIST info L CDATA #REQUIRED>
 <!ATTLIST info page CDATA #REQUIRED>
 <!ATTLIST info gtypes CDATA #REQUIRED>
-<!ATTLIST S n CDATA #IMPLIED>  <!-- change to REQUIRED -->
+<!ATTLIST S n CDATA #REQUIRED>  
 <!ATTLIST D n CDATA #REQUIRED>
 <!ATTLIST D a CDATA #IMPLIED>
 <!ATTLIST F n CDATA #REQUIRED>
@@ -40,3 +40,4 @@
 <!ATTLIST V5 n CDATA #REQUIRED>
 <!ATTLIST pb n CDATA #REQUIRED> 
 <!ATTLIST pb1 n CDATA #REQUIRED> 
+
