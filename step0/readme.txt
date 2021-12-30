@@ -183,4 +183,11 @@ NOW each line (except for the <F4.1C> lines temporarily at the top)
  and except for the 'explanation lines' at the top either:
  a) end in '· '  or
  b) are empty (with one space) '^ $'
- 
+; -----------------------------------------
+12-30-2021 : transcode_xml.sh 
+boesp.xml has Sanskrit encoded with slp1 transcoding, in <s>...</s> elements
+sh transcode_xml.sh script  creates transcoded versions of boesp.xml.
+boesp_hk.xml, boesp_iast.xml and boesp_deva.xml.
+This is done by program and transcoder files in step3e directory.
+; -----------------------------------------
+

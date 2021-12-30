@@ -35,3 +35,7 @@ step3d - Add n attribute for <S>.
          Make <S> definition in boesp.dtd more specific:
 	    a sequence of one or more 's' elements, 
 	    with an optional 'pb' element at the end
+step3e - Transcoding of Sanskrit text.
+         step0/boesp.xml will be the 'base' form, in slp1 transcoding.
+	 Other forms will be boesp_hk.xml, boesp_deva.xml, boesp_iast.xml.
+	 boesp.dtd is not changed.
