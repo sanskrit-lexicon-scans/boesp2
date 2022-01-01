@@ -1,0 +1,117 @@
+; -------------------------------------
+Verse 101: difference at line 1
+<s>ajAyudDa fziSrAdDe praBAte meGaqambare .</s> +
+<s>ajAyudDe fziSrAdDe praBAte meGaqambare .</s>
+; -------------------------------------
+Verse 230: difference at line 2
+<s>SaWo miTyA vinItaSca bakavratacaro dvijaH ..</s> +
+<s>SaWo miTyAvinItaSca bakavratacaro dvijaH ..</s>
+; -------------------------------------
+Verse 344: difference at line 1
+<s>antarye satataM luWantyagaRitAstAneva pAToDarE-</s> +
+<s>antarye satataM luWantyagaRistAneva pAToDarE-</s>
+; -------------------------------------
+Verse 503: difference at line 2
+<s>seveta sidDimanvicCaYSlAGyaM vinDyamiveSvaram ..</s> +
+<s>seveta sidDimanvicCaYClAGyaM vinDyamiveSvaram ..</s>
+; -------------------------------------
+Verse 537: difference at line 2
+<s>muKendO tava satyasminnapareRa kimindunA ..</s> +
+<s>suKendO tava satyasminnapareRa kimindunA ..</s>
+; -------------------------------------
+Verse 803: difference at line 2
+<s>mUQEH paribfQErApatsevako maNgalecCuBiH ..</s> +
+<s>mUQEH parivfQErApatsevako maNgalecCuBiH ..</s>
+; -------------------------------------
+Verse 807: difference at line 4
+<s>gfDraDvANGavfkAMstanO nipatataH ko vA kaTaM vArayet ..</s> +
+<s>gfDraDvANkzavfkAMstanO nipatataH ko vA kaTaM vArayet ..</s>
+; -------------------------------------
+Verse 1053: difference at line 1
+<s>A SmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s> +
+<s>ASmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s>
+; -------------------------------------
+Verse 1068: difference at line 1
+<s>A stanyapAnAjjananI paSUnAmA dAralABAcca narADamAnAm .</s> +
+<s>AstanyapAnAjjananI paSUnAmA dAralABAcca narADamAnAm .</s>
+; -------------------------------------
+Verse 1074: difference at line 1
+<s>AsvAdya svayameva vacmi mahatIrmarmacCido vedanA</s> +
+<s>AsvAdya svayameva vacmi mahatIrmacCido vedanA</s>
+; -------------------------------------
+Verse 1081: difference at line 1
+<s>AhAro garalAyate pratidinaM hAro'pi BAsAyate</s> +
+<s>Aharo garalAyate pratidinaM hAro'pi BAsAyate</s>
+; -------------------------------------
+Verse 1126: difference at line 1
+<s>iyatyetasminvA niravaDicamatkftyatiSayo</s> +
+<s>iyatyesminvA niravaDicamatkftyatiSayo</s>
+; -------------------------------------
+Verse 1204: difference at line 2
+<s>AyuzaH KaRqamAdAya ravirastaM gamizyati ..</s> +
+<s>AyuzyaH KaRqamAdAya ravirastaM gamizyati ..</s>
+; -------------------------------------
+Verse 1236: difference at line 1
+<s>udIrito'rTaH paSunApi gfhyate hayASca nAgASca vahanti deSitAH .</s> +
+<s>udIrito'rTaH paSunApi gfhyete hayASca nAgASca vahanti deSitAH .</s>
+; -------------------------------------
+Verse 1362: difference at line 1
+<s>ekato vyADidurBikzapramuKA vidapo'KilAH .</s> +
+<s>ekato vyADidurBikzapramuKA vipado'KilAH .</s>
+; -------------------------------------
+Verse 1376: difference at line 2
+<s>prAtardaSa diSo yAnti kA tatra paridevanA ..</s> +
+<s>prAtardaSadiSo yAnti kA tatra paridevanA ..</s>
+; -------------------------------------
+Verse 1377: difference at line 2
+<s>SataM daSa sahasrARi tasmAddurgaM viDIyate ..</s> +
+<s>SataM daSasahasrARi tasmAddurgaM viDIyate ..</s>
+; -------------------------------------
+Verse 1378: difference at line 4
+<s>rBagno mAnakaliH sahAsaraBasavyAsaktakaRWagraham ..</s> +
+<s>rBagno mAnakaliH sahAsaraBasavyAsaktakaRaWagraham ..</s>
+; -------------------------------------
+Verse 1396,1397: difference at line 4
+<s>nItyA kAmayate'nyedyuH SocyastAByAM paro'sti kaH ..</s> +
+<s>nItyA kAmayate'nyedyuH SecyastAByAM paro'sti kaH ..</s>
+; -------------------------------------
+Verse 1407: difference at line 2
+<s>sa saMhitaprayARastu saMDiH saMyoga ucyate ..</s> +
+<s>sa saMhitaprayARAstu saMDiH saMyoga ucyate ..</s>
+; -------------------------------------
+Verse 1450: difference at line 1
+<s>etasmAdviramendriyArTagahanAdAyAsadAdASraya</s> +
+<s>etastAdviramendriyArTagahanAdAyAsadAdASraya</s>
+; -------------------------------------
+Verse 1531: difference at line 1
+<s>kapAle mArjAraH paya iti karA~lleQi SaSina-</s> +
+<s>kapAle mArjAraH paya iti karA~lloQi SaSina-</s>
+; -------------------------------------
+Verse 1547: difference at line 2
+<s>dadO daDIcirasTIni nAstyadeyaM mahAtmanAm ..</s> +
+<s>dadO daDIcirasTIni na nAstyadeyaM mahAtmanAm ..</s>
+; -------------------------------------
+Verse 1718: difference at line 1
+<s>kiM rudDaH priyayA kayAcidaTa vA saKyA mamodvejitaH</s> +
+<s>kiM rudDaH priyayA kayAcidaTa vA saKyA mamodDejitaH</s>
+; -------------------------------------
+Verse 1779: difference at line 2
+<s>A maraRAtkiM SalyaM pracCannaM yatkftamakAryam ..</s> +
+<s>AmaraRAtkiM SalyaM pracCannaM yatkftamakAryam ..</s>
+; -------------------------------------
+Verse 1809: difference at line 2
+<s>kudAradArESca kuto gfhe ratiH kuSizyamaDyApayataH kuto yaSaH ..</s> +
+<s>kudAradArESca kuto gfhe ratiH kuSizyamaTyApayataH kuto yaSaH ..</s>
+; -------------------------------------
+Verse 1946: difference at line 2
+<s>jItanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..</s> +
+<s>jIvanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..</s>
+; -------------------------------------
+Verse 1998: difference at line 1
+<s>kvAse kva ca gamizyAmi ko nvahaM kimihAsTitaH .</s> +
+<s>kvAse kva ca gamizyAmi ko'nvahaM kimihAsTitaH .</s>
+; -------------------------------------
+Verse 2082: difference at line 1
+<s>ganDAQyAM navamallikAM maDukarastyaktvA gato yUTikAM</s> +
+<s>ganDAQyAM navamallikAM maDukarastyakttvA gato yUTikAM</s>
+

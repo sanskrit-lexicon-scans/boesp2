@@ -1,0 +1,188 @@
+; -------------------------------------
+Verse 24: difference at line 1
+akAle kftyamArabDaM karturnATAya kalpate .
+akAle kftyamArabDaM karturnArTAya kalpate .+
+; -------------------------------------
+Verse 31: difference at line 2
+saMsArakAraRam yozidyozitaM varjayettataH ..
+saMsArakAraRaM yozidyozitaM varjayettataH ..+
+; -------------------------------------
+Verse 71: difference at line 2
+ratiputraPalA dArA dattaBuktaPalaM DanaM ..
+ratiputraPalA dArA dattaBuktaPalaM Danam ..+
+; -------------------------------------
+Verse 78: difference at line 1
+aDaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .
+aGaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .+
+; -------------------------------------
+Verse 82: difference at line 1
+aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlaM .
+aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlam .+
+; -------------------------------------
+Verse 121: difference at line 1
+aRuByaSca mahaqyaSca SAstreByaH kuSalo naraH .
+aRuByaSca mahadByaSca SAstreByaH kuSalo naraH .+
+; -------------------------------------
+Verse 141: difference at line 1
+atiBIrumatiktlIbaM dIrGasUtraM pramAdinam .
+atiBIrumatiklIbaM dIrGasUtraM pramAdinam . +
+; -------------------------------------
+Verse 249: difference at line 1
+anaBrAkramaRaM SOryaM DanaM nijaBujArjitam .
+anamrAkramaRaM SOryaM DanaM nijaBujArjitam . +
+; -------------------------------------
+Verse 299: difference at line 1
+aniyuktA hi sAcivya yadvadanti hitEziRaH .
+aniyuktA hi sAcivye yadvadanti hitEziRaH . +?
+; -------------------------------------
+Verse 430: difference at line 2
+nAdaRqyo nAma rajYo 'sti DarmAdvicalitaH svakAt ..
+nAdaRqyo nAma rAjYo 'sti DarmAdvicalitaH svakAt .. +
+; -------------------------------------
+Verse 537: difference at line 1
+amftAtmani padmanAM dvezwari snigDatArake .
+amftAtmani padmAnAM dvezwari snigDatArake . +
+; -------------------------------------
+Verse 545: difference at line 2
+merurmftkaRatAM tfRaM kuliSatAM vajraM tfRatklIbatAM .
+merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAm . +
+; -------------------------------------
+Verse 545: difference at line 4
+lIlAdurlalitAdButavyasanine dEvAya tasmE namaH ..
+lIlAdurlalitAdButavyasanine dEvAya tasmE namaH .. [Seite1.101] + 
+; -------------------------------------
+Verse 607: difference at line 2
+indriyARAmanESvaryAdESvaryAdgraSyate hi saH ..
+indriyARAmanESvaryAdESvaryAdBraSyate hi saH .. +
+; -------------------------------------
+Verse 783: difference at line 1
+asukESca vinAlApo guhyasya kaTanaM taTA .
+asuKESca vinAlApo guhyasya kaTanaM taTA . +
+; -------------------------------------
+Verse 858: difference at line 1
+AkroSena na dUyate na ca puwuH proktaH samAnandyate
+AkroSena na dUyate na ca pawuH proktaH samAnandyate +
+; -------------------------------------
+Verse 1056: difference at line 2
+vivfdDASca vinASAya tasmAnnodvejayetprajAH ..
+vivfdDAMSca vinASAya tasmAnnodvejayetprajAH .. +
+; -------------------------------------
+Verse 1066: difference at line 2
+prAyeRa BUmipatayaH pramadA latASca latASca yatpArSvato Bavati tatparivezwayanti ..
+prAyeRa BUmipatayaH pramadA latASca yatpArSvato Bavati tatparivezwayanti .. +
+; -------------------------------------
+Verse 1074: difference at line 2
+mA BUtkasyacidapyayaM pariBavo yAYceti saMsAriRaH .
+mA BUtkasyacidapyayaM pariBavo yAcYeti saMsAriRaH . +
+; -------------------------------------
+Verse 1081: difference at line 4
+hA hanta priyaviprayogasamayaH saMhArakAlayate ..
+hA hanta priyaviprayogasamayaH saMhArakAlAyate .. +
+; -------------------------------------
+Verse 1105: difference at line 2
+dfzwvEva puruzaM hfdyaM yoniH pratklidyate striyAH ..
+dfzwvEva puruzaM hfdyaM yoniH praklidyate striyAH .. +
+; -------------------------------------
+Verse 1169: difference at line 1
+utkrAmadBiSca yaH prAREH pryataH SizwasaMmataH .
+utkrAmadBiSca yaH prAREH prayataH SizwasaMmataH . +
+; -------------------------------------
+Verse 1181: difference at line 2
+aDamAMstu na seveta ya iCedBUtimAtmanaH ..
+aDamAMstu na seveta ya icCedBUtimAtmanaH .. +
+; -------------------------------------
+Verse 1189: difference at line 2 
+na tu tatsvAminastIvraparitkleSEH Palanti ye ..
+na tu tatsvAminastIvraparikleSEH Palanti ye .. +
+; -------------------------------------
+Verse 1264: difference at line 2
+SElaSeKaragato dfSatkaRaScArumArutaDutaH patatyaDaH ..
+SElaSeKaragato dfzatkaRaScArumArutaDutaH patatyaDaH .. +
+; -------------------------------------
+Verse 1269: difference at line 2
+dvaMdvenodyatacakravAkamiTunA vakktrAmbujodBAsinI .
+dvaMdvenodyatacakravAkamiTunA vaktrAmbujodBAsinI . +
+; -------------------------------------
+Verse 1279: difference at line 1
+upakAragfhItena SatruRA SatrumudDaret.
+upakAragfhItena SatruRA SatrumudDaret . +  
+; -------------------------------------
+Verse 1312: difference at line 1
+upyante vizavallibIjavizamAH tkleSAH priyAKyA narE-
+upyante vizavallibIjavizamAH kleSAH priyAKyA narE- +
+; -------------------------------------
+Verse 1385: difference at line 2
+tasyAnekaparitkleSe gfhe kiM vasataH Palam ..
+tasyAnekaparikleSe gfhe kiM vasataH Palam .. +
+; -------------------------------------
+Verse 1444: difference at line 1
+etatkAmaPalaM loke yaddUyorekacittatA .  
+etatkAmaPalaM loke yaddvayorekacittatA . +?
+; -------------------------------------
+Verse 1456: difference at line 2
+kurvanti kasya na mano vivaSaM taruRyo viSvastamugDahariRIsadfSekzaRAtEH ..
+kurvanti kasya na mano vivaSaM taruRyo viSvastamugDahariRIsadfSekzaRAntEH .. +
+; -------------------------------------
+Verse 1482: difference at line 2
+abalAvirahatkleSavihvalo gaRayatyayam ..
+abalAvirahakleSavihvalo gaRayatyayam .. +
+; -------------------------------------
+Verse 1489: difference at line 1
+ESvarye vA suvistIrRe vyasane vA sudAruRe
+ESvarye vA suvistIrRe vyasane vA sudAruRe . + 
+; -------------------------------------
+Verse 1489: difference at line 2
+rajjveva puruzaM badDvA kftAntaH parikarzati..
+rajjveva puruzaM badDvA kftAntaH parikarzati .. +
+; -------------------------------------
+Verse 1605: difference at line 2
+kasmAddudvijitavyaM samsArAraRyataH suDiyA ..
+kasmAdudvijitavyaM saMsArAraRyataH suDiyA .. +
+; -------------------------------------
+Verse 1618: difference at line 2
+tklIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA ..
+klIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA .. +
+; -------------------------------------
+Verse 1657: difference at line 1
+kAmABiBUtaH kroDAdvA yo miTya pratipadyate .
+kAmABiBUtaH kroDAdvA yo miTyA pratipadyate . +
+; -------------------------------------
+Verse 1663: difference at line 1
+kAyatkleSena mahatA puruzaH prApnuyAtPalam .
+kAyakleSena mahatA puruzaH prApnuyAtPalam . +
+; -------------------------------------
+Verse 1741: difference at line 2
+kiM dAridryamatozaH kiM laGutAmUlakaM yAYcA ..
+kiM dAridryamatozaH kiM laGutAmUlakaM yAcYA .. +
+; -------------------------------------
+Verse 1753: difference at line 3
+yattvanmUlanizaRaKinnapaTikaH stomEH stuvannanvahaM
+yattvanmUlanizaRRaKinnapaTikaH stomEH stuvannanvahaM +
+; -------------------------------------
+Verse 1863: difference at line 2
+rAgAnuraktacittastu kiM na kuryAdasAmpratam ..
+rAgAnuraktacittastu kiM na kuryAdasAMpratam .. +
+; -------------------------------------
+Verse 1871: difference at line 3
+kusIdAddAridryaM parakaragatAtmArTakaraRA--
+kusIdAddAridryaM parakaragatAtmArTakaraRA- +
+; -------------------------------------
+Verse 1913: difference at line 1
+ke vA na santi Buvi tAmarasAvataMsA haMsAvalIklayino jalasaMniveSAH ..
+ke vA na santi Buvi tAmarasAvataMsA haMsAvalIvalayino jalasaMniveSAH . +
+; -------------------------------------
+Verse 1997: difference at line 1
+kvAliNganaM BujanipIqitaBAhumUlaBugnonnatastanamanoharamAyatAkzyAH .
+kvAliNganaM BujanipIqitabAhumUlaBugnonnatastanamanoharamAyatAkzyAH . +
+; -------------------------------------
+Verse 2027: difference at line 2
+mapanno'pi vipannadIDitirapi prARezu gacCatsvapi .
+mApanno'pi vipannadIDitirapi prARezu gacCatsvapi . +
+; -------------------------------------
+Verse 2092: difference at line 1
+garBatkleSaH striyo manye sAPalyaM Bajate tadA .
+garBakleSaH striyo manye sAPalyaM Bajate tadA . +
+; -------------------------------------
+Verse 2149: difference at line 2
+alireti vanAtkamalaM na darddurastvekavAso'pi ..
+alireti vanAtkamalaM na dardurastvekavAso'pi .. +
