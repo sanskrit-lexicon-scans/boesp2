@@ -1,0 +1,75 @@
+; Document intentional print changes in boesp.xml.
+; informal syntax
+; slp1 spelling of Sanskrit text.
+; =====================================
+; 01-02-2022
+: Ref: /step1a/sanproof_1_02/diff_verses1_abreview.AB.remarks.txt
+; =====================================
+; -------------------------------------
+Verse 101: difference at line 1
+<s>ajAyudDa fziSrAdDe praBAte meGaqambare .</s> +
+<s>ajAyudDe fziSrAdDe praBAte meGaqambare .</s>
+
+; print correction: <s>ajAyudDa > ajAyudDe</s>
+; -------------------------------------
+Verse 230: difference at line 2
+<s>SaWo miTyA vinItaSca bakavratacaro dvijaH ..</s> +
+<s>SaWo miTyAvinItaSca bakavratacaro dvijaH ..</s>
+
+; <s>miTyAvinItaSca</s> is a samAsa, not two separate words; hence there should not be a space in between.
+; -------------------------------------
+Verse 807: difference at line 4
+<s>gfDraDvANGavfkAMstanO nipatataH ko vA kaTaM vArayet ..</s> +
+<s>gfDraDvANkzavfkAMstanO nipatataH ko vA kaTaM vArayet ..</s>
+
+; print error; there is no such word as <s>DvANGa</s>
+; -------------------------------------
+Verse 1053: difference at line 1
+<s>A SmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s> +
+<s>ASmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s>
+
+; it is a samAsa here; hence no space warranted
+; -------------------------------------
+Verse 1053: difference at line 1
+<s>A SmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s> +
+<s>ASmaSAnAnnivartante jYAtayaH saha bAnDavEH .</s>
+
+; it is a samAsa here; hence no space warranted
+; -------------------------------------
+Verse 1362: difference at line 1
+<s>ekato vyADidurBikzapramuKA vidapo'KilAH .</s> +
+<s>ekato vyADidurBikzapramuKA vipado'KilAH .</s>
+
+; print error; there is no such word as <s>vidapa</s>.
+; -------------------------------------
+Verse 1376: difference at line 2
+<s>prAtardaSa diSo yAnti kA tatra paridevanA ..</s> +
+<s>prAtardaSadiSo yAnti kA tatra paridevanA ..</s>
+
+; it is a samAsa here; hence no space warranted
+Verse 1377: difference at line 2
+<s>SataM daSa sahasrARi tasmAddurgaM viDIyate ..</s> +
+<s>SataM daSasahasrARi tasmAddurgaM viDIyate ..</s>
+
+; it is a samAsa here; hence no space warranted
+; -------------------------------------
+Verse 1779: difference at line 2
+<s>A maraRAtkiM SalyaM pracCannaM yatkftamakAryam ..</s> +
+<s>AmaraRAtkiM SalyaM pracCannaM yatkftamakAryam ..</s>
+
+; it is a samAsa here; hence no space warranted
+; -------------------------------------
+Verse 1946: difference at line 2
+<s>jItanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..</s> +
+<s>jIvanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..</s>
+
+; print correction :	<s>jItanmftaH > jIvanmftaH</s>
+; -------------------------------------
+Verse 1998: difference at line 1
+<s>kvAse kva ca gamizyAmi ko nvahaM kimihAsTitaH .</s> +
+<s>kvAse kva ca gamizyAmi ko'nvahaM kimihAsTitaH .</s>
+
+; print correction; there is no such word as <s>nvahaM</s>, but <s>(a)nvahaM</s>, hence added the avagraha.
+; -------------------------------------
+; =====================================
+; =====================================
