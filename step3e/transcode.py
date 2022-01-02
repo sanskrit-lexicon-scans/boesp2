@@ -72,14 +72,14 @@ class Entry(object):
    exit(1)
 
   
-def xml_header(xmlroot):
+def xml_header(xmlroot,version):
  # write header lines
  text = """
-<?xml version="1.3" encoding="UTF-8"?>
+<?xml version="%s" encoding="UTF-8"?>
 <!DOCTYPE %s SYSTEM "%s.dtd">
 <!-- <H> Boehtlingk, Indische Sprüche, 2. Auflage, St. Petersburg 1870 -->
 <%s>
-""" % (xmlroot,xmlroot,xmlroot)
+""" % (version,xmlroot,xmlroot,xmlroot)
  lines = text.splitlines()
  lines = [x.strip() for x in lines if x.strip()!='']
  return lines
@@ -124,8 +124,8 @@ def read_lines(filein):
   exit(1)
  return lines
 
-def write_entries(entries,xmlroot,fileout):
- head = xml_header(xmlroot)
+def write_entries(entries,xmlroot,version,fileout):
+ head = xml_header(xmlroot,version)
  head.append('')
  body = []
  for entry in entries:
@@ -152,6 +152,7 @@ if __name__=="__main__":
  filein = sys.argv[3] # boesp_utf8.txt
  fileout = sys.argv[4] # stats on transcoded characters
  xmlroot = 'boesp'
+ version = "1.3"
  entries = read_entries(filein)
  newentries = []
  def transcode_sub(m):
@@ -165,4 +166,4 @@ if __name__=="__main__":
   newlines = textnew.split('\n')
   newentry = Entry(newlines)
   newentries.append(newentry)
- write_entries(newentries,xmlroot,fileout)
+ write_entries(newentries,xmlroot,version,fileout)

@@ -39,3 +39,4 @@ step3e - Transcoding of Sanskrit text.
          step0/boesp.xml will be the 'base' form, in slp1 transcoding.
 	 Other forms will be boesp_hk.xml, boesp_deva.xml, boesp_iast.xml.
 	 boesp.dtd is not changed.
+step4a - Insert corrected Sanskrit for volume 1 verses into boesp.xml

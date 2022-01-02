@@ -1,0 +1,3564 @@
+1 old <?xml version="1.3" encoding="UTF-8"?>
+1 new <?xml version="1.3.1" encoding="UTF-8"?>
+;-----------------
+10 old <s>vAlaleSo 'pi vyAGrARAM patsyAjjIvitahAnaye ..</s>
+10 new <s>vAlaleSo 'pi vyAGrARAM yatsyAjjIvitahAnaye ..</s>
+;-----------------
+266 old <s>akARqakopino BarturanyAsaktoSca yozitaH .</s>
+266 new <s>akARqakopino BarturanyAsakteSca yozitaH .</s>
+;-----------------
+286 old <s>gAQaSokaprahAraRAmacintOva mahOzaDam ..</s>
+286 new <s>gAQaSokaprahArARAmacintEva mahOzaDam ..</s>
+;-----------------
+437 old <s>akaryARyapi paryApya kftvApi vfjinArjanam .</s>
+437 new <s>akAryARyapi paryApya kftvApi vfjinArjanam .</s>
+;-----------------
+503 old <s>akAlasahamatpalpaM mUrKavyasaninAyakam .</s>
+503 new <s>akAlasahamatyalpaM mUrKavyasaninAyakam .</s>
+;-----------------
+535 old <s>akAle kftyamArabDaM karturTAya kalyate .</s>
+535 new <s>akAle kftyamArabDaM karturnArTAya kalpate .</s>
+;-----------------
+536 old <s>tadeva kAla ArabDaM mahate 'rTAya kalyate ..</s>
+536 new <s>tadeva kAla ArabDaM mahate 'rTAya kalpate ..</s>
+;-----------------
+554 old <s>akiMcanaH suKaM Sete sumuttizWati cEva ha ..</s>
+554 new <s>akiMcanaH suKaM Sete samuttizWati cEva ha ..</s>
+;-----------------
+592 old <s>avekzamARastrIMlokAnna tulyamiha lakzaye ..</s>
+592 new <s>avekzamARastrI~llokAnna tulyamiha lakzaye ..</s>
+;-----------------
+612 old <s>hanti nityaM kroDamAcAro hantyalakzaRam ..</s>
+612 new <s>hanti nityaM kzamA kroDamAcAro hantyalakzaRam ..</s>
+;-----------------
+630 old <s>akIrtirnindyate devEH kIrtirlokezu pUsyate .</s>
+630 new <s>akIrtirnindyate devEH kIrtirlokezu pUjyate .</s>
+;-----------------
+649 old <s>patatyevADamAllokAnyAvacCabdaH prakIrtyate ..</s>
+649 new <s>patatyevADamA~llokAnyAvacCabdaH prakIrtyate ..</s>
+;-----------------
+667 old <s>saMsArakAraRam yozidyozitaM varjayettataH ..</s>
+667 new <s>saMsArakAraRaM yozidyozitaM varjayettataH ..</s>
+;-----------------
+757 old <s>akftajYamakAryajYaM dIrGa rozamanArjavam .</s>
+757 new <s>akftajYamakAryajYaM dIrGarozamanArjavam .</s>
+;-----------------
+782 old <s>akftatyAgamahimnAMmiTyA kiM rAjarAjaSabdena .</s>
+782 new <s>akftatyAgamahimnAM miTyA kiM rAjarAjaSabdena .</s>
+;-----------------
+803 old <s>akfte 'pyudyume puMsAmanyajanmakftaM Palam .</s>
+803 new <s>akfte 'pyudyame puMsAmanyajanmakftaM Palam .</s>
+;-----------------
+822 old <s>akftezveva kAryezu mftyurvE saprakarzati .</s>
+822 new <s>akftezveva kAryezu mftyurvE saMprakarzati .</s>
+;-----------------
+989 old <s>jaradgavo 'pi cASnAti dEvAdupagataM taRam ..</s>
+989 new <s>jaradgavo 'pi cASnAti dEvAdupagataM tfRam ..</s>
+;-----------------
+1059 old <s>akroDanaH kroDaneByo viSizwastaTA titikzuratitikzorvi SizwaH .</s>
+1059 new <s>akroDanaH kroDaneByo viSizwastaTA titikzuratitikzorviSizwaH .</s>
+;-----------------
+1200 old <s>pacyate narake Dore dahyamAnaH svakarmaRA ..</s>
+1200 new <s>pacyate narake Gore dahyamAnaH svakarmaRA ..</s>
+;-----------------
+1491 old <s>agnirdevo dvijAtInAM munInAM hfdidEvatam .</s>
+1491 new <s>agnirdevo dvijAtInAM munInAM hfdi dEvatam .</s>
+;-----------------
+1492 old <s>pratimA svalyabudDInAM sarvatra samadarSinaH ..</s>
+1492 new <s>pratimA svalpabudDInAM sarvatra samadarSinaH ..</s>
+;-----------------
+1567 old <s>prajYApOruzahInAnAM jIviketi bahaspatiH ..</s>
+1567 new <s>prajYApOruzahInAnAM jIviketi bfhaspatiH ..</s>
+;-----------------
+1595 old <s>ratiputraPalA dArA dattaBuktaPalaM DanaM ..</s>
+1595 new <s>ratiputraPalA dArA dattaBuktaPalaM Danam ..</s>
+;-----------------
+1624 old <s>agninprApya</s> s. Spruch 63.
+1624 new <s>agnInprApya</s> s. Spruch 63.
+;-----------------
+1707 old <s>BAvaH parvatasUkzmamArgavizamaH strIRAM na vijYayate .</s>
+1707 new <s>BAvaH parvatasUkzmamArgavizamaH strIRAM na vijYAyate .</s>
+;-----------------
+1709 old <s>nArI nAma vizANkarEriva latA dozEH samaM varDitA ..</s>
+1709 new <s>nArI nAma vizANkurEriva latA dozEH samaM varDitA ..</s>
+;-----------------
+1737 old <s>vfdDastaM vizayAdbahizkfta iva vyAkftya kiM paSyati ..</s>
+1737 new <s>vfdDastaM vizayAdbahizkfta iva vyAvftya kiM paSyati ..</s>
+;-----------------
+1793 old <s>aDaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .</s>
+1793 new <s>aGaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .</s>
+;-----------------
+1846 old <s>aNga galitaM palitaM muRqaM dantavihInaM jAtaM tuRqam .</s>
+1846 new <s>aNgaM galitaM palitaM muRqaM dantavihInaM jAtaM tuRqam .</s>
+;-----------------
+1847 old <s>karaDftakampitaSoBitadaRqaM tadapi na muYcatyASA BaRqaM ..</s>
+1847 new <s>karaDftakampitaSoBitadaRqaM tadapi na muYcatyASA BaRqam ..</s>
+;-----------------
+1901 old <s>aNgaRavedirvasuDA kulyA jalaDiH ca pAtAlaM .</s>
+1901 new <s>aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlam .</s>
+;-----------------
+1926 old <s>tasmAtpriyataro mAtuH priyA eva tu bAnDavaH ..</s>
+1926 new <s>tasmAtpriyataro mAtuH priyA eva tu bAnDavAH ..</s>
+;-----------------
+2018 old <s>aNgulyagreRa yajjaptaM merulaNGane .</s>
+2018 new <s>aNgulyagreRa yajjaptaM yajjaptaM merulaNGane .</s>
+;-----------------
+2302 old <s>ajADUliriva trastOrmArjanI reRuvajjanEH .</s>
+2302 new <s>ajADUliriva trastErmArjanI reRuvajjanEH .</s>
+;-----------------
+2383 old <s>ajAnanmAhAtmayaM</s> s. den vorangehenden Spruch.
+2383 new <s>ajAnanmAhAtmyaM</s> s. den vorangehenden Spruch.
+;-----------------
+2397 old <s>ajAyudDa FziSrAdDe praBAte meGaqambare .</s>
+2397 new <s>ajAyudDa fziSrAdDe praBAte meGaqambare .</s>
+;-----------------
+2443 old <s>ajASvayormuKaM meDyaM gAvo meDyAstu pazWaH .</s>
+2443 new <s>ajASvayormuKaM meDyaM gAvo meDyAstu pfzWataH .</s>
+;-----------------
+2467 old <s>ajIrRa tapasaH kroDo jYAnAjIrRamahaMkftiH .</s>
+2467 new <s>ajIrRaM tapasaH kroDo jYAnAjIrRamahaMkftiH .</s>
+;-----------------
+2512 old <s>jYAnalavadurvidagDaM brahmApi naraMna raYjayati ..</s>
+2512 new <s>jYAnalavadurvidagDaM brahmApi naraM na raYjayati ..</s>
+;-----------------
+2620 old <s>Soko dinesu gacCatsu varDatAmapayAti kim ..</s>
+2620 new <s>Soko dinezu gacCatsu varDatAmapayAti kim ..</s>
+;-----------------
+2638 old <s>ajYAdyati vA jYAnAtkftvA karma vigarhitam .</s>
+2638 new <s>ajYAnAdyadi vA jYAnAtkftvA karma vigarhitam .</s>
+;-----------------
+2685 old <s>DAriByo jYAninaH SrezWA jYAniByo vyavasAyitaH ..</s>
+2685 new <s>DAriByo jYAninaH SrezWA jYAniByo vyavasAyinaH ..</s>
+;-----------------
+2785 old <s>aYjaliH SapaTaH sAntvaM praRampya SirasA vadet .</s>
+2785 new <s>aYjaliH SapaTaH sAntvaM praRamya SirasA vadet .</s>
+;-----------------
+2807 old <s>aYjalisTAni puzyARi vAsayanti karadvayam .</s>
+2807 new <s>aYjalisTAni puzpARi vAsayanti karadvayam .</s>
+;-----------------
+2808 old <s>ahosumanasAM prItirvAmadakziRayoH samA ..</s>
+2808 new <s>aho sumanasAM prItirvAmadakziRayoH samA ..</s>
+;-----------------
+2847 old <s>aRunApi praviSyAriM CidreRa balavantaram .</s>
+2847 new <s>aRunApi praviSyAriM CidreRa balavattaram .</s>
+;-----------------
+2865 old <s>aRuByaSca mahadDyaSca SAstreByaH kuSalo naraH .</s>
+2865 new <s>aRuByaSca mahadByaSca SAstreByaH kuSalo naraH .</s>
+;-----------------
+2917 old <s>ata eva vivektF2RAM</s> s. nach Spruch <s>vfttiM svAM bahu manyate</s>.
+2917 new <s>ata eva vivektFRAM</s> s. nach Spruch <s>vfttiM svAM bahu manyate</s>.
+;-----------------
+2944 old <s>ata eva hi vAYCanti</s> s. nach Spruch <s>eketApi suDIreRa</s>.
+2944 new <s>ata eva hi vAYCanti</s> s. nach Spruch <s>ekenApi suDIreRa</s>.
+;-----------------
+2990 old <s>hemnaH kaWinasyApi dravaRopAyo 'sti na tfnAnAm ..</s>
+2990 new <s>hemnaH kaWinasyApi dravaRopAyo 'sti na tfRAnAm ..</s>
+;-----------------
+3016 old <s>sutArEH PUtkArEH Siva Siveti pratanumaH ..</s>
+3016 new <s>sutArEH PUtkArEH Siva Siva Siveti pratanumaH ..</s>
+;-----------------
+3075 old <s>atitfzRA na kartavyA tfzRA nEva parityajet .</s>
+3075 new <s>atitfzRA na kartavyA tfzRAM nEva parityajet .</s>
+;-----------------
+3142 old <s>apraRodyo ' tiTiH sAyamapi vAgBUtfRodakEH ..</s>
+3142 new <s>apraRodyo 'tiTiH sAyamapi vAgBUtfRodakEH ..</s>
+;-----------------
+3271 old <s>SItalASca puraryAnti kA kasya paridevanA ..</s>
+3271 new <s>SItalASca punaryAnti kA kasya paridevanA ..</s>
+;-----------------
+3301 old <s>lokaH prayAgavasI kUpe snAnaM samAcarati ..</s>
+3301 new <s>lokaH prayAgavAsI kUpe snAnaM samAcarati ..</s>
+;-----------------
+3354 old <s>atiBIrumatiktIbaM dIrGasUtraM pramAdinam .</s>
+3354 new <s>atiBIrumatiklIbaM dIrGasUtraM pramAdinam .</s>
+;-----------------
+3374 old <s>timire hi kOSukAnAM rUpaM pratipadyate dfzwiH ..</s>
+3374 new <s>timire hi kOSikAnAM rUpaM pratipadyate dfzwiH ..</s>
+;-----------------
+3398 old <s>atimAtraBAsuratvaM puzyati BAtuH parigrahAdahnaH .</s>
+3398 new <s>atimAtraBAsuratvaM puzyati BAnuH parigrahAdahnaH .</s>
+;-----------------
+3442 old <s>eva evAsayastIkzRAH kfntantyAyUMzi dehinAm .</s>
+3442 new <s>eta evAsayastIkzRAH kfntantyAyUMzi dehinAm .</s>
+;-----------------
+3443 old <s>etAni mAnavAnDnanti na mftyurBadramastu te ..</s>
+3443 new <s>etAni mAnavAnGnanti na mftyurBadramastu te ..</s>
+;-----------------
+3465 old <s>atiyanragfhIto 'pi KalaH KalaKalAyate .</s>
+3465 new <s>atiyatnagfhIto 'pi KalaH KalaKalAyate .</s>
+;-----------------
+3521 old <s>atidAna valirdattvA ati sarvatra varjayet ..</s>
+3521 new <s>atidAnaM balirdattvA ati sarvatra varjayet ..</s>
+;-----------------
+3567 old <s>hantuM ca yo necCati pApakaM cE tasmE devAH spfhayantyAgatAya ..</s>
+3567 new <s>hantuM ca yo necCati pApakaM vE tasmE devAH spfhayantyAgatAya ..</s>
+;-----------------
+3587 old <s>ativAdAM stitikzeta nABimanyeta kaM ca na .</s>
+3587 new <s>ativAdAMstitikzeta nABimanyeta kaM ca na .</s>
+;-----------------
+3677 old <s>atiSOcamaSocaM vA atinindA atistutiH .</s>
+3677 new <s>atiSOcamaSOcaM vA atinindA atistutiH .</s>
+;-----------------
+3796 old <s>durAsadASca vizadASca vizamA ISvarAH parvatA iva ..</s>
+3796 new <s>durAsadASca vizamA ISvarAH parvatA iva ..</s>
+;-----------------
+3828 old <s>anuzwidAnaM</s> s. Spruch 196.
+3828 new <s>atuzwidAnaM</s> s. Spruch 196.
+;-----------------
+3835 old <s>anfptivyADi°</s> s. Spruch <s>avfttivyADi°</s>.
+3835 new <s>atfptivyADi°</s> s. Spruch <s>avfttivyADi°</s>.
+;-----------------
+3861 old <s>attuM vAYCati SAMBavo gaRapateroKuM kzuDArtaH PaRI</s>
+3861 new <s>attuM vAYCati SAMBavo gaRapaterAKuM kzuDArtaH PaRI</s>
+;-----------------
+3996 old <s>atyambupAnAdvizamASanAcca divASayAjjAraRAcca rAstrO .</s>
+3996 new <s>atyambupAnAdvizamASanAcca divASayAjjAgaraRAcca rAtrO .</s>
+;-----------------
+3997 old <s>saMroDanAnmUtrapurIzayoSca paqBiH prakArEH praBavanti rogAH ..</s>
+3997 new <s>saMroDanAnmUtrapurIzayoSca zaqBiH prakArEH praBavanti rogAH ..</s>
+;-----------------
+4027 old <s>atyalpasaMpadaH santaH pumAnizwaSca duzkuMle .</s>
+4027 new <s>atyalpasaMpadaH santaH pumAnizwaSca duzkule .</s>
+;-----------------
+4048 old <s>agneH SezamfRAcCezaM Satro SezaM na Sezayet ..</s>
+4048 new <s>agneH SezamfRAcCezaM SatroH SezaM na Sezayet ..</s>
+;-----------------
+4091 old <s>unmattA gOrivAnDA SrI kvacidevAvatizWate ..</s>
+4091 new <s>unmattA gOrivAnDA SrIH kvacidevAvatizWate ..</s>
+;-----------------
+4548 old <s>ardurgavizayaH kasya</s> und <s>adurgavizayo yasya</s> s. den folgenden Spruch.
+4548 new <s>adurgavizayaH kasya</s> und <s>adurgavizayo yasya</s> s. den folgenden Spruch.
+;-----------------
+4598 old <s>adfzwavyAparaM gatavati dinAnAmaDipatO paSaHSezIBUte SaSini gataDAmni grahagaRe .</s>
+4598 new <s>adfzwavyApAraM gatavati dinAnAmaDipatO yaSaHSezIBUte SaSini gataDAmni grahagaRe .</s>
+;-----------------
+4599 old <s>ta TAnDaM saMjAtaM jagadupanate meGasamaye yaTAmI gaRyante tamasi pawavaH kIwamaRayaH ..</s>
+4599 new <s>taTAnDaM saMjAtaM jagadupanate meGasamaye yaTAmI gaRyante tamasi pawavaH kIwamaRayaH ..</s>
+;-----------------
+4682 old <s>yo 'trabravItkAraRavarjitaM vaco na tadvacaH syAdvizameva tadBavet ..</s>
+4682 new <s>yo 'trAbravItkAraRavarjitaM vaco na tadvacaH syAdvizameva tadBavet ..</s>
+;-----------------
+4755 old <s>vidyAtapoByAM BUtAtmA budDirjYAne SuDyati ..</s>
+4755 new <s>vidyAtapoByAM BUtAtmA budDirjYAnena SuDyati ..</s>
+;-----------------
+4801 old <s>adyAtkAkaH puroNaSam</s> s. nach Spruch <s>yadi na praRayedrAjA</s>.
+4801 new <s>adyAtkAkaH puroqASam</s> s. nach Spruch <s>yadi na praRayedrAjA</s>.
+;-----------------
+4809 old <s>amBoniDiH sahati duHsahavAqavAgnimaNgIkftaM kukftinaH paripAlayanti ..</s>
+4809 new <s>amBoniDiH sahati duHsahavAqavAgnimaNgIkftaM sukftinaH paripAlayanti ..</s>
+;-----------------
+4845 old <s>adyApi SItadyutirAtmabimbaM nirmAya punarBunakti .</s>
+4845 new <s>adyApi SItadyutirAtmabimbaM nirmAya nirmAya punarBunakti .</s>
+;-----------------
+4933 old <s>ardrohaH sarvaBUtezuM karmaRA manasA girA .</s>
+4933 new <s>adrohaH sarvaBUtezu karmaRA manasA girA .</s>
+;-----------------
+4951 old <s>aDaH karoti yadratnaM mUrDrA DArayate tfRam .</s>
+4951 new <s>aDaH karoti yadratnaM mUrDnA DArayate tfRam .</s>
+;-----------------
+4952 old <s>dozastasyEva jalaDe ratnaM tfRaM tfRam ..</s>
+4952 new <s>dozastasyEva jalaDe ratnaM ratnaM tfRaM tfRam ..</s>
+;-----------------
+5013 old <s>aDanenArTakAmena nArTaH Sakyo viDitmisum .</s>
+5013 new <s>aDanenArTakAmena nArTaH Sakyo viDitsitum .</s>
+;-----------------
+5036 old <s>aDano dAtukAmo 'pi saMprapto DaninAM gfham .</s>
+5036 new <s>aDano dAtukAmo 'pi saMprApto DaninAM gfham .</s>
+;-----------------
+5056 old <s>pAdadvayaM vrajatyASu SItaspaSo na cakzuzI ..</s>
+5056 new <s>pAdadvayaM vrajatyASu SItasparSo na cakzuzI ..</s>
+;-----------------
+5142 old <s>yo haredvalizaqBAgaM na ca rakzati putravat ..</s>
+5142 new <s>yo haredbalizaqBAgaM na ca rakzati putravat ..</s>
+;-----------------
+5237 old <s>na sa tasya PalaM pretya BaNkte 'rTasya durAgamAt ..</s>
+5237 new <s>na sa tasya PalaM pretya BuNkte 'rTasya durAgamAt ..</s>
+;-----------------
+5256 old <s>mUtraklinnasya tasyArTe mA rAjanbrAhmaRanvaDIH ..</s>
+5256 new <s>mUtraklinnasya tasyArTe mA rAjanbrAhmaRAnvaDIH ..</s>
+;-----------------
+5307 old <s>aDikAra FRaM garBaScaturTaM SvAnamETunam .</s>
+5307 new <s>aDikAra fRaM garBaScaturTaM SvAnamETunam .</s>
+;-----------------
+5337 old <s>aBinavamadaleKASyAmagaRqasTalAnAM na Bavati visatanturvAraRaM vAraRAnAm ..</s>
+5337 new <s>aBinavamadaleKASyAmagaRqasTalAnAM na Bavati bisatanturvAraRaM vAraRAnAm ..</s>
+;-----------------
+5429 old <s>aDodfzwirBavetkftvA</s> s. nach Spruch <s>ayAti sKalitEH</s>.
+5429 new <s>aDodfzwirBavetkftvA</s> s. nach Spruch <s>AyAti sKalitEH</s>.
+;-----------------
+5505 old <s>aDruve hi SarIre yo na karoti tapo'rjanam .</s>
+5505 new <s>aDruve hi SarIre yo na karoti tapo 'rjanam .</s>
+;-----------------
+5564 old <s>amETunaM jarA strIRAM vastranAmAtapo jarA ..</s>
+5564 new <s>amETunaM jarA strIRAM vastrARAmAtapo jarA ..</s>
+;-----------------
+5670 old <s>vidagDAnAM gozWIzvakftaparicayASca Kalu ye</s>
+5670 new <s>vidagDAnAM gozWIzvakftaparicaryASca Kalu ye</s>
+;-----------------
+5745 old <s>antaSAstraM bahulASca vidyAH svalpaSca kAlo bahuviGnatA ca .</s>
+5745 new <s>anantaSAstraM bahulASca vidyAH svalpaSca kAlo bahuviGnatA ca .</s>
+;-----------------
+5820 old <s>anigraheRa cAkzARAM jayate vyasanaM nfRAm ..</s>
+5820 new <s>anigraheRa cAkzARAM jAyate vyasanaM nfRAm ..</s>
+;-----------------
+5843 old <s>anaBrAkramaRaM SOryaM DanaM nijaBujArjitam .</s>
+5843 new <s>anamrAkramaRaM SOryaM DanaM nijaBujArjitam .</s>
+;-----------------
+5900 old <s>damBaM stEnyaM pESunaM na sevate yaSca suKI sadEva ..</s>
+5900 new <s>damBaM stEnyaM pESunaM madyapAnaM na sevate yaSca suKI sadEva ..</s>
+;-----------------
+6091 old <s>anvApyaM ca Sokena SarIraM copatapyate .</s>
+6091 new <s>anavApyaM ca Sokena SarIraM copatapyate .</s>
+;-----------------
+6557 old <s>anAramBo hi kAryARI praTamaM budDilakzaRam .</s>
+6557 new <s>anAramBo hi kAryARAM praTamaM budDilakzaRam .</s>
+;-----------------
+6575 old <s>anarTAH kzipramAyanti vAgduzwaM kroDanaM taTA ..</s>
+6575 new <s>anarTAH kzipramAyAnti vAgduzwaM kroDanaM taTA ..</s>
+;-----------------
+6769 old <s>ArogyaM priyasaMvAso gfDyeMttatra na paRqitaH ..</s>
+6769 new <s>ArogyaM priyasaMvAso gfDyettatra na paRqitaH ..</s>
+;-----------------
+6840 old <s>paTi saMgatamevEtadDrAtA mAtA pitA saKA ..</s>
+6840 new <s>paTi saMgatamevEtadBrAtA mAtA pitA saKA ..</s>
+;-----------------
+6918 old <s>svApateyakfte martyAH kiM kiM nAma na karvate ..</s>
+6918 new <s>svApateyakfte martyAH kiM kiM nAma na kurvate ..</s>
+;-----------------
+6935 old <s>aniyuktA hi sAcivya yadvadanti hitEziRaH .</s>
+6935 new <s>aniyuktA hi sAcivye yadvadanti hitEziRaH .</s>
+;-----------------
+7074 old <s>yadi syAttAsya no deyA kanyA Sreyo 'BivAYCatA ..</s>
+7074 new <s>yadi syAttasya no deyA kanyA Sreyo 'BivAYCatA ..</s>
+;-----------------
+7093 old <s>manuzyA mAnasErduHKEryujyante svalpabadDayaH ..</s>
+7093 new <s>manuzyA mAnasErduHKEryujyante svalpabudDayaH ..</s>
+;-----------------
+7242 old <s>anugantuM vartma kftsnaM yadi na Sakyate .</s>
+7242 new <s>anugantuM satAM vartma kftsnaM yadi na Sakyate .</s>
+;-----------------
+7411 old <s>nuyuktA hi sAcivye</s> s. Spruch 299.
+7411 new <s>anuyuktA hi sAcivye</s> s. Spruch 299.
+;-----------------
+7419 old <s>ahodEvagatiScitrA taTApi na samAgamaH ..</s>
+7419 new <s>aho dEvagatiScitrA taTApi na samAgamaH ..</s>
+;-----------------
+7592 old <s>guroScAlIkanirbanDaH samAti brahmahatyayA ..</s>
+7592 new <s>guroScAlIkanirbanDaH samAni brahmahatyayA ..</s>
+;-----------------
+7673 old <s>anekasaMSayocCedi paro'kzArTasya darSakam .</s>
+7673 new <s>anekasaMSayocCedi paro 'kzArTasya darSakam .</s>
+;-----------------
+7714 old <s>antaH kawurapi laGurapi sadvfttaM yaH yumAnna saMtyajati .</s>
+7714 new <s>antaH kawurapi laGurapi sadvfttaM yaH pumAnna saMtyajati .</s>
+;-----------------
+7775 old <s>antaHprataptamarumEkatadahyamAnamUlasya campakataroH kva vikAsacintA .</s>
+7775 new <s>antaHprataptamarusEkatadahyamAnamUlasya campakataroH kva vikAsacintA .</s>
+;-----------------
+7862 old <s>SakaniH SakawAraSca dfzwAntAvatra Bayate ..</s>
+7862 new <s>SakuniH SakawAraSca dfzwAntAvatra BUpate ..</s>
+;-----------------
+7882 old <s>antarBUya praBoH prApyo viSezaH sarvaSA buDEH .</s>
+7882 new <s>antarBUya praBoH prApyo viSezaH sarvaTA buDEH .</s>
+;-----------------
+7921 old <s>antarye satataM kuWantyagaRitAneva pAToDarE-</s>
+7921 new <s>antarye satataM luWantyagaRitAstAneva pAToDarE-</s>
+;-----------------
+7924 old <s>prAyo 'nyena kftAdaro laGurapi prApto 'caryate svAmiBiH ..</s>
+7924 new <s>prAyo 'nyena kftAdaro laGurapi prApto 'rcyate svAmiBiH ..</s>
+;-----------------
+7955 old <s>duHKeneha vigAhyateM pracakitE rAjYAM gfhaM vArDivat ..</s>
+7955 new <s>duHKeneha vigAhyate pracakitE rAjYAM gfhaM vArDivat ..</s>
+;-----------------
+8013 old <s>antarhite SaSini sEva sukudvatI me dfzwiM na nandayati saMsmaraRIyaSoBA .</s>
+8013 new <s>antarhite SaSini sEva kumudvatI me dfzwiM na nandayati saMsmaraRIyaSoBA .</s>
+;-----------------
+8295 old <s>cakzuzAnDo na jAnAti vizayAnDo nakenacit ..</s>
+8295 new <s>cakzuzAnDo na jAnAti vizayAnDo na kenacit ..</s>
+;-----------------
+8379 old <s>annahIno dahedrAzwraM mantrahInaSca FtvijaH .</s>
+8379 new <s>annahIno dahedrAzwraM mantrahInaSca ftvijaH .</s>
+;-----------------
+8397 old <s>payaso 'zwaguRaM sAMsaM mAMsAddaSaguRaM Gftam ..</s>
+8397 new <s>payaso 'zwaguRaM mAMsaM mAMsAddaSaguRaM Gftam ..</s>
+;-----------------
+8423 old <s>anyaTEva prapadyante dEvAditi patirmama ..</s>
+8423 new <s>anyaTEva prapadyante dEvAditi matirmama ..</s>
+;-----------------
+8444 old <s>anyaTA paridfzwAni muniBi tattvadarSiBiH .</s>
+8444 new <s>anyaTA paridfzwAni muniBistattvadarSiBiH .</s>
+;-----------------
+8489 old <s>pravartate 'nyaTA vARI SaWyopahatacetasaH ..</s>
+8489 new <s>pravartate 'nyaTA vARI SAWyopahatacetasaH ..</s>
+;-----------------
+8511 old <s>anyadABaraRaM saMsaH</s> s. den folgenden Spruch.
+8511 new <s>anyadABaraRaM puMsaH</s> s. den folgenden Spruch.
+;-----------------
+8542 old <s>anyaducCfNKalaM sattvamanyacCAstranipantritam .</s>
+8542 new <s>anyaducCfNKalaM sattvamanyacCAstraniyantritam .</s>
+;-----------------
+8543 old <s>sAmAnADikaraRyaM hi tejastimirayoH kataH ..</s>
+8543 new <s>sAmAnADikaraRyaM hi tejastimirayoH kutaH ..</s>
+;-----------------
+8565 old <s>upayate yadDi yadbIjaM tattadeva prarohati ..</s>
+8565 new <s>upyate yadDi yadbIjaM tattadeva prarohati ..</s>
+;-----------------
+8607 old <s>anyaM manuzyaM hfdayena katvA anyaM tato dfzwiBirAhvayanti .</s>
+8607 new <s>anyaM manuzyaM hfdayena kftvA anyaM tato dfzwiBirAhvayanti .</s>
+;-----------------
+8622 old <s>ravirapi na dahati tAdfgyAdfGyuttaptavAlukAnikaraH ..</s>
+8622 new <s>ravirapi na dahati tAdfgyAdfghyuttaptavAlukAnikaraH ..</s>
+;-----------------
+8663 old <s>anyAmanyAM DanAvasTAM prApta vESezikIM narAH .</s>
+8663 new <s>anyAmanyAM DanAvasTAM prApya vESezikIM narAH .</s>
+;-----------------
+8721 old <s>mugDAmajAtarajasaM kalikAmakAle vyarTaM kadarSayasi kiM navamallikAyAH ..</s>
+8721 new <s>mugDAmajAtarajasaM kalikAmakAle vyarTaM kadarTayasi kiM navamallikAyAH ..</s>
+;-----------------
+8790 old <s>ko 'pyAgraho gururayaM vata cAtakasya pOraMdarIM yadaBivAYCati vAriDArAm ..</s>
+8790 new <s>ko 'pyAgraho gururayaM bata cAtakasya pOraMdarIM yadaBivAYCati vAriDArAm ..</s>
+;-----------------
+8846 old <s>kasmAnna lajjAmavahaYCEce cintAM na vA daDuH ..</s>
+8846 new <s>kasmAnna lajjAmavahaYCOce cintAM na vA daDuH ..</s>
+;-----------------
+8865 old <s>anyo DanaM pretagatasya BuNkte vayaMsi cAgniSca SarIraDAtUn .</s>
+8865 new <s>anyo DanaM pretagatasya BuNkte vayAMsi cAgniSca SarIraDAtUn .</s>
+;-----------------
+8884 old <s>anyo'nyakftavErARAM saMvAsAnmfdutAM gatam .</s>
+8884 new <s>anyo 'nyakftavErARAM saMvAsAnmfdutAM gatam .</s>
+;-----------------
+8902 old <s>anyo'nyakftavErARAM putrapOtraM nigacCati .</s>
+8902 new <s>anyo 'nyakftavErARAM putrapOtraM nigacCati .</s>
+;-----------------
+8926 old <s>anyo'nyamatimAsTAya</s> s. nach Spruch <s>EkamatyamupAgamya</s>.
+8926 new <s>anyo 'nyamatimAsTAya</s> s. nach Spruch <s>EkamatyamupAgamya</s>.
+;-----------------
+8933 old <s>anyo'nyasamupastamBAdanyo'nyApASrayeRa ca .</s>
+8933 new <s>anyo 'nyasamupastamBAdanyo 'nyApASrayeRa ca .</s>
+;-----------------
+8934 old <s>jYAtaya; saMpravarDante sarasIvotpalAnyuta ..</s>
+8934 new <s>jYAtayaH saMpravarDante sarasIvotpalAnyuta ..</s>
+;-----------------
+9076 old <s>dIrGO budDimato bAhU yAmyAM hiMsati hiMsitaH ..</s>
+9076 new <s>dIrGO budDimato bAhU yAByAM hiMsati hiMsitaH ..</s>
+;-----------------
+9216 old <s>svakAryamudDaretprAjYaH kAryaDvaMse hi sUrKatA ..</s>
+9216 new <s>svakAryamudDaretprAjYaH kAryaDvaMse hi mUrKatA ..</s>
+;-----------------
+9293 old <s>aparADi 'pi niHSaNko niyogI cirasevakaH .</s>
+9293 new <s>aparADe 'pi niHSaNko niyogI cirasevakaH .</s>
+;-----------------
+9331 old <s>aparIkzitaM na kartavyaM suparIkzitam .</s>
+9331 new <s>aparIkzitaM na kartavyaM kartavyaM suparIkzitam .</s>
+;-----------------
+9422 old <s>kawu rawati nikawavartI vAcawo wiwwiBo yatra ..</s>
+9422 new <s>kawu rawati nikawavartI vAcAwo wiwwiBo yatra ..</s>
+;-----------------
+9444 old <s>apasara maDukara dUraM parimalabrahule hi ketakIkusume .</s>
+9444 new <s>apasara maDukara dUraM parimalabahule hi ketakIkusume .</s>
+;-----------------
+9475 old <s>ScawulavanitABogigrastaM tyajAnti hi mantriRaH ..</s>
+9475 new <s>ScawulavanitABogigrastaM tyajanti hi mantriRaH ..</s>
+;-----------------
+9595 old <s>meDAvino nItiviDiprayuktAM puraH sPuraMntImiva varRayanti ..</s>
+9595 new <s>meDAvino nItiviDiprayuktAM puraH sPurantImiva varRayanti ..</s>
+;-----------------
+9622 old <s>kva nAma vasuDAyate tava yaSo'mbuDiH kvAmbuDiH ..</s>
+9622 new <s>kva nAma vasuDApate tava yaSo 'mbuDiH kvAmbuDiH ..</s>
+;-----------------
+9647 old <s>apArasaMsArasamudramaDye saMBajjato me SaraRaM kimasti .</s>
+9647 new <s>apArasaMsArasamudramaDye saMmajjato me SaraRaM kimasti .</s>
+;-----------------
+9675 old <s>taTApi na parABatiM janAdAproti mAnavaH ..</s>
+9675 new <s>taTApi na parABUtiM janAdApnoti mAnavaH ..</s>
+;-----------------
+9696 old <s>yadAproti PalaM lokAttasyAMSamapi no guRI ..</s>
+9696 new <s>yadApnoti PalaM lokAttasyAMSamapi no guRI ..</s>
+;-----------------
+9763 old <s>sa hi pracCAdyate dozaH SElo meDErivAsitEH ..</s>
+9763 new <s>sa hi pracCAdyate dozaH SElo meGErivAsitEH ..</s>
+;-----------------
+9904 old <s>api prARasamAnizwAnpAlitAM2llAlitAnapi .</s>
+9904 new <s>api prARasamAnizwAnpAlitA~llAlitAnapi .</s>
+;-----------------
+9927 old <s>tadarTena vicIrRena na karTaMcitsuhfddruhaH ..</s>
+9927 new <s>tadarTena vicIrRena na kaTaMcitsuhfddruhaH ..</s>
+;-----------------
+9946 old <s>api BrAtA suto 'rGyo vA SvaSuro mASuro mAtulo 'pi vA .</s>
+9946 new <s>api BrAtA suto 'rGyo vA SvaSuro mAtulo 'pi vA .</s>
+;-----------------
+9947 old <s>nAdaRqyo nAma rajYo 'sti DarmAdvicalitaH svakAt ..</s>
+9947 new <s>nAdaRqyo nAma rAjYo 'sti DarmAdvicalitaH svakAt ..</s>
+;-----------------
+10064 old <s>sarve te hAsyatAM yAti yaTA te mUrKapaRqitAH ..</s>
+10064 new <s>sarve te hAsyatAM yAnti yaTA te mUrKapaRqitAH ..</s>
+;-----------------
+10103 old <s>api saMmAnayuktASca</s> und <s>api saMmAnasaMyuktAH</s> s. Spruch <s>svAmisaMmAnasaMyuktAH</s>
+10103 new <s>api saMmAnayuktASca</s> und <s>api saMmAnasaMyuktAH</s> s. Spruch <s>svAmisaMmAnasaMyuktAH</s>.
+;-----------------
+10135 old <s>gatvA viSvAsaBAvaM sa SatrorAtmAnamarpayeta ..</s>
+10135 new <s>gatvA viSvAsaBAvaM sa SatrorAtmAnamarpayet ..</s>
+;-----------------
+10192 old <s>apiqayanbalaM SatrUYjigIzuraBizeRayet .</s>
+10192 new <s>apIqayanbalaM SatrUYjigIzuraBizeRayet .</s>
+;-----------------
+10240 old <s>aputrasya gatirnAsti svarge nEva ca .</s>
+10240 new <s>aputrasya gatirnAsti svarge nEva ca nEva ca .</s>
+;-----------------
+10344 old <s>apUrvaH 'pi kopAgniH sajjanasya Kalasya ca .</s>
+10344 new <s>apUrvaH ko 'pi kopAgniH sajjanasya Kalasya ca .</s>
+;-----------------
+10473 old <s>eza eza satAM Darmo viparItamato 'nyaTA ..</s>
+10473 new <s>eza eva satAM Darmo viparItamato 'nyaTA ..</s>
+;-----------------
+10553 old <s>viDorviDuMtudAskandavipatkAlo 'pi sandaraH ..</s>
+10553 new <s>viDorviDuMtudAskandavipatkAlo 'pi sundaraH ..</s>
+;-----------------
+10570 old <s>apyutkawe carOdre ca SatrO yasya na hIyate .</s>
+10570 new <s>apyutkawe ca rOdre ca SatrO yasya na hIyate .</s>
+;-----------------
+10571 old <s>dEryaM prApte mahInATe na sa yAti parABavam ..</s>
+10571 new <s>DEryaM prApte mahInATe na sa yAti parABavam ..</s>
+;-----------------
+10765 old <s>aprasAdo 'naDizWAnaM deyaMSaharaRaM ca yat .</s>
+10765 new <s>aprasAdo 'naDizWAnaM deyAMSaharaRaM ca yat .</s>
+;-----------------
+10790 old <s>te BftyA nfpateH kalatramitare saMpatsu cAparsu ca ..</s>
+10790 new <s>te BftyA nfpateH kalatramitare saMpatsu cApatsu ca ..</s>
+;-----------------
+11173 old <s>tasya dehavimuktasya kzaya na vidyate ..</s>
+11173 new <s>tasya dehavimuktasya kzaya eva na vidyate ..</s>
+;-----------------
+11190 old <s>nahi prARasamaM dAnaM triza lokezu vidyate ..</s>
+11190 new <s>nahi prARasamaM dAnaM trizu lokezu vidyate ..</s>
+;-----------------
+11323 old <s>aBimataPaladAtA tvaM ca kalpadrumaSca prakarwamiha viSezaM kaMcanodAharAmaH .</s>
+11323 new <s>aBimataPaladAtA tvaM ca kalpadrumaSca prakawamiha viSezaM kaMcanodAharAmaH .</s>
+;-----------------
+11324 old <s>kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKIM deva dAnaM tvadIyam ..</s>
+11324 new <s>kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKI deva dAnaM tvadIyam ..</s>
+;-----------------
+11401 old <s>yujyate 'vaSyaBogmAnAM duHKanAmaprakASanam ..</s>
+11401 new <s>yujyate 'vaSyaBogyAnAM duHKanAmaprakASanam ..</s>
+;-----------------
+11527 old <s>upahArAdfte tasmAtsamDiranyo na vidyate ..</s>
+11527 new <s>upahArAdfte tasmAtsaMDiranyo na vidyate ..</s>
+;-----------------
+11638 old <s>aBizakto hyaBizajet</s> s. nach Spruch <s>yadi na syurmAnuzez</s>.
+11638 new <s>aBizakto hyaBizajet</s> s. nach Spruch <s>yadi na syurmAnuzezu</s>.
+;-----------------
+11851 old <s>alpenEva vinaSyanti yovanAni DanAni ca ..</s>
+11851 new <s>alpenEva vinaSyanti yOvanAni DanAni ca ..</s>
+;-----------------
+12097 old <s>kzaRAdutpadyante vilayamapi yAnti kzaRamamI na ke 'pi sTAtAra; suragiripayoDipraBftayaH ..</s>
+12097 new <s>kzaRAdutpadyante vilayamapi yAnti kzaRamamI na ke 'pi sTAtAraH suragiripayoDipraBftayaH ..</s>
+;-----------------
+12123 old <s>yadADyAnAmagre draviRamadaniHsaMjYamanasAM kftaM vItavrIqErnijaguRakaTApAtakamapi ..</s>
+12123 new <s>yadAQyAnAmagre draviRamadaniHsaMjYamanasAM kftaM vItavrIqErnijaguRakaTApAtakamapi ..</s>
+;-----------------
+12192 old <s>amftaM guRavadBAryA amftaM bAlaBAzitaM ..</s>
+12192 new <s>amftaM guRavadBAryA amftaM bAlaBAzitam ..</s>
+;-----------------
+12209 old <s>amftaM SiSiri vahniramftaM priyadarSanam .</s>
+12209 new <s>amftaM SiSire vahniramftaM priyadarSanam .</s>
+;-----------------
+12272 old <s>vadatu yadihanyatsvAdu syAtpriyAradanacCadAt ..</s>
+12272 new <s>vadatu yadihAnyatsvAdu syAtpriyAradanacCadAt ..</s>
+;-----------------
+12383 old <s>amftAtmani padmanAM dvezwari snigDatArake .</s>
+12383 new <s>amftAtmani padmAnAM dvezwari snigDatArake .</s>
+;-----------------
+12384 old <s>suKendO tava satyasminnapareRa kimindunA ..</s>
+12384 new <s>muKendO tava satyasminnapareRa kimindunA ..</s>
+;-----------------
+12585 old <s>aByoDiH sTalatAM sTalaM jalaDitAM DUlIlavaH SElatAM</s>
+12585 new <s>amBoDiH sTalatAM sTalaM jalaDitAM DUlIlavaH SElatAM</s>
+;-----------------
+12586 old <s>merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAM .</s>
+12586 new <s>merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAm .</s>
+;-----------------
+12588 old <s>lIlAdurlalitAdButavyasaninedEvAya tasmE namaH ..</s>
+12588 new <s>lIlAdurlalitAdButavyasanine dEvAya tasmE namaH ..</s>
+;-----------------
+12657 old <s>ayaHpiRqa ivottapto KalAnAM hfdaye kzaRat .</s>
+12657 new <s>ayaHpiRqa ivottapte KalAnAM hfdaye kzaRat .</s>
+;-----------------
+12658 old <s>patitA iva nekzyante guRastoyakaRA iva ..</s>
+12658 new <s>patitA iva nekzyante guRAstoyakaRA iva ..</s>
+;-----------------
+12701 old <s>mfzA na cakre 'lpiyatakalpapAdapaH praRIya dAridryadaridratAM nfpaH ..</s>
+12701 new <s>mfzA na cakre 'lpitakalpapAdapaH praRIya dAridryadaridratAM nfpaH ..</s>
+;-----------------
+12970 old <s>ayi tyaktAsi kastuUri pAmarEH paNkaSaNkayA .</s>
+12970 new <s>ayi tyaktAsi kastUri pAmarEH paNkaSaNkayA .</s>
+;-----------------
+12995 old <s>apahftya manaH kva yAsi se kimarAjakamatra vartate ..</s>
+12995 new <s>apahftya manaH kva yAsi me kimarAjakamatra vartate ..</s>
+;-----------------
+13083 old <s>yuktaM bahu BAzante yatra kutrApi Serate .</s>
+13083 new <s>ayuktaM bahu BAzante yatra kutrApi Serate .</s>
+;-----------------
+13302 old <s>apasarpyaH saDarmatvAnnityedvigI ca dUzitaH ..</s>
+13302 new <s>apasarpyaH saDarmatvAnnityodvegI ca dUzitaH ..</s>
+;-----------------
+13347 old <s>vidyAdalakzmIkatamaM janAnAM muKe nibadDAM nirFtiM vahantam ..</s>
+13347 new <s>vidyAdalakzmIkatamaM janAnAM muKe nibadDAM nirftiM vahantam ..</s>
+;-----------------
+13463 old <s>sumfzwamapi na Sre yo vikalpo 'yamataH satAm ..</s>
+13463 new <s>sumfzwamapi na Sreyo vikalpo 'yamataH satAm ..</s>
+;-----------------
+13486 old <s>arTaSreyasi cAsakto na Sre yo vindate naraH ..</s>
+13486 new <s>arTaSreyasi cAsakto na Sreyo vindate naraH ..</s>
+;-----------------
+13537 old <s>arTapatO BUmipatO bAle vfdDe tapo'Dike viduzi .</s>
+13537 new <s>arTapatO BUmipatO bAle vfdDe tapo 'Dike viduzi .</s>
+;-----------------
+13559 old <s>prARAnAM ca Danasya cADamaDiyAmanyahetuH paRaH ..</s>
+13559 new <s>prARAnAM ca Danasya cADamaDiyAmanyo 'nyahetuH paRaH ..</s>
+;-----------------
+13620 old <s>arTaM brUyAnna cAsatsu guRAMnbrUyAnna cAtmanaH .</s>
+13620 new <s>arTaM brUyAnna cAsatsu guRAnbrUyAnna cAtmanaH .</s>
+;-----------------
+13657 old <s>mitro vA yadi vA SatrO tasyApi calitA matiH ..</s>
+13657 new <s>mitre vA yadi vA SatrO tasyApi calitA matiH ..</s>
+;-----------------
+13777 old <s>arTasyotpAdane cEva pAlane ca taTA kzayE .</s>
+13777 new <s>arTasyotpAdane cEva pAlane ca taTA kzaye .</s>
+;-----------------
+13813 old <s>arTaH sukaM kIrtirapIha mA BUdanarTa evAstu taTApi DIrAH .</s>
+13813 new <s>arTaH suKaM kIrtirapIha mA BUdanarTa evAstu taTApi DIrAH .</s>
+;-----------------
+13856 old <s>mAnuzyaM jalavindulolacapalaM PenopamaM PenopamaM jIvitam .</s>
+13856 new <s>mAnuzyaM jalabindulolacapalaM PenopamaM jIvitam .</s>
+;-----------------
+14079 old <s>SUrastvaM vAdidarpajvaraSamanaviDAvakzayaM pAWavaM naH .</s>
+14079 new <s>SUrastvaM vAdidarpajvaraSamanaviDAvakzayaM pAwavaM naH .</s>
+;-----------------
+14131 old <s>indriyARAmanESvaryAdESvaryAdDraSyate hi saH ..</s>
+14131 new <s>indriyARAmanESvaryAdESvaryAdBraSyate hi saH ..</s>
+;-----------------
+14239 old <s>ASAM saMSrutya yo hanti sa loke purazADamaH ..</s>
+14239 new <s>ASAM saMSrutya yo hanti sa loke puruzADamaH ..</s>
+;-----------------
+14299 old <s>arTI dAtA guRagrAhI</s> s. Spruch <s>kzamI dAtA guRagrahI</s>.
+14299 new <s>arTI dAtA guRagrAhI</s> s. Spruch <s>kzamI dAtA guRagrAhI</s>.
+;-----------------
+14422 old <s>arTeByo' pi hi vfdDeByaH</s> s. den folgenden Spruch.
+14422 new <s>arTeByo 'pi hi vfdDeByaH</s> s. den folgenden Spruch.
+;-----------------
+14429 old <s>arTeByo hi vifvadDeByaH saMBfteByastatastataH .</s>
+14429 new <s>arTeByo hi vivfdDeByaH saMBfteByastatastataH .</s>
+;-----------------
+14461 old <s>nahyanarTavatA SakyaM vARijyaM kartamIhayA ..</s>
+14461 new <s>nahyanarTavatA SakyaM vARijyaM kartumIhayA ..</s>
+;-----------------
+14522 old <s>arDaM nItvA niSAyAH saraBasasuratAyAsaKinnaSlaSANgaH</s>
+14522 new <s>arDaM nItvA niSAyAH saraBasasuratAyAsaKinnaSlaTANgaH</s>
+;-----------------
+14524 old <s>saMBogaktAntakAntASiTilaBujalatAvarjitaM karkarIto</s>
+14524 new <s>saMBogaklAntakAntASiTilaBujalatAvarjitaM karkarIto</s>
+;-----------------
+14569 old <s>BAryA mUlaM trivargasya BAryA mUlaM tarizyatiH ..</s>
+14569 new <s>BAryA mUlaM trivargasya BAryA mUlaM tarizyataH ..</s>
+;-----------------
+14755 old <s>rakzitaM varDayedvfdDyA vfdDaM danina nikzipet ..</s>
+14755 new <s>rakzitaM varDayedvfdDyA vfdDaM dAnena nikzipet ..</s>
+;-----------------
+14794 old <s>hemante tAmamIhante hanta grIzme himaM punaH ..</s>
+14794 new <s>hemante tApamIhante hanta grIzme himaM punaH ..</s>
+;-----------------
+14864 old <s>alabDezu manasTApaH saMcitArTo vinaSyati ..</s>
+14864 new <s>alabDezu manastApaH saMcitArTo vinaSyati ..</s>
+;-----------------
+14991 old <s>alasasya kuto vidyA avoDasya kuto 'Bayam .</s>
+14991 new <s>alasasya kuto vidyA aboDasya kuto 'Bayam .</s>
+;-----------------
+15066 old <s>viDivaSAtparadeSamupAgataH kuwa{?} japuzparasaM bahu manyate ..</s>
+15066 new <s>viDivaSAtparadeSamupAgataH kuwajapuzparasaM bahu manyate ..</s>
+;-----------------
+15362 old <s>Dane suKalA yA tu sApi duHKErviDIyate ..</s>
+15362 new <s>Dane suKakalA yA tu sApi duHKErviDIyate ..</s>
+;-----------------
+15386 old <s>statastatprADanyAdBavati na samIpe buDajanaH .</s>
+15386 new <s>statastatprADAnyAdBavati na samIpe buDajanaH .</s>
+;-----------------
+15714 old <s>avasarapaWitA vARI guRagaRarahitApi SoBate puMzAm .</s>
+15714 new <s>avasarapaWitA vARI guRagaRarahitApi SoBate puMsAm .</s>
+;-----------------
+15952 old <s>nirAhArAH prajAH SocyaM rAzwramarAjakam ..</s>
+15952 new <s>nirAhArAH prajAH SocyAH SocyaM rAzwramarAjakam ..</s>
+;-----------------
+16008 old <s>avidvAMScEva vidvAMSa brAhmaRo dEvataM mahat .</s>
+16008 new <s>avidvAMScEva vidvAMSca brAhmaRo dEvataM mahat .</s>
+;-----------------
+16152 old <s>pravAsarisike kAnte yaTA saDvyAH stanonnatiH ..</s>
+16152 new <s>pravAsarasike kAnte yaTA sADvyAH stanonnatiH ..</s>
+;-----------------
+16177 old <s>sasaMtozastaTA nityaM trIRi SiKeta gardaBAt ..</s>
+16177 new <s>sasaMtozastaTA nityaM trIRi Sikzeta gardaBAt ..</s>
+;-----------------
+16553 old <s>saMSrayitavyaM vA durgaM tezAM gatirBavet ..</s>
+16553 new <s>saMSrayitavyaM vA durgaM nAnyA tezAM gatirBavet ..</s>
+;-----------------
+16599 old <s>aSakyAramBavfttrInAM kutaH kleSAdfte Palam .</s>
+16599 new <s>aSakyAramBavfttInAM kutaH kleSAdfte Palam .</s>
+;-----------------
+16692 old <s>aSanamAtrakftajYatayA gurorna piSuno 'pi Suno laBate tulAM .</s>
+16692 new <s>aSanamAtrakftajYatayA gurorna piSuno 'pi Suno laBate tulAm .</s>
+;-----------------
+17002 old <s>aSvameDasahasrAdDi matyameva viSizyate ..</s>
+17002 new <s>aSvameDasahasrAdDi satyameva viSizyate ..</s>
+;-----------------
+17025 old <s>aSvameDasahasraM ca satyaM ca tulayA Dftam .</s>
+17025 new <s>aSvameDasahastraM ca satyaM tulayA Dftam .</s>
+;-----------------
+17151 old <s>na tvaM nAhaM nAyaM lokastadayi kimarTaM kriyate SokaH ..</s>
+17151 new <s>na tvaM nAhaM nAyaM lokastadapi kimarTaM kriyate SokaH ..</s>
+;-----------------
+17170 old <s>kumitrARyanapASritya kiM cE suKataraM tataH ..</s>
+17170 new <s>kumitrARyanapASritya kiM vE suKataraM tataH ..</s>
+;-----------------
+17352 old <s>asatAM saNgdozeRa sADavo yAnti vikriyAm .</s>
+17352 new <s>asatAM saNgadozeRa sADavo yAnti vikriyAm .</s>
+;-----------------
+17437 old <s>yavatyaH pApasaMkalpAH kzaRamAtrAdviraYjitAH ..</s>
+17437 new <s>yuvatyaH pApasaMkalpAH kzaRamAtrAdviraYjitAH ..</s>
+;-----------------
+17461 old <s>BartAraM naBimanyante vinipAtagataM striyaH ..</s>
+17461 new <s>BartAraM nABimanyante vinipAtagataM striyaH ..</s>
+;-----------------
+17499 old <s>PalaM kiMpAkavakzasya DvANkzA Bakzanti netare ..</s>
+17499 new <s>PalaM kiMpAkavfkzasya DvANkzA Bakzanti netare ..</s>
+;-----------------
+17550 old <s>asanto nAByarTyAH</s> s. Spruch <s>priyA nyAyyA</s>
+17550 new <s>asanto nAByarTyAH</s> s. Spruch <s>priyA nyAyyA</s>.
+;-----------------
+17558 old <s>manyante mantamAtmAnamasantamapi viSrutam ..</s>
+17558 new <s>manyante santamAtmAnamasantamapi viSrutam ..</s>
+;-----------------
+17956 old <s>asADuH sADurvA Bavati Kalu jAtyEva puruzo na saNgaddOrjanyaM na ca sujanatA kasyacidapi .</s>
+17956 new <s>asADuH sADurvA Bavati Kalu jAtyEva puruzo na saNgAddOrjanyaM na ca sujanatA kasyacidapi .</s>
+;-----------------
+18033 old <s>jugupsyantaM yadvA nanu sakaladozAspadamiti .</s>
+18033 new <s>jugupsyantAM yadvA nanu sakaladozAspadamiti .</s>
+;-----------------
+18189 old <s>AjagAma kaTaM lakzmIrnirjagama kaTaM yaSaH ..</s>
+18189 new <s>AjagAma kaTaM lakzmIrnirjagAma kaTaM yaSaH ..</s>
+;-----------------
+18209 old <s>asukESca vinAlApo guhyasya kaTanaM taTA .</s>
+18209 new <s>asuKESca vinAlApo guhyasya kaTanaM taTA .</s>
+;-----------------
+18337 old <s>he cakra DEryamavalambya vimuYca SokaM DIMrAstaranti vipadaM na tu dInacittAH ..</s>
+18337 new <s>he cakra DEryamavalambya vimuYca SokaM DIrAstaranti vipadaM na tu dInacittAH ..</s>
+;-----------------
+18523 old <s>avaSyameva yAsyanti prARAH prADUrRakA iva ..</s>
+18523 new <s>avaSyameva yAsyanti prARAH prAGUrRakA iva ..</s>
+;-----------------
+18584 old <s>no vakrI gatirudDataM na hastiM nEvAsti kaScinmadaH .</s>
+18584 new <s>no vakrA gatirudDataM na hasitaM nEvAsti kaScinmadaH .</s>
+;-----------------
+18769 old <s>pratyagrakzaradasrapiSitagrAsagrahaM gfhRato</s>
+18769 new <s>pratyagrakzaradasramiSrapiSitagrAsagrahaM gfhRato</s>
+;-----------------
+18977 old <s>nahi santi mahItale kati prabalE rye vijitA balodDatAH ..</s>
+18977 new <s>nahi santi mahItale kati prabalErye vijitA balodDatAH ..</s>
+;-----------------
+18996 old <s>ahaM mametyeva BavajaM na me na cAhaM BavabIjaSAntiH .</s>
+18996 new <s>ahaM mametyeva Bavasya bIjaM na me na cAhaM BavabIjaSAntiH .</s>
+;-----------------
+19094 old <s>yUkamatkuRadaMSadIMstasmAttAnapi rakzayet ..</s>
+19094 new <s>yUkamatkuRadaMSAdIMstasmAttAnapi rakzayet ..</s>
+;-----------------
+19193 old <s>ahitahitavicAraSUnyabudDeH SrutusamayErbahuBirbahizkftasya .</s>
+19193 new <s>ahitahitavicAraSUnyabudDeH SrutisamayErbahuBirbahizkftasya .</s>
+;-----------------
+19194 old <s>udaraBaraRamAtrameva lipsoH puruzapaSoSca paSoSca ko viSizaH ..</s>
+19194 new <s>udaraBaraRamAtrameva lipsoH puruzapaSoSca paSoSca ko viSezaH ..</s>
+;-----------------
+19293 old <s>anyasya daSati SrotramanyaH prARErviMyujyate ..</s>
+19293 new <s>anyasya daSati SrotramanyaH prARErviyujyate ..</s>
+;-----------------
+19447 old <s>yenApatrapate sAMDurasADustena tuzyati ..</s>
+19447 new <s>yenApatrapate sADurasADustena tuzyati ..</s>
+;-----------------
+19470 old <s>aho bata vicitrARi caritAni mahAtnAm .</s>
+19470 new <s>aho bata vicitrARi caritAni mahAtmanAm .</s>
+;-----------------
+19550 old <s>mAti mAtumaSakyA 'pi yaSorASiryadatra te ..</s>
+19550 new <s>mAti mAtumaSakyo 'pi yaSorASiryadatra te ..</s>
+;-----------------
+19590 old <s>aho sumadfSI vfttistulAkoweH Kalasya ca .</s>
+19590 new <s>aho susadfSI vfttistulAkoweH Kalasya ca .</s>
+;-----------------
+19635 old <s>maRO vA lozwe vA kumumaSayane vA dfzadi vA .</s>
+19635 new <s>maRO vA lozwe vA kusumaSayane vA dfzadi vA .</s>
+;-----------------
+19669 old <s>kAlakUwaH suDAsinDoH prARinAM prARahArahaH ..</s>
+19669 new <s>kAlakUwaH suDAsinDoH prARinAM prARahArakaH ..</s>
+;-----------------
+19764 old <s>AkASamutpatanu gacCatu vA digantamamBoniDiM viSatu tizWatu vA yaTezwam .</s>
+19764 new <s>AkASamutpatatu gacCatu vA digantamamBoniDiM viSatu tizWatu vA yaTezwam .</s>
+;-----------------
+19789 old <s>akiMcanyaM suKaM loke paTyaM SivamanAmayam .</s>
+19789 new <s>AkiMcanyaM suKaM loke paTyaM SivamanAmayam .</s>
+;-----------------
+19831 old <s>AkiMcanyaM ca rAjyaM ca tulaya samatolayam .</s>
+19831 new <s>AkiMcanyaM ca rAjyaM ca tulayA samatolayam .</s>
+;-----------------
+19961 old <s>AkroSena na dUyate na ca puwuH proktaH samAnandyate</s>
+19961 new <s>AkroSena na dUyate na ca pawuH proktaH samAnandyate</s>
+;-----------------
+20071 old <s>AgacCadutsavo BAti yaTEva na TaTAgataH .</s>
+20071 new <s>AgacCadutsavo BAti yaTEva na taTAgataH .</s>
+;-----------------
+20160 old <s>kziptaM yadBuvi nIrasatvakupiteneti vyaTAM kfTAH .</s>
+20160 new <s>kziptaM yadBuvi nIrasatvakupiteneti vyaTAM mA kfTAH .</s>
+;-----------------
+20207 old <s>AGrAya pustakaM sarvaM vidma iti sTitAH .</s>
+20207 new <s>AGrAya pustakaM DanyAH sarvaM vidma iti sTitAH .</s>
+;-----------------
+20255 old <s>AcAraH kulmAKyAti deSAmAKyAti BAzaRam .</s>
+20255 new <s>AcAraH kulmAKyAti deSamAKyAti BAzaRam .</s>
+;-----------------
+20377 old <s>yezAmete zaNguRA na pravfttAH ko 'rTastezAM pArTivopASrayeRa ..</s>
+20377 new <s>yezAmete zaqguRA na pravfttAH ko 'rTastezAM pArTivopASrayeRa ..</s>
+;-----------------
+20396 old <s>AjYABaNgakarAgrAjA na kzameta sutAnapi .</s>
+20396 new <s>AjYABaNgakarAnrAjA na kzameta sutAnapi .</s>
+;-----------------
+20465 old <s>jYAnamAtraPalA vidyA dattaBuktaPalaM DanaM ..</s>
+20465 new <s>jYAnamAtraPalA vidyA dattaBuktaPalaM Danam ..</s>
+;-----------------
+20529 old <s>ADyo vApi daridro vA duHKitaH suKito 'pi vA .</s>
+20529 new <s>AQyo vApi daridro vA duHKitaH suKito 'pi vA .</s>
+;-----------------
+20611 old <s>AtmakAryasya saMDistu (sidDiMtu)</s> s. Spruch <s>BavyAmekArTasaMsidDim</s>.
+20611 new <s>AtmakAryasya saMDistu (sidDiM tu)</s> s. Spruch <s>BavyAmekArTasaMsidDim</s>.
+;-----------------
+20686 old <s>AtmadvezAdBavenmftyu; paradvezAdDanakzayaH .</s>
+20686 new <s>AtmadvezAdBavenmftyuH paradvezAdDanakzayaH .</s>
+;-----------------
+20897 old <s>Atmano muKadoziRA baDyante SukasArikAH .</s>
+20897 new <s>Atmano muKadozeRa baDyante SukasArikAH .</s>
+;-----------------
+21028 old <s>mAnfvatparadArARi yaH paSyati sa paSyati ..</s>
+21028 new <s>mAtfvatparadArARi yaH paSyati sa paSyati ..</s>
+;-----------------
+21073 old <s>tasmAdBAryAM naraH paSyenmAnfvatputramAtaram ..</s>
+21073 new <s>tasmAdBAryAM naraH paSyenmAtfvatputramAtaram ..</s>
+;-----------------
+21286 old <s>AtmAnemava praTamaM dvezyarUpeRa yo jayet .</s>
+21286 new <s>AtmAnameva praTamaM dvezyarUpeRa yo jayet .</s>
+;-----------------
+21550 old <s>dIpAya dyumaRiM mahImiva kaTM no Bikzave dattavAn .</s>
+21550 new <s>dIpAya dyumaRiM mahImiva kaTaM no Bikzave dattavAn .</s>
+;-----------------
+21723 old <s>tozamasaMniDAne 'pi na svayaM paSya naSyati ..</s>
+21723 new <s>tezAmasaMniDAne 'pi na svayaM paSya naSyati ..</s>
+;-----------------
+21740 old <s>AdIrGeRa calena vakragatinA tejAsvinA BoginA</s>
+21740 new <s>AdIrGeRa calena vakragatinA tejasvinA BoginA</s>
+;-----------------
+21972 old <s>ADivyADiparItAya adya Svo vA vinASite .</s>
+21972 new <s>ADivyADiparItAya adya Svo vA vinASine .</s>
+;-----------------
+22050 old <s>PalArTo 'yaM samAramBo loke puMzAM vipaScitAm ..</s>
+22050 new <s>PalArTo 'yaM samAramBo loke puMsAM vipaScitAm ..</s>
+;-----------------
+22338 old <s>tajjayaH saMpadAM mArgo yenezwaM tena gamyatAma ..</s>
+22338 new <s>tajjayaH saMpadAM mArgo yenezwaM tena gamyatAm ..</s>
+;-----------------
+22529 old <s>atyantapratipatttyA tu durlaBo 'laMkfto janaH ..</s>
+22529 new <s>atyantapratipattyA tu durlaBo 'laMkfto janaH ..</s>
+;-----------------
+22603 old <s>dEve puruzakari ca paraM tAByAM na vidyate ..</s>
+22603 new <s>dEve puruzakAre ca paraM tAByAM na vidyate ..</s>
+;-----------------
+22780 old <s>AmraM CittvA kuWariRa nimbaM paricarettu kaH .</s>
+22780 new <s>AmraM CittvA kuWAreRa nimbaM paricarettu kaH .</s>
+;-----------------
+22823 old <s>atIte kAryaSozajYaH SatruBirnABiBUyate ..</s>
+22823 new <s>atIte kAryaSezajYaH SatruBirnABiBUyate ..</s>
+;-----------------
+22916 old <s>AyAtA maDuyaminI yadi punarnAyAta eva praBuH</s>
+22916 new <s>AyAtA maDuyAminI yadi punarnAyAta eva praBuH</s>
+;-----------------
+22944 old <s>AyAti yAti punareva jalaM prayAti padmANkurARi viDunoti Dunoti pakzaU .</s>
+22944 new <s>AyAti yAti punareva jalaM prayAti padmANkurARi viDunoti Dunoti pakzO .</s>
+;-----------------
+22975 old <s>aDodfzwirBavetkftvA pApaM prAptaH sarBAM naraH .</s>
+22975 new <s>aDodfzwirBavetkftvA pApaM prAptaH saBAM naraH .</s>
+;-----------------
+22976 old <s>tasmAdyatnAtparijYeyaScihnEretErvicalaREH ..</s>
+22976 new <s>tasmAdyatnAtparijYeyaScihnEretErvicakzaREH ..</s>
+;-----------------
+23001 old <s>AyAte dayite manoraTaSatErnItvA kaTMciddinaM</s>
+23001 new <s>AyAte dayite manoraTaSatErnItvA kaTaMciddinaM</s>
+;-----------------
+23032 old <s>AyAto BavataH piteti sagasA mAturniSamyoditaM</s>
+23032 new <s>AyAto BavataH piteti sahasA mAturniSamyoditaM</s>
+;-----------------
+23090 old <s>rarTAH saMkalpakalpA GanasamayataqidviBrama BogapUgAH .</s>
+23090 new <s>rarTAH saMkalpakalpA GanasamayataqidviBramA BogapUgAH .</s>
+;-----------------
+23091 old <s>kaRWASle zogUQaM tadapi ca na ciraM yatpriyABiH praRItaM</s>
+23091 new <s>kaRWASlezopagUQaM tadapi ca na ciraM yatpriyABiH praRItaM</s>
+;-----------------
+23092 old <s>brahmaRyasaktacittA Bavata BavaBayAmBoDipAraM tarItum ..</s>
+23092 new <s>brahmaRyAsaktacittA Bavata BavaBayAmBoDipAraM tarItum ..</s>
+;-----------------
+23126 old <s>AyuktakeByaSlOreByaH pareByo rAjavallaBAt .</s>
+23126 new <s>AyuktakeByaScOreByaH pareByo rAjavallaBAt .</s>
+;-----------------
+23293 old <s>AMyurvedamaDIyAnAH kevalaM saparigrahaH .</s>
+23293 new <s>AyurvedamaDIyAnAH kevalaM saparigrahaH .</s>
+;-----------------
+23384 old <s>dinasya pUrvArDaparArDaBinnA CAyeva KalasajjanAnAm ..</s>
+23384 new <s>dinasya pUrvArDaparArDaBinnA CAyeva mEtrI KalasajjanAnAm ..</s>
+;-----------------
+23600 old <s>AcAryapustakanivAsasahAyakarRA bAhyAstu paYca parivarDayanti ..</s>
+23600 new <s>AcAryapustakanivAsasahAyakarRA bAhyAstu paYca paWanaM parivarDayanti ..</s>
+;-----------------
+23701 old <s>viDiliKitAkzaramAlA Palati kapAle na BUbAlaH ..</s>
+23701 new <s>viDiliKitAkzaramAlA Palati kapAle na BUpAlaH ..</s>
+;-----------------
+23817 old <s>AryakarmaRi rajyante rajyante BUtikarmARi kurvate .</s>
+23817 new <s>AryakarmaRi rajyante BUtikarmARi kurvate .</s>
+;-----------------
+23886 old <s>missing</s>
+23886 new <s>BAryEkA patiBAgyAni BuNkte patiparAyaRA .</s>
+;-----------------
+23908 old <s>Aryaputra pitA mAtA putrastaTA snuzA .</s>
+23908 new <s>Aryaputra pitA mAtA BrAtA putrastaTA snuzA .</s>
+;-----------------
+23910 old <s>missing</s>
+23910 new <s>BarturBAgyaM tu nAryekA prApnoti puruzarzaBa .</s>
+;-----------------
+24057 old <s>padboDayanti suptAM janmani yUnAM tadeva Palam ..</s>
+24057 new <s>yadboDayanti suptAM janmani yUnAM tadeva Palam ..</s>
+;-----------------
+24262 old <s>AkarRayanti kokilakUjitAni saMDAtumeva kila saptanalIM kirAtAH ..</s>
+24262 new <s>AkarRayanti kila kokilakUjitAni saMDAtumeva kila saptanalIM kirAtAH ..</s>
+;-----------------
+24338 old <s>stezamatra na santi nihnutaguRAH kAlena ye mohitAH ..</s>
+24338 new <s>stezAmatra na santi nihnutaguRAH kAlena ye mohitAH ..</s>
+;-----------------
+24366 old <s>viGnaM nimittato brayAnnimittaM cApi hetutaH ..</s>
+24366 new <s>viGnaM nimittato brUyAnnimittaM cApi hetutaH ..</s>
+;-----------------
+24391 old <s>ASA DftiM hanti samfdDimantakaH kroDaH SriyaM hanti yaSAH kadaryatA .</s>
+24391 new <s>ASA DftiM hanti samfdDimantakaH kroDaH SriyaM hanti yaSaH kadaryatA .</s>
+;-----------------
+24644 old <s>ASritASvEva lokasya vivfdDiM yAnti vidvizaH .</s>
+24644 new <s>ASritAScEva lokasya vivfdDiM yAnti vidvizaH .</s>
+;-----------------
+24645 old <s>vivfdDASca vinASAya tasmAnnodvejayeprajAH ..</s>
+24645 new <s>vivfdDAMSca vinASAya tasmAnnodvejayetprajAH ..</s>
+;-----------------
+24750 old <s>yo 'yaM Date vizayakariRIgAQarUQABimAnakzIvasvAntaHkaraRakariRaM saMyamAlAnalInam ..</s>
+24750 new <s>yo 'yaM Datte vizayakariRIgAQarUQABimAnakzIvasvAntaHkaraRakariRaM saMyamAlAnalInam ..</s>
+;-----------------
+24782 old <s>AsanaSayyABiradBirmUlaPalena vA .</s>
+24782 new <s>AsanAcCayanAdyAnAtsaMgateScApi BojanAt .</s>
+;-----------------
+24783 old <s>nAsya kaScidvasedBehe Saktito 'tiTiH ..</s>
+24783 new <s>kfte saMcarate pApaM tElabindurivAmBasi ..</s>
+;-----------------
+24800 old <s>nAsya kAScidvaseNgehe Saktito 'narcito 'tiTiH ..</s>
+24800 new <s>nAsya kaScidvasedgehe Saktito 'narcito 'tiTiH ..</s>
+;-----------------
+24820 old <s>Asane lAlayedbAlAM taruRoM Sayane taTA .</s>
+24820 new <s>Asane lAlayedbAlAM taruRIM Sayane taTA .</s>
+;-----------------
+24884 old <s>Asannameva nfpatirBAjate manuzya vidyAvihInamakulInamasaMgataM vA .</s>
+24884 new <s>Asannameva nfpatirBajate manuzyaM vidyAvihInamakulInamasaMgataM vA .</s>
+;-----------------
+24885 old <s>prAyeRa BUmipatayaH pramadA latASca latASca yatpArSvato Bavati tatparivezwayanti ..</s>
+24885 new <s>prAyeRa BUmipatayaH pramadA latASca yatpArSvato Bavati tatparivezwayanti ..</s>
+;-----------------
+24919 old <s>jAMtAH SItalasIkarASca maruto ratyantaKedacCido</s>
+24919 new <s>jAtAH SItalasIkarASca maruto ratyantaKedacCido</s>
+;-----------------
+24920 old <s>GanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame ..</s>
+24920 new <s>DanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame ..</s>
+;-----------------
+24952 old <s>A stanyapAnAjjananI paSUnAmA dAralABAcca narAGamAnAm .</s>
+24952 new <s>A stanyapAnAjjananI paSUnAmA dAralABAcca narADamAnAm .</s>
+;-----------------
+24977 old <s>AstAM tAvatkimanyena dOrAtmyaneha yozitAm .</s>
+24977 new <s>AstAM tAvatkimanyena dOrAtmyeneha yozitAm .</s>
+;-----------------
+24978 old <s>viDftaM svodareRapi Gnanti putraM svakaM ruzA ..</s>
+24978 new <s>viDftaM svodareRApi Gnanti putraM svakaM ruzA ..</s>
+;-----------------
+24997 old <s>AstAmakaRwakamidaM vasuDAGipatyaM trElokyarAjyamapi nEva tfRAya manye .</s>
+24997 new <s>AstAmakaRwakamidaM vasuDADipatyaM trElokyarAjyamapi nEva tfRAya manye .</s>
+;-----------------
+25022 old <s>AstAmanyatsujanAH paropakArakarERakadurla litAH .</s>
+25022 new <s>AstAmanyatsujanAH paropakArakarERakadurlalitAH .</s>
+;-----------------
+25048 old <s>AmrAvayedupacitAnsADu duzwavraRAniva .</s>
+25048 new <s>AsrAvayedupacitAnsADu duzwavraRAniva .</s>
+;-----------------
+25069 old <s>saMDyAruRAmiva kalAM SaSalAYCanaSsya .</s>
+25069 new <s>saMDyAruRAmiva kalAM SaSalAYCanasya .</s>
+;-----------------
+25070 old <s>jfmBAvidAritamuKasya muKAtsPurantiM</s>
+25070 new <s>jfmBAvidAritamuKasya muKAtsPurantIM</s>
+;-----------------
+25093 old <s>AsvAdya svayameva vacmi mahatIrmacCide vedanA</s>
+25093 new <s>AsvAdya svayameva vacmi mahatIrmarmacCido vedanA</s>
+;-----------------
+25148 old <s>saMvItAya paricCadaH kuSasAmitpuzpARi putrA mfgAM .</s>
+25148 new <s>saMvItAya paricCadaH kuSasamitpuzpARi putrA mfgAH .</s>
+;-----------------
+25149 old <s>vastrannASrayadAnaBogaviBavA niryantraRAH SAKino</s>
+25149 new <s>vastrAnnASrayadAnaBogaviBavA niryantraRAH SAKino</s>
+;-----------------
+25182 old <s>jYAnaM narARAmaDiko viSezo jYAna hInAH paSuBiH samAnAH ..</s>
+25182 new <s>jYAnaM narARAmaDiko viSezo jYAnena hInAH paSuBiH samAnAH ..</s>
+;-----------------
+25211 old <s>AhArayati na svasTo vinidro na prabuDyati .</s>
+25211 new <s>AhArayati na svasTo vinidro na prabuDyate .</s>
+;-----------------
+25231 old <s>AhAre viratiH samastavizayagrAme nivfttiH paMrA</s>
+25231 new <s>AhAre viratiH samastavizayagrAme nivfttiH parA</s>
+;-----------------
+25232 old <s>nAsAgre nayanaM yaccEkatAnaM manaH .</s>
+25232 new <s>nAsAgre nayanaM tadetadaparaM yaccEkatAnaM manaH .</s>
+;-----------------
+25234 old <s>tadBUyAH saKi yoginI kimasi BoH kiM vA viyoginyasi ..</s>
+25234 new <s>tadbrUyAH saKi yoginI kimasi BoH kiM vA viyoginyasi ..</s>
+;-----------------
+25260 old <s>banDO nirmasatA vane rasikatA vAcAlatA mADave .</s>
+25260 new <s>banDO nirmamatA vane rasikatA vAcAlatA mADave .</s>
+;-----------------
+25290 old <s>Aharo garalayate pratidinaM hAre 'pi BAsAyate</s>
+25290 new <s>AhAro garalAyate pratidinaM hAro 'pi BAsAyate</s>
+;-----------------
+25291 old <s>candraScaRqakarAyate mfdugatirvato 'pi vajrAyate .</s>
+25291 new <s>candraScaRqakarAyate mfdugatirvAto 'pi vajrAyate .</s>
+;-----------------
+25292 old <s>AvAso vipinAyate malayajAleyaH sPuliNgAyate</s>
+25292 new <s>AvAso vipinAyate malayajAlepaH sPuliNgAyate</s>
+;-----------------
+25293 old <s>hA hanta priyaviprayogasamayaH saMhArakAlayate ..</s>
+25293 new <s>hA hanta priyaviprayogasamayaH saMhArakAlAyate ..</s>
+;-----------------
+25319 old <s>zaNguRo vyavasAyaSca kAmaScAzwaguRaH smftaH ..</s>
+25319 new <s>zaqguRo vyavasAyaSca kAmaScAzwaguRaH smftaH ..</s>
+;-----------------
+25353 old <s>Ahftya sakzyamARApi yatnenAntarvirAgiRI .</s>
+25353 new <s>Ahftya rakzyamARApi yatnenAntarvirAgiRI .</s>
+;-----------------
+25354 old <s>asanmEtrI ca veSyA ca SrISca jasya kadA sTirA ..</s>
+25354 new <s>asanmEtrI ca veSyA ca SrISca kasya kadA sTirA ..</s>
+;-----------------
+25391 old <s>candanaM daGi tAmbUlaM mardanaM guRavarDanam ..</s>
+25391 new <s>candanaM daDi tAmbUlaM mardanaM guRavarDanam ..</s>
+;-----------------
+25416 old <s>ikzurApaH payo mUlaM tAmbUlaM PalamOzaGam .</s>
+25416 new <s>ikzurApaH payo mUlaM tAmbUlaM PalamOzaDam .</s>
+;-----------------
+25417 old <s>BakzayitvApi kartavyAH sAnadAnAdikAH kriyAH ..</s>
+25417 new <s>BakzayitvApi kartavyAH snAnadAnAdikAH kriyAH ..</s>
+;-----------------
+25434 old <s>ikzurDanva SarAH prasUnavitatiNgAvalI siYjinI</s>
+25434 new <s>ikzurDanva SarAH prasUnavitatirBfNgAvalI siYjinI</s>
+;-----------------
+25435 old <s>yasyAjYAvaSartinaH pramanaso nirvizwarAzwrvAdayaH .</s>
+25435 new <s>yasyAjYAvaSavartinaH pramanaso nirvizwarAzwrAdayaH .</s>
+;-----------------
+25436 old <s>yadbARABihatA viriYcimurajinmurajinmftyuMjayendrAdyo</s>
+25436 new <s>yadbARABihatA viriYcimurajinmurajinmftyuMjayendrAdayo</s>
+;-----------------
+25498 old <s>iNgitAkAratattvajYo balavAprniyadarSanaH .</s>
+25498 new <s>iNgitAkAratattvajYo balavAnpriyadarSanaH .</s>
+;-----------------
+25535 old <s>lakzAGipastaTA rAjyaM rAjyasTaH svargamIhate ..</s>
+25535 new <s>lakzADipastaTA rAjyaM rAjyasTaH svargamIhate ..</s>
+;-----------------
+25635 old <s>itaH ma dEtyaH prAptaSrIrneta evarhati kzayam .</s>
+25635 new <s>itaH sa dEtyaH prAptaSrIrneta evArhati kzayam .</s>
+;-----------------
+25661 old <s>ito 'pi vaqavAnalaH saha samastasaMvartakEraho vitatamUrjitaM BarasahaM ca sinDervapuH ..</s>
+25661 new <s>ito 'pi vaqavAnalaH saha samastasaMvartakEraho vitatamUrjitaM BarasahaM ca sinDorvapuH ..</s>
+;-----------------
+25689 old <s>maraRam vA smIyasTaM kAmiloko na paSyati ..</s>
+25689 new <s>maraRaM vA samIpasTaM kAmiloko na paSyati ..</s>
+;-----------------
+25711 old <s>vicArya paSyAmi jaganna kiMtsvAtmAvaboDAdaDikaM na kiMcit ..</s>
+25711 new <s>vicArya paSyAmi jaganna kiMcitsvAtmAvaboDAdaDikaM na kiMcit ..</s>
+;-----------------
+25730 old <s>ito vidyudvallIvilasitamitaH ketakitaroH sPuradranGaH prodyajjaladaninadasPUrjitamitaH .</s>
+25730 new <s>ito vidyudvallIvilasitamitaH ketakitaroH sPuradganDaH prodyajjaladaninadasPUrjitamitaH .</s>
+;-----------------
+25731 old <s>itaH kekikrIqAkalakalaravaH pakzmaladfSaM kaTaM yAsyantyete virahadivasAH saMtarasAH ..</s>
+25731 new <s>itaH kekikrIqAkalakalaravaH pakzmaladfSAM kaTaM yAsyantyete virahadivasAH saMBftarasAH ..</s>
+;-----------------
+25756 old <s>itTaM prajEva nAmeha praGAnaM lokavartanam .</s>
+25756 new <s>itTaM prajYEva nAmeha praDAnaM lokavartanam .</s>
+;-----------------
+25775 old <s>apuraskftasacCAstrapA BraSyanti niScitam ..</s>
+25775 new <s>apuraskftasacCAstradIpA BraSyanti niScitam ..</s>
+;-----------------
+25793 old <s>pacAreRa mitramanyattu satyataH .</s>
+25793 new <s>ityanyadupacAreRa mitramanyattu satyataH .</s>
+;-----------------
+25813 old <s>idaM kftamidaM karyamidamanyatkftAkftam .</s>
+25813 new <s>idaM kftamidaM kAryamidamanyatkftAkftam .</s>
+;-----------------
+25835 old <s>idamanucitamakramaSca puMsAM ya{?} diha jarasyapi mAnmaTA vikArAH .</s>
+25835 new <s>idamanucitamakramaSca puMsAM yadiha jarasyapi mAnmaTA vikArAH .</s>
+;-----------------
+25836 old <s>yadapi ca na kataM nitambinInAM stanapatanAvaDi jIvitaM rataM vA ..</s>
+25836 new <s>yadapi ca na kftaM nitambinInAM stanapatanAvaDi jIvitaM rataM vA ..</s>
+;-----------------
+25881 old <s>dfzwvEva puruzaM hfdyaM yoniH praktlidyate striyAH ..</s>
+25881 new <s>dfzwvEva puruzaM hfdyaM yoniH praklidyate striyAH ..</s>
+;-----------------
+25961 old <s>induvratasahasraM tu yaScaretkAyaSoDabam .</s>
+25961 new <s>induvratasahasraM tu yaScaretkAyaSoDanam .</s>
+;-----------------
+25985 old <s>veSyAputraM vasizWaM janapadavacanEH pARqvavAScAnyajAtA</s>
+25985 new <s>veSyAputraM vasizWaM janapadavacanEH pARqavAScAnyajAtA</s>
+;-----------------
+26021 old <s>sveCAkalpanayA nayoH Kalu suDA vizWA ca kAmyASanam .</s>
+26021 new <s>svecCAkalpanayA tayoH Kalu suDA vizWA ca kAmyASanam .</s>
+;-----------------
+26050 old <s>saMyame yatnamAtizWedvidvAnyanteva vAjinAm ..</s>
+26050 new <s>tadasya harate budDiM nAvaM vAyurivAmBasi ..</s>
+;-----------------
+26073 old <s>saMyame yatnamAtizWedvidvAyanteva cAjinAm ..</s>
+26073 new <s>saMyame yatnamAtizWedvidvAnyanteva vAjinAm ..</s>
+;-----------------
+26102 old <s>indriyARAM tu sarvezAM tu sarvezAM yadyekaM kzaratIndriyam .</s>
+26102 new <s>indriyARAM tu sarvezAM yadyekaM kzaratIndriyam .</s>
+;-----------------
+26126 old <s>ahiMsayA ca BUtAnAmamftvAya kalpate ..</s>
+26126 new <s>ahiMsayA ca BUtAnAmamftatvAya kalpate ..</s>
+;-----------------
+26170 old <s>saMniyamya tu tAnyeva tataH sidDIM nigacCati ..</s>
+26170 new <s>saMniyamya tu tAnyeva tataH sidDiM nigacCati ..</s>
+;-----------------
+26219 old <s>indrindrayARi paSUnkftvA vedIM kftvA tapomayIm .</s>
+26219 new <s>indriyARi paSUnkftvA vedIM kftvA tapomayIm .</s>
+;-----------------
+26239 old <s>indriyARi mahatpropsurniyacCedarTaDarmayoH .</s>
+26239 new <s>indriyARi mahatprepsurniyacCedarTaDarmayoH .</s>
+;-----------------
+26240 old <s>indriyOrniyatErbudDirvarDate 'gnirivenDanEH ..</s>
+26240 new <s>indriyErniyatErbudDirvarDate 'gnirivenDanEH ..</s>
+;-----------------
+26278 old <s>tErayaM tApyate lokA nakzatrARi grahEriva ..</s>
+26278 new <s>tErayaM tApyate loko nakzatrARi grahEriva ..</s>
+;-----------------
+26302 old <s>ipsitaM manasaH saram</s> s. Spruch 1148.
+26302 new <s>ipsitaM manasaH sarvam</s> s. Spruch 1148.
+;-----------------
+26311 old <s>ciraM cetaSOrA aBinavavikArEkaguravo</s>
+26311 new <s>ciraM cetaScOrA aBinavavikArEkaguravo</s>
+;-----------------
+26339 old <s>iyaM vyAGAyate bAlA BrUrasyAH kArmukAyate .</s>
+26339 new <s>iyaM vyADAyate bAlA BrUrasyAH kArmukAyate .</s>
+;-----------------
+26376 old <s>iyatyesminvA niravaDicamatkftyaSayo</s>
+26376 new <s>iyatyetasminvA niravaDicamatkftyatiSayo</s>
+;-----------------
+26377 old <s>varAho vA rAhuHpraBavati camatkAravizayaH .</s>
+26377 new <s>varAho vA rAhuH praBavati camatkAravizayaH .</s>
+;-----------------
+26411 old <s>iyamasO taralAyatalocanA gurumunnatapInapayoDarA .</s>
+26411 new <s>iyamasO taralAyatalocanA gurusamunnatapInapayoDarA .</s>
+;-----------------
+26412 old <s>pfTunitambabarAlasagAminI priyatamA jIvitahAriRI ..</s>
+26412 new <s>pfTunitambaBarAlasagAminI priyatamA mama jIvitahAriRI ..</s>
+;-----------------
+26432 old <s>iyamunnatisattvaSAlinAM mahatAM kApi kaWoracittarA .</s>
+26432 new <s>iyamunnatisattvaSAlinAM mahatAM kApi kaWoracittatA .</s>
+;-----------------
+26433 old <s>upakftya Bavatti dUrataH parataH pratyupakAraSaNkayA ..</s>
+26433 new <s>upakftya Bavanti dUrataH parataH pratyupakAraSaNkayA ..</s>
+;-----------------
+26461 old <s>iyaM pallI BilleranucitasamAramBarasikEH</s>
+26461 new <s>iyaM pallI BillEranucitasamAramBarasikEH</s>
+;-----------------
+26464 old <s>na vARI kalyARI tadiha muKadrEva SaraRam ..</s>
+26464 new <s>na vARI kalyARI tadiha muKamudrEva SaraRam ..</s>
+;-----------------
+26498 old <s>praBAcOraM cakzuH kzipati kimaBipretamanaya .</s>
+26498 new <s>praBAcOraM cakzuH kzipati kimaBipretamanayA .</s>
+;-----------------
+26528 old <s>ApadDa rmapramokzAya BAryA cApi satAM matam ..</s>
+26528 new <s>ApadDarmapramokzAya BAryA cApi satAM matam ..</s>
+;-----------------
+26546 old <s>tErdantAnapradAyEByo yo BuNkte stena eva saH ..</s>
+26546 new <s>tErdattAnapradAyEByo yo BuNkte stena eva saH ..</s>
+;-----------------
+26565 old <s>izwAM BAryAM priyaM pritraM putraM cApi kanIyasam .</s>
+26565 new <s>izwAM BAryAM priyaM mitraM putraM cApi kanIyasam .</s>
+;-----------------
+26586 old <s>iha kiM kuraNgaSAvaka kedAre kalamamaYjarI jyajasi .</s>
+26586 new <s>iha kiM kuraNgaSAvaka kedAre kalamamaYjarIM tyajasi .</s>
+;-----------------
+26587 old <s>tfRADanvA tfRabaRastfRaGawitaH kapawapuruzo 'yam ..</s>
+26587 new <s>tfRaDanvA tfRabARastfRaGawitaH kapawapuruzo 'yam ..</s>
+;-----------------
+26643 old <s>iha turagaSatEH prayAntu mUrKA GanaratitASca buDAH prayAntu padBvAm .</s>
+26643 new <s>iha turagaSatEH prayAntu mUrKA DanarahitASca buDAH prayAntu padByAm .</s>
+;-----------------
+26669 old <s>iha duNKaM layaH prokto duHKaM hartuM layaH kzamaH .</s>
+26669 new <s>iha duHKaM layaH prokto duHKaM hartuM layaH kzamaH .</s>
+;-----------------
+26670 old <s>iHKe SuBe layo duHKaM duHKaM kiM tasya kaTyate ..</s>
+26670 new <s>duHKe SuBe layo duHKaM duHKaM kiM tasya kaTyate ..</s>
+;-----------------
+26695 old <s>parityajya hi yo GarmamarTAya paSyati .</s>
+26695 new <s>parityajya hi yo DarmamarTamarTAya paSyati .</s>
+;-----------------
+26724 old <s>adBirdattA svaGarmeRa pretyaBAve 'pi tasya sA ..</s>
+26724 new <s>adBirdattA svaDarmeRa pretyaBAve 'pi tasya sA ..</s>
+;-----------------
+26744 old <s>iha leke tu ('pi) GaninAm</s> s. Spruch 1143.
+26744 new <s>iha loke tu ( 'pi) DaninAm</s> s. Spruch 1143.
+;-----------------
+26751 old <s>iha loke hi GaninAM svajanaH svajanAyate .</s>
+26751 new <s>iha loke hi DaninAM svajanaH svajanAyate .</s>
+;-----------------
+26752 old <s>svajanastu daridrARAM jIvarAmapi naSyati ..</s>
+26752 new <s>svajanastu daridrARAM jIvatAmapi naSyati ..</s>
+;-----------------
+26770 old <s>iha loke hi DaMninAM paro 'pi svajanAyate .</s>
+26770 new <s>iha loke hi DaninAM paro 'pi svajanAyate .</s>
+;-----------------
+26771 old <s>svajano 'pi daridrARAM jIvarAmapi naSyati ..</s>
+26771 new <s>svajano 'pi daridrARAM tatkzaRAddurjanAyate ..</s>
+;-----------------
+26840 old <s>nizPalatvamalaM yAnti veSyAvihaBakzitAH ..</s>
+26840 new <s>nizPalatvamalaM yAnti veSyAvihagaBakzitAH ..</s>
+;-----------------
+26861 old <s>iti hataparamArTOrindriyErBrAmyamARaH svahitakaraRadakzEH paYcaBirvaYcito 'si ..</s>
+26861 new <s>iti hataparamArTErindriyErBrAmyamARaH svahitakaraRadakzEH paYcaBirvaYcito 'si ..</s>
+;-----------------
+26916 old <s>ItzyurGfRI tvasaMtuzwaH kroDano nityaSaNkitaH .</s>
+26916 new <s>IrzyurGfRI tvasaMtuzwaH kroDano nityaSaNkitaH .</s>
+;-----------------
+26947 old <s>prAyo niDaya evAhIndvijihvAnda DatetarAm ..</s>
+26947 new <s>prAyo niDaya evAhIndvijihvAndaDatetarAm ..</s>
+;-----------------
+26968 old <s>ISvarAnugfhIto hi kaScidbalo 'pi SAmyati .</s>
+26968 new <s>ISvarAnugfhIto hi kaScidbAlo 'pi SAmyati .</s>
+;-----------------
+26986 old <s>iSvarA BUridAnena</s> s. den folgenden Spruch.
+26986 new <s>ISvarA BUridAnena</s> s. den folgenden Spruch.
+;-----------------
+27062 old <s>ihA Danasya na suKA labaDvA ca BUyasI .</s>
+27062 new <s>IhA Danasya na suKA labDvA cintA ca BUyasI .</s>
+;-----------------
+27115 old <s>uttitaH praRayo varaM vihantuM bahavaH KaRqanhetavo hi dfzwAH .</s>
+27115 new <s>ucitaH praRayo varaM vihantuM bahavaH KaRqanahetavo hi dfzwAH .</s>
+;-----------------
+27164 old <s>uccEraccEstarAmicCanpadAnyAyacCate mahAn .</s>
+27164 new <s>uccEruccEstarAmicCanpadAnyAyacCate mahAn .</s>
+;-----------------
+27182 old <s>uccEreza taruH PalaM ca pfTulaM dfzwvE hfzwaH SukaH</s>
+27182 new <s>uccEreza taruH PalaM ca pfTulaM dfzwvEva hfzwaH SukaH</s>
+;-----------------
+27185 old <s>ASA tasya ca kevalaM vigAlitA caYcUgartA kUrcatAm ..</s>
+27185 new <s>ASA tasya ca kevalaM vigalitA caYcUgartA kUrcatAm ..</s>
+;-----------------
+27225 old <s>uccEHshAnakftodayErbahuviDErjyotirBirudyatpraBEH</s>
+27225 new <s>uccEHsTAnakftodayErbahuviDErjyotirBirudyatpraBEH</s>
+;-----------------
+27227 old <s>yAvallokatamo'pahena BavatA lakzmIrna vistAryate</s>
+27227 new <s>yAvallokatamo 'pahena BavatA lakzmIrna vistAryate</s>
+;-----------------
+27228 old <s>tAvaccandra kaTaM prayAti paramAM vfdDiM sa ra tnAkaraH ..</s>
+27228 new <s>tAvaccandra kaTaM prayAti paramAM vfdDiM sa ratnAkaraH ..</s>
+;-----------------
+27273 old <s>ucCidyamapi vidvAMso varDayantyarimekadA .</s>
+27273 new <s>ucCedyamapi vidvAMso varDayantyarimekadA .</s>
+;-----------------
+27274 old <s>guqena varDitaH SlezmA yato noHSezatAM vrajet ..</s>
+27274 new <s>guqena varDitaH SlezmA yato niHSezatAM vrajet ..</s>
+;-----------------
+27298 old <s>ujjvalaM mitraaMyoge saralaM putradarSane .</s>
+27298 new <s>ujjvalaM mitrasaMyoge saralaM putradarSane .</s>
+;-----------------
+27326 old <s>ujjvalaguRamaByuditaM kzudro drazwum na kaTamapi kzamate .</s>
+27326 new <s>ujjvalaguRamaByuditaM kzudro drazwuM na kaTamapi kzamate .</s>
+;-----------------
+27387 old <s>utkrAmadBiSca yaH prAREH pryataH SizwasaMmataH .</s>
+27387 new <s>utkrAmadBiSca yaH prAREH prayataH SizwasaMmataH .</s>
+;-----------------
+27388 old <s>cintayenmanasA gaNgA sa gatiM paramAM laBet ..</s>
+27388 new <s>cintayenmanasA gaNgAM sa gatiM paramAM laBet ..</s>
+;-----------------
+27412 old <s>utKAtaM niDiSaNkayA kzititalaM kzititalaM DmAtA girerDAtavo</s>
+27412 new <s>utKAtaM niDiSaNkayA kzititalaM DmAtA girerDAtavo</s>
+;-----------------
+27445 old <s>utKArAnpratiropayankusumitAMScinvallaGUnvarDaya-</s>
+27445 new <s>utKAtAnpratiropayankusumitAMScinva~llaGUnvarDaya-</s>
+;-----------------
+27538 old <s>uttamaH ktleSavikzoBaM kzamaH soQuM yojayet .</s>
+27538 new <s>uttamaH kleSavikzoBaM kzamaH soQuM nahItaraH .</s>
+;-----------------
+27592 old <s>uttamastozamAyati tasaNgaM pozyate yadi .</s>
+27592 new <s>uttamastozamAyAti tadaNgaM pozyate yadi .</s>
+;-----------------
+27613 old <s>uttamasya kzaRaM kepo maDyasya praharadvayam .</s>
+27613 new <s>uttamasya kzaRaM kopo maDyasya praharadvayam .</s>
+;-----------------
+27701 old <s>uttamAGamamaDyezu puruzezu niyojayet ..</s>
+27701 new <s>uttamADamamaDyezu puruzezu niyojayet ..</s>
+;-----------------
+27719 old <s>uttamADasaMsaktO jAnansadfSavfttitAm .</s>
+27719 new <s>uttamADamasaMsaktO jAnansadfSavfttitAm .</s>
+;-----------------
+27739 old <s>aDamAMstu na seveta ya iCedBUtimAtmanaH ..</s>
+27739 new <s>aDamAMstu na seveta ya icCedBUtimAtmanaH ..</s>
+;-----------------
+27782 old <s>uttamEH saha sAMgatyaM paRqitaIH saha saMkaTAm .</s>
+27782 new <s>uttamEH saha sAMgatyaM paRqitEH saha saMkaTAm .</s>
+;-----------------
+27811 old <s>nahi svarRe DvanistAdfgyAdfgyAdfkkAMsye prajAyate ..</s>
+27811 new <s>nahi svarRe DvanistAdfgyAdfkkAMsye prajAyate ..</s>
+;-----------------
+27850 old <s>yAcakEryAcyamAno 'pi natvaDaADamaH ..</s>
+27850 new <s>yAcakEryAcyamAno 'pi datte na tvaDamADamaH ..</s>
+;-----------------
+27868 old <s>aDamo mantravAdaSca miDyAvAdo 'DamADamaH ..</s>
+27868 new <s>aDamo mantravAdaSca miTyAvAdo 'DamADamaH ..</s>
+;-----------------
+27909 old <s>na tu tatsvAminastIvrapariktleSEH Palanti ye ..</s>
+27909 new <s>na tu tatsvAminastIvraparikleSEH Palanti ye ..</s>
+;-----------------
+28006 old <s>siMhaH pracaRqagajakumBavidArako 'pi ucCizwameva laBameva laBate Kalu pakzahInaH ..</s>
+28006 new <s>siMhaH pracaRqagajakumBavidArako 'pi ucCizwameva laBate Kalu pakzahInaH ..</s>
+;-----------------
+28055 old <s>utTAnaM saMyamo dAkzyaapramAdo DftiH smftiH .</s>
+28055 new <s>utTAnaM saMyamo dAkzyamapramAdo DftiH smftiH .</s>
+;-----------------
+28110 old <s>AnfRyamAproti naraH parasyAtmana eva ca ..</s>
+28110 new <s>AnfRyamApnoti naraH parasyAtmana eva ca ..</s>
+;-----------------
+28144 old <s>praDarzaRiyaH SatrURAM BujaMga iva nirvizaH ..</s>
+28144 new <s>praDarzaRIyaH SatrURAM BujaMga iva nirvizaH ..</s>
+;-----------------
+28219 old <s>bAlavEDavyadagDAnAM kulastrIRAM kucAviva ..</s>
+28219 new <s>AyuzaH KaRqamAdAya ravirastaM gamizyati ..</s>
+;-----------------
+28278 old <s>utptato 'ntarikzaM vE gacCato 'pi mahItalam .</s>
+28278 new <s>utpatato 'ntarikzaM vE gacCato 'pi mahItalam .</s>
+;-----------------
+28279 old <s>DAvataH pfTivIM nAdattamupatizWati ..</s>
+28279 new <s>DAvataH pfTivIM sarvAM nAdattamupatizWati ..</s>
+;-----------------
+28319 old <s>utpatetsajAddeSAdvyADidurBikzapIqitAt .</s>
+28319 new <s>utpatetsahajAddeSAdvyADidurBikzapIqitAt .</s>
+;-----------------
+28359 old <s>utpannapaScAntApasya</s> s. den vornagebenden Spruch.
+28359 new <s>utpannapaScAttApasya</s> s. den vorangehenden Spruch.
+;-----------------
+28371 old <s>nasuKaM prApya saMhfzyennAsuKaM prApya saMjvaret ..</s>
+28371 new <s>na suKaM prApya saMhfzyennAsuKaM prApya saMjvaret ..</s>
+;-----------------
+28395 old <s>prArTanaH puruzasyeva tasya mAtrA na vidyate ..</s>
+28395 new <s>prArTanA puruzasyeva tasya mAtrA na vidyate ..</s>
+;-----------------
+28413 old <s>utpannAmApadaM yastu samADatte sa vudDimAn .</s>
+28413 new <s>utpannAmApadaM yastu samADatte sa budDimAn .</s>
+;-----------------
+28436 old <s>sa nistarati durgARi gopI jAradvayaM yahA ..</s>
+28436 new <s>sa nistarati durgARi gopI jAradvayaM yaTA ..</s>
+;-----------------
+28456 old <s>utpAdakabrahmadAtrergarIyAnbrahmadaH pitA .</s>
+28456 new <s>utpAdakabrahmadAtrorgarIyAnbrahmadaH pitA .</s>
+;-----------------
+28627 old <s>svE reva pariBUyete dvAvapyetAvasaMSayam ..</s>
+28627 new <s>svEreva pariBUyete dvAvapyetAvasaMSayam ..</s>
+;-----------------
+28646 old <s>utsAhasaMpannamadIrGamUtraM kriyAviDijYaM vyasanezvasaktam .</s>
+28646 new <s>utsAhasaMpannamadIrGasUtraM kriyAviDijYaM vyasanezvasaktam .</s>
+;-----------------
+28647 old <s>SUraM kftajYaM dfQasOhfdaM ca lakzmIH svayaM mArgati mArgati vAsahetoH ..</s>
+28647 new <s>SUraM kftajYaM dfQasOhfdaM ca lakzmIH svayaM mArgati vAsahetoH ..</s>
+;-----------------
+28698 old <s>utsfjya vinivartatte jYAtayaH suhfdaH mutAH .</s>
+28698 new <s>utsfjya vinivartante jYAtayaH suhfdaH sutAH .</s>
+;-----------------
+28715 old <s>udakAnalacOreByo mUzake ByA viSaMzataH .</s>
+28715 new <s>udakAnalacOreByo mUzakeByo viSezataH .</s>
+;-----------------
+28716 old <s>kaztena liKitaM SAstraM yatnena paripAlayet ..</s>
+28716 new <s>kazwena liKitaM SAstraM yatnena paripAlayet ..</s>
+;-----------------
+28733 old <s>kalatre sarvasOKAni sarve DarmA dayAmayAH ..</s>
+28733 new <s>kalatre sarvasOKyAni sarve DarmA dayAmayAH ..</s>
+;-----------------
+28750 old <s>udanvacCinnA BUH sa ca niDirapAM yojnaSataM sadA pAnTAH pUzA gaganaparimARaM kalayati .</s>
+28750 new <s>udanvacCinnA BUH sa ca niDirapAM yojanaSataM sadA pAnTaH pUzA gaganaparimARaM kalayati .</s>
+;-----------------
+28751 old <s>iti prAyo BAvAH sPuradavaDimudrAmukulitAH satAM prajYonmezaH punarayamasomA vijayatAm ..</s>
+28751 new <s>iti prAyo BAvAH sPuradavaDimudrAmukulitAH satAM prajYonmezaH punarayamasImA vijayatAm ..</s>
+;-----------------
+28786 old <s>udanvAniva 'kzoByo jYAyate saMSritEH praBuH .</s>
+28786 new <s>udanvAniva yo 'kzoByo jYAyate saMSritEH praBuH .</s>
+;-----------------
+28806 old <s>udayaM saMhAtA eva saMhatA eva ca kzayam .</s>
+28806 new <s>udayaM saMhatA eva saMhatA eva ca kzayam .</s>
+;-----------------
+28807 old <s>prAyAntaH spfRiyatvaM tantriRaH kasya nAgaman ..</s>
+28807 new <s>prayAntaH spfhaRIyatvaM tantriRaH kasya nAgaman ..</s>
+;-----------------
+28824 old <s>udayati yadi BAnuH paScime digviBAge pracalati yadi meruH SItatAM SItatAM SItatAM yAti vahniH .</s>
+28824 new <s>udayati yadi BAnuH paScime digviBAge pracalati yadi meruH SItatAM yAti vahniH .</s>
+;-----------------
+28940 old <s>udirito 'rTaH paSunApi gfhyete hapASca nAgASca vahanti deSitAH .</s>
+28940 new <s>udIrito 'rTaH paSunApi gfhyate hayASca nAgASca vahanti deSitAH .</s>
+;-----------------
+28941 old <s>anaktamapyUhati paRqito janaH pareNgitajYAnaPalA hi budDayaH ..</s>
+28941 new <s>anuktamapyUhati paRqito janaH pareNgitajYAnaPalA hi budDayaH ..</s>
+;-----------------
+28971 old <s>udeti savitA tAmrastamra evAstameti ca .</s>
+28971 new <s>udeti savitA tAmrastAmra evAstameti ca .</s>
+;-----------------
+28972 old <s>saMpattO ca vipatO ca mahatAmekarUpatA ..</s>
+28972 new <s>saMpattO ca vipattO ca mahatAmekarUpatA ..</s>
+;-----------------
+29014 old <s>kzArARameva sAmarTyaM malanASAya vAsadAm ..</s>
+29014 new <s>kzArARameva sAmarTyaM malanASAya vAsasAm ..</s>
+;-----------------
+29039 old <s>udDftezvapi Sastrezu banDuvargavaDozvapi .</s>
+29039 new <s>udDftezvapi Sastrezu banDuvargavaDezvapi .</s>
+;-----------------
+29040 old <s>paruzARyapi jalpanto vaDyA dUtA na BUbujA ..</s>
+29040 new <s>paruzARyapi jalpanto vaDyA dUtA na BUBujA ..</s>
+;-----------------
+29060 old <s>udBAsitAKilasya viSfNKalasya prAgjAtavistftanijADamakarmavftte .</s>
+29060 new <s>udBAsitAKilaKalasya viSfNKalasya prAgjAtavistftanijADamakarmavftteH .</s>
+;-----------------
+29061 old <s>dEvAdavAptaviBavasya guRadvizo 'sya nicasya gocaragatEH suKamAsyate kEH ..</s>
+29061 new <s>dEvAdavAptaviBavasya guRadvizo 'sya nIcasya gocaragatEH suKamAsyate kEH ..</s>
+;-----------------
+29132 old <s>sadEvAvaDyaBAvavena yaTArTasya hi vAcakaH ..</s>
+29132 new <s>sadEvAvaDyaBAvena yaTArTasya hi vAcakaH ..</s>
+;-----------------
+29152 old <s>udyantvamUni suvahUni mahAmahAMsi candro 'pyalaM BuvanamaRqanAya .</s>
+29152 new <s>udyantvamUni subahUni mahAmahAMsi candro 'pyalaM BuvanamaRqanAya .</s>
+;-----------------
+29174 old <s>Aharo mETunaM nidrA savyamAnA vivarDate ..</s>
+29174 new <s>AhAro mETunaM nidrA sevyamAnA vivarDate ..</s>
+;-----------------
+29248 old <s>kAtarA iti jalpanti yabDAvyaM tabDavizyati ..</s>
+29248 new <s>kAtarA iti jalpanti yadBAvyaM tadBavizyati ..</s>
+;-----------------
+29311 old <s>udyAnamArutodDUtAScUtacatpakareRavaH .</s>
+29311 new <s>udyAnamArutodDUtAScUtacampakareRavaH .</s>
+;-----------------
+29331 old <s>udyAnasahakArARamanudBinnA na maYjarI .</s>
+29331 new <s>udyAnasahakArARAmanudBinnA na maYjarI .</s>
+;-----------------
+29352 old <s>tAM kASIM parihftya hatta vibuDEranyatra kiM sTIyate ..</s>
+29352 new <s>tAM kASIM parihftya hanta vibuDEranyatra kiM sTIyate ..</s>
+;-----------------
+29375 old <s>udyogaM nAsti dAridryAm</s> s. Spruch 1250.
+29375 new <s>udyogaM nAsti dAridryam</s> s. Spruch 1250.
+;-----------------
+29382 old <s>udyogAdanivfttasya susahAyasya GImataH .</s>
+29382 new <s>udyogAdanivfttasya susahAyasya DImataH .</s>
+;-----------------
+29408 old <s>udyogitaM puruzasiMhamupEti lakzmIrdEvena deyamiti kApuruzA vadanti .</s>
+29408 new <s>udyoginaM puruzasiMhamupEti lakzmIrdEvena deyamiti kApuruzA vadanti .</s>
+;-----------------
+29560 old <s>tasmAduaTArhato daRqaM nayetpakzamanASritaH ..</s>
+29560 new <s>tasmAdyaTArhato daRqaM nayetpakzamanASritaH ..</s>
+;-----------------
+29596 old <s>udveyati BUtAni daRqapAruzyavAnnfpaH .</s>
+29596 new <s>udvejayati BUtAni daRqapAruzyavAnnfpaH .</s>
+;-----------------
+29616 old <s>unnamyonnamya tatrEva nirDanAnAM manoraTAH .</s>
+29616 new <s>unnataM padamavApya yo laGurhelayEva sa patediti bruvan .</s>
+;-----------------
+29617 old <s>hfdayezveva lIyante viDavAstrIstanAviva ..</s>
+29617 new <s>SElaSeKaragato dfzatkaRaScArumArutaDutaH patatyaDaH ..</s>
+;-----------------
+29642 old <s>ennamyonnamya tatrEva nirDanAnAM manoraTAH .</s>
+29642 new <s>unnamyonnamya tatrEva nirDanAnAM manoraTAH .</s>
+;-----------------
+29643 old <s>hfdayezveva lIyante viDavAstrIstabAviva ..</s>
+29643 new <s>hfdayezveva lIyante viDavAstrIstanAviva ..</s>
+;-----------------
+29682 old <s>unmattAnAM ca yA gATaH SiSUnAM BAzitaM ca yat .</s>
+29682 new <s>unmattAnAM ca yA gATAH SiSUnAM BAzitaM ca yat .</s>
+;-----------------
+29698 old <s>umattAnAM BujaMgAnAM madyapAnAM ca hastinAm .</s>
+29698 new <s>unmattAnAM BujaMgAnAM madyapAnAM ca hastinAm .</s>
+;-----------------
+29723 old <s>dvaMdvenodyatacakravAkamiTunA vakktrAmbujibDAsinI .</s>
+29723 new <s>dvaMdvenodyatacakravAkamiTunA vaktrAmbujodBAsinI .</s>
+;-----------------
+29755 old <s>upakartADikArasTaH svAparADaM na mayate .</s>
+29755 new <s>upakartADikArasTaH svAparADaM na manyate .</s>
+;-----------------
+29777 old <s>upakartu yaTA svalpaH samarTo na taTA mahAn .</s>
+29777 new <s>upakartuM yaTA svalpaH samarTo na taTA mahAn .</s>
+;-----------------
+29778 old <s>prAyaH kUpastfzAM hanti satataM natu vAriDiH ..</s>
+29778 new <s>prAyaH kUpastfzAM hanti satataM na tu vAriDiH ..</s>
+;-----------------
+29820 old <s>upakartrAraRA saMDirna mitreRApakAriRA .</s>
+29820 new <s>upakartrAriRA saMDirna mitreRApakAriRA .</s>
+;-----------------
+29936 old <s>upakAragfhItena SatruRA SatrumudDaretu .</s>
+29936 new <s>upakAragfhItena SatruRA SatrumudDaret .</s>
+;-----------------
+29965 old <s>upakaraM karomyasya</s> s. nach Spruch <s>mayAsyopakftaM pUrvam</s>.
+29965 new <s>upakAraM karomyasya</s> s. Spruch <s>mayAsyopakftaM pUrvam</s>.
+;-----------------
+29979 old <s>upakAriRi viSrabDe SadDamatO yaH samAcarati pApam .</s>
+29979 new <s>upakAriRi viSrabDe SudDamatO yaH samAcarati pApam .</s>
+;-----------------
+30024 old <s>upakAreRa vIrastu prakAreRa yujyate .</s>
+30024 new <s>upakAreRa vIrastu pratikAreRa yujyate .</s>
+;-----------------
+30051 old <s>apakftamanena sutarAmityasatAmasti na kvacidapekzA .</s>
+30051 new <s>upakftamanena sutarAmityasatAmasti na kvacidapekzA .</s>
+;-----------------
+30083 old <s>upacaritavyAH</s> s. Spruch <s>'varicaritavyAH</s>.
+30083 new <s>upacaritavyAH</s> s. Spruch <s>paricaritavyAH</s>.
+;-----------------
+30090 old <s>upajApaScirAroDe 'vaskandastIvrapOruzam .</s>
+30090 new <s>upajApaScirAroDo 'vaskandastIvrapOruzam .</s>
+;-----------------
+30136 old <s>upadeSo hi mUrKARAM prakopaya na SAntaye .</s>
+30136 new <s>upadeSo na dAtavyo yAdfSe tAdfSe jane .</s>
+;-----------------
+30137 old <s>payaH pAnaM BujaMgAnAM kevalaM vizavarDanam ..</s>
+30137 new <s>paSya vAnaramUrKeRa sugfhI nirgfhI kftA ..</s>
+;-----------------
+30192 old <s>upataBayEryo yo mArgo hitArTakaro Bave-</s>
+30192 new <s>upanataBayEryo yo mArgo hitArTakaro Bave-</s>
+;-----------------
+30195 old <s>racitavalayEH strIvaddadDO karO hi kirIwinA ..</s>
+30195 new <s>racitavalayEH strIvadbadDO karO hi kirIwinA ..</s>
+;-----------------
+30218 old <s>evaM rAjyAtyariBrazwaH samarTo 'pi nirarTakaH ..</s>
+30218 new <s>evaM rAjyAtpariBrazwaH samarTo 'pi nirarTakaH ..</s>
+;-----------------
+30308 old <s>upavizwaH saBADye yo na vakti sPuwaM vcaH .</s>
+30308 new <s>upavizwaH saBAmaDye yo na vakti sPuwaM vacaH .</s>
+;-----------------
+30309 old <s>tasmAddUreRa nyAyo vA kIrta yedftam ..</s>
+30309 new <s>tasmAddUreRa sa tyAjyo nyAyo vA kIrtayedftam ..</s>
+;-----------------
+30327 old <s>upaSamaPalAdvidyabIjAtPalAntarAmicCatAM Bavati viPalo yatprAramBastadatra kimadButam .</s>
+30327 new <s>upaSamaPalAdvidyAbIjAtPalAntaramicCatAM Bavati viPalo yatprAramBastadatra kimadButam .</s>
+;-----------------
+30394 old <s>vAkkAyacitEH suKadaM yamaGnaM murApAdAmbujameva cintyam ..</s>
+30394 new <s>vAkkAyacittEH suKadaM yamaGnaM murAripAdAmbujameva cintyam ..</s>
+;-----------------
+30470 old <s>sahamraM tu pitFnmAtA gOraveRAtiricyate ..</s>
+30470 new <s>sahasraM tu pitFnmAtA gOraveRAtiricyate ..</s>
+;-----------------
+30488 old <s>upAyaM yaM puraskftya sevakaH praBum .</s>
+30488 new <s>upAyaM yaM puraskftya sevate sevakaH praBum .</s>
+;-----------------
+30508 old <s>upAyaM cintayetprojYastaTApAyaM ca cintayet .</s>
+30508 new <s>upAyaM cintayetprAjYastaTApAyaM ca cintayet .</s>
+;-----------------
+30558 old <s>upAyena kayo yAdfgripostAdfNna hetiBiH .</s>
+30558 new <s>upAyena jayo yAdfgripostAdfNna hetiBiH .</s>
+;-----------------
+30559 old <s>upAyajYo 'lpakAo 'pi na SUrEH pariBUyate ..</s>
+30559 new <s>upAyajYo 'lpakAyo 'pi na SUrEH pariBUyate ..</s>
+;-----------------
+30577 old <s>upayena hi tatkuryAdyanna SakyaM parAkramEH .</s>
+30577 new <s>upAyena hi tatkuryAdyanna SakyaM parAkramEH .</s>
+;-----------------
+30602 old <s>upayena hi yacCadyaM na tacCakyaM parAkramEH .</s>
+30602 new <s>upAyena hi yacCakyaM na tacCakyaM parAkramEH .</s>
+;-----------------
+30603 old <s>kakyA kanakasUtreRa kfzRasarpo nipAtitaH ..</s>
+30603 new <s>SfgAlena hato hastI gacCatA paNkavartmanA ..</s>
+;-----------------
+30621 old <s>uparjitAnAM vastUnAm (vittAnAm)</s> s. den folgenden Spruch.
+30621 new <s>upArjitAnAM vastUnAm (vittAnAm)</s> s. den folgenden Spruch.
+;-----------------
+30717 old <s>yaTA samastaM timirAMSukaM puro 'pi rAgAdgalitaM na lakzitam ..</s>
+30717 new <s>yaTA samastaM timirAMSukaM tayA puro 'pi rAgAdgalitaM na lakzitam ..</s>
+;-----------------
+30741 old <s>upyante vizavallibIjavizamAH ktleSAH priyAKyA narE-</s>
+30741 new <s>upyante vizavallibIjavizamAH kleSAH priyAKyA narE-</s>
+;-----------------
+30743 old <s>yeByo 'mI SataSaH kukalahutaBugdAhaM dahantaH SanE-</s>
+30743 new <s>yeByo 'mI SataSaH kukUlahutaBugdAhaM dahantaH SanE-</s>
+;-----------------
+30795 old <s>uBO lokAvaBiprekzya rAjAnamfzayaH svayamU .</s>
+30795 new <s>uBO lokAvaBiprekzya rAjAnamfzayaH svayam .</s>
+;-----------------
+30796 old <s>asfjanmuhadBUtamayaM Darmo Bavizyati ..</s>
+30796 new <s>asfjansumahadBUtamayaM Darmo Bavizyati ..</s>
+;-----------------
+30814 old <s>urasi nipatitAnAM srastaDammillakAnAM mukulitanayanAnAM kiM cidunmIlitAnAm .</s>
+30814 new <s>urasi nipatitAnAM srastaDammillakAnAM mukulitanayanAnAM kiMcidunmIlitAnAm .</s>
+;-----------------
+30843 old <s>urasi nihitastAro hAraH kftA jaGane kalakalavatI kAYcI pAdO kvaRanmaRinU purO .</s>
+30843 new <s>urasi nihitastAro hAraH kftA jaGane kalakalavatI kAYcI pAdO kvaRanmaRinUpurO .</s>
+;-----------------
+30844 old <s>priyamaBisarasyevaM mugDe tvamAhataqiRqimA yadi kimaDika trAsotkampaM diSaH sumadIkzase ..</s>
+30844 new <s>priyamaBisarasyevaM mugDe tvamAhataqiRqimA yadi kimaDikatrAsotkampaM diSaH sumadIkzase ..</s>
+;-----------------
+30873 old <s>urjitaM saYjamaM dfzwvA</s> s. Spruch 1323.
+30873 new <s>urjitaM saYjanaM dfzwvA</s> s. Spruch 1323.
+;-----------------
+30881 old <s>asaMniDAnAtsatasTitInAmanyAnyarAgaH kurute praveSam ..</s>
+30881 new <s>asaMniDAnAtsatatasTitInAmanyAnyarAgaH kurute praveSam ..</s>
+;-----------------
+30937 old <s>strIbuhyA na tadviSizyeta tAstu rakzyAH kaTaM narEH ..</s>
+30937 new <s>strIbudDyA na tadviSizyeta tAstu rakzyAH kaTaM narEH ..</s>
+;-----------------
+31008 old <s>UrudvayaM mfgadfSaH kadalasya kARqO maDyaM ca vediratulaM stanayugmamasvAH .</s>
+31008 new <s>UrudvayaM mfgadfSaH kadalasya kARqO maDyaM ca vediratulaM stanayugmamasyAH .</s>
+;-----------------
+31060 old <s>ko gfhRAti kapardakEralamiti grAmpErgajo hasyate ..</s>
+31060 new <s>ko gfhRAti kapardakEralamiti grAmyErgajo hasyate ..</s>
+;-----------------
+31093 old <s>UrDvabAhurvirOmyeza na kaScicCfRoti me .</s>
+31093 new <s>UrDvabAhurvirOmyeza na ca kaScicCfRoti me .</s>
+;-----------------
+31165 old <s>UzmApi vittajo vfdDiM bayati dehinAm .</s>
+31165 new <s>UzmApi vittajo vfdDiM tejo nayati dehinAm .</s>
+;-----------------
+31255 old <s>punaH punaH pravarDante tasmAcCezaM DArayet ..</s>
+31255 new <s>punaH punaH pravarDante tasmAcCezaM na DArayet ..</s>
+;-----------------
+31309 old <s>fRani trIRyapAkftya mano mokze niveSayet .</s>
+31309 new <s>fRAni trIRyapAkftya mano mokze niveSayet .</s>
+;-----------------
+31329 old <s>tasmAdudvAhapenagnAM manuH svAyaMBuvo 'bravIt ..</s>
+31329 new <s>tasmAdudvAhayennagnAM manuH svAyaMBuvo 'bravIt ..</s>
+;-----------------
+31350 old <s>fzayaScE devASca satyameva hi menire .</s>
+31350 new <s>fzayaScEva devASca satyameva hi menire .</s>
+;-----------------
+31372 old <s>fzayo devartAScEva satyameva samAsate .</s>
+31372 new <s>fzayo devatAScEva satyameva samAsate .</s>
+;-----------------
+31373 old <s>satyavAdI hi loke 'sminpretya gacCati sadratim ..</s>
+31373 new <s>satyavAdI hi loke 'sminpretya gacCati sadgatim ..</s>
+;-----------------
+31390 old <s>fAIMSca devAMSca mahAsurAMSca trEvidyavfdDAMSca vane munIMSca .</s>
+31390 new <s>fzIMSca devAMSca mahAsurAMSca trEvidyavfdDAMSca vane munIMSca .</s>
+;-----------------
+31412 old <s>fzIRAM ca nadInAM kulAnAM mahAtmanAm .</s>
+31412 new <s>fzIRAM ca nadInAM ca kulAnAM ca mahAtmanAm .</s>
+;-----------------
+31506 old <s>dvitrirBirbahuBiH sArDaM BojanaM kArayennaraH ..</s>
+31506 new <s>dvitriBirbahuBiH sArDaM BojanaM kArayennaraH ..</s>
+;-----------------
+31526 old <s>eka eva padArTastu triDA Bavati vIkzItaH .</s>
+31526 new <s>eka eva padArTastu triDA Bavati vIkzitaH .</s>
+;-----------------
+31569 old <s>yugAnta iva BAsvanto bahavo 'tra vipataye ..</s>
+31569 new <s>yugAnta iva BAsvanto bahavo 'tra vipattaye ..</s>
+;-----------------
+31589 old <s>eka eva hi vanDyAyAH Seko Bavati mAnasaH .</s>
+31589 new <s>eka eva hi vanDyAyAH Soko Bavati mAnasaH .</s>
+;-----------------
+31613 old <s>upahArasya BedAstu sarve mEtravarjitAH ..</s>
+31613 new <s>upahArasya BedAstu sarve 'nye mEtravarjitAH ..</s>
+;-----------------
+31661 old <s>budDirbudDimAtotsfzwA hanyAdrAzwraM sarAjakam ..</s>
+31661 new <s>budDirbudDimatotsfzwA hanyAdrAzwraM sarAjakam ..</s>
+;-----------------
+31775 old <s>nevitti tatsvaniDane parakoSagAmi DigvAsanAmasamamohakftAnDakAram ..</s>
+31775 new <s>no vetti tatsvaniDane parakoSagAmi DigvAsanAmasamamohakftAnDakAram ..</s>
+;-----------------
+31833 old <s>ekaCattraM kzititalamidaM BuYjate yannarendrAH</s>
+31833 new <s>ekacCattraM kzititalamidaM BuYjate yannarendrAH</s>
+;-----------------
+31904 old <s>ekato vA kulaM kftsnamAtmA vA kulavarhanaH .</s>
+31904 new <s>ekato vA kulaM kftsnamAtmA vA kulavarDanaH .</s>
+;-----------------
+31905 old <s>na sayaM sarvameveti buDAnAmeza niScayaH ..</s>
+31905 new <s>na samaM sarvameveti buDAnAmeza niScayaH ..</s>
+;-----------------
+31948 old <s>stAmbUlAnayanacCalena raBasASlezo 'pi saMviDnitaH .</s>
+31948 new <s>stAmbUlAnayanacCalena raBasASlezo 'pi saMviGnitaH .</s>
+;-----------------
+31988 old <s>sadarpo 'pyuragaH kIwErbahuBirnASyate Gruvam ..</s>
+31988 new <s>sadarpo 'pyuragaH kIwErbahuBirnASyate Druvam ..</s>
+;-----------------
+32009 old <s>netrAByAmasitpalasya ca ruciH prAyeRa tanno mfzA .</s>
+32009 new <s>netrAByAmasitotpalasya ca ruciH prAyeRa tanno mfzA .</s>
+;-----------------
+32011 old <s>tanvaNgyA vidato 'pi yanmama hftaM citastadatyadButam ..</s>
+32011 new <s>tanvaNgyA vidato 'pi yanmama hftaM cetastadatyadButam ..</s>
+;-----------------
+32172 old <s>ekameca vizaM hanti</s> s. Spruch 1349.
+32172 new <s>ekameva vizaM hanti</s> s. Spruch 1349.
+;-----------------
+32212 old <s>ekaM BUmipatH karoti sacivaM rAjye praDAnaM yadA</s>
+32212 new <s>ekaM BUmipatiH karoti sacivaM rAjye praDAnaM yadA</s>
+;-----------------
+32215 old <s>svAtantryaspfhayA tataH sa nfpateH prARezvaBidru hyati ..</s>
+32215 new <s>svAtantryaspfhayA tataH sa nfpateH prARezvaBidruhyati ..</s>
+;-----------------
+32248 old <s>paYca jitvA viditvA zawsApta hitvA suKI Bava ..</s>
+32248 new <s>paYca jitvA viditvA zawsapta hitvA suKI Bava ..</s>
+;-----------------
+32277 old <s>taTA Darmasya vEcitrye tattvamekaM paraM paridevanA ..</s>
+32277 new <s>taTA Darmasya vEcitrye tattvamekaM paraM punaH ..</s>
+;-----------------
+32297 old <s>ekfvakzasamArUQA nAnAvarRA vihaMgamAH .</s>
+32297 new <s>ekavfkzasamArUQA nAnAvarRA vihaMgamAH .</s>
+;-----------------
+32327 old <s>ekaH SataM yoDayati prAkAasTo DanurDaraH .</s>
+32327 new <s>ekaH SataM yoDayati prAkArasTo DanurDaraH .</s>
+;-----------------
+32350 old <s>ekastapo dviraDyAnam</s> s. Spruch 1392.
+32350 new <s>ekastapo dviraDyayanam</s> s. Spruch 1392.
+;-----------------
+32364 old <s>ekasmiYCayane parANnuKatayA vItottaraM tAmyato-</s>
+32364 new <s>ekasmiYCayane parANmuKatayA vItottaraM tAmyato-</s>
+;-----------------
+32367 old <s>rBagno mAnakaliH sahAsaraBasavyAsaktakaRTagraham ..</s>
+32367 new <s>rBagno mAnakaliH sahAsaraBasavyAsaktakaRWagraham ..</s>
+;-----------------
+32395 old <s>sadyaH kopaparANnuKaM SayitayA cAwUni kurvannapi .</s>
+32395 new <s>sadyaH kopaparANmuKaM SayitayA cAwUni kurvannapi .</s>
+;-----------------
+32464 old <s>ekasya kazwasya na yAvadantyam</s> s. Spruch 1383.
+32464 new <s>ekasya kazwasya na yAvadantam</s> s. Spruch 1383.
+;-----------------
+32471 old <s>ekasya janmano 'rTe muQAH kurvanti yAni pApAni .</s>
+32471 new <s>ekasya janmano 'rTe mUQAH kurvanti yAni pApAni .</s>
+;-----------------
+32490 old <s>ekasya du HaKasya na yAvadantaM gacCAmyahaM pAramivArRavasya .</s>
+32490 new <s>ekasya duHKasya na yAvadantaM gacCAmyahaM pAramivArRavasya .</s>
+;-----------------
+32534 old <s>tasyAnekaparikteSe gfhe kiM vasataH Palam ..</s>
+32534 new <s>tasyAnekaparikleSe gfhe kiM vasataH Palam ..</s>
+;-----------------
+32557 old <s>tAsminhate nAsti Badre pAtakaM nopapAtakam ..</s>
+32557 new <s>tasminhate nAsti Badre pAtakaM nopapAtakam ..</s>
+;-----------------
+32646 old <s>yo 'jaM viBajya BftyeByaH ko nfSaMsatarastataH ..</s>
+32646 new <s>yo 'saMviBajya BftyeByaH ko nfSaMsatarastataH ..</s>
+;-----------------
+32686 old <s>caturBirgamanaM kzetraM YcaBirbahuBI raRaH ..</s>
+32686 new <s>caturBirgamanaM kzetraM paYcaBirbahuBI raRaH ..</s>
+;-----------------
+32758 old <s>sattvotkade mfgapatO rAjeti giraH pariRamanti ..</s>
+32758 new <s>sattvotkawe mfgapatO rAjeti giraH pariRamanti ..</s>
+;-----------------
+32791 old <s>nItyA kAmayate 'nyadyuH SecyastAByAM paro 'sti kaH ..</s>
+32791 new <s>nItyA kAmayate 'nyedyuH SocyastAByAM paro 'sti kaH ..</s>
+;-----------------
+32816 old <s>ekAkI gfhasaMtyaktaM pARipAtre digambaraH .</s>
+32816 new <s>ekAkI gfhasaMtyaktaH pARipAtro digambaraH .</s>
+;-----------------
+32817 old <s>kadA SaMBo BavizyAmi karmanirmUlanakzamaH ..</s>
+32817 new <s>so 'pi saMbADyate loke tfzRayA paSya kOtukam ..</s>
+;-----------------
+32838 old <s>kadA SaMBo bavizyAmi karmanirmUlanakzamaH ..</s>
+32838 new <s>kadA SaMBo BavizyAmi karmanirmUlanakzamaH ..</s>
+;-----------------
+32862 old <s>SvAnayoniSataM gatvA cARqAlezvajAyate ..</s>
+32862 new <s>SvAnayoniSataM gatvA cARqAlezvaBijAyate ..</s>
+;-----------------
+32891 old <s>rAjannityaM sapatezu nityodvignaH samAcaret ..</s>
+32891 new <s>rAjannityaM sapatnezu nityodvignaH samAcaret ..</s>
+;-----------------
+32995 old <s>SaliSyAmAkayoBedaH Palena paricIyate ..</s>
+32995 new <s>SAliSyAmAkayorBedaH Palena paricIyate ..</s>
+;-----------------
+33012 old <s>ekAmizapraBavameva sahoarARamujjfmBate jagati vEramiti prasidDam .</s>
+33012 new <s>ekAmizapraBavameva sahodarARAmujjfmBate jagati vEramiti prasidDam .</s>
+;-----------------
+33013 old <s>pfTvInimittamabBavatkurupARqavAvAM tIvrastaTA hi BuvanakzayakfdviroDaH ..</s>
+33013 new <s>pfTvInimittamaBavatkurupARqavAnAM tIvrastaTA hi BuvanakzayakfdviroDaH ..</s>
+;-----------------
+33032 old <s>ekarTAM samyagiddiSya kriyAM yatrABigacCataH .</s>
+33032 new <s>ekArTaM samyaguddiSya kriyAM yatrABigacCataH .</s>
+;-----------------
+33089 old <s>ekIBUya sPuwamiva kimapyAcarIdBaH pralInE-</s>
+33089 new <s>ekIBUya sPuwamiva kimapyAcaradBiH pralInE-</s>
+;-----------------
+33090 old <s>reBirBUtEH smara kati jftAH svAnta te vipralamBaH .</s>
+33090 new <s>reBirBUtEH smara kati kftAH svAnta te vipralamBAH .</s>
+;-----------------
+33123 old <s>dAtfpAcakayorBedaH karAByAmeva sUcitaH ..</s>
+33123 new <s>dAtfyAcakayorBedaH karAByAmeva sUcitaH ..</s>
+;-----------------
+33154 old <s>ekena smitapAwalADararuco jlpantyanalpAkzaraM</s>
+33154 new <s>ekena smitapAwalADararuco jalpantyanalpAkzaraM</s>
+;-----------------
+33156 old <s>dUrodAracaritracitraviBavaM DyAnti cAnyaM DiyA</s>
+33156 new <s>dUrodAracaritracitraviBavaM DyAyanti cAnyaM DiyA</s>
+;-----------------
+33157 old <s>kenetTaM paramArTato 'rTavadiva premAsti vAmabruvAm ..</s>
+33157 new <s>kenetTaM paramArTato 'rTavadiva premAsti vAmaBruvAm ..</s>
+;-----------------
+33217 old <s>svakulamalaMkftamAKilaM mukuwaM muktAPaleneva ..</s>
+33217 new <s>svakulamalaMkftamaKilaM mukuwaM muktAPaleneva ..</s>
+;-----------------
+33239 old <s>ata eva hi vAYCanti BUpA yoDAnmahbalAn .</s>
+33239 new <s>ata eva hi vAYCanti BUpA yoDAnmahAbalAn .</s>
+;-----------------
+33240 old <s>SUrAnvIrAkftotsAhAnvarjayanti ca kAtarAn ..</s>
+33240 new <s>SUrAnvIrAnkftotsAhAnvarjayanti ca kAtarAn ..</s>
+;-----------------
+33408 old <s>kzemI na sa kaTaM vA syAdyaH samaM paYca sevate ..</s>
+33408 new <s>kzemI nu sa kaTaM vA syAdyaH samaM paYca sevate ..</s>
+;-----------------
+33425 old <s>ekEva kAcinmahavasTA sUkzmARi vastrARyaTa vA ca kanTaH .</s>
+33425 new <s>ekEva kAcinmahatAmavasTA sUkzmARi vastrARyaTa vA ca kanTAH .</s>
+;-----------------
+33426 old <s>karAgragnABinavA ca bAlA gaNgAtaraMgezvaTa vAkzamAlA ..</s>
+33426 new <s>karAgralagnABinavA ca bAlA gaNgAtaraMgezvaTa vAkzamAlA ..</s>
+;-----------------
+33452 old <s>ekodarasamudBUtA ekanakzatrajAtakaH .</s>
+33452 new <s>ekodarasamudBUtA ekanakzatrajAtakAH .</s>
+;-----------------
+33554 old <s>eko na repito yAvadutpanno 'yaM vraRo 'paraH .</s>
+33554 new <s>eko na ropito yAvadutpanno 'yaM vraRo 'paraH .</s>
+;-----------------
+33573 old <s>ekona viMSatirnAryaH krIqAM kartuM vane gatAH .</s>
+33573 new <s>ekonA viMSatirnAryaH krIqAM kartuM vane gatAH .</s>
+;-----------------
+33627 old <s>eko 'pi sevyo yaH kzIRaM kzIRaM punarnavam .</s>
+33627 new <s>eko 'pi ko 'pi sevyo yaH kzIRaM kzIRaM punarnavam .</s>
+;-----------------
+33653 old <s>eko 'pi yaH sakalakAryaviDO mamarTaH sattvADiko Bavatu kiM vahuBiH prasUtEH .</s>
+33653 new <s>eko 'pi yaH sakalakAryaviDO samarTaH sattvADiko Bavatu kiM bahuBiH prasUtEH .</s>
+;-----------------
+33654 old <s>candraH prakASAyati diNnuKamaRqalAni tArAgaRaH samudito 'pyamamarTa eva ..</s>
+33654 new <s>candraH prakASayati diNmuKamaRqalAni tArAgaRaH samudito 'pyasamarTa eva ..</s>
+;-----------------
+33676 old <s>tasmAtsiMha ivodagramAtmAnaM vIkzya saMyatet ..</s>
+33676 new <s>tasmAtsiMha ivodagramAtmAnaM vIkzya saMpatet ..</s>
+;-----------------
+33696 old <s>eko vahUnAM mUrKARAM maDye nipatito buDaH .</s>
+33696 new <s>eko bahUnAM mUrKARAM maDye nipatito buDaH .</s>
+;-----------------
+33734 old <s>ativipilaM KaM SUnyaM hyatigamBIro 'mbuDiH kzAraH ..</s>
+33734 new <s>ativipulaM KaM SUnyaM hyatigamBIro 'mbuDiH kzAraH ..</s>
+;-----------------
+33755 old <s>SezaH kAmaviqambito hi vizayAnBoktuM na moktuM kzamaH ..</s>
+33755 new <s>SezaH kAmaviqambito hi vizayAnBoktuM na BoktuM kzamaH ..</s>
+;-----------------
+33830 old <s>svapne 'pyevaMviDA vintA mfgendrasya na jAyate ..</s>
+33830 new <s>svapne 'pyevaMviDA cintA mfgendrasya na jAyate ..</s>
+;-----------------
+33891 old <s>eko hi KaYjanavaro nalinIdalasTo dfzwaH karoti caturaNgavalADipatyam .</s>
+33891 new <s>eko hi KaYjanavaro nalinIdalasTo dfzwaH karoti caturaNgabalADipatyam .</s>
+;-----------------
+33983 old <s>eRakzIspfhayAlutA na kaTamapyAste vivekodayA-</s>
+33983 new <s>eRAkzIspfhayAlutA na kaTamapyAste vivekodayA-</s>
+;-----------------
+33986 old <s>svArRadyAH puline paraM haripadaDyAnaM mano vAYCati ..</s>
+33986 new <s>svarRadyAH puline paraM haripadaDyAnaM mano vAYCati ..</s>
+;-----------------
+34029 old <s>etatkAmaPalaM loke yaddvUyorekacittatA .</s>
+34029 new <s>etatkAmaPalaM loke yaddvayorekacittatA .</s>
+;-----------------
+34049 old <s>etattarkaya cakravAkahfyASvAsAya tArAgaRa-</s>
+34049 new <s>etattarkaya cakravAkahfdayASvAsAya tArAgaRa-</s>
+;-----------------
+34051 old <s>dikkAntAkucakumBaNkumaranyAsAya paNkeruho-</s>
+34051 new <s>dikkAntAkucakumBakuNkumarajanyAsAya paNkeruho-</s>
+;-----------------
+34052 old <s>llAsAya sPuwavErikEravavatrAsAya vidyItate ..</s>
+34052 new <s>llAsAya sPuwavErikEravavanatrAsAya vidyotate ..</s>
+;-----------------
+34113 old <s>AdimaDyAvasAnezu na te ynti hi vikriyAm ..</s>
+34113 new <s>AdimaDyAvasAnezu na te yAnti hi vikriyAm ..</s>
+;-----------------
+34160 old <s>laByaM cAparamityanAratamahi laByaM DanaM DyAyasi .</s>
+34160 new <s>laByaM cAparamityanAratamaho laByaM DanaM DyAyasi .</s>
+;-----------------
+34161 old <s>nEtadvetsi punarBavantamacirAdASApiSAcI valA-</s>
+34161 new <s>nEtadvetsi punarBavantamacirAdASApiSAcI balA-</s>
+;-----------------
+34189 old <s>etastAdviramendriyArTagahanAdAyAsadAdASraya</s>
+34189 new <s>etasmAdviramendriyArTagahanAdAyAsadAdASraya</s>
+;-----------------
+34191 old <s>AtmIBAvamupOhi saMtyaja nijAM kallolalolAM gatiM</s>
+34191 new <s>AtmIBAvamupEhi saMtyaja nijAM kallolalolAM gatiM</s>
+;-----------------
+34192 old <s>mA BUyo Baja BaNgurAM cetaH prasIdADunA ..</s>
+34192 new <s>mA BUyo Baja BaNgurAM BavaratiM cetaH prasIdADunA ..</s>
+;-----------------
+34224 old <s>ye parADInatAM yatAste cejjIvanti ke mftAH ..</s>
+34224 new <s>ye parADInatAM yAtAste cejjIvanti ke mftAH ..</s>
+;-----------------
+34245 old <s>prARErarTErDeyA vAcA Sreya evAcaretsadA ..</s>
+34245 new <s>prARErarTErDiyA vAcA Sreya evAcaretsadA ..</s>
+;-----------------
+34263 old <s>yAvacca kuryAdanyo kuryAdbahuguRaM tataH ..</s>
+34263 new <s>yAvacca kuryAdanyo 'sya kuryAdbahuguRaM tataH ..</s>
+;-----------------
+34281 old <s>etAvAneva puruzoH yajjAyAtmA prajeti ha .</s>
+34281 new <s>etAvAneva puruzo yajjAyAtmA prajeti ha .</s>
+;-----------------
+34326 old <s>etAScaladvalayasaMhatimeKalotTaJakAranUpuraparAjitarAhaMsAH .</s>
+34326 new <s>etAScaladvalayasaMhatimeKalotTaJaMkAranUpuraparAjitarAjahaMsAH .</s>
+;-----------------
+34327 old <s>kurvanti kasya na mano vivaSaM taruRyo taruRyo viSvastamugDahariRIsadfSekzaRAtEH ..</s>
+34327 new <s>kurvanti kasya na mano vivaSaM taruRyo viSvastamugDahariRIsadfSekzaRAntEH ..</s>
+;-----------------
+34356 old <s>etAH sKaladvalayaMsaMhati</s> s. den vorangehenden Spruch.
+34356 new <s>etAH sKaladvalayasaMhati</s> s. den vorangehenden Spruch.
+;-----------------
+34416 old <s>enena guRaH paNkaja santo 'pi na te prakASamAyAnti .</s>
+34416 new <s>enena guRAH paNkaja santo 'pi na te prakASamAyAnti .</s>
+;-----------------
+34436 old <s>ete satpuruzaH parArTaGatakAH svArTaM parityajya ye</s>
+34436 new <s>ete satpuruzAH parArTaGawakAH svArTaM parityajya ye</s>
+;-----------------
+34437 old <s>sAmAnyAsti parArTamudyamaBftaH svArTAviroDena ye .</s>
+34437 new <s>sAmAnyAstu parArTamudyamaBftaH svArTAviroDena ye .</s>
+;-----------------
+34492 old <s>eraRaqaBiRqArkanalEH praBUtErapi saMcitEH .</s>
+34492 new <s>eraRqaBiRqArkanalEH praBUtErapi saMcitEH .</s>
+;-----------------
+34513 old <s>evaM kukarma sarvadPa PalatyAtmani sarvadA .</s>
+34513 new <s>evaM kukarma sarvasya PalatyAtmani sarvadA .</s>
+;-----------------
+34514 old <s>yo yadvapati vIjaM hi laBate so 'pi tatPalam ..</s>
+34514 new <s>yo yadvapati bIjaM hi laBate so 'pi tatPalam ..</s>
+;-----------------
+34531 old <s>putragAtrasya samsparSaScandanAdatiricyate ..</s>
+34531 new <s>putragAtrasya saMsparSaScandanAdatiricyate ..</s>
+;-----------------
+34570 old <s>evaM na SaknuvantIha yadyAtkartumaSezataH .</s>
+34570 new <s>evaM na SaknuvantIha yadyatkartumaSezataH .</s>
+;-----------------
+34685 old <s>eza te vidrumacCAyo marumArga ivADarA .</s>
+34685 new <s>eza te vidrumacCAyo marumArga ivADaraH .</s>
+;-----------------
+34728 old <s>ezAM na vidyA natapaH</s> s. Spruch <s>yozAM na vidyA na tapaH</s>.
+34728 new <s>ezAM na vidyA na tapaH</s> s. Spruch <s>yezAM na vidyA na tapaH</s>.
+;-----------------
+34759 old <s>yadajAlaBavo mftyustasya saMspfSati prajAH ..</s>
+34759 new <s>yadakAlaBavo mftyustasya saMspfSati prajAH ..</s>
+;-----------------
+34777 old <s>tezAM vE samavetAnAM yadi kaScidrayAM vrajet ..</s>
+34777 new <s>tezAM vE samavetAnAM yadi kaScidgayAM vrajet ..</s>
+;-----------------
+34797 old <s>yajeta vASvameDena nIlaM vfzamutsfjet ..</s>
+34797 new <s>yajeta vASvameDena nIlaM vA vfzamutsfjet ..</s>
+;-----------------
+34964 old <s>abalAvirahaktleSavihvalo gaRayatyayam ..</s>
+34964 new <s>abalAvirahakleSavihvalo gaRayatyayam ..</s>
+;-----------------
+34980 old <s>ESvaryaDanaraynAnAM pratyamitre nivartatAm .</s>
+34980 new <s>ESvaryaDanaratnAnAM pratyamitre nivartatAm .</s>
+;-----------------
+35001 old <s>ESvaryamadamatto hi nApatitvA vivuDyate ..</s>
+35001 new <s>ESvaryamadamatto hi nApatitvA vibuDyate ..</s>
+;-----------------
+35039 old <s>ekEnaM kiM na yatkuryAtpaYcAgnitve tu kA kaTA ..</s>
+35039 new <s>ekEkaM kiM na yatkuryAtpaYcAgnitve tu kA kaTA ..</s>
+;-----------------
+35059 old <s>jYAnasyepaSamaH kulasya vinayo vittasya pAtre vyayaH .</s>
+35059 new <s>jYAnasyopaSamaH kulasya vinayo vittasya pAtre vyayaH .</s>
+;-----------------
+35060 old <s>akroDastapasaH kzamA praBAviturDarmasya nirvyAjatA</s>
+35060 new <s>akroDastapasaH kzamA praBaviturDarmasya nirvyAjatA</s>
+;-----------------
+35095 old <s>ESvaryArsaha saMbanDaM na kuryAcca kadA ca na .</s>
+35095 new <s>ESvaryAtsaha saMbanDaM na kuryAcca kadA ca na .</s>
+;-----------------
+35113 old <s>EhalOkikamIhante mAMsoRitavarDanam .</s>
+35113 new <s>ESvarye vA suvistIrRe vyasane vA sudAruRe .</s>
+;-----------------
+35114 old <s>pAralOkikakAryezu prasuptA BfSanAstikAH ..</s>
+35114 new <s>rajjveva puruzaM badDvA kftAntaH parikarzati ..</s>
+;-----------------
+35134 old <s>EhalOkikamIhante mAMSoRitavarhdanam .</s>
+35134 new <s>EhalOkikamIhante mAMsaSoRitavarDanam .</s>
+;-----------------
+35155 old <s>oMkAre satpradIpe mfgaya gfhaya gfhapatiM sUkzmamevAntarasTaM</s>
+35155 new <s>oMkAre satpradIpe mfgaya gfhapatiM sUkzmamevAntarasTaM</s>
+;-----------------
+35192 old <s>vizAyate guRAgrAma OMcityaparivarjitaH ..</s>
+35192 new <s>vizAyate guRagrAma OcityaparivarjitaH ..</s>
+;-----------------
+35212 old <s>OtsukyAmAtramavasAdayati pratizWA kliSnAti labDaparipAlanavfttireva .</s>
+35212 new <s>OtsukyamAtramavasAdayati pratizWA kliSnAti labDaparipAlanavfttireva .</s>
+;-----------------
+35213 old <s>nAtiSramApanAya yaTA rAjyaM svahastaDftadaRqamivAtapatram ..</s>
+35213 new <s>nAtiSramApanayanAya yaTA SramAya rAjyaM svahastaDftadaRqamivAtapatram ..</s>
+;-----------------
+35277 old <s>OrasAnapi putrAnhi tyajantahitakAriRaH .</s>
+35277 new <s>OrasAnapi putrAnhi tyajantyahitakAriRaH .</s>
+;-----------------
+35278 old <s>samaTAnpratigfhRanti parAnapi narAGipAH ..</s>
+35278 new <s>samarTAnpratigfhRanti parAnapi narADipAH ..</s>
+;-----------------
+35304 old <s>asADyaM nasti loke 'tra kiMcidbrARqamaDyagam ..</s>
+35304 new <s>asADyaM nAsti loke 'tra kiMcidbrahmARqamaDyagam ..</s>
+;-----------------
+35376 old <s>tasmAnmAtA pitA rAma sajjeta yo naraH .</s>
+35376 new <s>tasmAnmAtA pitA ceti rAma sajjeta yo naraH .</s>
+;-----------------
+35456 old <s>antarlalAwasaMpuwavikawAkzaramAlikAM mukktvA ..</s>
+35456 new <s>antarlalAwasaMpuwavikawAkzaramAlikAM muktvA ..</s>
+;-----------------
+35483 old <s>piSnavacanErduHKaM netuM na yuktamimaM janam .</s>
+35483 new <s>piSunavacanErduHKaM netuM na yuktamimaM janam .</s>
+;-----------------
+35507 old <s>amAtyasya ca du zwasya mUlAdudDaraRaM varam ..</s>
+35507 new <s>amAtyasya ca duzwasya mUlAdudDaraRaM varam ..</s>
+;-----------------
+35531 old <s>cakraBIzaRaKaNgAdyErmAryamARasya kiM punaH ..</s>
+35531 new <s>cakraBIzaRaKaqgAdyErmAryamARasya kiM punaH ..</s>
+;-----------------
+35570 old <s>kati namanti mahIzu mahIruhAH suraBizparasAlaPalAlayAH .</s>
+35570 new <s>kati namanti mahIzu mahIruhAH suraBipuzparasAlaPalAlayAH .</s>
+;-----------------
+35610 old <s>kaTamcidahni hfdaye</s> s. nach Spruch <s>rAjanrAjanyupADyAyaH</s>.
+35610 new <s>kaTaMcidahni hfdaye</s> s. nach Spruch <s>rAjanrAjanyupAdyAyaH</s>.
+;-----------------
+35642 old <s>kaTAmapi hfdaye</s> s. den folgenden Spruch.
+35642 new <s>kaTamapi punaH pratyAvftte</s> s. den folgenden Spruch.
+;-----------------
+35650 old <s>asahanasaKISrotraptipramAdasasaMBramaM pracalitadfSA SUnye gehe samucCUsitaM punaH ..</s>
+35650 new <s>asahanasaKISrotraprAptipramAdasasaMBramaM pracalitadfSA SUnye gehe samucCvasitaM punaH ..</s>
+;-----------------
+35682 old <s>kaTamapi saKi krIqAkopAdvrajeti mayodite kaWinahfdayastyakktvA SayyAM balAdgata eva saH .</s>
+35682 new <s>kaTamapi saKi krIqAkopAdvrajeti mayodite kaWinahfdayastyaktvA SayyAM balAdgata eva saH .</s>
+;-----------------
+35683 old <s>iti sarasaM DvastapremRi vyapetaGfRe jane punarapi hatavrIqaM cetaH prayAti karomi kim ..</s>
+35683 new <s>iti saraBasaM DvastapremRi vyapetaGfRe jane punarapi hatavrIqaM cetaH prayAti karomi kim ..</s>
+;-----------------
+35713 old <s>satpenotpadyate Darmo dayAdAnOrvivarDate.</s>
+35713 new <s>satyenotpadyate Darmo dayAdAnErvivarDate .</s>
+;-----------------
+35714 old <s>kzamayA sTApyate DarmaH kroDaleBErvinaSyati ..</s>
+35714 new <s>kzamayA sTApyate DarmaH kroDaloBErvinaSyati ..</s>
+;-----------------
+35747 old <s>paSyADaHKanane mUQa yatanti girayo 'pi ca ..</s>
+35747 new <s>paSyADaHKanane mUQa patanti girayo 'pi ca ..</s>
+;-----------------
+35772 old <s>na samarTA trirgo 'yaM dAMpatyaM samupASritaH ..</s>
+35772 new <s>na samarTA trivargo 'yaM dAMpatyaM samupASritaH ..</s>
+;-----------------
+35796 old <s>aDaHkftasyApi tanUnApAto nADaH SiKA yAti kadAcideva ..</s>
+35796 new <s>aDaHkftasyApi tanUnapAto nADaH SiKA yAti kadAcideva ..</s>
+;-----------------
+35829 old <s>nizWIraRaM dfQavEraM kftaGnametAnBaSArto 'pi na jAtu yAcet ..</s>
+35829 new <s>nizWUriRaM dfQavEraM kftaGnametAnBfSArto 'pi na jAtu yAcet ..</s>
+;-----------------
+35849 old <s>dantA adanti kazwena kazwena jigvA grasati lIlayA ..</s>
+35849 new <s>dantA adanti kazwena jihvA grasati lIlayA ..</s>
+;-----------------
+35871 old <s>kadA kantAgAre parimalamilatpuzpaSayene SayAnaH kAntAyAH kucayugamahaM vakzasi vahan .</s>
+35871 new <s>kadA kAntAgAre parimalamilatpuzpaSayane SayAnaH kAntAyAH kucayugamahaM vakzasi vahan .</s>
+;-----------------
+35872 old <s>aye kAnte mugDe kuwilanayane candravadane prasIdeti kroSannimuzamiva nezyAmi davasAn ..</s>
+35872 new <s>aye kAnte mugDe kuwilanayane candravadane prasIdeti kroSannimizamiva nezyAmi divasAn ..</s>
+;-----------------
+35988 old <s>na sa virOti na cApi sa SeBate yojayiturvacanIyatA ..</s>
+35988 new <s>na sa virOti na cApi sa SoBate Bavati yojayiturvacanIyatA ..</s>
+;-----------------
+36085 old <s>kapAlasaMDirvijYAyaH kevalaM samasaMDitaH .</s>
+36085 new <s>kapAlasaMDirvijYeyaH kevalaM samasaMDitaH .</s>
+;-----------------
+36106 old <s>kapAle mArjAraH paya iti karAlloQi SaSina-</s>
+36106 new <s>kapAle mArjAraH paya iti karA~lleQi SaSina-</s>
+;-----------------
+36156 old <s>kapinAM medasA dozaH</s> s. den vorangehenden Spruch.
+36156 new <s>kapInAM medasA dozaH</s> s. den vorangehenden Spruch.
+;-----------------
+36163 old <s>kapole pattrAlI karatalaniroDina mfditA nipIto niHSvAsErayamamftahfdyo 'DararasaH .</s>
+36163 new <s>kapole pattrAlI karatalaniroDena mfditA nipIto niHSvAsErayamamftahfdyo 'DararasaH .</s>
+;-----------------
+36164 old <s>muhuH kaRWe lagnastaralayati bAzpaH stanatawaM priyo manyurjAtastava nirariDe na tu vayam ..</s>
+36164 new <s>muhuH kaRWe lagnastaralayati bAzpaH stanatawaM priyo manyurjAtastava niranuroDe na tu vayam ..</s>
+;-----------------
+36254 old <s>kaM pfcCAmaH surAH svarge nivasAMmo nivasAmo vayaM Buvi .</s>
+36254 new <s>kaM pfcCAmaH surAH svarge nivasAmo vayaM Buvi .</s>
+;-----------------
+36355 old <s>karizyanna praBAzeta kftAnyeva tu darSayetu .</s>
+36355 new <s>karizyanna praBAzeta kftAnyeva tu darSayet .</s>
+;-----------------
+36374 old <s>kareRa dAnaM munirAdadAno Baktasya saMketamiti vravIti .</s>
+36374 new <s>kareRa dAnaM munirAdadAno Baktasya saMketamiti bravIti .</s>
+;-----------------
+36396 old <s>kare SlADyastyAgaH Sirasi gurupAdapraRamanaM</s>
+36396 new <s>kare SlAGyastyAgaH Sirasi gurupAdapraRamanaM</s>
+;-----------------
+36479 old <s>karRavizeRa ca BagnaH kiM na karoti bAliSo lokaH .</s>
+36479 new <s>karRavizeRa ca BagnaH kiM kiM na karoti bAliSo lokaH .</s>
+;-----------------
+36480 old <s>kzapaRakatAmaRi Datte pibati surAM narakapAlena ..</s>
+36480 new <s>kzapaRakatAmapi Datte pibati surAM narakapAlena ..</s>
+;-----------------
+36500 old <s>karRasatvacaM SibirmAMsaM jIvaM jImUtavAhanaH .</s>
+36500 new <s>karRastvacaM SibirmAMsaM jIvaM jImUtavAhanaH .</s>
+;-----------------
+36501 old <s>dadO daDIcirasTIna na nAstyadeyaM mahAtmanAm ..</s>
+36501 new <s>dadO daDIcirasTIni nAstyadeyaM mahAtmanAm ..</s>
+;-----------------
+36522 old <s>karRAkarapratiDvanEH</s> s. Spruch <s>varRAkArapratiDvanEH</s>.
+36522 new <s>karRAkArapratiDvAnEH</s> s. Spruch <s>varRAkArapratiDvAnEH</s>.
+;-----------------
+36529 old <s>karRAmftaM sUktirasaM vimucya dzezu dezezu yatnaH sumahAnKalasya .</s>
+36529 new <s>karRAmftaM sUktirasaM vimucya dozezu yatnaH sumahAnKalasya .</s>
+;-----------------
+36530 old <s>vekzate kelivanaM pravizwaH kramelakaH kaRwakajAlameva ..</s>
+36530 new <s>avekzate kelivanaM pravizwaH kramelakaH kaRwakajAlameva ..</s>
+;-----------------
+36562 old <s>karRinAlIkanArAcAnniranti SarIrataH .</s>
+36562 new <s>karRinAlIkanArAcAnnirharanti SarIrataH .</s>
+;-----------------
+36563 old <s>vAkSalyastu na nirhartu Sakyo hfdiSayo hi saH ..</s>
+36563 new <s>vAkSalyastu na nirhartuM Sakyo hfdiSayo hi saH ..</s>
+;-----------------
+36694 old <s>akarmaRo hi jIvanti sTAvarA netare janAH ..</s>
+36694 new <s>akarmARo hi jIvanti sTAvarA netare janAH ..</s>
+;-----------------
+36712 old <s>karma cArmahitaM kAryaM tIkzRaM vA yadi vA mfdu .</s>
+36712 new <s>karma cAtmahitaM kAryaM tIkzRaM vA yadi vA mfdu .</s>
+;-----------------
+36713 old <s>grasyate 'karmaSIlastu sadArTErakiMcanaH ..</s>
+36713 new <s>grasyate 'karmaSIlastu sadAnarTErakiMcanaH ..</s>
+;-----------------
+36749 old <s>karmaRa bADyate budDirbudDyA karma na bADyate .</s>
+36749 new <s>karmaRA bADyate budDirbudDyA karma na bADyate .</s>
+;-----------------
+36818 old <s>karmaRa yena kenEva</s> s. den folgenden Spruch.
+36818 new <s>karmaRA yena kenEva</s> s. den folgenden Spruch.
+;-----------------
+36847 old <s>karmaRo hi praDAnatvaM kiM kurvAnti SuBA grahAH .</s>
+36847 new <s>karmaRo hi praDAnatvaM kiM kurvanti SuBA grahAH .</s>
+;-----------------
+36940 old <s>tasmAtparokzavfttinAM PalEH karma viBAvyate ..</s>
+36940 new <s>tasmAtparokzavfttInAM PalEH karma viBAvyate ..</s>
+;-----------------
+36968 old <s>karmAnyajanmani kftaM sadasacca dEvaM tatkevalaM tatkevalaM Bavati janmani satkulAdye .</s>
+36968 new <s>karmAnyajanmani kftaM sadasacca dEvaM tatkevalaM Bavati janmani satkulAdye .</s>
+;-----------------
+37023 old <s>karmondriyEH karmaryAgamasaktaH sa viSizyate ..</s>
+37023 new <s>karmendriyEH karmayogamasaktaH sa viSizyate ..</s>
+;-----------------
+37050 old <s>pArAvataH pariBramya riraMsuScumvati priyAm ..</s>
+37050 new <s>pArAvataH pariBramya riraMsuScumbati priyAm ..</s>
+;-----------------
+37067 old <s>kalaNkamuktaM tanumaqyanAmikA stanadvayI ca tvadfte na hantyataH .</s>
+37067 new <s>kalaNkamuktaM tanumaDyanAmikA stanadvayI ca tvadfte na hantyataH .</s>
+;-----------------
+37068 old <s>na yAti BUtaM gaRane BavanmuKe BavanmuKe kalaNkamuktaM tanumadDyanAmikA ..</s>
+37068 new <s>na yAti BUtaM gaRane BavanmuKe kalaNkamuktaM tanumaDyanAmikA ..</s>
+;-----------------
+37098 old <s>tattAsu na prasaktavyaM DIrasattvEH sabudDiBiH .</s>
+37098 new <s>tattAsu na prasaktavyaM DIrasattvEH subudDiBiH .</s>
+;-----------------
+37125 old <s>kalahAntAni harmyARi kuvAkyAntaM ca sEhfdam .</s>
+37125 new <s>kalahAntAni harmyARi kuvAkyAntaM ca sOhfdam .</s>
+;-----------------
+37147 old <s>kalaminduH karaM dAtA DArAM DarADaro yadi .</s>
+37147 new <s>kalAminduH karaM dAtA DArAM DArADaro yadi .</s>
+;-----------------
+37165 old <s>tadarDaM jAhnavIyaM tadarDaM grAmadevatAH ..</s>
+37165 new <s>tadarDaM jAhnavItoyaM tadarDaM grAmadevatAH ..</s>
+;-----------------
+37275 old <s>kavayaH kiM na paSyanti vAyasAH .</s>
+37275 new <s>kavayaH kiM na paSyanti kiM na Bakzanti vAyasAH .</s>
+;-----------------
+37351 old <s>kavitvamArogyamatIva moDA strIRAM priyatvaM kanakasya lABaH .</s>
+37351 new <s>kavitvamArogyamatIva meDA strIRAM priyatvaM kanakasya lABaH .</s>
+;-----------------
+37352 old <s>sarvezu taTyaM svajanezu pUjA svargasTitAnAM kila cihnimetat ..</s>
+37352 new <s>sarvezu taTyaM svajanezu pUjA svargasTitAnAM kila cihnametat ..</s>
+;-----------------
+37373 old <s>candrikAmiva cinvinti cakorA iva sADavaH ..</s>
+37373 new <s>candrikAmiva cinvanti cakorA iva sADavaH ..</s>
+;-----------------
+37396 old <s>kaSca dEvena sOmitrae yodDamutsahate saha .</s>
+37396 new <s>kaSca dEvena sOmitre yodDumutsahate saha .</s>
+;-----------------
+37474 old <s>kaScidAmravaRaM CittvA palASAM Sca niziYciti .</s>
+37474 new <s>kaScidAmravaRaM CittvA palASAMSca niziYcati .</s>
+;-----------------
+37475 old <s>puzpaM dfzvA Pale gfDruh sa Socati PalAgame ..</s>
+37475 new <s>puzpaM dfzwvA Pale gfDnuH sa Socati PalAgame ..</s>
+;-----------------
+37497 old <s>kaScidASrayasOndaryAdDantte SoBAmasajjanaH .</s>
+37497 new <s>kaScidASrayasOndaryAdDatte SoBAmasajjanaH .</s>
+;-----------------
+37537 old <s>kaScumvati kulapurazo veSyADarapallavaM manojYamapi .</s>
+37537 new <s>kaScumbati kulapuruzo veSyADarapallavaM manojYamapi .</s>
+;-----------------
+37538 old <s>cAraBawacOracewakanawanizWIvanaSarAvam ..</s>
+37538 new <s>cAraBawacOracewakanawaviwanizWIvanaSarAvam ..</s>
+;-----------------
+37606 old <s>kazwaM Kalu mUrKatvaM Kalu yOvane 'pi dAridryam .</s>
+37606 new <s>kazwaM Kalu mUrKatvaM kazwaM Kalu yOvane 'pi dAridryam .</s>
+;-----------------
+37630 old <s>kazwAtkazwataraM cEva paragfhavAsaH pravAsaSca ..</s>
+37630 new <s>kazwAtkazwataraM cEva paragehanivAsanam ..</s>
+;-----------------
+37648 old <s>divase divase maraRaM parajanaraYjanI vfttiH ..</s>
+37648 new <s>divase divase maraRaM parajanamanaraYjanI vfttiH ..</s>
+;-----------------
+37696 old <s>kastUrItilakaM bAle BAle mA kurumA kuru .</s>
+37696 new <s>kastUrItilakaM bAle BAle mA kuru mA kuru .</s>
+;-----------------
+37697 old <s>kalaNkaSaNkayA rAhurgrAsizyati tavAnanam ..</s>
+37697 new <s>kalaNkaSaNkayA rAhurgrasizyati tavAnanam ..</s>
+;-----------------
+37720 old <s>no luptaM saKi candanM stanatawe DOtaM na netrAYjanam .</s>
+37720 new <s>no luptaM saKi candanaM stanatawe DOtaM na netrAYjanam .</s>
+;-----------------
+37746 old <s>katvaM Badra KaleSvaro 'hamiha kiM Gore vane sTIyate</s>
+37746 new <s>kastvaM Badra KaleSvaro 'hamiha kiM Gore vane sTIyate</s>
+;-----------------
+37777 old <s>na cCAyApi paropakArakftaye mArgAsTitasyApi me ..</s>
+37777 new <s>na cCAyApi paropakArakftaye mArgasTitasyApi me ..</s>
+;-----------------
+37841 old <s>kasmAdudvijitavyaM samsArAraRyataH suDiyA ..</s>
+37841 new <s>kasmAdudvijitavyaM saMsArAraRyataH suDiyA ..</s>
+;-----------------
+37910 old <s>SalyaM paraM kiM nijamUrKartEva ke ke hyupAsyA guravaSca santaH ..</s>
+37910 new <s>SalyaM paraM kiM nijamUrKatEva ke ke hyupAsyA guravaSca santaH ..</s>
+;-----------------
+37941 old <s>bAlApatyena Bftyena yadi sA naprakASyate ..</s>
+37941 new <s>bAlApatyena Bftyena yadi sA na prakASyate ..</s>
+;-----------------
+37961 old <s>anyo'nyaM pratipakzasaMhatimimAM lokasTitiM boDaya-</s>
+37961 new <s>anyo 'nyaM pratipakzasaMhatimimAM lokasTitiM boDaya-</s>
+;-----------------
+37987 old <s>kAMrScidarTAnnaraH prAjYo laGumUlAnmahAPalAn .</s>
+37987 new <s>kAMScidarTAnnaraH prAjYo laGumUlAnmahAPalAn .</s>
+;-----------------
+38005 old <s>kAkaH kfzRaH pikaH kfzRaH ko beda pikakAkayo .</s>
+38005 new <s>kAkaH kfzRaH pikaH kfzRaH ko BedaH pikakAkayoH .</s>
+;-----------------
+38035 old <s>kustrI stpuruzaM gatA na ramate nIcaM janaM vAYCati</s>
+38035 new <s>kustrI satpuruzaM gatA na ramate nIcaM janaM vAYCati</s>
+;-----------------
+38140 old <s>kA kAbalA niDuvanaSramapIqitANgI nidrAM dayitabAhulatAnubadDA .</s>
+38140 new <s>kA kAbalA niDuvanaSramapIqitANgI nidrAM gatA dayitabAhulatAnubadDA .</s>
+;-----------------
+38141 old <s>sA sA tu yAtu BavataM mihirodgamo 'yaM saM ketavAkyamiti kAkacayA vadanti ..</s>
+38141 new <s>sA sA tu yAtu BavanaM mihirodgamo 'yaM saMketavAkyamiti kAkacayA vadanti ..</s>
+;-----------------
+38164 old <s>kAkE SOcaM dyUkArezu satyaM sarpe kzAntiH strIzu kAmopaSAntiH .</s>
+38164 new <s>kAke SOcaM dyUtakArezu satyaM sarpe kzAntiH strIzu kAmopaSAntiH .</s>
+;-----------------
+38165 old <s>ktlIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA ..</s>
+38165 new <s>klIbe DEryaM madyape tattvacintA rAjA mitraM kena dfzwaM SrutaM vA ..</s>
+;-----------------
+38193 old <s>kacaH kAYcanasaMsargAdDatte mArakatIM dyutim .</s>
+38193 new <s>kAcaH kAYcanasaMsargAdDatte mArakatIM dyutim .</s>
+;-----------------
+38271 old <s>mAtaH svaptumapIha vArayati mAmityAhitakroMDayA</s>
+38271 new <s>mAtaH svaptumapIha vArayati mAmityAhitakroDayA</s>
+;-----------------
+38302 old <s>kA tava kAntA kaste putraH saMsAre 'yamatIva vicitraH .</s>
+38302 new <s>kA tava kAntA kaste putraH saMsAro 'yamatIva vicitraH .</s>
+;-----------------
+38325 old <s>dakzayyaM sukftaM BavedavikalaM Darmasya sUkzmA gEH ..</s>
+38325 new <s>dakzayyaM sukftaM BavedavikalaM Darmasya sUkzmA gatiH ..</s>
+;-----------------
+38433 old <s>kAntare vanadurgezu kfcCrAsvApa{?} su saMBrame .</s>
+38433 new <s>kAntAre vanadurgezu kfcCrAsvApatsu saMBrame .</s>
+;-----------------
+38471 old <s>kAntAviyogaH svajanApamAna FRasya SezaM kunfpasya sevA .</s>
+38471 new <s>kAntAviyogaH svajanApamAna fRasya SezaM kunfpasya sevA .</s>
+;-----------------
+38509 old <s>kAnte katyapi vAsarARi gamayaM tvaM mIlayitvA dfSO</s>
+38509 new <s>kAnte katyapi vAsarARi gamaya tvaM mIlayitvA dfSO</s>
+;-----------------
+38539 old <s>kAnte taTA kaTamapi praTitaM mfgAkzyA cArtuyamudDatamanoBavayA ratezu .</s>
+38539 new <s>kAnte taTA kaTamapi praTitaM mfgAkzyA cAturyamudDatamanoBavayA ratezu .</s>
+;-----------------
+38540 old <s>tatkUjitAnyanuvadadBiranekavAraM SizyAyitaM gfzyAyitaM gfhakapotaSatEryaTAsyAH ..</s>
+38540 new <s>tatkUjitAnyanuvadadBiranekavAraM SizyAyitaM gfhakapotaSatEryaTAsyAH ..</s>
+;-----------------
+38561 old <s>kAntatyutpalalocaneti vipulaSroRIBaretyutsukaH</s>
+38561 new <s>kAntetyutpalalocaneti vipulaSroRIBaretyutsukaH</s>
+;-----------------
+38564 old <s>pratyakzASuciputrikAM striyamaho mohasya duScozwitam ..</s>
+38564 new <s>pratyakzASuciputrikAM striyamaho mohasya duScezwitam ..</s>
+;-----------------
+38593 old <s>kAnte sAgasi Sayite priyasaKIvezaM viDAyAgate</s>
+38593 new <s>kAnte sAgasi SAyite priyasaKIvezaM viDAyAgate</s>
+;-----------------
+38595 old <s>mugDe duzkarametadityatitarAmukktvA sahAsaM balA-</s>
+38595 new <s>mugDe duzkarametadityatitarAmuktvA sahAsaM balA-</s>
+;-----------------
+38649 old <s>vidaDati Danizu na dEnyaM kila paSave vayaM suMDiyaH ..</s>
+38649 new <s>vidaDati Danizu na dEnyaM te kila paSavo vayaM suDiyaH ..</s>
+;-----------------
+38671 old <s>sANgaglAni savepitaM sacakitaM sAntArnidAGajvaraM</s>
+38671 new <s>sANgaglAni savepitaM sacakitaM sAntarnidAGajvaraM</s>
+;-----------------
+38672 old <s>vaktuM na tvahamutsahe sakfpaRaM sakfpaRaM dehIti dInaM vacaH ..</s>
+38672 new <s>vaktuM na tvahamutsahe sakfpaRaM dehIti dInaM vacaH ..</s>
+;-----------------
+38703 old <s>kAmaH krADastaTA loBo harzo mAno madastaTA .</s>
+38703 new <s>kAmaH kroDastaTA loBo harzo mAno madastaTA .</s>
+;-----------------
+38704 old <s>zaqvargatsfjedetamasmiMstyakte suKI nfpaH ..</s>
+38704 new <s>zaqvargamutsfjedetamasmiMstyakte suKI nfpaH ..</s>
+;-----------------
+38730 old <s>kAmakroDagrAhavatIM paYcondriyajalAM nadIm .</s>
+38730 new <s>kAmakroDagrAhavatIM paYcendriyajalAM nadIm .</s>
+;-----------------
+38751 old <s>na te jalena SiDyanti snAnatIrTaSatErapi ..</s>
+38751 new <s>na te jalena SuDyanti snAnatIrTaSatErapi ..</s>
+;-----------------
+38771 old <s>namanti yatra rAjendra tameva vrAhmaRaM viduH ..</s>
+38771 new <s>namanti yatra rAjendra tameva brAhmaRaM viduH ..</s>
+;-----------------
+38877 old <s>kAmaM kroDaM loBaM mohaM tyakktvAtmAnaM paSya hi ko 'ham .</s>
+38877 new <s>kAmaM kroDaM loBaM mohaM tyaktvAtmAnaM paSya hi ko 'ham .</s>
+;-----------------
+38878 old <s>AtmajYAnavihInA mUQAste narake gUQAH ..</s>
+38878 new <s>AtmajYAnavihInA mUQAste pacyante narake gUQAH ..</s>
+;-----------------
+38907 old <s>kAmaM kroDaM ca loBaM ca damBaM daryaM BUmipaH .</s>
+38907 new <s>kAmaM kroDaM ca loBaM ca damBaM darpaM ca BUmipaH .</s>
+;-----------------
+38908 old <s>samyargvijetuM yo veda sa mahImaBijAyate ..</s>
+38908 new <s>samyagvijetuM yo veda sa mahImaBijAyate ..</s>
+;-----------------
+38975 old <s>pravAse mAtfsadfSI vidyA guptaM smftam ..</s>
+38975 new <s>pravAse mAtfsadfSI vidyA guptaM DanaM smftam ..</s>
+;-----------------
+38995 old <s>kAmaleBagrahAkIrRAm</s> s. Spruch 1639.
+38995 new <s>kAmaloBagrahAkIrRAm</s> s. Spruch 1639.
+;-----------------
+39002 old <s>kAmavftto 'nvayaM lokaH kftsnaH samupartate .</s>
+39002 new <s>kAmavftto 'nvayaM lokaH kftsnaH samupavartate .</s>
+;-----------------
+39053 old <s>kAmyo hi bedADigamaH karmayogaSca vEdikaH ..</s>
+39053 new <s>kAmyo hi vedADigamaH karmayogaSca vEdikaH ..</s>
+;-----------------
+39073 old <s>rakzitAraM na mfzyati svaBartAramalaM striyaH ..</s>
+39073 new <s>rakzitAraM na mfzyanti svaBartAramalaM striyaH ..</s>
+;-----------------
+39117 old <s>kAmABiBUtaH kroDAdvA yo miTya pratipadyate .</s>
+39117 new <s>kAmABiBUtaH kroDAdvA yo miTyA pratipadyate .</s>
+;-----------------
+39136 old <s>kAmAya spfhayatyAtmA samyato 'pi manIziRaH .</s>
+39136 new <s>kAmAya spfhayatyAtmA saMyato 'pi manIziRaH .</s>
+;-----------------
+39137 old <s>viTIniyamito 'pyukzA SazyamAsAdya DAvati ..</s>
+39137 new <s>vITIniyamito 'pyukzA SazpamAsAdya DAvati ..</s>
+;-----------------
+39156 old <s>so 'vaSyaM yAti tanniHSvAsahato naraH ..</s>
+39156 new <s>so 'vaSyaM narakaM yAti tanniHSvAsahato naraH ..</s>
+;-----------------
+39203 old <s>nirvastrIkriyate divApi hi naro rAtO tu kiM kaTyate ..</s>
+39203 new <s>nirvastrIkriyate divApi hi naro rAtrO tu kiM kaTyate ..</s>
+;-----------------
+39247 old <s>kAyaktleSena mahatA puruzaH prApnuyAtPalam .</s>
+39247 new <s>kAyakleSena mahatA puruzaH prApnuyAtPalam .</s>
+;-----------------
+39292 old <s>anftaM jihvayA cAha triviDaM karmapAtakamU ..</s>
+39292 new <s>anftaM jihvayA cAha triviDaM karmapAtakam ..</s>
+;-----------------
+39313 old <s>arTArTI jIvaloko 'yaM na kaScitkasyavitpriyaH ..</s>
+39313 new <s>arTArTI jIvaloko 'yaM na kaScitkasyacitpriyaH ..</s>
+;-----------------
+39330 old <s>kAraRAnmitratAM yAti kAraRadeti SatrutAm .</s>
+39330 new <s>kAraRAnmitratAM yAti kAraRAdeti SatrutAm .</s>
+;-----------------
+39378 old <s>saMBavetsa mahIpAlastrEkyasyApi rakzaRe ..</s>
+39378 new <s>saMBavetsa mahIpAlastrElokyasyApi rakzaRe ..</s>
+;-----------------
+39490 old <s>kArpaRyena yaSaH kruDA guRacayo damBena satyaM kzuDvA</s>
+39490 new <s>kArpaRyena yaSaH kruDA guRacayo damBena satyaM kzuDA</s>
+;-----------------
+39491 old <s>maryAdA vyasanErDAnAni vipadA sTEryaM pramAdErdvijaH .</s>
+39491 new <s>maryAdA vyasanErDanAni vipadA sTEryaM pramAdErdvijaH .</s>
+;-----------------
+39546 old <s>kAryakAle bipattO yo Bftyo hi yAcate Danam .</s>
+39546 new <s>kAryakAle vipattO yo Bftyo hi yAcate Danam .</s>
+;-----------------
+39547 old <s>setsAraRIyaH sapadi nItijYAvanipAlakEH ..</s>
+39547 new <s>sotsAraRIyaH sapadi nItijYAvanipAlakEH ..</s>
+;-----------------
+39567 old <s>kAryate yacca kriyate saccAsacca katAkftam .</s>
+39567 new <s>kAryate yacca kriyate saccAsacca kftAkftam .</s>
+;-----------------
+39625 old <s>nAkarRyate vikarREryAktiBiryuktamuktamapi ..</s>
+39625 new <s>nAkarRyate vikarRErnayoktiBiryuktamuktamapi ..</s>
+;-----------------
+39645 old <s>kAryARyaTAvamardena svanurakto 'pi sADayan .</s>
+39645 new <s>kAryARyarTAvamardena svanurakto 'pi sADayan .</s>
+;-----------------
+39708 old <s>kAryApekzI kanaH prAyaH prItimAvizkarotyalam .</s>
+39708 new <s>kAryApekzI janaH prAyaH prItimAvizkarotyalam .</s>
+;-----------------
+39786 old <s>DarmAnukUlA kzamayA DaritrI zagnaNgalA puRyavaDUrihEva ..</s>
+39786 new <s>DarmAnukUlA kzamayA DaritrI zaNmaNgalA puRyavaDUrihEva ..</s>
+;-----------------
+39823 old <s>kArSyaM kzutpraBavaM kadannamaSanaM SitozRayoH pAtratA</s>
+39823 new <s>kArSyaM kzutpraBavaM kadannamaSanaM SItozRayoH pAtratA</s>
+;-----------------
+39851 old <s>kAlaH suptezu jAgarti kAlA hi duratikramaH ..</s>
+39851 new <s>kAlaH suptezu jAgarti kAlo hi duratikramaH ..</s>
+;-----------------
+39878 old <s>kAlakrameRa pariRAmavaSAdanarDyA BAvA Bavanti Kalu pUrvamatIva tucCAH .</s>
+39878 new <s>kAlakrameRa pariRAmavaSAdanarGyA BAvA Bavanti Kalu pUrvamatIva tucCAH .</s>
+;-----------------
+39937 old <s>kAlavarzI ca parjanye DarmacArI ca pArTivaH .</s>
+39937 new <s>kAlavarzI ca parjanyo DarmacArI ca pArTivaH .</s>
+;-----------------
+39938 old <s>saMpadyadEzA Bavati zA viBArti suKaM prajAH ..</s>
+39938 new <s>saMpadyadEzA Bavati sA biBarti suKaM prajAH ..</s>
+;-----------------
+39978 old <s>deSASca pralayaM gatAh lkaraBarErlBaM hatAH pArTivAH .</s>
+39978 new <s>deSASca pralayaM gatAH karaBarErloBaM gatAH pArTivAH .</s>
+;-----------------
+40049 old <s>kAlAtikramaRaM vftteryo na kurvanti BUpatiH .</s>
+40049 new <s>kAlAtikramaRaM vftteryo na kurvIta BUpatiH .</s>
+;-----------------
+40068 old <s>eRamAMsamabalA ca komalA ca komalA saMBavantu mama janmanmani ..</s>
+40068 new <s>eRamAMsamabalA ca komalA saMBavantu mama janmajanmani ..</s>
+;-----------------
+40088 old <s>kAle 'dAtA pitA vAcyo vAcyaScanupayanpatiH .</s>
+40088 new <s>kAle 'dAtA pitA vAcyo vAcyaScAnupayanpatiH .</s>
+;-----------------
+40186 old <s>kAle yaTAvadaDigatanarapatikopAdyaSezavattAntaH .</s>
+40186 new <s>kAle yaTAvadaDigatanarapatikopAdyaSezavfttAntaH .</s>
+;-----------------
+40214 old <s>kAle saMtatavarziRA jalamucaH sasyEH samfdDA DarA</s>
+40214 new <s>kAle saMtatavarziRo jalamucaH sasyEH samfdDA DarA</s>
+;-----------------
+40216 old <s>svAdukzIranatoDasaH pratidinaM gavo nirastApadaH</s>
+40216 new <s>svAdukzIranatoDasaH pratidinaM gAvo nirastApadaH</s>
+;-----------------
+40217 old <s>santaH SAntiparA Bavantu kftinaH sOjanyaBAjo janaH ..</s>
+40217 new <s>santaH SAntiparA Bavantu kftinaH sOjanyaBAjo janAH ..</s>
+;-----------------
+40266 old <s>kAlena gocaragatAnanapekzya BakzyAnmadakramo 'pyajagaraH samupEti sidDim ..</s>
+40266 new <s>kAlena gocaragatAnanapekzya BakzyAnmandakramo 'pyajagaraH samupEti sidDim ..</s>
+;-----------------
+40314 old <s>kmalo hetuM vikurute svArTastamanuvartate .</s>
+40314 new <s>kAlo hetuM vikurute svArTastamanuvartate .</s>
+;-----------------
+40334 old <s>kA vidyA kavitAM vinArTini jane tyAgaM vinA SriSca kA</s>
+40334 new <s>kA vidyA kavitAM vinArTini jane tyAgaM vinA SrISca kA</s>
+;-----------------
+40335 old <s>ko DarmaSca kfpAM vinA narapatiH ko nAma nitiM vinA .</s>
+40335 new <s>ko DarmaSca kfpAM vinA narapatiH ko nAma nItiM vinA .</s>
+;-----------------
+40336 old <s>kaH sU nurvinA kulavaDUH kA svAmiBaktiM vinA</s>
+40336 new <s>kaH sUnurvinayaM vinA kulavaDUH kA svAmiBaktiM vinA</s>
+;-----------------
+40365 old <s>kAvyaSAstravinonodena kAlo gacCati DImatAm .</s>
+40365 new <s>kAvyaSAstravinodena kAlo gacCati DImatAm .</s>
+;-----------------
+40366 old <s>vyasanena tu mUrKARAM nidrAyA kalahena vA ..</s>
+40366 new <s>vyasanena tu mUrKARAM nidrayA kalahena vA ..</s>
+;-----------------
+40422 old <s>kASI vivarjayeccOryam</s> s. Spruch 1715.
+40422 new <s>kAsI vivarjayeccOryam</s> s. Spruch 1715.
+;-----------------
+40431 old <s>kAmo nazwatanurbalirdAtisuto nandI puSuH kAmago</s>
+40431 new <s>kAmo nazwatanurbalirditisuto nandI paSuH kAmago</s>
+;-----------------
+40524 old <s>kAsarezu saritsu sinDuzu taTA nIcezu nIragrahaM</s>
+40524 new <s>kAsArezu saritsu sinDuzu taTA nIcezu nIragrahaM</s>
+;-----------------
+40526 old <s>ityAlocya cAtakayuvA tezu spfhAmAdarA-</s>
+40526 new <s>ityAlocya vimucya cAtakayuvA tezu spfhAmAdarA-</s>
+;-----------------
+40576 old <s>kiM rudDaH priyayA kayAcidaTa vA saKyA mamedDejitaH</s>
+40576 new <s>kiM rudDaH priyayA kayAcidaTa vA saKyA mamodvejitaH</s>
+;-----------------
+40578 old <s>ityAlocya mfgIdfSa karatale vinyasya vakktrAmbujaM</s>
+40578 new <s>ityAlocya mfgIdfSA karatale vinyasya vaktrAmbujaM</s>
+;-----------------
+40579 old <s>dIrDaM niHSvasitaM ciraM ca ruditaM kziptASca puzpaSrajaH ..</s>
+40579 new <s>dIrGaM niHSvasitaM ciraM ca ruditaM kziptASca puzpasrajaH ..</s>
+;-----------------
+40601 old <s>kiM laGutvagarutvAByAM caramo 'pi guRErguruH .</s>
+40601 new <s>kiM laGutvagurutvAByAM caramo 'pi guRErguruH .</s>
+;-----------------
+40641 old <s>mukktvEkaM BavOHKaBAraracanAviDvaMsikAlAnalaM</s>
+40641 new <s>muktvEkaM BavaduHKaBAraracanAviDvaMsikAlAnalaM</s>
+;-----------------
+40711 old <s>kiM sevakasya kuSalaM kaSca rAjYaM sadA priyaH .</s>
+40711 new <s>kiM sevakasya kuSalaM kaSca rAjYAM sadA priyaH .</s>
+;-----------------
+40820 old <s>kiM kandAH kandaremByaH pralayamupagatA nirJarA vA giriByaH</s>
+40820 new <s>kiM kandAH kandareByaH pralayamupagatA nirJarA vA giriByaH</s>
+;-----------------
+40821 old <s>praDvastA vA taruByaH sarasaPalaBftoM valkalinyaSca SAKAH .</s>
+40821 new <s>praDvastA vA taruByaH sarasaPalaBfto valkalinyaSca SAKAH .</s>
+;-----------------
+40872 old <s>paSyAmraPalasaMsargI kazayo maDuraH kutaH ..</s>
+40872 new <s>paSyAmraPalasaMsargI kazAyo maDuraH kutaH ..</s>
+;-----------------
+40899 old <s>kiM kariyozyanti vaktaraH SrotA yatra na vidyate .</s>
+40899 new <s>kiM karizyanti vaktAraH SrotA yatra na vidyate .</s>
+;-----------------
+40900 old <s>nahnakzapaRake deSe rajakaH kiM karizyati ..</s>
+40900 new <s>nagnakzapaRake deSe rajakaH kiM karizyati ..</s>
+;-----------------
+40955 old <s>dEvaM pasya cCalAnvezi karoti viPalaM kriyAm ..</s>
+40955 new <s>dEvaM yasya cCalAnvezi karoti viPalAM kriyAm ..</s>
+;-----------------
+41048 old <s>kim kiM vakktramupatpe</s> a. Spruch 1780.
+41048 new <s>kiM kiM vaktramupatye</s> a. Spruch 1780.
+;-----------------
+41075 old <s>akulIno 'pi SAstrajYo dEvatErapi pUjpate ..</s>
+41075 new <s>akulIno 'pi SAstrajYo dEvatErapi pUjyate ..</s>
+;-----------------
+41110 old <s>kfmayaH kiM najAyante kusumezu suganDizu ..</s>
+41110 new <s>kfmayaH kiM na jAyante kusumezu suganDizu ..</s>
+;-----------------
+41130 old <s>Bavanti sutarAM sPItAH sukzetra kaRwakidrumAH ..</s>
+41130 new <s>Bavanti sutarAM sPItAH sukzetre kaRwakidrumAH ..</s>
+;-----------------
+41152 old <s>tkiM vA nAsti pariScamo dinapaterAste na yanniScalaH .</s>
+41152 new <s>tkiM vA nAsti pariSramo dinapaterAste na yanniScalaH .</s>
+;-----------------
+41153 old <s>kiM tvaNgIkftamutsfjanna sahasA SlADyo jano lajjate</s>
+41153 new <s>kiM tvaNgIkftamutsfjanna sahasA SlAGyo jano lajjate</s>
+;-----------------
+41190 old <s>kiM kAmaH saMkalpaH kiM duzkarAsADanaM prajYA ..</s>
+41190 new <s>kiM kAmaH saMkalpaH kiM duzkarasADanaM prajYA ..</s>
+;-----------------
+41212 old <s>sTUlo 'pi yadi vAsTulaH SreyAnkftyakaraH pimAn ..</s>
+41212 new <s>sTUlo 'pi yadi vAsTUlaH SreyAnkftyakaraH pumAn ..</s>
+;-----------------
+41268 old <s>kiM dAridryamatozaH kiM laGutAmUlakaM yAYca ..</s>
+41268 new <s>kiM dAridryamatozaH kiM laGutAmUlakaM yAcYA ..</s>
+;-----------------
+41314 old <s>taccitraM yadi rUpapOvanavatI sADvI BavetkAminI</s>
+41314 new <s>taccitraM yadi rUpayOvanavatI sADvI BavetkAminI</s>
+;-----------------
+41315 old <s>taccitraM yadi nirDano 'pi puruzaH pApaM na kuryAktvacit ..</s>
+41315 new <s>taccitraM yadi nirDano 'pi puruzaH pApaM na kuryAtkvacit ..</s>
+;-----------------
+41362 old <s>kiM cinmudritapAMsavaH</s> s. Spruch <s>madaM mudritapAsavaH</s>.
+41362 new <s>kiM cinmudritapAMsavaH</s> s. Spruch <s>mandaM mudritapAMsavaH</s>.
+;-----------------
+41369 old <s>kiM copavAsI yadi cEkaBojI kiM vrahmacArI nijadArasevI .</s>
+41369 new <s>kiM copavAsI yadi cEkaBojI kiM brahmacArI nijadArasevI .</s>
+;-----------------
+41390 old <s>kiM jAtEbahuBiH putrEH SokasaMtApAkArakEH .</s>
+41390 new <s>kiM jAtErbahuBiH putrEH SokasaMtApakArakEH .</s>
+;-----------------
+41463 old <s>kiM tayA kriyate lakzmyA yA baDUriva kevalA .</s>
+41463 new <s>kiM tayA kriyate lakzmyA yA vaDUriva kevalA .</s>
+;-----------------
+41486 old <s>saMSayya kzaRamiti niScikAya kaScidbibbokEkasahavAsinAM parokzEH ..</s>
+41486 new <s>saMSayya kzaRamiti niScikAya kaScidbibbokErbakasahavAsinAM parokzEH ..</s>
+;-----------------
+41514 old <s>kiM te DanEtbAnDavErvApi kiM te kiM te dArErbrAhmaRa yo sarizyasi .</s>
+41514 new <s>kiM te DanEtbAnDavErvApi kiM te kiM te dArErbrAhmaRa yo marizyasi .</s>
+;-----------------
+41539 old <s>kiM tena jAta jAtena mAturyOvanahAriRA .</s>
+41539 new <s>kiM tena jAtu jAtena mAturyOvanahAriRA .</s>
+;-----------------
+41567 old <s>kiM tena Buvi jAtena</s> s. den vorangeheden Spruch.
+41567 new <s>kiM tena Buvi jAtena</s> s. den vorangehenden Spruch.
+;-----------------
+41575 old <s>kiM te pallavalIlayA kimanayA caSoka puzpaSriyA .</s>
+41575 new <s>kiM te pallavalIlayA kimanayA cASoka puzpaSriyA .</s>
+;-----------------
+41618 old <s>kiM tena hemagiriRa rajatAdriRA vA yatrASritASca taravastaravasta eva .</s>
+41618 new <s>kiM tena hemagiriRA rajatAdriRA vA yatrASritASca taravastaravasta eva .</s>
+;-----------------
+41654 old <s>kiM tErye nopakurvAnti sajjanA badDamuzwayaH .</s>
+41654 new <s>kiM tErye nopakurvanti sajjanA badDamuzwayaH .</s>
+;-----------------
+41676 old <s>ko 'lakAraH SIlaM kiM vAcAM maRqanaM satyam ..</s>
+41676 new <s>ko 'laMkAraH SIlaM kiM vAcAM maRqanaM satyam ..</s>
+;-----------------
+41745 old <s>kim duHsahaM sADUnAM viduzAM kimapekzitam .</s>
+41745 new <s>kiM duHsahaM nu sADUnAM viduzAM kimapekzitam .</s>
+;-----------------
+41769 old <s>taddevakAryaM japayajYahomA yasyASrupAtA na patanti razwri ..</s>
+41769 new <s>taddevakAryaM japayajYahomA yasyASrupAtA na patanti rAzwre ..</s>
+;-----------------
+41802 old <s>kiM na poaSyanti yoginaH</s> s. Spruch 1582.
+41802 new <s>kiM devEH smftiBiH</s> s. Spruch 1721.
+;-----------------
+41809 old <s>kiM nu me syAdidaM kftvA kiM me syAdakurvataH .</s>
+41809 new <s>kiM na paSyaTa he lokA yanniryAti dine dine .</s>
+;-----------------
+41810 old <s>iti karmARi saMcintya kuryAdvA puruzo na vA ..</s>
+41810 new <s>svadehakaSmalaM pUti tadADAraH kaTaM SuciH ..</s>
+;-----------------
+41915 old <s>kimapyasti svaBAvena sundaraM sundaraM vApyasundaram .</s>
+41915 new <s>kimapyasti svaBAvena sundaraM vApyasundaram .</s>
+;-----------------
+41939 old <s>kimavaSyaM priyavacasAM kimalaByamihodyamamTAnAm ..</s>
+41939 new <s>kimavaSyaM priyavacasAM kimalaByamihodyamasTAnAm ..</s>
+;-----------------
+41960 old <s>kimArADyaM sadA puRyaM kaSca sevya sadAgamaH .</s>
+41960 new <s>kimArADyaM sadA puRyaM kaSca sevyaH sadAgamaH .</s>
+;-----------------
+41992 old <s>kimAsevyaM puMsAM saviDanavadyaM dyusaritaH</s>
+41992 new <s>kimAsevyaM puMsAM saviDamanavadyaM dyusaritaH</s>
+;-----------------
+41995 old <s>yadAsaktyA ceto niravADivimuktO praBavati ..</s>
+41995 new <s>yadAsaktyA ceto niravaDivimuktO praBavati ..</s>
+;-----------------
+42057 old <s>kimiha bahuBiruktEryuktiSUnyEH pralApErdvayamiha puruzARaM sarvadA sevanIyam .</s>
+42057 new <s>kimiha bahuBiruktEryuktiSUnyEH pralApErdvayamiha puruzARAM sarvadA sevanIyam .</s>
+;-----------------
+42104 old <s>kiM paTyataraM DarmaH kaH Suciriha uasya mAnasaM SudDamf .</s>
+42104 new <s>kiM paTyataraM DarmaH kaH Suciriha yasya mAnasaM SudDamf .</s>
+;-----------------
+42131 old <s>kiM padmasya ruciM a hanti nayanAnandaM viDatte na kiM</s>
+42131 new <s>kiM padmasya ruciM na hanti nayanAnandaM viDatte na kiM</s>
+;-----------------
+42133 old <s>vakktrendO tava satyayaM yadaparaH SItAMSurujjamBate</s>
+42133 new <s>vaktrendO tava satyayaM yadaparaH SItAMSurujjfmBate</s>
+;-----------------
+42215 old <s>kiM BUzaRAdBUzaRamasti SIlaM tIrTaM kiM svamano viSudDam .</s>
+42215 new <s>kiM BUzaRAdBUzaRamasti SIlaM tIrTaM paraM kiM svamano viSudDam .</s>
+;-----------------
+42239 old <s>tyakktvA suKaM kiM striyameva samyagdAnaM paraM kiM hyaBayaM janezu ..</s>
+42239 new <s>tyaktvA suKaM kiM striyameva samyagdAnaM paraM kiM hyaBayaM janezu ..</s>
+;-----------------
+42267 old <s>kiM maraRaM mUrKatvaM kiM cAnarDyaM yadavasare dattam .</s>
+42267 new <s>kiM maraRaM mUrKatvaM kiM cAnarGyaM yadavasare dattam .</s>
+;-----------------
+42268 old <s>A maraRAtkiM SalyaM pracCajaM yatkftamakaryam ..</s>
+42268 new <s>A maraRAtkiM SalyaM pracCannaM yatkftamakAryam ..</s>
+;-----------------
+42287 old <s>kiM se vakktramupetya cumbasi balAnnirlajja lajjAkfte</s>
+42287 new <s>kiM me vaktramupetya cumbasi balAnnirlajja lajjAkfte</s>
+;-----------------
+42288 old <s>vastrAntaM SaWa muYca mupaTEH kiM DUrta nirvaYcase .</s>
+42288 new <s>vastrAntaM SaWa muYca muYca SapaTEH kiM DUrta nirvaYcase .</s>
+;-----------------
+42322 old <s>kirIwamaRicitrepu mUrDamUttAnaraSmizu .</s>
+42322 new <s>kirIwamaRicitrezu mUrDasUttAnaraSmizu .</s>
+;-----------------
+42323 old <s>nAdattvA dvizatAM pAdaM puruzaH SriyamaSrute ..</s>
+42323 new <s>nAdattvA dvizatAM pAdaM puruzaH SriyamaSnute ..</s>
+;-----------------
+42344 old <s>aSmApi yAti devatvaM mahadBiH suprAtizWitaH ..</s>
+42344 new <s>aSmApi yAti devatvaM mahadBiH supratizWitaH ..</s>
+;-----------------
+42371 old <s>kzORinATa tava pratApatapanEH saMtApitaH kzIraDiH .</s>
+42371 new <s>kzORInATa tava pratApatapanEH saMtApitaH kzIraDiH .</s>
+;-----------------
+42373 old <s>hftpadmaM haraye svaBavanaM kaRWaM gire dattavAn ..</s>
+42373 new <s>hftpadmaM haraye Sriye svaBavanaM kaRWaM gire dattavAn ..</s>
+;-----------------
+42445 old <s>kanyAbahutvaM ca daridratA ca zaqkzIvaloke narakA Bavanti ..</s>
+42445 new <s>kanyAbahutvaM ca daridratA ca zaqjIvaloke narakA Bavanti ..</s>
+;-----------------
+42476 old <s>kuNkumapaNkaklaNkitadehA gOrapayoDarakampitahArA .</s>
+42476 new <s>kuNkumapaNkakalaNkitadehA gOrapayoDarakampitahArA .</s>
+;-----------------
+42477 old <s>nU purahaMsaraRatpadapadmA kaM na vaSIkurute Buvi rAmA ..</s>
+42477 new <s>nUpurahaMsaraRatpadapadmA kaM na vaSIkurute Buvi rAmA ..</s>
+;-----------------
+42505 old <s>sUryAdaye cAstamite SayAnaM vimuYcati SrIrapi cakrapARim ..</s>
+42505 new <s>sUryodaye cAstamite SayAnaM vimuYcati SrIrapi cakrapARim ..</s>
+;-----------------
+42613 old <s>kuto hi BItiH satataM lokApavAdAdBavakAnanAcca .</s>
+42613 new <s>kuto hi BItiH satataM viDeyA lokApavAdAdBavakAnanAcca .</s>
+;-----------------
+42634 old <s>avaDhIraRA kva kAryA KalaparayozitparaDanezu ..</s>
+42634 new <s>avaDIraRA kva kAryA KalaparayozitparaDanezu ..</s>
+;-----------------
+42653 old <s>paropakAraRaM parameSvarapUjanam ..</s>
+42653 new <s>paropakArakaraRaM parameSvarapUjanam ..</s>
+;-----------------
+42690 old <s>kudeSaM ca kuto 'rTasaMcayaH kuputramAsAdya kuto jalAYjaliH .</s>
+42690 new <s>kudeSaM ca kuvfttiM ca kuBAryAM kunadIM taTA .</s>
+;-----------------
+42691 old <s>kugehinIM prApya kuto gfhe suKaM kuSizyamaDyApayataH kuto yaSaH ..</s>
+42691 new <s>kudravyaM ca kuBojyaM ca varjayecca vicakzaRaH ..</s>
+;-----------------
+42817 old <s>kuputre 'pi BavetpuMsAM hfdayAnandakArakaH .</s>
+42817 new <s>kuputro 'pi BavetpuMsAM hfdayAnandakArakaH .</s>
+;-----------------
+42907 old <s>avamAnaH kusaMbanDe BavatyarTa viparyaye ..</s>
+42907 new <s>avamAnaH kusaMbanDe BavatyarTaviparyaye ..</s>
+;-----------------
+42927 old <s>piRqaH kuputre nEvasti nAsti satyaM kurAjani ..</s>
+42927 new <s>piRqaH kuputre nEvAsti nAsti satyaM kurAjani ..</s>
+;-----------------
+42947 old <s>kumudAyeva SaSANkaH savitA boDayati paNkajAnyeva .</s>
+42947 new <s>kumudAnyeva SaSANkaH savitA boDayati paNkajAnyeva .</s>
+;-----------------
+42948 old <s>vaSinAM hi paraparigrahasaMSlezaparAgnuKI vfttiH ..</s>
+42948 new <s>vaSinAM hi paraparigrahasaMSlezaparANmuKI vfttiH ..</s>
+;-----------------
+42991 old <s>mano 'smAMkaM dIrGAmaBilazati yuzmatparicitim ..</s>
+42991 new <s>mano 'smAkaM dIrGAmaBilazati yuzmatparicitim ..</s>
+;-----------------
+43015 old <s>kudAradarESca kuto ratiH kuSizyamaTyApayataH kuto yaSaH ..</s>
+43015 new <s>kudAradArESca kuto gfhe ratiH kuSizyamaDyApayataH kuto yaSaH ..</s>
+;-----------------
+43039 old <s>dUyante na ca te svapitarO Gnanto 'pi SAntatrapAH ..</s>
+43039 new <s>dUyante na ca te yaTA svapitarO Gnanto 'pi SAntatrapAH ..</s>
+;-----------------
+43115 old <s>ekAntaPalasidDiM tu na vindayalasaH kvacit ..</s>
+43115 new <s>ekAntaPalasidDiM tu na vindatyalasaH kvacit ..</s>
+;-----------------
+43226 old <s>kurvARaM hi karma</s> s. nach Spruch <s>na mAM kaScidvijAnIte</s>.
+43226 new <s>kurvARaM hi naraM karma</s> s. nach Spruch <s>na mAM kaScidvijAnIte</s>.
+;-----------------
+43233 old <s>kulaM vidyASrutaM SOryaM sOSIlyaM BUnapUrvatAm .</s>
+43233 new <s>kulaM vidyASrutaM SOryaM sOSIlyaM BUtapUrvatAm .</s>
+;-----------------
+43234 old <s>vayo'vasTAM ca saMprekzya Adriyeta mahAtmavAn ..</s>
+43234 new <s>vayo 'vasTAM ca saMprekzya Adriyeta mahAtmavAn ..</s>
+;-----------------
+43263 old <s>durvftte 'pyakulIne jano dAtari rajyate ..</s>
+43263 new <s>durvftte 'pyakulIne 'pi jano dAtari rajyate ..</s>
+;-----------------
+43313 old <s>aspfSyaM prApte manye strIRAM priyaM varam ..</s>
+43313 new <s>aspfSyaM maraRe prApte manye strIRAM priyaM varam ..</s>
+;-----------------
+43335 old <s>rtAnguRAnsapta parIkzya deyA budDEH SezamacintanIyam ..</s>
+43335 new <s>etAnguRAnsapta parIkzya deyA kanyA buDEH SezamacintanIyam ..</s>
+;-----------------
+43366 old <s>jArarTe ca sutaM hanti vAnDavasya ca kA kaTA ..</s>
+43366 new <s>jArArTe ca sutaM hanti bAnDavasya ca kA kaTA ..</s>
+;-----------------
+43412 old <s>kulapatanaM janagarhAM banDanamapi jIvitavyasaM deham .</s>
+43412 new <s>kulapatanaM janagarhAM banDanamapi jIvitavyasaMdeham .</s>
+;-----------------
+43439 old <s>kulamargaparaH SrezWaH pitroH SuSruzakaH SuciH .</s>
+43439 new <s>kulamArgaparaH SrezWaH pitroH SuSrUzakaH SuciH .</s>
+;-----------------
+43440 old <s>SAstramArgAnusArI ca GarmizWo DarmamApnuyAt ..</s>
+43440 new <s>SAstramArgAnusArI ca DarmizWo DarmamApnuyAt ..</s>
+;-----------------
+43478 old <s>kulaSIlaguRepitaH sarvaDarmaparAyaRaH .</s>
+43478 new <s>kulaSIlaguRopetaH sarvaDarmaparAyaRaH .</s>
+;-----------------
+43479 old <s>pravIRaH preRADyakzo DarmADyakzo viDIyate ..</s>
+43479 new <s>pravIRaH prezaRADyakzo DarmADyakzo viDIyate ..</s>
+;-----------------
+43507 old <s>kulAcArajanAcArEH</s> s. Spruch <s>yaH kulABijanAcArEH</s>.
+43507 new <s> kulAcArajanAcArEH</s> s. Spruch <s>yaH kulABijanAcArEH</s>.
+;-----------------
+43514 old <s>kulAdapi varaM SIlaM SIlaM varaM dAridryamAmyAt .</s>
+43514 new <s>kulAdapi varaM SIlaM varaM dAridryamAmayAt .</s>
+;-----------------
+43515 old <s>rAjyadapi varaM vidyA tapaso 'api varam kzamA ..</s>
+43515 new <s>rAjyAdapi varaM vidyA tapaso 'pi varaM kzamA ..</s>
+;-----------------
+43563 old <s>anAryastvAryasaMsTAnaH SOcadDInastaTA SuciH .</s>
+43563 new <s>anAryastvAryasaMsTAnaH SOcAdDInastaTA SuciH .</s>
+;-----------------
+43615 old <s>kulInaH satvasaMpannaH Suklo 'mAtyaH praSasyate .</s>
+43615 new <s>kulInaH sattvasaMpannaH Suklo 'mAtyaH praSasyate .</s>
+;-----------------
+43654 old <s>kulInA rUpavatyaSca nATavatyaSca yozitaH .</s>
+43654 new <s>kulInAnnAvamanyeta samyagvfttAnmanasvinaH .</s>
+;-----------------
+43655 old <s>maryAdAsu na tizWanti sa dozaH strIzu nArada ..</s>
+43655 new <s>tyajantyete 'vamantAraM Gnanti vA mAnahetunA ..</s>
+;-----------------
+43673 old <s>kulIn rUpavatyaSca nATavatyaSca yozitaH .</s>
+43673 new <s>kulInA rUpavatyaSca nATavatyaSca yozitaH .</s>
+;-----------------
+43712 old <s>kulInEH saha saMparkaM paRqitEH saha mitrAwaM .</s>
+43712 new <s>kulInEH saha saMparkaM paRqitEH saha mitratAm .</s>
+;-----------------
+43733 old <s>kule jAtASca kliSyante dOzkuleyaSAnugAH .</s>
+43733 new <s>kule jAtASca kliSyante dOzkuleyavaSAnugAH .</s>
+;-----------------
+43734 old <s>AqyErdaridrA 'vamatAH kiM nu duHKataraM tataH ..</s>
+43734 new <s>AQyErdaridrA 'vamatAH kiM nu duHKataraM tataH ..</s>
+;-----------------
+43753 old <s>atIva dAtAramupetatsalaM suduzprasADyaM pravadanti vidvizam ..</s>
+43753 new <s>atIva dAtAramupetavatsalaM suduzprasADyaM pravadanti vidvizam ..</s>
+;-----------------
+43826 old <s>bAle tava muKAmbeje kaTamindIvaradvayam ..</s>
+43826 new <s>bAle tava muKAmBoje kaTamindIvaradvayam ..</s>
+;-----------------
+43873 old <s>kUwaloKyirDanotsargErdUzayecCatrupakzajam .</s>
+43873 new <s>kUwaleKyErDanotsargErdUzayecCatrupakzajam .</s>
+;-----------------
+43874 old <s>praDAnapuruzaM yadvadvizRuguptena rAkzasah ..</s>
+43874 new <s>praDAnapuruzaM yadvadvizRuguptena rAkzasaH ..</s>
+;-----------------
+43891 old <s>kUwasAkzI mfzABAzI kftataGno dIrGarozaRaH .</s>
+43891 new <s>kUwasAkzI mfzABAzI kftaGno dIrGarozaRaH .</s>
+;-----------------
+43915 old <s>SItakAle BaveduzRakAle ca Sitalam ..</s>
+43915 new <s>SItakAle BaveduzRamuzRakAle ca SItalam ..</s>
+;-----------------
+43935 old <s>kUrmasamkocamAsTAya</s> s. Spruch <s>kOrmaM saMkocamAsTAya</s>. <pb n="1.358"/>
+43935 new <s>kUrmasaMkocamAsTAya</s> s. Spruch <s>kOrmaM saMkocamAsTAya</s>. <pb n="1.358"/>
+;-----------------
+43942 old <s>kfcCreRAmeDyamaDye niyamitataniBiH sTIyate garBavAse</s>
+43942 new <s>kfcCreRAmeDyamaDye niyamitatanuBiH sTIyate garBavAse</s>
+;-----------------
+43943 old <s>kAntAviSlezaduH Kavyatikaravizamo yOvane copaBogaH .</s>
+43943 new <s>kAntAviSlezaduHKavyatikaravizamo yOvane copaBogaH .</s>
+;-----------------
+43944 old <s>vAmAkziRAmavajYAvihasitavasatirbfdDaBAvo 'pyAsADuH</s>
+43944 new <s>vAmAkzIRAmavajYAvihasitavasatirvfdDaBAvo 'pyasADuH</s>
+;-----------------
+43987 old <s>kftaH puruzakAraSca so 'pi dEvena sDyiti .</s>
+43987 new <s>kftaH puruzakAraSca so 'pi dEvena siDyati .</s>
+;-----------------
+44063 old <s>hAtavyAH kAsya panTAnaH pratiBAntyanapAyinaH ..</s>
+44063 new <s>hAtavyAH kasya panTAnaH pratiBAntyanapAyinaH ..</s>
+;-----------------
+44103 old <s>jitondriyaM sTitaM sTityAM mitrAmatyAgi cezyate ..</s>
+44103 new <s>jitendriyaM sTitaM sTityAM mitramatyAgi cezyate ..</s>
+;-----------------
+44120 old <s>kftajYasvamisaMsargamuttamastrIparigraham .</s>
+44120 new <s>kftajYasvAmisaMsargamuttamastrIparigraham .</s>
+;-----------------
+44205 old <s>rAgAnuraktacittastu kim na kuryAdasAmpratam ..</s>
+44205 new <s>rAgAnuraktacittastu kiM na kuryAdasAMpratam ..</s>
+;-----------------
+44265 old <s>kftasya karanaM nAsti mftasya maraRaM taTA .</s>
+44265 new <s>kftasya karaRaM nAsti mftasya maraRaM taTA .</s>
+;-----------------
+44290 old <s>kftasya cEva kartuSca saKyaM samDIyate punaH .</s>
+44290 new <s>kftasya cEva kartuSca saKyaM saMDIyate punaH .</s>
+;-----------------
+44333 old <s>kftAntapASabadDAnAM dEvopahatacesAm .</s>
+44333 new <s>kftAntapASabadDAnAM dEvopahatacetasAm .</s>
+;-----------------
+44353 old <s>kftAntavihitaM karma yadBarvitarati nfpo nocitamaho kfziH klizwA vidyA guruvinayavfttyAtivizamA .</s>
+44353 new <s>kftAntavihitaM karma yadBavetpUrvanirmitam .</s>
+;-----------------
+44354 old <s>kusIdAddAridryaM parakaragatAtmArTakaraRAnna manye vARijyAtkimapi sulaBaM vartanamiha ..</s>
+44354 new <s>na SakyamanyaTA kartuM piRqitEstridaSErapi ..</s>
+;-----------------
+44376 old <s>kusIdAddAridryaM paragatAtmArTakaraRA-</s>
+44376 new <s>kusIdAddAridryaM parakaragatAtmArTakaraRA-</s>
+;-----------------
+44409 old <s>kftArTA hyakftArTAnAm</s> s. Spruch <s>sAkftASca kftArTASca</s>.
+44409 new <s>kftArTA hyakftArTAnAm</s> s. Spruch <s>satkftASca kftArTASca</s>.
+;-----------------
+44417 old <s>cakzuzmAnapi nAlokAdvinA vastu na pSyati ..</s>
+44417 new <s>cakzuzmAnapi nAlokAdvinA vastu na paSyati ..</s>
+;-----------------
+44437 old <s>kftI sarvatra laBate pratizWAM BAgyasamyutAm .</s>
+44437 new <s>kftI sarvatra laBate pratizWAM BAgyasaMyutAm .</s>
+;-----------------
+44507 old <s>kfto dUrAdeva smitamaDuramaByaDuramaByadgamaviDiH</s>
+44507 new <s>kfto dUrAdeva smitamaDuramaByudgamaviDiH</s>
+;-----------------
+44508 old <s>SirasyAjYA nyastA prativacanamuccEH praRAmitam .</s>
+44508 new <s>SirasyAjYA nyastA prativacanamuccEH praRamitam .</s>
+;-----------------
+44557 old <s>kftyaM na manyeta kzatriyo budDisaMyutaH .</s>
+44557 new <s>kftyaM devadvijAtInAmAtmanaSca gurostaTA .</s>
+;-----------------
+44558 old <s>prasupto droRa DfzwadyumnaH purA hataH ..</s>
+44558 new <s>ekaBAvena kartavyaM SezaM dvEDaM samASritam ..</s>
+;-----------------
+44618 old <s>krtyAni pUrvaM parisaMKyAya sarvARyAyavyayaM cArUpAM ca vfttim .</s>
+44618 new <s>kftyAni pUrvaM parisaMKyAya sarvARyAyavyayaM cAnurUpAM ca vfttim .</s>
+;-----------------
+44642 old <s>kftrimaM nASamByoti vEraM drAkkftrimErguREH .</s>
+44642 new <s>kftrimaM nASamaByeti vEraM drAkkftrimErguREH .</s>
+;-----------------
+44666 old <s>karotyaByaDikaM kftyaM tamAhUrdUtamuttamam ..</s>
+44666 new <s>karotyaByaDikaM kftyaM tamAhurdUtamuttamam ..</s>
+;-----------------
+44705 old <s>dIrDO budDimato bAhU karzato hi pramAdinam ..</s>
+44705 new <s>dIrGO budDimato bAhU karzato hi pramAdinam ..</s>
+;-----------------
+44753 old <s>kftvA balavatA saMGimAtmAnaM yo na rakzati .</s>
+44753 new <s>kftvA balavatA saMDimAtmAnaM yo na rakzati .</s>
+;-----------------
+44792 old <s>maTnanto viwjalpatErupahatAH kzuRIBujaste kila .</s>
+44792 new <s>maTnanto viwajalpitErupahatAH kzORIBujaste kila .</s>
+;-----------------
+44851 old <s>kfpARAnATavfdDAnAM yadASru parimArjati .</s>
+44851 new <s>kfpaRAnATavfdDAnAM yadASru parimArjati .</s>
+;-----------------
+44868 old <s>kfpaRena samo dAtA na kaScidBuvi vedyate .</s>
+44868 new <s>kfpaRena samo dAtA na kaScidBuvi vidyate .</s>
+;-----------------
+44869 old <s>aspfSanneva vittAni yaH paremByaH prayacCati ..</s>
+44869 new <s>aspfSanneva vittAni yaH pareByaH prayacCati ..</s>
+;-----------------
+44892 old <s>sevyate sa naro loke yasya syAdvittasamcayaH ..</s>
+44892 new <s>sevyate sa naro loke yasya syAdvittasaMcayaH ..</s>
+;-----------------
+44955 old <s>kfSaH kARaH KaYjaH SravaRarahitaH pacCavikalo</s>
+44955 new <s>kfSaH kARaH KaYjaH SravaRarahitaH pucCavikalo</s>
+;-----------------
+44956 old <s>vraRI pUyaklinnaH kfmilaSatErAvftatanuH .</s>
+44956 new <s>vraRI pUyaklinnaH kfmikulaSatErAvftatanuH .</s>
+;-----------------
+44957 old <s>kzuDAkzamo jIrRaH piWarakapAlArditagalaH</s>
+44957 new <s>kzuDAkzAmo jIrRaH piWarakakapAlArditagalaH</s>
+;-----------------
+45018 old <s>kfziM ca pa tnImanavekzamARaScAnyAni kAryARi kAryARi samAraBedyaH .</s>
+45018 new <s>kfziM ca patnImanavekzamARaScAnyAni kAryARi samAraBedyaH .</s>
+;-----------------
+45079 old <s>kecitkaTAM easasPItAmataH sarvaM viDIyate ..</s>
+45079 new <s>kecitkaTAM rasasPItAmataH sarvaM viDIyate ..</s>
+;-----------------
+45120 old <s>kciddyU{?} takaTAmfgavyamadirAnftyAdibadDAdarAH</s>
+45120 new <s>keciddyUtakaTAmfgavyamadirAnftyAdibadDAdarAH</s>
+;-----------------
+45121 old <s>kecidvAjigajokzayAnarasikA DanyAstu Darme rataH ..</s>
+45121 new <s>kecidvAjigajokzayAnarasikA DanyAstu Darme ratAH ..</s>
+;-----------------
+45159 old <s>kecidvastuni na vAci kecidDAci na vastuni .</s>
+45159 new <s>kecidvastuni na vAci kecidvAci na vastuni .</s>
+;-----------------
+45160 old <s>vAci vastuni cApyanye nAnye vAci ca vastuni ..</s>
+45160 new <s>vAci vastuni cApyanye nAnye vAci na vastuni ..</s>
+;-----------------
+45292 old <s>tatkzepIyaH kzayiRi necaye cittamADAya putrAH</s>
+45292 new <s>tatkzepIyaH kzayiRi nicaye cittamADAya putrAH</s>
+;-----------------
+45354 old <s>keliH pradahati majjAM SfNgaro 'sTIni cAwavaH kawavaH .</s>
+45354 new <s>keliH pradahati majjAM SfNgAro 'sTIni cAwavaH kawavaH .</s>
+;-----------------
+45376 old <s>kevalaM vyasanastyoktaM BezajaM nayapaRqitEH .</s>
+45376 new <s>kevalaM vyasanasyoktaM BezajaM nayapaRqitEH .</s>
+;-----------------
+45395 old <s>kevalaM vyasanasyoktaM BezajaM nayapaRqitEH .</s>
+45395 new <s>ke vA na santi Buvi tAmarasAvataMsA haMsAvalIvalayino jalasaMniveSAH .</s>
+;-----------------
+45396 old <s>tasyocCedasamAramBo vizAdaparivarjanam ..</s>
+45396 new <s>kiM cAtakaH Palamapekzya savajrapAtAM pOraMdarImupagato navavAriDArAm ..</s>
+;-----------------
+45442 old <s>nnAtanvalakodgamaM prakawayannAliNgya kampaM SanEH .</s>
+45442 new <s>nnAtanvanpulakodgamaM prakawayannAliNgya kampaM SanEH .</s>
+;-----------------
+45473 old <s>keSAH saMyaminaH Srutarepi paraM pAraM gate lecane</s>
+45473 new <s>keSAH saMyaminaH Srutarepi paraM pAraM gate locane</s>
+;-----------------
+45474 old <s>antarvakktramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .</s>
+45474 new <s>antarvaktramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .</s>
+;-----------------
+45476 old <s>miTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH ..</s>
+45476 new <s>mitTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH ..</s>
+;-----------------
+45509 old <s>vidyAmAne hi tAruRye yozitAM BagasaMvalam ..</s>
+45509 new <s>vidyamAne hi tAruRye yozitAM BagasaMvalam ..</s>
+;-----------------
+45526 old <s>kEvartakarkaSakaragrahaRacyuto 'pi jAle punarnipatitaH aParo varAkaH .</s>
+45526 new <s>kEvartakarkaSakaragrahaRacyuto 'pi jAle punarnipatitaH SaParo varAkaH .</s>
+;-----------------
+45527 old <s>jAlAtpunarvigalito gilito bakena vAme viDO vata kuto vyasanAnnivfttiH ..</s>
+45527 new <s>jAlAtpunarvigalito gilito bakena vAme viDO bata kuto vyasanAnnivfttiH ..</s>
+;-----------------
+45556 old <s>kokilAlAnAM svaro rUpaM nArIrUpaM pativratam .</s>
+45556 new <s>kokilAnAM svaro rUpaM nArIrUpaM pativratam .</s>
+;-----------------
+45626 old <s>kokilo 'haM BavAnkAkaH samAnaH kAlimAvayo .</s>
+45626 new <s>kokilo 'haM BavAnkAkaH samAnaH kAlimAvayoH .</s>
+;-----------------
+45644 old <s>ko gatvA yamasadanaM svayamanyakamAdiSatyajAtaBayaH .</s>
+45644 new <s>ko gatvA yamasadanaM svayamantakamAdiSatyajAtaBayaH .</s>
+;-----------------
+45712 old <s>ko vidSaH savidyAnAM kaH paraH priyavAdinAm ..</s>
+45712 new <s>ko videSaH savidyAnAM kaH paraH priyavAdinAm ..</s>
+;-----------------
+45785 old <s>ko Darmo BUtadayA kiM sOKyAmarogitA jagati jantoH .</s>
+45785 new <s>ko Darmo BUtadayA kiM sOKyamarogitA jagati jantoH .</s>
+;-----------------
+45786 old <s>kaH snehaH sadBAvah kiM pARqityaM paricCedaH ..</s>
+45786 new <s>kaH snehaH sadBAvaH kiM pARqityaM paricCedaH ..</s>
+;-----------------
+45853 old <s>kiM sADyaM BUtahitaM kiM preyaH praRinAmasavaH ..</s>
+45853 new <s>kiM sADyaM BUtahitaM kiM preyaH prARinAmasavaH ..</s>
+;-----------------
+45894 old <s>kaviprajApatIstyakktvA ramyanirmARaSAlinaH ..</s>
+45894 new <s>kaviprajApatIMstyaktvA ramyanirmARaSAlinaH ..</s>
+;-----------------
+45937 old <s>BftyAnavfttyA mfgayAkaTaBI rAjYAM SiSUnAmiva yAti kAlaH ..</s>
+45937 new <s>BftyAnuvfttyA mfgayAkaTABI rAjYAM SiSUnAmiva yAti kAlaH ..</s>
+;-----------------
+45976 old <s>ASlezarpaya madarpitapUrvamuccEruccEH samarpaya madarpitacumbanaM ca ..</s>
+45976 new <s>ASlezamarpaya madarpitapUrvamuccEruccEH samarpaya madarpitacumbanaM ca ..</s>
+;-----------------
+46001 old <s>kopAtkomalalolabAhulatikApASena badDvAdfQaM</s>
+46001 new <s>kopAtkomalalolabAhulatikApASena badDvA dfQaM</s>
+;-----------------
+46002 old <s>nItvA kliniketanaM dayitayA sAyaM saKInAM puraH .</s>
+46002 new <s>nItvA keliniketanaM dayitayA sAyaM saKInAM puraH .</s>
+;-----------------
+46003 old <s>BUyo 'pyevamiti sKalanmfdugirA saMsUcya duScozwitaM</s>
+46003 new <s>BUyo 'pyevamiti sKalanmfdugirA saMsUcya duScezwitaM</s>
+;-----------------
+46004 old <s>Danyo hanyata eza nihnutiparaH preyAnruvudatyA hasan ..</s>
+46004 new <s>Danyo hanyata eza nihnutiparaH preyAnrudatyA hasan ..</s>
+;-----------------
+46029 old <s>koopo yatra BrukuwiracanA nigraho yatra mOnaM</s>
+46029 new <s>kopo yatra BrukuwiracanA nigraho yatra mOnaM</s>
+;-----------------
+46032 old <s>tvaM pAdante luWasi na ca me manyumokzaH KalAyAH ..</s>
+46032 new <s>tvaM pAdAnte luWasi na ca me manyumokzaH KalAyAH ..</s>
+;-----------------
+46079 old <s>ko 'rTaH putreRa jatena yo na vidvAnna DArmikaH .</s>
+46079 new <s>ko 'rTaH putreRa jAtena yo na vidvAnna DArmikaH .</s>
+;-----------------
+46080 old <s>tayA gavA kiM kriyate yA na doDrI na garBiRI ..</s>
+46080 new <s>tayA gavA kiM kriyate yA na dogDrI na garBiRI ..</s>
+;-----------------
+46146 old <s>kaH SUro vijitondriyaH priyatamA kAnuvratA kiM DanaM</s>
+46146 new <s>kaH SUro vijitendriyaH priyatamA kAnuvratA kiM DanaM</s>
+;-----------------
+46279 old <s>vigrahAsakta cintAnAM na ratiH kvApi jAyate ..</s>
+46279 new <s>vigrahAsaktacittAnAM na ratiH kvApi jAyate ..</s>
+;-----------------
+46297 old <s>koSadvadvamiyaM daDAti nalinI kAdambacaYcU kzataM</s>
+46297 new <s>koSadvaMdvamiyaM daDAti nalinI kAdambacaYcUkzataM</s>
+;-----------------
+46298 old <s>Datte cUtalatA navaM kisalayaM yuMskokilAsvAditam .</s>
+46298 new <s>Datte cUtalatA navaM kisalayaM puMskokilAsvAditam .</s>
+;-----------------
+46299 old <s>styAkarRya miTaH saKIjanavacaH sA dIrDikAyAstawe</s>
+46299 new <s>ityAkarRya miTaH saKIjanavacaH sA dIrGikAyAstawe</s>
+;-----------------
+46323 old <s>koSamUlo hi rajeti pravAdaH sArvalOkikaH .</s>
+46323 new <s>koSamUlo hi rAjeti pravAdaH sArvalOkikaH .</s>
+;-----------------
+46341 old <s>koSaMSenArDakoSena sarvakoSenaH .</s>
+46341 new <s>koSAMSenArDakoSena sarvakoSena vA punaH .</s>
+;-----------------
+46391 old <s>kAWinyaM kucayugle taralatvaM nayanayorvasati ..</s>
+46391 new <s>kAWinyaM kucayugale taralatvaM nayanayorvasati ..</s>
+;-----------------
+46432 old <s>suvarRasya malaM rUpyasyApi malaM trapu ..</s>
+46432 new <s>suvarRasya malaM rUpyaM rUpyasyApi malaM trapu ..</s>
+;-----------------
+46453 old <s>kOpInaM SataKaRqarjarataraM kanTA punastAdrSI</s>
+46453 new <s>kOpInaM SataKaRqajarjarataraM kanTA punastAdfSI</s>
+;-----------------
+46586 old <s>kramagato hitamatiH (hitamAnI)</s> s. Spruch <s>mDavI vAkpawuH prAjYaH</s>.
+46586 new <s>kramAgato hitamatiH (hitamAnI)</s> s. Spruch <s>meDAvI vAkpawuH prAjYaH</s>.
+;-----------------
+46632 old <s>taM tAsvavasTAsvanusaMdaDIta jYAtva balaM taM parivarjayecca ..</s>
+46632 new <s>taM tAsvavasTAsvanusaMdaDIta jYAtvA balaM taM parivarjayecca ..</s>
+;-----------------
+46670 old <s>kriyAsu yuktErnfpa cAracakzuzo na va YcanIyAH praBavo 'nujIviBiH .</s>
+46670 new <s>kriyAsu yuktErnfpa cAracakzuzo na vaYcanIyAH praBavo 'nujIviBiH .</s>
+;-----------------
+46739 old <s>kradDaH pApaM naraH kuryAtkrudDo hanyAdgurUnapi .</s>
+46739 new <s>krudDaH pApaM naraH kuryAtkrudDo hanyAdgurUnapi .</s>
+;-----------------
+46761 old <s>krudDo 'pyakrudDaeUpaH syAsmitapUrvABiBAzitA .</s>
+46761 new <s>krudDo 'pyakrudDarUpaH syAtsmitapUrvABiBAzitA .</s>
+;-----------------
+46782 old <s>nAkAryaM na ca maryAdAM naraH kruddo 'nupaSyati ..</s>
+46782 new <s>nAkAryaM na ca maryAdAM naraH krudDo 'nupaSyati ..</s>
+;-----------------
+46850 old <s>kroDagnerinDanaM dehaH kAmAgnerinDanaM Danam .</s>
+46850 new <s>kroDAgnerinDanaM dehaH kAmAgnerinDanaM Danam .</s>
+;-----------------
+46933 old <s>kroDo hantA manazyARAM kroDo BAvayitA punaH .</s>
+46933 new <s>kroDo hantA manuzyARAM kroDo BAvayitA punaH .</s>
+;-----------------
+46934 old <s>iti vidDi mahAprajYe kroDamUlO BavABavO ..</s>
+46934 new <s>iti vidDi mahAprAjYe kroDamUlO BavABavO ..</s>
+;-----------------
+46994 old <s>teneha SlADyatAmeti lokeByaSca na hIyate ..</s>
+46994 new <s>teneha SlAGyatAmeti lokeByaSca na hIyate ..</s>
+;-----------------
+47076 old <s>kle SEstIvrEryujyamAnaH sapatnEH kzamAM kurvankAlamupAsate yaH .</s>
+47076 new <s>kleSEstIvrEryujyamAnaH sapatnEH kzamAM kurvankAlamupAsate yaH .</s>
+;-----------------
+47077 old <s>saMvarDayanstokamivAgnimAtmAnaM sa vE BuNkte pfTivImekaM eva ..</s>
+47077 new <s>saMvarDayanstokamivAgnimAtmAnaM sa vE BuNkte pfTivImeka eva ..</s>
+;-----------------
+47142 old <s>DanEryAYcAlabDErnanu pariBavo 'ByarTanaPalaM</s>
+47142 new <s>DanEryAcYAlabDErnanu pariBavo 'ByarTanaPalaM</s>
+;-----------------
+47173 old <s>kvacidBItitrastEH kvacidapi ca lIlAvilAsitEH .</s>
+47173 new <s>kvacidBItitrastEH kvacidapi ca lIlAvilasitEH .</s>
+;-----------------
+47210 old <s>kvavcidBUmISayyaH kvacidapi ca paryaNkaSAyanaH</s>
+47210 new <s>kvacidBUmISayyaH kvacidapi ca paryaNkaSayanaH</s>
+;-----------------
+47213 old <s>manasvI kAryArTI gaRayati na duH KaM na ca suKam ..</s>
+47213 new <s>manasvI kAryArTI gaRayati na duHKaM na ca suKam ..</s>
+;-----------------
+47275 old <s>kva cidvidvadgrozWI kvacidapi surAmantakalahaH .</s>
+47275 new <s>kvacidvidvadgozWI kvacidapi surAmattakalahaH .</s>
+;-----------------
+47334 old <s>kva prisTitAsi karaBoru Gane niSITa prARADiko vasati yatra janaH priyo me .</s>
+47334 new <s>kva prasTitAsi karaBoru Gane niSITe prARADiko vasati yatra janaH priyo me .</s>
+;-----------------
+47335 old <s>ekAkinI vada kaTaM na biBrzi bAle nanvasti puNKitaSaro madanaH sahAyaH ..</s>
+47335 new <s>ekAkinI vada kaTaM na biBezi bAle nanvasti puNKitaSaro madanaH sahAyaH ..</s>
+;-----------------
+47362 old <s>kim te nAsti saKe gfhe priyatamA sarvaM gadaM hanti yA .</s>
+47362 new <s>kiM te nAsti saKe gfhe priyatamA sarvaM gadaM hanti yA .</s>
+;-----------------
+47363 old <s>vAtaM te kucakumBamardanavaSAtpittaM ca vakktrAmftA-</s>
+47363 new <s>vAtaM te kucakumBamardanavaSAtpittaM ca vaktrAmftA-</s>
+;-----------------
+47404 old <s>kva yAmaH kaMSca pfcCAmo divi devA vayaM Buvi .</s>
+47404 new <s>kva yAmaH kAMSca pfcCAmo divi devA vayaM Buvi .</s>
+;-----------------
+47405 old <s>suBAzitarAsaH svAduH kiM vA svAdIyasI suDA ..</s>
+47405 new <s>suBAzitarasaH svAduH kiM vA svAdIyasI suDA ..</s>
+;-----------------
+47425 old <s>rAgiRaScintayavaM nIrAgaH suKameDate ..</s>
+47425 new <s>rAgiRaScintayantyevaM nIrAgaH suKameDate ..</s>
+;-----------------
+47498 old <s>kvAliNganaM BujanipIqitaBAhumUlaBugnonnatastanamanoharamAyatAkzyAH .</s>
+47498 new <s>kvAliNganaM BujanipIqitabAhumUlaBugnonnatastanamanoharamAyatAkzyAH .</s>
+;-----------------
+47541 old <s>kve ndormaRqalamambuDiH kva ca raviH padmAkaraH kva sTitaH</s>
+47541 new <s>kvendormaRqalamambuDiH kva ca raviH padmAkaraH kva sTitaH</s>
+;-----------------
+47571 old <s>kvEtadvakktrAravindaM kva tadaDaramaDu kvAyatAste kawAkzAH</s>
+47571 new <s>kvEtadvaktrAravindaM kva tadaDaramaDu kvAyatAste kawAkzAH</s>
+;-----------------
+47629 old <s>yamasya karuRA nAsti Darmasya tvatitA gatiH ..</s>
+47629 new <s>yamasya karuRA nAsti Darmasya tvaritA gatiH ..</s>
+;-----------------
+47716 old <s>kzaRikAH sarvasamskArA budDenoktaM mfzA vacaH .</s>
+47716 new <s>kzaRikAH sarvasaMskArA budDenoktaM mfzA vacaH .</s>
+;-----------------
+47717 old <s>cintayanto yataH nityamakzaRikA vayam ..</s>
+47717 new <s>cintayanto yataH kAntAM nityamakzaRikA vayam ..</s>
+;-----------------
+47768 old <s>pitaputrO ca vijYeyO tayorhi brAhmaRo guruH ..</s>
+47768 new <s>pitAputrO ca vijYeyO tayorhi brAhmaRo guruH ..</s>
+;-----------------
+47785 old <s>kzatriyARAM balaM yudDaM vyapAraSca ca balaM viSAm .</s>
+47785 new <s>kzatriyARAM balaM yudDaM vyApAraSca ca balaM viSAm .</s>
+;-----------------
+47812 old <s>pratApyorvI kftsnAM tarugahanamucCozya sakalam .</s>
+47812 new <s>pratApyorvIM kftsnAM tarugahanamucCozya sakalam .</s>
+;-----------------
+47841 old <s>kzamA vaSIkftirloke kzamayA kiM na sADyete ..</s>
+47841 new <s>kzamA vaSIkftirloke kzamayA kiM na sADyate ..</s>
+;-----------------
+47958 old <s>arTAnarTO samO yasya nityaM kzamA hitA ..</s>
+47958 new <s>arTAnarTO samO yasya tasya nityaM kzamA hitA ..</s>
+;-----------------
+47975 old <s>kzantaM na kzamayA gfhocitasuKaM tyaktaM na saMtozataH</s>
+47975 new <s>kzAntaM na kzamayA gfhocitasuKaM tyaktaM na saMtozataH</s>
+;-----------------
+48015 old <s>kzantitulyaM tapo nAsti</s> s. Spruch 2011.
+48015 new <s>kzAntitulyaM tapo nAsti</s> s. Spruch 2011.
+;-----------------
+48066 old <s>kziRetu kAmaM SItAmSuH kiM vasanto dunoti mAm .</s>
+48066 new <s>kziRotu kAmaM SItAMSuH kiM vasanto dunoti mAm .</s>
+;-----------------
+48067 old <s>malinAcaritaM karma surarBarnanvasAMpratam ..</s>
+48067 new <s>malinAcaritaM karma suraBernanvasAMpratam ..</s>
+;-----------------
+48085 old <s>kzipto hastAvalagnaH prasaBamaBiahto 'pyAdadanoM 'SukAntaM</s>
+48085 new <s>kzipto hastAvalagnaH prasaBamaBihato 'pyAdadanoM 'SukAntaM</s>
+;-----------------
+48086 old <s>gfhRankeSezvapastaScaraRanipatito nekzitaH saMBrameRa .</s>
+48086 new <s>gfhRankeSezvapAstaScaraRanipatito nekzitaH saMBrameRa .</s>
+;-----------------
+48121 old <s>nAsaMpfzwo hyupayuzkte parArTe tatprajYAnaM praTamaM paRqitasya ..</s>
+48121 new <s>nAsaMpfzwo hyupayuNkte parArTe tatprajYAnaM praTamaM paRqitasya ..</s>
+;-----------------
+48144 old <s>SramaRAyata evAsO vESravaRopamaH ..</s>
+48144 new <s>SramaRAyata evAsO DanI vESravaRopamaH ..</s>
+;-----------------
+48169 old <s>kzIRaH kzIRo 'pi SaSI BUyo BUyo BUyo 'BivarDate satyam .</s>
+48169 new <s>kzIRaH kzIRo 'pi SaSI BUyo BUyo 'BivarDate satyam .</s>
+;-----------------
+48170 old <s>virama prasIda sundari pOvanamanivarti yAtaM tu ..</s>
+48170 new <s>virama prasIda sundari yOvanamanivarti yAtaM tu ..</s>
+;-----------------
+48247 old <s>kzIranIsamAM mEtrIM praSaMsanti vicakzaRAH .</s>
+48247 new <s>kzIranIrasamAM mEtrIM praSaMsanti vicakzaRAH .</s>
+;-----------------
+48248 old <s>nIraM kzIrApate tasminnagne rakzati tatpayaH ..</s>
+48248 new <s>nIraM kzIrAyate tasminnagne rakzati tatpayaH ..</s>
+;-----------------
+48271 old <s>kzIriRyaH santu gavo Bavatu vasumatI sarvasaMpannasasyA</s>
+48271 new <s>kzIriRyaH santu gAvo Bavatu vasumatI sarvasaMpannasasyA</s>
+;-----------------
+48272 old <s>parjanyaH kAlavaezI sakalajanamanonandino vAntu vAtAH .</s>
+48272 new <s>parjanyaH kAlavarzI sakalajanamanonandino vAntu vAtAH .</s>
+;-----------------
+48340 old <s>kzutkzAmo 'pi jarAkfSo 'pi SaTilaprayo 'pi kazwAM daSA-</s>
+48340 new <s>kzutkzAmo 'pi jarAkfSo 'pi SiTilaprAyo 'pi kazwAM daSA-</s>
+;-----------------
+48341 old <s>mapanno 'pi vipannadIDitirapi prARezu gacCatsvapi .</s>
+48341 new <s>mApanno 'pi vipannadIDitirapi prARezu gacCatsvapi .</s>
+;-----------------
+48449 old <s>kzudrakzeReva jAlena JazAvapihitAvyrU .</s>
+48449 new <s>kzudrAkzeReva jAlena JazAvapihitAvurU .</s>
+;-----------------
+48450 old <s>kAmakroDOSatIrasTO prajYAnaM tO vilumpataH ..</s>
+48450 new <s>kAmakroDO SarIrasTO prajYAnaM tO vilumpataH ..</s>
+;-----------------
+48473 old <s>svArTo yasya parArTa eva sa pumAnekaH satAmgraRIH .</s>
+48473 new <s>svArTo yasya parArTa eva sa pumAnekaH satAmagraRIH .</s>
+;-----------------
+48508 old <s>kzudyADiSca cikitsyatAM pratidinaM BikzOzaDaM BujyatAM</s>
+48508 new <s>kzudvyADiSca cikitsyatAM pratidinaM BikzOzaDaM BujyatAM</s>
+;-----------------
+48509 old <s>svAdvanne na tu yatyatAm viDivaSAtpraptena saMtuzyatAm .</s>
+48509 new <s>svAdvanne na tu yatyatAM viDivaSAtprAptena saMtuzyatAm .</s>
+;-----------------
+48567 old <s>f1te varzAnna kOnteya jAtu nirvateyetPalam ..</s>
+48567 new <s>fte varzAnna kOnteya jAtu nirvartayetPalam ..</s>
+;-----------------
+48586 old <s>pratyASAGanasUtrabadDamanasAM .</s>
+48586 new <s>pratyASAGanasUtrabadDamanasAM labDADikaM DyAyatAm .</s>
+;-----------------
+48588 old <s>ttadBo prARaBftAM kutaH SamakaTA brahmARqalakzErapi ..</s>
+48588 new <s>ttadBoH prARaBftAM kutaH SamakaTA brahmARqalakzErapi ..</s>
+;-----------------
+48632 old <s>kzetre sukfzwe hyupite ca bIje deve ca varztyftukAlayuktam .</s>
+48632 new <s>kzetre sukfzwe hyupite ca bIje deve ca varzatyftukAlayuktam .</s>
+;-----------------
+48633 old <s>na syAtohalaM tasya kutaH prasidDiranyatra dEvAditi cintayAmi ..</s>
+48633 new <s>na syAtPalaM tasya kutaH prasidDiranyatra dEvAditi cintayAmi ..</s>
+;-----------------
+48672 old <s>KagA vItaPalaM vfkzam</s> s. nach Spruch <s>niHsvaM tyajanti gaRikAH</s> .
+48672 new <s>KagA vItaPalaM vfkzam</s> s. Spruch <s>niHsvaM tyajanti gaRikAH</s>.
+;-----------------
+48679 old <s>KaRqaH punarapi pUrRaH punarapi KaRqaH punaH SaSI pUrRAH .</s>
+48679 new <s>KaRqaH punarapi pUrRaH punarapi KaRqaH punaH SaSI pUrRaH .</s>
+;-----------------
+48785 old <s>Atmano vunvamAtrARi paSyannapi na paSyati ..</s>
+48785 new <s>Atmano bilvamAtrARi paSyannapi na paSyati ..</s>
+;-----------------
+48812 old <s>KalAnAM kaRwAkAnAM ca dviviDEva pratikriyA .</s>
+48812 new <s>KalAnAM kaRwakAnAM ca dviviDEva pratikriyA .</s>
+;-----------------
+48813 old <s>upAnanmuKaBaNgo vA dUrato vA vivasrjanam ..</s>
+48813 new <s>upAnanmuKaBaNgo vA dUrato vA vivarjanam ..</s>
+;-----------------
+48842 old <s>rnigfhyAntarzpaM hasitamapi SUnyena masasA .</s>
+48842 new <s>rnigfhyAntarbAzpaM hasitamapi SUnyena manasA .</s>
+;-----------------
+48916 old <s>eSyAputraH vasizWaH arujapadayamaH sarvaBakzyo hutASaH .</s>
+48916 new <s>veSyAputraH vasizWaH sarujapadayamaH sarvaBakzyo hutASaH .</s>
+;-----------------
+49051 old <s>brahmaDyAnaByasanaviDinA yoganidrAM gatasya .</s>
+49051 new <s>brahmaDyAnAByasanaviDinA yoganidrAM gatasya .</s>
+;-----------------
+49082 old <s>gaNgahIno hato deSo vidyAhInaM hataM kulam .</s>
+49082 new <s>gaNgAhIno hato deSo vidyAhInaM hataM kulam .</s>
+;-----------------
+49083 old <s>aprasUtA hatA nArI hato yajYAstvadakziRaH ..</s>
+49083 new <s>aprasUtA hatA nArI hato yajYastvadakziRaH ..</s>
+;-----------------
+49104 old <s>gaNgermiBiraTo digDo puruzaM pavano yadA .</s>
+49104 new <s>gaNgormiBiraTo digDo puruzaM pavano yadA .</s>
+;-----------------
+49123 old <s>mamIpi janma BUyAdyatra gato BavAn ..</s>
+49123 new <s>mamApi janma tatrEva BUyAdyatra gato BavAn ..</s>
+;-----------------
+49143 old <s>gacCa SUkara (sUkara) BadraM te</s> s. Spruch <s>daSavyAGrA jitAH pUrvam</s>.
+49143 new <s>gacCa SUkara (sUkara) BadraM te</s> s. Spruch <s>daSa vyAGrA jitAH pUrvam</s>.
+;-----------------
+49170 old <s>gajaturagasahasraM goDanaM BUmidAnaM kanakarajatapAtraM medinI sAgarantA .</s>
+49170 new <s>gajaturagasahasraM goDanaM BUmidAnaM kanakarajatapAtraM medinI sAgarAntA .</s>
+;-----------------
+49226 old <s>gaRqasTalasTamadavArizu badDarAgamattaBramadDramarapAdatalAhato 'pi .</s>
+49226 new <s>gaRqasTalasTamadavArizu badDarAgamattaBramadBramarapAdatalAhato 'pi .</s>
+;-----------------
+49303 old <s>yAna na vetti sadA puMsAM caturARAM ratikramam ..</s>
+49303 new <s>yA na vetti sadA puMsAM caturARAM ratikramam ..</s>
+;-----------------
+49368 old <s>gataSoko na kartavya</s> s. Spruch 2073.
+49368 new <s>gataSoko na kartavyaH</s> s. Spruch 2073.
+;-----------------
+49375 old <s>gatasAre hi saMsAre suKaBrAntiH SarIRAm .</s>
+49375 new <s>gatasAre hi saMsAre suKaBrAntiH SarIriRAm .</s>
+;-----------------
+49477 old <s>gate premAbanDe praRayabahumAne viglite</s>
+49477 new <s>gate premAbanDe praRayabahumAne vigalite</s>
+;-----------------
+49541 old <s>pagke nimagne kariRi Beko Bavati mUrDagaH ..</s>
+49541 new <s>paNke nimagne kariRi Beko Bavati mUrDagaH ..</s>
+;-----------------
+49559 old <s>gato 'smi tIraM jalaDeH pipAsAyA sa cApi SuzkaSculukIkfto mayA .</s>
+49559 new <s>gato 'smi tIraM jalaDeH pipAsayA sa cApi SuzkaSculukIkfto mayA .</s>
+;-----------------
+49601 old <s>hantavyA rAjasaBA drazwavyA rAjapUjitAH puruzAH .</s>
+49601 new <s>gantavyA rAjasaBA drazwavyA rAjapUjitAH puruzAH .</s>
+;-----------------
+49626 old <s>gantA cedgacCa turRaM te karRaM te karRO yAnti purA ravAH .</s>
+49626 new <s>gantA cedgacCa tUrRaM te karRO yAnti purA ravAH .</s>
+;-----------------
+49665 old <s>hanDalubDo maDukaro dAnAsavapipAsAya .</s>
+49665 new <s>ganDalubDo maDukaro dAnAsavapipAsayA .</s>
+;-----------------
+49686 old <s>hanDaH suvarRe PalamikzudaRqe nAkAri puzpaM Kalu candanasya .</s>
+49686 new <s>ganDaH suvarRe PalamikzudaRqe nAkAri puzpaM Kalu candanasya .</s>
+;-----------------
+49687 old <s>vidvAnDanAQyo nfpatiScirAyurDAtuH purA ko 'pi na budDodo 'BUt ..</s>
+49687 new <s>vidvAnDanAQyo nfpatiScirAyurDAtuH purA ko 'pi na budDido 'BUt ..</s>
+;-----------------
+49712 old <s>ganDAQyoM navamallikAM maDukarastyakttvA gato yUTikAM</s>
+49712 new <s>ganDAQyAM navamallikAM maDukarastyaktvA gato yUTikAM</s>
+;-----------------
+49783 old <s>cArEH paSyanti rAjAnaScakzurByAmitare janaH ..</s>
+49783 new <s>cArEH paSyanti rAjAnaScakzurByAmitare janAH ..</s>
+;-----------------
+49810 old <s>ganDirmAlyEstaTA DUpErviviDErBUzaRErapi .</s>
+49810 new <s>ganDErmAlyEstaTA DUpErviviDErBUzaRErapi .</s>
+;-----------------
+49811 old <s>vAsoBiH SayanEScEva viDava kiM karizyati ..</s>
+49811 new <s>vAsoBiH SayanEScEva viDavA kiM karizyati ..</s>
+;-----------------
+49873 old <s>garo 'pi gavi dugDaM syAddugDaM syAddrugDamapyurage vizam .</s>
+49873 new <s>garo 'pi gavi dugDaM syAddugDamapyurage vizam .</s>
+;-----------------
+49939 old <s>dEvAdiha yadi dakziRavAtaH kva tvaM kvAhaM kva ca jalapataH ..</s>
+49939 new <s>dEvAdiha yadi dakziRavAtaH kva tvaM kvAhaM kva ca jalapAtaH ..</s>
+;-----------------
+49958 old <s>garBaktiSaH striyo manye sAPalyaM Bajate tadA .</s>
+49958 new <s>garBakleSaH striyo manye sAPalyaM Bajate tadA .</s>
+;-----------------
+50033 old <s>SrutvA kAvyamalakzaRaM parakftaM samtizWate mUkava-</s>
+50033 new <s>SrutvA kAvyamalakzaRaM parakftaM saMtizWate mUkava-</s>
+;-----------------
+50066 old <s>santIdfSAni diSi sarassu nanu nIlanalinAni ..</s>
+50066 new <s>santIdfSAni diSi diSi sarassu nanu nIlanalinAni ..</s>
+;-----------------
+50125 old <s>gavAmarTe brAhmaRarTe</s> s. Spruch 2100.
+50125 new <s>gavAmarTe brAhmaRArTe</s> s. Spruch 2100.
+;-----------------
+50133 old <s>sUryasya maRqalaM BiccA sa yAti paramAM gatim ..</s>
+50133 new <s>sUryasya maRqalaM BittvA sa yAti paramAM gatim ..</s>
+;-----------------
+50174 old <s>gavArTa brAhmaRArTe ca svAnmyarTe strIkfte 'Ta vA .</s>
+50174 new <s>gavArTe brAhmaRArTe ca svAmyarTe strIkfte 'Ta vA .</s>
+;-----------------
+50175 old <s>sTAnArTe yastyajetprARAMstasya lokAH sanAtanaH ..</s>
+50175 new <s>sTAnArTe yastyajetprARAMstasya lokAH sanAtanAH ..</s>
+;-----------------
+50213 old <s>gAQAliNganavAmanIkftakutakucaprodBinnaromodgamA</s>
+50213 new <s>gAQAliNganavAmanIkftakucaprodBinnaromodgamA</s>
+;-----------------
+50250 old <s>dfzwirnaSyati varDate baDiratA vakktraM ca lAlAyate .</s>
+50250 new <s>dfzwirnaSyati varDate baDiratA vaktraM ca lAlAyate .</s>
+;-----------------
+50252 old <s>hA kazwaM puruzasya jIrRavayasaH putro 'pyAmitrAyate ..</s>
+50252 new <s>hA kazwaM puruzasya jIrRavayasaH putro 'pyamitrAyate ..</s>
+;-----------------
+50334 old <s>gAvaH yaSyanti ganDena</s> und <s>gAvo ganDena paSyanti</s> s. Spruch 2084. <pb n="1.413"/>
+50334 new <s>gAvaH paSyanti ganDena</s> und <s>gAvo ganDena paSyanti</s> s. Spruch 2084. <pb n="1.413"/>
+;-----------------
+50359 old <s>giriprzWaM samAruhya prAsAdaM vA rahogataH .</s>
+50359 new <s>giripfzWaM samAruhya prAsAdaM vA rahogataH .</s>
+;-----------------
+50384 old <s>girOndraSiKarAkaro lIlayonmUlitadrumaH .</s>
+50384 new <s>girIndraSiKarAkAro lIlayonmUlitadrumaH .</s>
+;-----------------
+50502 old <s>priyaMvado 'pi dakzo 'pi lekaM prIRenna nirDanaH ..</s>
+50502 new <s>priyaMvado 'pi dakzo 'pi lokaM prIRenna nirDanaH ..</s>
+;-----------------
+50522 old <s>guRadAdidryanirnidrEHkzudrEH kOSalaSAlinAm .</s>
+50522 new <s>guRadAridryanirnidrEH kzudrEH kOSalaSAlinAm .</s>
+;-----------------
+50597 old <s>guRadozAvavApyete puMsAM SaMSIlanAdbuDEH .</s>
+50597 new <s>guRadozAvavApyete puMsAM saMSIlanAdbuDEH .</s>
+;-----------------
+50621 old <s>guRadozO na niScitya</s> s. unter Spruch <s>triviDAH zuruzA leki</s>.
+50621 new <s>guRadozO na niScitya</s> s. unter Spruch <s>triviDAH puruzA loke</s>.
+;-----------------
+50653 old <s>guRapravAlaM vinayapraSAKaM viSramBamUlaM mahanIyayuzpam .</s>
+50653 new <s>guRapravAlaM vinayapraSAKaM viSramBamUlaM mahanIyapuzpam .</s>
+;-----------------
+50760 old <s>atiraBasakftAnAM karmaRAmA vipatterBavati hfdayadAhI Salyatylyo vipAkaH ..</s>
+50760 new <s>atiraBasakftAnAM karmaRAmA vipatterBavati hfdayadAhI Salyatulyo vipAkaH ..</s>
+;-----------------
+50795 old <s>guRavantaH kliSyante Bavanti nirguRAH suKinaH .</s>
+50795 new <s>guRavantaH kliSyante prAyeRa Bavanti nirguRAH suKinaH .</s>
+;-----------------
+50814 old <s>guRavantaM niyuYjIta guRahInaM vivarjaryat .</s>
+50814 new <s>guRavantaM niyuYjIta guRahInaM vivarjayet .</s>
+;-----------------
+50838 old <s>nirguRaH sarve dozASca kevalam ..</s>
+50838 new <s>nirguRaH svajanaH SreyAnyaH paraH para eva saH ..</s>
+;-----------------
+50876 old <s>guRaSataSAlini piSunaH kevaladozaR niBAlayati .</s>
+50876 new <s>guRaSataSAlini piSunaH kevaladozaM niBAlayati .</s>
+;-----------------
+50877 old <s>kolaH kamalataqAge kardamamaAtraM gavezayati ..</s>
+50877 new <s>kolaH kamalataqAge kardamamAtraM gavezayati ..</s>
+;-----------------
+50895 old <s>gunaH sajjanasasaMrgAt</s> s. Spruch 2120.
+50895 new <s>guRaH sajjanasaMsargAt</s> s. Spruch 2120.
+;-----------------
+50903 old <s>ketakIgnDamAGrAya svayaM gacCanti zawpadAH ..</s>
+50903 new <s>ketakIganDamAGrAya svayaM gacCanti zawpadAH ..</s>
+;-----------------
+50979 old <s>guRA daSa snASaSIlaM Bajante balaM rUpaM svararRapraSudDiH .</s>
+50979 new <s>guRA daSa snAnaSIlaM Bajante balaM rUpaM svaravarRapraSudDiH .</s>
+;-----------------
+51040 old <s>amAtyavuaYjanA rAjYAM dUzyAste SatrusaMjYitAH ..</s>
+51040 new <s>amAtyavyaYjanA rAjYAM dUzyAste SatrusaMjYitAH ..</s>
+;-----------------
+51079 old <s>guRA yatra tu pujyante DAnyaM yatra susaMcitam .</s>
+51079 new <s>guRA yatra tu pUjyante DAnyaM yatra susaMcitam .</s>
+;-----------------
+51121 old <s>yaTA jImUto 'yaM lavaRalaDervAri maDuraM</s>
+51121 new <s>yaTA jImUto 'yaM lavaRajalaDervAri maDuraM</s>
+;-----------------
+51148 old <s>guRalayo 'pyasanmantrI nfpatirnADigamyate .</s>
+51148 new <s>guRAlayo 'pyasanmantrI nfpatirnADigamyate .</s>
+;-----------------
+51223 old <s>guRaH savatra pUjyante na mahanyo 'pi saMpadaH .</s>
+51223 new <s>guRAH sarvatra pUjyante na mahatyo 'pi saMpadaH .</s>
+;-----------------
+51224 old <s>pUrRenduH kiM taTA vandyo nizkalagko yaTA kfSaH ..</s>
+51224 new <s>pUrRenduH kiM taTA vandyo nizkalaNko yaTA kfSaH ..</s>
+;-----------------
+51307 old <s>rAjallakzmIH kuraNgIva dUraM dUraM palAyate ..</s>
+51307 new <s>rAja~llakzmIH kuraNgIva dUraM dUraM palAyate ..</s>
+;-----------------
+51333 old <s>guRinaH namIpavartI pUjyo lokasya guRavihIno 'pi .</s>
+51333 new <s>guRinaH samIpavartI pUjyo lokasya guRavihIno 'pi .</s>
+;-----------------
+51353 old <s>guRinAM nigurRAnAM ca dfSyate mahadantaram .</s>
+51353 new <s>guRinAM nirguRAnAM ca dfSyate mahadantaram .</s>
+;-----------------
+51380 old <s>guRinAmaguRAnAM</s> s. den vorangehenden Spruch.
+51380 new <s>guRinAmaguRAnAM ca</s> s. den vorangehenden Spruch.
+;-----------------
+51387 old <s>guRinAmapi nijarUpapratipattiH parata va saMBavati .</s>
+51387 new <s>guRinAmapi nijarUpapratipattiH parata eva saMBavati .</s>
+;-----------------
+51406 old <s>alirati vanAtkamalaM na {?} rdurastve kavAso 'pi ..</s>
+51406 new <s>alireti vanAtkamalaM na dardurastvekavAso 'pi ..</s>
+;-----------------
+51515 old <s>sOganDyahInaM nadiyaM puzpaM kAntamapi kvacit ..</s>
+51515 new <s>sOganDyahInaM nAdeyaM puzpaM kAntamapi kvacit ..</s>
+;-----------------
+51566 old <s>ciraM sa huNkte calacAmAraMSukaM sitAtapatrABaraRAM nfpaSriyam ..</s>
+51566 new <s>ciraM sa BuNkte calacAmArAMSukAM sitAtapatrABaraRAM nfpaSriyam ..</s>
+;-----------------
+51606 old <s>guRazveva hi kartavyaH prayatnaH puruzEH sadA .</s>
+51606 new <s>guRezveva hi kartavyaH prayatnaH puruzEH sadA .</s>
+;-----------------
+51624 old <s>guRezvevAdaraH kAryaH kimAwepEH prayojanam .</s>
+51624 new <s>guRezvevAdaraH kAryaH kimAwopEH prayojanam .</s>
+;-----------------
+51655 old <s>cUqAratnaM SaSI SaMBoryAnamuccEH SravA hareH ..</s>
+51655 new <s>cUqAratnaM SaSI SaMBoryAnamuccEHSravA hareH ..</s>
+;-----------------
+51683 old <s>kzIrodADisamutpannaH kAlakUwaH kimuttamaH ..</s>
+51683 new <s>kzIrodaDisamutpannaH kAlakUwaH kimuttamaH ..</s>
+;-----------------
+51749 old <s>guRErBUtAni yukyente viyujyante taTEva ca .</s>
+51749 new <s>guRErBUtAni yujyante viyujyante taTEva ca .</s>
+;-----------------
+51750 old <s>sarvARi nEtadekasyu SokasTAnaM hi vidyate ..</s>
+51750 new <s>sarvARi nEtadekasya SokasTAnaM hi vidyate ..</s>
+;-----------------
+51771 old <s>anarDyamapi mARikyaM hemASrayamapekzate ..</s>
+51771 new <s>anarGyamapi mARikyaM hemASrayamapekzate ..</s>
+;-----------------
+51819 old <s>guRo dUzaRatAM yAti dUzaRaM guRAtAM kvacit .</s>
+51819 new <s>guRo dUzaRatAM yAti dUzaRaM guRatAM kvacit .</s>
+;-----------------
+51842 old <s>guRo BUzaRatAM yAwi</s> s. den voragehenden Spruch.
+51842 new <s>guRo BUzaRatAM yAti</s> s. den vorangehenden Spruch.
+;-----------------
+51850 old <s>sidDirBUzayate vidyAM Bogo BUzayata Danam ..</s>
+51850 new <s>sidDirBUzayate vidyAM Bogo BUzayate Danam ..</s>
+;-----------------
+51906 old <s>guruRA stanaBareRa muKacandreRa BasvatA .</s>
+51906 new <s>guruRA stanaBAreRa muKacandreRa BAsvatA .</s>
+;-----------------
+51907 old <s>SanEScarAbyAM pAdAByAM reje grahamayIva sA ..</s>
+51907 new <s>SanEScarAByAM pAdAByAM reje grahamayIva sA ..</s>
+;-----------------
+51927 old <s>gurupatbyAM niSADISo brAhmaRyAM brAhmaRyAM pAkaSAsanaH .</s>
+51927 new <s>gurupatnyAM niSADISo brAhmaRyAM pAkaSAsanaH .</s>
+;-----------------
+51950 old <s>guruprayojanoddeSAt</s> s. Spruch 1271.
+51950 new <s>guruprayojanoddeSAt</s> s. Spruch 2171.
+;-----------------
+51983 old <s>gururagnirdvijAtInAM varRAnAM brAhmaRo garuH .</s>
+51983 new <s>gururagnirdvijAtInAM varRAnAM brAhmaRo guruH .</s>
+;-----------------
+52087 old <s>jagadupakaraRam pavitrayonirnapaSunA na nimIyate gavendraH ..</s>
+52087 new <s>jagadupakaraRaM pavitrayonirnarapaSunA na nimIyate gavendraH ..</s>
+;-----------------
+52106 old <s>guruSuSruzayA vidyA puzkalena Danena vA .</s>
+52106 new <s>guruSuSrUzayA vidyA puzkalena Danena vA .</s>
+;-----------------
+52107 old <s>aTa vA vidyA caturTaM nopalaByate ..</s>
+52107 new <s>aTa vA vidyayA vidyA caturTaM nopalaByate ..</s>
+;-----------------
+52130 old <s>gurURAM nAmamAtre 'pi gfhIte svAmisamBave .</s>
+52130 new <s>gurURAM nAmamAtre 'pi gfhIte svAmisaMBave .</s>
+;-----------------
+52150 old <s>utpTaM pratipannasya nyAyyaM Bavati SAsanam ..</s>
+52150 new <s>utpaTaM pratipannasya nyAyyaM Bavati SAsanam ..</s>
+;-----------------
+52202 old <s>guroH sutAM mitraBAryAM svamisevakagehinIm .</s>
+52202 new <s>guroH sutAM mitraBAryAM svAmisevakagehinIm .</s>
+;-----------------
+52203 old <s>yo gacCati pumAMlloke tamAhurbrahmaGAtinam ..</s>
+52203 new <s>yo gacCati pumA~lloke tamAhurbrahmaGAtinam ..</s>
+;-----------------
+52227 old <s>gUQamETunaDArzwyaM ca kAle ca saMgraham .</s>
+52227 new <s>gUQamETunaDArzwyaM ca kAle kAle ca saMgraham .</s>
+;-----------------
+52260 old <s>gfDradfzwirbakAlInaH SvacezwaH siMahavikramaH .</s>
+52260 new <s>gfDradfzwirbakAlInaH SvacezwaH siMhavikramaH .</s>
+;-----------------
+52370 old <s>gfhamaDyaniKAtena Danena DEno yadi .</s>
+52370 new <s>gfhamaDyaniKAtena Danena Danino yadi .</s>
+;-----------------
+52393 old <s>pApasaMvalamAdAya SvatiryaggatiM vrajet ..</s>
+52393 new <s>pApasaMvalamAdAya SvaBratiryaggatiM vrajet ..</s>
+;-----------------
+52438 old <s>gfhAramBo hi HKAya na suKAya kadA ca na .</s>
+52438 new <s>gfhAramBo hi duHKAya na suKAya kadA ca na .</s>
+;-----------------
+52439 old <s>sarpaH parakftaM veSya praviSya suKameDate ..</s>
+52439 new <s>sarpaH parakftaM veSma praviSya suKameDate ..</s>
+;-----------------
+52461 old <s>gfhAsaktasya o vidyA no dayA mAMsaBakziRaH .</s>
+52461 new <s>gfhAsaktasya no vidyA no dayA mAMsaBakziRaH .</s>
+;-----------------
+52526 old <s>kftAntAtkiM SagkA nahi Bavati re jAgfta janAH ..</s>
+52526 new <s>kftAntAtkiM SaNkA nahi Bavati re jAgfta janAH ..</s>
+;-----------------
+52576 old <s>giGno cEva surApe ca cEre Bagnavrate taTA .</s>
+52576 new <s>goGne cEva surApe ca cOre Bagnavrate taTA .</s>
+;-----------------
+52577 old <s>nizkftirvihitA sAdBiH kftaGne nAsti nizkftiH ..</s>
+52577 new <s>nizkftirvihitA sadBiH kftaGne nAsti nizkftiH ..</s>
+;-----------------
+52612 old <s>gotraM nEva nijaM kulaM na vimalaM jAtiM vimalaM jAtiM ca no sundarIM</s>
+52612 new <s>gotraM nEva nijaM kulaM na vimalaM jAtiM ca no sundarIM</s>
+;-----------------
+52615 old <s>kAryAkAryAvicAraRAM na kurute kroDapramattaH pumAn ..</s>
+52615 new <s>kAryAkAryavicAraRAM na kurute kroDapramattaH pumAn ..</s>
+;-----------------
+52639 old <s>gopAlena prajaDenorvittadugDaM SanEH SanEH .</s>
+52639 new <s>gopAlena prajADenorvittadugDaM SanEH SanEH .</s>
+;-----------------
+52811 old <s>sTItiruccEH payodAnAM payoDInAmaDaH punaH ..</s>
+52811 new <s>sTitiruccEH payodAnAM payoDInAmaDaH punaH ..</s>
+;-----------------
+52916 old <s>mahAjane tuzyati yanna duejano vayaM na vidmaH Kalu tatra kAraRam ..</s>
+52916 new <s>mahAjane tuzyati yanna durjano vayaM na vidmaH Kalu tatra kAraRam ..</s>
+;-----------------
+52942 old <s>GarmArtaM na taTA suSItalajalEH snAna, M na myktAvalI</s>
+52942 new <s>GarmArtaM na taTA suSItalajalEH snAnaM na muktAvalI</s>
+;-----------------
+52945 old <s>sadyuktyA ca puraskftaM sukftinAmAkfzwimantrepamam ..</s>
+52945 new <s>sadyuktyA ca puraskftaM sukftinAmAkfzwimantropamam ..</s>
+;-----------------
+52986 old <s>senAjIvI codDftaBUtireva vyavahArezu barjanIyAH syurete ..</s>
+52986 new <s>senAjIvI codDftaBUtireva vyavahArezu varjanIyAH syurete ..</s>
+;-----------------
+53040 old <s>taTA munISvarA jYoyA jYAnacAritranirmalAH ..</s>
+53040 new <s>taTA munISvarA jYeyA jYAnacAritranirmalAH ..</s>
+;-----------------
