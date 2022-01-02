@@ -1,0 +1,354 @@
+1636c1636
+< <info L="72" page="1.13" gtypes="S,D,F"/>
+---
+> <info L="72" page="1.14" gtypes="S,D,F"/>
+2764c2764
+< <info L="116" page="1.22" gtypes="S,D,F"/>
+---
+> <info L="116" page="1.23" gtypes="S,D,F"/>
+4154c4154
+< <info L="177" page="1.33" gtypes="S,D,F"/>
+---
+> <info L="177" page="1.34" gtypes="S,D,F"/>
+4390c4390
+< <info L="187" page="1.35" gtypes="S,D,F"/>
+---
+> <info L="187" page="1.36" gtypes="S,D,F"/>
+4527c4527
+< <info L="192" page="1.36" gtypes="S,D,F"/>
+---
+> <info L="192" page="1.37" gtypes="S,D,F"/>
+4799c4799
+< <info L="202.2" page="1.38" gtypes="HS"/>
+---
+> <info L="202.2" page="1.39" gtypes="HS"/>
+4806c4806
+< <info L="203" page="1.38" gtypes="S,D,F,V3"/>
+---
+> <info L="203" page="1.39" gtypes="S,D,F,V3"/>
+6089c6089
+< <info L="260" page="1.48" gtypes="S,D,F"/>
+---
+> <info L="260" page="1.49" gtypes="S,D,F"/>
+6603c6603
+< <info L="283" page="1.52" gtypes="S,D,F"/>
+---
+> <info L="283" page="1.53" gtypes="S,D,F"/>
+7618c7618
+< <info L="330" page="1.60" gtypes="S,D,F"/>
+---
+> <info L="330" page="1.61" gtypes="S,D,F"/>
+9375c9375
+< <info L="405.4" page="1.74" gtypes="HS"/>
+---
+> <info L="405.4" page="1.75" gtypes="HS"/>
+9382c9382
+< <info L="406" page="1.74" gtypes="S,D,F"/>
+---
+> <info L="406" page="1.75" gtypes="S,D,F"/>
+10970c10970,10977
+< <info L="475" page="1.87" gtypes="S,D,F"/>
+---
+> <info L="474.1" page="1.87" gtypes="HS"/>
+> <HS>
+> <s>apriyARyeva kurvARaH</s> s. Spruch 472.
+> </HS>
+> </entry>
+> 
+> <entry>
+> <info L="475" page="1.88" gtypes="S,D,F"/>
+11093c11100
+< <info L="480.2" page="1.88" gtypes="HS"/>
+---
+> <info L="480.2" page="1.89" gtypes="HS"/>
+11100c11107
+< <info L="481,482" page="1.88" gtypes="S,S,D,D,F"/>
+---
+> <info L="481,482" page="1.89" gtypes="S,S,D,D,F"/>
+11848c11855
+< <info L="514" page="1.94" gtypes="S,D,F,V4"/>
+---
+> <info L="514" page="1.95" gtypes="S,D,F,V4"/>
+15978c15985
+< <info L="685" page="1.127" gtypes="S,D,F"/>
+---
+> <info L="685" page="1.128" gtypes="S,D,F"/>
+18490c18497
+< <info L="796" page="1.147" gtypes="S,D,F,V3,V4"/>
+---
+> <info L="796" page="1.148" gtypes="S,D,F,V3,V4"/>
+20205c20212
+< <info L="868" page="1.161" gtypes="S,D,F"/>
+---
+> <info L="868" page="1.162" gtypes="S,D,F"/>
+23411c23418
+< <info L="1005" page="1.188" gtypes="S,D,F"/>
+---
+> <info L="1005" page="1.189" gtypes="S,D,F"/>
+31284c31291
+< <info L="1333" page="1.253" gtypes="S,D,F,V3"/>
+---
+> <info L="1333" page="1.254" gtypes="S,D,F,V3"/>
+42870c42877
+< <info L="1803" page="1.348" gtypes="S,D,F"/>
+---
+> <info L="1803" page="1.349" gtypes="S,D,F"/>
+43940c43947
+< <info L="1851" page="1.357" gtypes="S,D,F,V3,V5"/>
+---
+> <info L="1851" page="1.358" gtypes="S,D,F,V3,V5"/>
+52436c52443
+< <info L="2192" page="1.428" gtypes="S,D,F,V3"/>
+---
+> <info L="2192" page="1.429" gtypes="S,D,F,V3"/>
+54511c54518
+< <info L="2282" page="2.12" gtypes="S,D,F"/>
+---
+> <info L="2282" page="2.13" gtypes="S,D,F"/>
+55384c55391
+< <info L="2316" page="2.20" gtypes="S,D,F"/>
+---
+> <info L="2316" page="2.21" gtypes="S,D,F"/>
+56971c56978
+< <info L="2382" page="2.33" gtypes="S,D,F"/>
+---
+> <info L="2382" page="2.34" gtypes="S,D,F"/>
+59390c59397
+< <info L="2480" page="2.53" gtypes="S,D,F,V4"/>
+---
+> <info L="2480" page="2.54" gtypes="S,D,F,V4"/>
+60505c60512
+< <info L="2524.2" page="2.62" gtypes="HS"/>
+---
+> <info L="2524.2" page="2.63" gtypes="HS"/>
+60512c60519
+< <info L="2525" page="2.62" gtypes="S,D,F"/>
+---
+> <info L="2525" page="2.63" gtypes="S,D,F"/>
+63737c63744
+< <info L="2655" page="2.90" gtypes="S,D,F,V5"/>
+---
+> <info L="2655" page="2.91" gtypes="S,D,F,V5"/>
+64894c64901
+< <info L="2706" page="2.100" gtypes="S,D,F"/>
+---
+> <info L="2706" page="2.101" gtypes="S,D,F"/>
+68165c68172
+< <info L="2840" page="2.128" gtypes="S,D,F"/>
+---
+> <info L="2840" page="2.129" gtypes="S,D,F"/>
+79845c79852
+< <info L="3334" page="2.228" gtypes="S,D,F,V4"/>
+---
+> <info L="3334" page="2.229" gtypes="S,D,F,V4"/>
+80225c80232
+< <info L="3351" page="2.231" gtypes="S,D,F"/>
+---
+> <info L="3351" page="2.232" gtypes="S,D,F"/>
+80770c80777
+< <info L="3375" page="2.236" gtypes="S,D,F"/>
+---
+> <info L="3375" page="2.237" gtypes="S,D,F"/>
+91366c91373,91380
+< <info L="3826" page="2.327" gtypes="S,D,F"/>
+---
+> <info L="3825.1" page="2.327" gtypes="HS"/>
+> <HS>
+> <s>nEvAtmano vinASaM gaRayati</s> s. Spruch 456.
+> </HS>
+> </entry>
+> 
+> <entry>
+> <info L="3826" page="2.328" gtypes="S,D,F"/>
+93090c93104
+< <info L="3899" page="2.342" gtypes="S,D,F"/>
+---
+> <info L="3899" page="2.343" gtypes="S,D,F"/>
+94369c94383
+< <info L="3954" page="2.353" gtypes="S,D,F"/>
+---
+> <info L="3954" page="2.354" gtypes="S,D,F"/>
+94587c94601
+< <info L="3961.2" page="2.355" gtypes="HS"/>
+---
+> <info L="3961.2" page="2.356" gtypes="HS"/>
+94594c94608
+< <info L="3961.3" page="2.355" gtypes="HS"/>
+---
+> <info L="3961.3" page="2.356" gtypes="HS"/>
+94601c94615
+< <info L="3962" page="2.355" gtypes="S,D,F"/>
+---
+> <info L="3962" page="2.356" gtypes="S,D,F"/>
+95018c95032
+< <info L="3977" page="2.359" gtypes="S,D,F"/>
+---
+> <info L="3977" page="2.360" gtypes="S,D,F"/>
+95139c95153
+< <info L="3982" page="2.360" gtypes="S,D,F"/>
+---
+> <info L="3982" page="2.361" gtypes="S,D,F"/>
+97055c97069
+< <info L="4059" page="2.377" gtypes="S,D,F"/>
+---
+> <info L="4059" page="2.378" gtypes="S,D,F"/>
+97287c97301
+< <info L="4067" page="2.379" gtypes="S,D,F,V3"/>
+---
+> <info L="4067" page="2.380" gtypes="S,D,F,V3"/>
+100580c100594
+< <info L="4204" page="2.408" gtypes="S,D,F"/>
+---
+> <info L="4204" page="2.409" gtypes="S,D,F"/>
+103174c103188
+< <info L="4312" page="2.431" gtypes="S,D,F"/>
+---
+> <info L="4312" page="2.432" gtypes="S,D,F"/>
+105413c105427
+< <info L="4403.2" page="2.451" gtypes="HS"/>
+---
+> <info L="4403.2" page="2.452" gtypes="HS"/>
+105420c105434
+< <info L="4404" page="2.451" gtypes="S,D,F"/>
+---
+> <info L="4404" page="2.452" gtypes="S,D,F"/>
+109039c109053
+< <info L="4556" page="2.484" gtypes="S,D,F"/>
+---
+> <info L="4556" page="2.485" gtypes="S,D,F"/>
+110427c110441
+< <info L="4611" page="2.497" gtypes="S,D,F"/>
+---
+> <info L="4611" page="2.498" gtypes="S,D,F"/>
+113388c113402
+< <info L="4733" page="3.17" gtypes="S,D,F,V4"/>
+---
+> <info L="4733" page="3.18" gtypes="S,D,F,V4"/>
+113502c113516
+< <info L="4737" page="3.18" gtypes="S,D,F"/>
+---
+> <info L="4737" page="3.19" gtypes="S,D,F"/>
+116798c116812
+< <info L="4872" page="3.48" gtypes="S,D,F"/>
+---
+> <info L="4872" page="3.49" gtypes="S,D,F"/>
+120058c120072
+< <info L="5009" page="3.77" gtypes="S,D,F"/>
+---
+> <info L="5009" page="3.78" gtypes="S,D,F"/>
+120183c120197
+< <info L="5014" page="3.78" gtypes="S,D,F"/>
+---
+> <info L="5014" page="3.79" gtypes="S,D,F"/>
+122690c122704
+< <info L="5128" page="3.100" gtypes="S,D,F"/>
+---
+> <info L="5128" page="3.101" gtypes="S,D,F"/>
+125054c125068
+< <info L="5236" page="3.121" gtypes="S,D,F"/>
+---
+> <info L="5236" page="3.122" gtypes="S,D,F"/>
+128384c128398
+< <info L="5379" page="3.149" gtypes="S,D,F"/>
+---
+> <info L="5379" page="3.150" gtypes="S,D,F"/>
+128757c128771
+< <info L="5393" page="3.152" gtypes="S,D,F"/>
+---
+> <info L="5393" page="3.153" gtypes="S,D,F"/>
+132080c132094
+< <info L="5542" page="3.181" gtypes="S,D,F"/>
+---
+> <info L="5542" page="3.182" gtypes="S,D,F"/>
+134531c134545
+< <info L="5650" page="3.203" gtypes="S,D,F"/>
+---
+> <info L="5650" page="3.204" gtypes="S,D,F"/>
+138079c138093
+< <info L="5801" page="3.235" gtypes="S,D,F"/>
+---
+> <info L="5801" page="3.236" gtypes="S,D,F"/>
+138936c138950
+< <info L="5835" page="3.243" gtypes="S,D,F"/>
+---
+> <info L="5835" page="3.244" gtypes="S,D,F"/>
+144505c144519
+< <info L="6066" page="3.293" gtypes="S,D,F,V5"/>
+---
+> <info L="6066" page="3.294" gtypes="S,D,F,V5"/>
+144812c144826
+< <info L="6078" page="3.296" gtypes="S,D,F"/>
+---
+> <info L="6078" page="3.297" gtypes="S,D,F"/>
+149073c149087
+< <info L="6263" page="3.335" gtypes="S,D,F"/>
+---
+> <info L="6263" page="3.336" gtypes="S,D,F"/>
+153221c153235
+< <info L="6444" page="3.372" gtypes="S,D,F"/>
+---
+> <info L="6444" page="3.373" gtypes="S,D,F"/>
+163398c163412
+< <info L="6887" page="3.466" gtypes="S,D,F"/>
+---
+> <info L="6887" page="3.467" gtypes="S,D,F"/>
+164395c164409
+< <info L="6929" page="3.475" gtypes="S,D,F,V5"/>
+---
+> <info L="6929" page="3.476" gtypes="S,D,F,V5"/>
+165322c165336
+< <info L="6970" page="3.483" gtypes="S,D,F,V3,V4"/>
+---
+> <info L="6970" page="3.484" gtypes="S,D,F,V3,V4"/>
+165661c165675
+< <info L="6985" page="3.486" gtypes="S,D,F"/>
+---
+> <info L="6985" page="3.487" gtypes="S,D,F"/>
+167042c167056
+< <info L="7042" page="3.499" gtypes="S,D,F"/>
+---
+> <info L="7042" page="3.500" gtypes="S,D,F"/>
+171435c171449
+< <info L="7227" page="3.539" gtypes="S,D,F"/>
+---
+> <info L="7227" page="3.540" gtypes="S,D,F"/>
+172364c172378
+< <info L="7265" page="3.548" gtypes="S,D,F"/>
+---
+> <info L="7265" page="3.549" gtypes="S,D,F"/>
+177649c177663
+< <info L="7490" page="3.594" gtypes="S,D,F"/>
+---
+> <info L="7490" page="3.595" gtypes="S,D,F"/>
+177895c177909
+< <info L="7500" page="3.596" gtypes="S,D,F,V5"/>
+---
+> <info L="7500" page="3.597" gtypes="S,D,F,V5"/>
+178487c178501
+< <info L="7523.2" page="3.601" gtypes="HS"/>
+---
+> <info L="7523.2" page="3.602" gtypes="HS"/>
+178494c178508
+< <info L="7524" page="3.601" gtypes="S,D,F"/>
+---
+> <info L="7524" page="3.602" gtypes="S,D,F"/>
+179229c179243
+< <info L="7554.3" page="3.607" gtypes="HS"/>
+---
+> <info L="7554.3" page="3.608" gtypes="HS"/>
+179236c179250
+< <info L="7554.4" page="3.607" gtypes="HS"/>
+---
+> <info L="7554.4" page="3.608" gtypes="HS"/>
+179243c179257
+< <info L="7555" page="3.607" gtypes="S,D,F"/>
+---
+> <info L="7555" page="3.608" gtypes="S,D,F"/>
+179357c179371
+< <info L="7560" page="3.608" gtypes="S,D,F"/>
+---
+> <info L="7560" page="3.609" gtypes="S,D,F"/>
+179594c179608
+< <info L="7571,7572" page="3.610" gtypes="S,S,D,D,F"/>
+---
+> <info L="7571,7572" page="3.611" gtypes="S,S,D,D,F"/>

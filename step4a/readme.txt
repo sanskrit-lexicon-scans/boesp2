@@ -52,3 +52,13 @@ remake hk, deva, and slp1 versions of step0/boesp.xml
 cd ../step0
 sh transcode_xml.sh
 
+#--------------------------------------------------------
+Correction of page numbers for verses which have an HS element at bottom
+of previous page.
+Two missing additional HS elements discovered and added.
+temp_boesp_02.xml starts as copy of step0/boesp.xml at commit
+3aa59f0b619fd549a31178649a866d3cad3fec71  (same as above temp_boesp_02.xml)
+
+temp_boesp_03.xml  manual change from temp_boesp_02.xml.
+python ../step0/xmlvalidate.py temp_boesp_03.xml ../step0/boesp.dtd
+Install to step0/boesp.xml
