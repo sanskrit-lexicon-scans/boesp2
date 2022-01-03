@@ -1,0 +1,288 @@
+3712 old -- 157, ²b, <gr>b.</gr> <s>vitta</s> st. <s>sakTi</s> zu lesen; vgl. AUFRECHT a. a. O. 19. Der Spruch ist von KSHEMENDRA.
+3712 new -- 157, ²b, <gr>b.</gr> <s>vitta</s> st. <s>sakTi</s> zu lesen; vgl. AUFRECHT a. a. O. 19. Der Spruch ist von KS2EMENDRA.
+15089 old -- 645 = BHRAMARA1SHT2AKA 7 bei HAEB. 241. Lautet hier: <s>alirasO nalinIvanavallaBaH kumudinIkulakelikalArasaH . viDivaSena paradeSamupAgataH</s> u.s.w.
+15089 new -- 645 = BHRAMARA1S2T2AKA 7 bei HAEB. 241. Lautet hier: <s>alirasO nalinIvanavallaBaH kumudinIkulakelikalArasaH . viDivaSena paradeSamupAgataH</s> u.s.w.
+26946 old -- 1149, Note. Lies VA1NARA1SHT2AKA.
+26946 new -- 1149, Note. Lies VA1NARA1S2T2AKA.
+29446 old -- 1255. SABHA1TAR. ²b. <s>dEvaM praDAnamiti</s>. ²c. <s>dEvaM vihAya</s>. Nach AUFRECHT in Z.d.d.m.G. 27, 18 ist KR2SHN2AMIS4RA der Verfasser.
+29446 new -- 1255. SABHA1TAR. ²b. <s>dEvaM praDAnamiti</s>. ²c. <s>dEvaM vihAya</s>. Nach AUFRECHT in Z.d.d.m.G. 27, 18 ist KR2S2N2AMIS4RA der Verfasser.
+60782 old -- 2534. Von LAKSHMAN2ASENA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 81.
+60782 new -- 2534. Von LAKS2MAN2ASENA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 81.
+70248 old -- 2926. Von KSHEMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN4G4IKA1.
+70248 new -- 2926. Von KS2EMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN4G4IKA1.
+71036 old -- 2956. Vgl. <s>tIrTe kAnte 'BIzwadeve gurO mantre BavOzaDe . AsTA ca yAdfSI yAsAM sidDistAsAM ca tAdfSI ..</s> BRAHMAVAIV. P., KR2SHN2AG4ANMAKH. 39 im S4KDR. unter <s>sidDi</s>.
+71036 new -- 2956. Vgl. <s>tIrTe kAnte 'BIzwadeve gurO mantre BavOzaDe . AsTA ca yAdfSI yAsAM sidDistAsAM ca tAdfSI ..</s> BRAHMAVAIV. P., KR2S2N2AG4ANMAKH. 39 im S4KDR. unter <s>sidDi</s>.
+76696 old -- 3201. Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.
+76696 new -- 3201. Von KS2EMENDRA; s. AUFRECHT a. a. O. 21.
+91929 old -- 3851. Von LAKSHMI1DHARA; s. AUFRECHT a. a. O. 81.
+91929 new -- 3851. Von LAKS2MI1DHARA; s. AUFRECHT a. a. O. 81.
+94966 old -- 3974. Von KSHEMENDRA; s. AUFRECHT a. a. O. 21.
+94966 new -- 3974. Von KS2EMENDRA; s. AUFRECHT a. a. O. 21.
+107950 old -- 4509. Von KSHEMENDRA; <pb n="4.664"/> s. AUFRECHT a. a. O. 22.
+107950 new -- 4509. Von KS2EMENDRA; <pb n="4.664"/> s. AUFRECHT a. a. O. 22.
+108090 old -- 4515. Von KSHEMENDRA; s. AUFRECHT a. a. O. 22.
+108090 new -- 4515. Von KS2EMENDRA; s. AUFRECHT a. a. O. 22.
+117778 old -- 4910. ²b. Lies <s>°Bojako</s>, wie in der ersten Auflage steht. Im SUBHA1SHITAR. werden für diesen Spruch bloss meine Indischen Sprüche als Quelle angeführt. Es kann nur die erste Auflage gemeint sein, da der 3. Theil der 2. Auflage ein Jahr später als der SUBHA1SHITAR. erschienen ist. Dessenungeachtet finden wir folgende Lesarten: ²b. <s>rAtriMdivaM</s>. ²c. <s>°vicAraRAnDabaDiro, samaH</s>. ²d. <s>prAyeRAmayavarjito dfQavapurmUrKaH suKaM jI°</s>.
+117778 new -- 4910. ²b. Lies <s>°Bojako</s>, wie in der ersten Auflage steht. Im SUBHA1S2ITAR. werden für diesen Spruch bloss meine Indischen Sprüche als Quelle angeführt. Es kann nur die erste Auflage gemeint sein, da der 3. Theil der 2. Auflage ein Jahr später als der SUBHA1S2ITAR. erschienen ist. Dessenungeachtet finden wir folgende Lesarten: ²b. <s>rAtriMdivaM</s>. ²c. <s>°vicAraRAnDabaDiro, samaH</s>. ²d. <s>prAyeRAmayavarjito dfQavapurmUrKaH suKaM jI°</s>.
+140556 old -- 5902. Von KSHEMENDRA; s. AUFRECHT a. a. O. 23.
+140556 new -- 5902. Von KS2EMENDRA; s. AUFRECHT a. a. O. 23.
+182850 old 7765) RA1DHA1KR2SHN2ASAM3VA1DA. ²c. ²d. <s>aparADika</s> das erste Mal = <s>aparADin</s>, das zweite Mal = <s>apagatA rADikA yasmAtsaH</s>.
+182850 new 7765) RA1DHA1KR2S2N2ASAM3VA1DA. ²c. ²d. <s>aparADika</s> das erste Mal = <s>aparADin</s>, das zweite Mal = <s>apagatA rADikA yasmAtsaH</s>.
+; N5 -> N3 before GK
+115732 old S4A1RN5G. PADDH. PRASAN3GA1BH. 10, ²a.
+115732 new S4A1RN3G. PADDH. PRASAN3GA1BH. 10, ²a.
+127825 old II, 127. JOHNS. 132. S4A1RN5G. PADDH.
+127825 new II, 127. JOHNS. 132. S4A1RN3G. PADDH.
+;
+128600 old JOHNs. 120. ed. Calc. 1830 S. 254. S4UK.
+128600 new JOHNS. 120. ed. Calc. 1830 S. 254. S4UK.
+;
+; --------------------------------------------------
+; J -> Y  (and a couple of G4 -> J)
+; --------------------------------------------------
+7432 old -- 322. Auch KA1VJAPR. 133, 15. fg.
+7432 new -- 322. Auch KA1VYAPR. 133, 15. fg.
+12657 old -- 546. Auch KA1VJAPR. 161, 3. fgg. und zwar wie bei mir.
+12657 new -- 546. Auch KA1VYAPR. 161, 3. fgg. und zwar wie bei mir.
+14920 old -- 637. Auch KA1VJAPR. 80, 6. fgg. Wird in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 55) dem BILHAN2A zugeschrieben, was auf einer Verwechselung mit S4ILHAN2A beruhen kann.
+14920 new -- 637. Auch KA1VYAPR. 80, 6. fgg. Wird in S4A1RN3G. PADDH. (s. AUFRECHT a. a. O. 55) dem BILHAN2A zugeschrieben, was auf einer Verwechselung mit S4ILHAN2A beruhen kann.
+18137 old -- 779. Wird in den Berliner Hdschrr. 300 CA1N2AKJA zugeschrieben. ²a, <gr>a.</gr> <s>'pIha</s> st. <s>Kalu</s>. ²b, <gr>b.</gr> <s>SaMBupUjYanam</s>.
+18137 new -- 779. Wird in den Berliner Hdschrr. 300 CA1N2AKYA zugeschrieben. ²a, <gr>a.</gr> <s>'pIha</s> st. <s>Kalu</s>. ²b, <gr>b.</gr> <s>SaMBupUjYanam</s>.
+18976 old -- 814. Auch KA1VJAPR. 181, 1. fgg.
+18976 new -- 814. Auch KA1VYAPR. 181, 1. fgg.
+19497 old -- 837. Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.
+19497 new -- 837. Von VYA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.
+19569 old -- 840. Auch KA1VJAPR. 176, 11. fg.
+19569 new -- 840. Auch KA1VYAPR. 176, 11. fg.
+19789 old -- 849. PADJATARAM3GIN2I1. ²b. <s>yaTecCam</s>.
+19789 new -- 849. PADYATARAM3GIN2I1. ²b. <s>yaTecCam</s>.
+21124 old -- 908. Von VJA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.
+21124 new -- 908. Von VYA1SA nach S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 88.
+23032 old -- 990. Wird auch ADBHUTAPUN2JA zugeschrieben; s. AUFRECHT a. a. O. 6.
+23032 new -- 990. Wird auch ADBHUTAPUN2YA zugeschrieben; s. AUFRECHT a. a. O. 6.
+32619 old -- 1388. Der Sinn ist besser getroffen worden von AUFRECHT a. a. O. 25. Der Verfasser ist GOVARDHANA1CA1RJA. Davor ist einzuschalten: <s>ekasravaKagamaRiSciram</s> s. oben 1340.
+32619 new -- 1388. Der Sinn ist besser getroffen worden von AUFRECHT a. a. O. 25. Der Verfasser ist GOVARDHANA1CA1RYA. Davor ist einzuschalten: <s>ekasravaKagamaRiSciram</s> s. oben 1340.
+33952 old -- 1441. KA1VJASAM3GRAHA. ²c. ²d. <s>na tena dfzwaM kavinA samastaM dAridyamekaM guRakowihAri</s>.
+33952 new -- 1441. KA1VYASAM3GRAHA. ²c. ²d. <s>na tena dfzwaM kavinA samastaM dAridyamekaM guRakowihAri</s>.
+40976 old -- 1729. Wird in S4A1RN3G. PADDH. dem CA1N2AKJA zugeschrieben; s. AUFRECHT a. a. O. 29. Daselbst auch Varianten.
+40976 new -- 1729. Wird in S4A1RN3G. PADDH. dem CA1N2AKYA zugeschrieben; s. AUFRECHT a. a. O. 29. Daselbst auch Varianten.
+49751 old -- 2082. KA1VJASAM3GRAHA. ²b. <s>tAM tyaktvASu gataH sa candanavanaM paScAt</s>. ²c. <s>sahasA rodityasO mandaDIH</s>. ²d. <s>sarvo janaH</s> st. <s>kAmAturaH</s>.
+49751 new -- 2082. KA1VYASAM3GRAHA. ²b. <s>tAM tyaktvASu gataH sa candanavanaM paScAt</s>. ²c. <s>sahasA rodityasO mandaDIH</s>. ²d. <s>sarvo janaH</s> st. <s>kAmAturaH</s>.
+49782 old -- 2083. KA1VJASAM3GRAHA. ²a. <s>ganDErAQyA Buvana°</s>. ²b. <s>puzpaBrAntyA kzuDitamaDupaH</s>. ²c. <s>anDIBUtastadanu rajasA kaRwakESCinnapakzaH</s>. ²d. <s>kzaRam</s> st. <s>dvayam</s>.
+49782 new -- 2083. KA1VYASAM3GRAHA. ²a. <s>ganDErAQyA Buvana°</s>. ²b. <s>puzpaBrAntyA kzuDitamaDupaH</s>. ²c. <s>anDIBUtastadanu rajasA kaRwakESCinnapakzaH</s>. ²d. <s>kzaRam</s> st. <s>dvayam</s>.
+55157 old -- 2308. G4A1NAKI1PARIN2AJA.
+55157 new -- 2308. JA1NAKI1PARIN2AYA.
+60625 old -- 2528, ²b, <gr>b.</gr> <s>saMSlizwA</s> st. <s>sASlizwA</s> KA1VJAPR. neuere Ausg. 62.
+60625 new -- 2528, ²b, <gr>b.</gr> <s>saMSlizwA</s> st. <s>sASlizwA</s> KA1VYAPR. neuere Ausg. 62.
+70556 old -- 2937. Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 3, 2, 4.
+70556 new -- 2937. Auch im Comm. zu VA1MANA'S KA1VYA1LAM3KA1RA 3, 2, 4.
+74823 old -- 3122. Auch im Comm. zu KA1VJA1DARS4A 1, 5.
+74823 new -- 3122. Auch im Comm. zu KA1VYA1DARS4A 1, 5.
+96669 old -- 4042. KUVALAJA1NANDA. ²a. ²b. <s>kAnte DAvaya me pAdAviti BartrA niveditA</s>. ²c. <s>DAvitO</s>. ²d. <s>laNGitA</s>.
+96669 new -- 4042. KUVALAYA1NANDA. ²a. ²b. <s>kAnte DAvaya me pAdAviti BartrA niveditA</s>. ²c. <s>DAvitO</s>. ²d. <s>laNGitA</s>.
+106803 old -- 4461, ²a, <gr>a.</gr> <s>bimbOzWa</s> beide Ausgg. des KA1VJAPR.
+106803 new -- 4461, ²a, <gr>a.</gr> <s>bimbOzWa</s> beide Ausgg. des KA1VYAPR.
+113604 old in Ki1VJAKAL. 28. NI1TISAM3K. 72. ²a.
+113604 new in KA1VYAKAL. 28. NI1TISAM3K. 72. ²a.
+115137 old -- 4802. VJA1SA zugeschrieben in S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 89.
+115137 new -- 4802. VYA1SA zugeschrieben in S4A1RN3G. PADDH.; s. AUFRECHT a. a. O. 89.
+121709 old -- 5083. Auch KA1VJAPR. 168, 15. fgg. (324, 11. fgg.). ²a, <gr>a.</gr> <s>BruvaM</s> beide Ausgg. <gr>b.</gr> <s>tatrEva prapatanti</s> ohne <s>yat</s> die ältere Ausg. ²b, <gr>a.</gr> <s>cApamaYcitaSara°</s> beide Ausgg., <s>°presvatkaraH</s> die ältere Ausg. <gr>b.</gr> <s>sadAsAM</s> st. <s>tadAsAM</s> beide Ausgg.
+121709 new -- 5083. Auch KA1VYAPR. 168, 15. fgg. (324, 11. fgg.). ²a, <gr>a.</gr> <s>BruvaM</s> beide Ausgg. <gr>b.</gr> <s>tatrEva prapatanti</s> ohne <s>yat</s> die ältere Ausg. ²b, <gr>a.</gr> <s>cApamaYcitaSara°</s> beide Ausgg., <s>°presvatkaraH</s> die ältere Ausg. <gr>b.</gr> <s>sadAsAM</s> st. <s>tadAsAM</s> beide Ausgg.
+135974 old -- 5715, Note. Lies KAT2AJAVEMA.
+135974 new -- 5715, Note. Lies KAT2AYAVEMA.
+139402 old -- 5853. Auch KA1VJAPR. 142, 6. 7. 185, 1. 2.
+139402 new -- 5853. Auch KA1VYAPR. 142, 6. 7. 185, 1. 2.
+146456 old -- 6149. Auch KA1VJAPR. 93, 13. fg.
+146456 new -- 6149. Auch KA1VYAPR. 93, 13. fg.
+159892 old -- 6733. Auch KA1VJAPR. 115, 1. 2. ²a, <gr>a.</gr> Besser <s>rAmAH</s> st. <s>kAmAH</s>.
+159892 new -- 6733. Auch KA1VYAPR. 115, 1. 2. ²a, <gr>a.</gr> Besser <s>rAmAH</s> st. <s>kAmAH</s>.
+166122 old -- 7002. Auch im Comm. zu VA1MANA'S KA1VJA1LAM3KA1RA 4, 3, 12. ²b, <gr>b.</gr> <s>anyajYanASrayEr</s>.
+166122 new -- 7002. Auch im Comm. zu VA1MANA'S KA1VYA1LAM3KA1RA 4, 3, 12. ²b, <gr>b.</gr> <s>anyajYanASrayEr</s>.
+170317 old -- 7178. DHANAM3G4AJAVJA1JOGA. ²a. <s>vIra</s>. ²b. <s>nijaguRAlApe ca mOna°</s>. ²c. <s>aviluptavIryanicayAH</s>. ²d. <s>°vizajvAlAtatAH</s>.
+170317 new -- 7178. DHANAM3JAYAVYA1YOGA. ²a. <s>vIra</s>. ²b. <s>nijaguRAlApe ca mOna°</s>. ²c. <s>aviluptavIryanicayAH</s>. ²d. <s>°vizajvAlAtatAH</s>.
+179456 old -- 7564. Nach KLATT eine Variante von Spr. 271 der Berliner Hdschrr. des CA1N2AKJA.
+179456 new -- 7564. Nach KLATT eine Variante von Spr. 271 der Berliner Hdschrr. des CA1N2AKYA.
+179504 old -- 7566, Note, Z. 2. Lies ²c. st. ²b. An diesen Spruch schliesst sich nach KLATT als nähere Erklärung Spr. 51 der Berliner Hdschrr. des CA1NAKJA an.
+179504 new -- 7566, Note, Z. 2. Lies ²c. st. ²b. An diesen Spruch schliesst sich nach KLATT als nähere Erklärung Spr. 51 der Berliner Hdschrr. des CA1NAKYA an.
+; --------------------------------------------------
+; G4 -> J
+1866 old -- 80. CARPAT2APAN4G4ARI1. ²b. <s>daSana</s> st. <s>danta</s>. ²c. ²d. <s>vfdDo yAti gfhItvA daRqaM tadapi na muYcatyASApiRqam</s>.
+1866 new -- 80. CARPAT2APAN5JARI1. ²b. <s>daSana</s> st. <s>danta</s>. ²c. ²d. <s>vfdDo yAti gfhItvA daRqaM tadapi na muYcatyASApiRqam</s>.
+25259 old -- 1079. Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.
+25259 new -- 1079. Von RA1JAS4EKHARA; s. AUFRECHT a. a. O. 77.
+25863 old -- 1103. Die erste Hälfte wird S4I1LA1BHAT2T2A1RIKA1, die zweite BHOG4A zugeschrieben; s. AUFRECHT a. a. O. 93.
+25863 new -- 1103. Die erste Hälfte wird S4I1LA1BHAT2T2A1RIKA1, die zweite BHOJA zugeschrieben; s. AUFRECHT a. a. O. 93.
+26611 old -- 1134. RASIKAG4I1VANA.
+26611 new -- 1134. RASIKAJI1VANA.
+46697 old -- 1963 = KIRA1TA1RG4. 1, 4.
+46697 new -- 1963 = KIRA1TA1RJ. 1, 4.
+50065 old -- 2095. Auch bei WEBER, VAG4RASU1CI1 255. ²a, <gr>a.</gr> <s>parAn</s>. <gr>b.</gr> <s>uktaM kenacidapriyeRa sahate</s>. ²b, <gr>b.</gr> <s>hyetat</s> st. des von mir ergänzten <s>popaM</s>.
+50065 new -- 2095. Auch bei WEBER, VAJRASU1CI1 255. ²a, <gr>a.</gr> <s>parAn</s>. <gr>b.</gr> <s>uktaM kenacidapriyeRa sahate</s>. ²b, <gr>b.</gr> <s>hyetat</s> st. des von mir ergänzten <s>popaM</s>.
+70248 old -- 2926. Von KS2EMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN4G4IKA1.
+70248 new -- 2926. Von KS2EMENDBA; s. AUFRECHT a. a. O. 21. Steht auch im Prolog der VIDDHAS4A1LABHAN5JIKA1.
+71036 old -- 2956. Vgl. <s>tIrTe kAnte 'BIzwadeve gurO mantre BavOzaDe . AsTA ca yAdfSI yAsAM sidDistAsAM ca tAdfSI ..</s> BRAHMAVAIV. P., KR2S2N2AG4ANMAKH. 39 im S4KDR. unter <s>sidDi</s>.
+71036 new -- 2956. Vgl. <s>tIrTe kAnte 'BIzwadeve gurO mantre BavOzaDe . AsTA ca yAdfSI yAsAM sidDistAsAM ca tAdfSI ..</s> BRAHMAVAIV. P., KR2S2N2AJANMAKH. 39 im S4KDR. unter <s>sidDi</s>.
+73854 old -- 3080. Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.
+73854 new -- 3080. Von VIJJAKA1; s. AUFRECHT a. a. O. 85.
+75131 old -- 3135. G4INADHARMAVIVEKA.
+75131 new -- 3135. JINADHARMAVIVEKA.
+90892 old -- 3806. Von RA1G4AS4EKHARA; s. AUFRECHT a. a. O. 77.
+90892 new -- 3806. Von RA1JAS4EKHARA; s. AUFRECHT a. a. O. 77.
+106220 old -- 4435. CARPAT2APAN4G4ARI1.
+106220 new -- 4435. CARPAT2APAN5JARI1.
+111465 old -- 4648. Auch BHADANTAG4N4A1NAVARMAN zugeschrieben; s. AUFRECHT a. a. O. 59.
+111465 new -- 4648. Auch BHADANTAJN5A1NAVARMAN zugeschrieben; s. AUFRECHT a. a. O. 59.
+115889 old -- 4831. Wird in S4A1RN3G. PADDH. BHOG4ADEVA zugeschrieben; vgl. AUFRECHT a. a. O. 68. ²a, <gr>a.</gr> <s>sa mahIpatiH</s>. ²b, <gr>a.</gr> <s>yAvanta evABavan</s>.
+115889 new -- 4831. Wird in S4A1RN3G. PADDH. BHOJADEVA zugeschrieben; vgl. AUFRECHT a. a. O. 68. ²a, <gr>a.</gr> <s>sa mahIpatiH</s>. ²b, <gr>a.</gr> <s>yAvanta evABavan</s>.
+124075 old -- 5192, ²a. Vgl. WEBER, VAG4RASU1CI1 227, S4I. 51, ²a. In der Note ist BHA1G. P. zu lesen.
+124075 new -- 5192, ²a. Vgl. WEBER, VAJRASU1CI1 227, S4I. 51, ²a. In der Note ist BHA1G. P. zu lesen.
+130566 old -- 5473. Vgl. WEBER, VAG4RASU1CI1 234, 22. fg.
+130566 new -- 5473. Vgl. WEBER, VAJRASU1CI1 234, 22. fg.
+139575 old -- 5860. Auch bei MALLIN. zu KIRA1TA1RG4. 1, 12. ²a, <gr>a.</gr> <s>gfhIyAd</s>. <gr>b.</gr> <s>sADum</s> st. <s>krudDam</s>. ²b, <gr>a.</gr> <s>CandAnuroGena</s>. <gr>b.</gr> <s>tattvArTena ca pa°</s>.
+139575 new -- 5860. Auch bei MALLIN. zu KIRA1TA1RJ. 1, 12. ²a, <gr>a.</gr> <s>gfhIyAd</s>. <gr>b.</gr> <s>sADum</s> st. <s>krudDam</s>. ²b, <gr>a.</gr> <s>CandAnuroGena</s>. <gr>b.</gr> <s>tattvArTena ca pa°</s>.
+147059 old -- 6174. Angeblich von einem Hofdichter BHOG4ARA1G4A'S; s. AUFRECHT a. a. O. 69.
+147059 new -- 6174. Angeblich von einem Hofdichter BHOJARA1JA'S; s. AUFRECHT a. a. O. 69.
+147285 old -- 6184. Lies in der Uebersetzung: «Wenn der Mond in Wirklichkeit schmölze und zu u.s.w.». Der Spruch findet sich im 2ten Act der VIDDHAS4A1LABHAN4G4IKA1. ²a, <gr>b.</gr> <s>virucendIvaravanam</s>.
+147285 new -- 6184. Lies in der Uebersetzung: «Wenn der Mond in Wirklichkeit schmölze und zu u.s.w.». Der Spruch findet sich im 2ten Act der VIDDHAS4A1LABHAN5JIKA1. ²a, <gr>b.</gr> <s>virucendIvaravanam</s>.
+149171 old -- 6266 = VIVEKAVILA1SA 1, 79. ²a, <gr>b.</gr> <s>SiSuH sutaH</s>. Auch bei WEBER, VAG4RASU1CI1 237. ²a, <gr>b.</gr> Umgestellt <s>BAryA sADvI</s>.
+149171 new -- 6266 = VIVEKAVILA1SA 1, 79. ²a, <gr>b.</gr> <s>SiSuH sutaH</s>. Auch bei WEBER, VAJRASU1CI1 237. ²a, <gr>b.</gr> Umgestellt <s>BAryA sADvI</s>.
+153988 old -- 6475. Auch bei WEBER, VAG4RASU1CI1 223. ²b, <gr>a.</gr> <s>bahavo narAH nIcakulaprasUtAH</s>. <gr>b.</gr> <s>upetya</s> st. <s>avApya</s>.
+153988 new -- 6475. Auch bei WEBER, VAJRASU1CI1 223. ²b, <gr>a.</gr> <s>bahavo narAH nIcakulaprasUtAH</s>. <gr>b.</gr> <s>upetya</s> st. <s>avApya</s>.
+157679 old -- 6636. G4INADHARMAVIVEKA. ²b. <s>hyamftopame</s>. ²c. <s>suBAzitarasAsvAdaH</s>.
+157679 new -- 6636. JINADHARMAVIVEKA. ²b. <s>hyamftopame</s>. ²c. <s>suBAzitarasAsvAdaH</s>.
+159701 old -- 6724. Auch bei WEBER, VAG4RAS. 221. ²b, <gr>a.</gr> <s>sarvaBUte</s>.
+159701 new -- 6724. Auch bei WEBER, VAJRAS. 221. ²b, <gr>a.</gr> <s>sarvaBUte</s>.
+165360 old -- 6970 = KIRA1TA1RG4. 2, 30. Auch im Comm. zu DAS4AR. 4, 25. ²b, <gr>a.</gr> <s>vfRute</s> an beiden Stellen.
+165360 new -- 6970 = KIRA1TA1RJ. 2, 30. Auch im Comm. zu DAS4AR. 4, 25. ²b, <gr>a.</gr> <s>vfRute</s> an beiden Stellen.
+166602 old -- 7023. Auch BHAT2T2A INDURA1G4A zugeschrieben; s. AUFRECHT a. a. O. 11.
+166602 new -- 7023. Auch BHAT2T2A INDURA1JA zugeschrieben; s. AUFRECHT a. a. O. 11.
+168861 old -- 7115. G4INADHARMAVIVEKA. ²d. <s>kavayaH suKamAsate</s>.
+168861 new -- 7115. JINADHARMAVIVEKA. ²d. <s>kavayaH suKamAsate</s>.
+168884 old -- 7116. G4INADHARMAVIVEKA. ²d. <s>hyaTa vA</s>.
+168884 new -- 7116. JINADHARMAVIVEKA. ²d. <s>hyaTa vA</s>.
+177469 old -- 7480. Von VIG4G4AKA1; s. AUFRECHT a. a. O. 85.
+177469 new -- 7480. Von VIJJAKA1; s. AUFRECHT a. a. O. 85.
+177967 old -- 7501. Wird in S4A1RN3G. PADDH. dem BHOG4ARA1G4A zugeschrieben; vgl. <pb n="4.667"/> AUFRECHT a. a. O. 67. ²b, <gr>b.</gr> Lies <s>BavAdfSAH</s>.
+177967 new -- 7501. Wird in S4A1RN3G. PADDH. dem BHOJARA1JA zugeschrieben; vgl. <pb n="4.667"/> AUFRECHT a. a. O. 67. ²b, <gr>b.</gr> Lies <s>BavAdfSAH</s>.
+180189 old -- 7595. Wird BHOG4ARA1G4A zugeschrieben; s. AUFRECHT a. a. O. 68.
+180189 new -- 7595. Wird BHOJARA1JA zugeschrieben; s. AUFRECHT a. a. O. 68.
+;
+; N4
+;
+151594 old -- 6371, Note. Lies PAN4CAT.
+151594 new -- 6371, Note. Lies PAN5CAT.
+; misc
+146817 old 6165) Vr2DDHA-CA1N2. 12, 9. ²a.
+146817 new 6165) VR2DDHA-CA1N2. 12, 9. ²a.
+;
+37877 old 1606) VR2DDHA-CA1n2. 3, 1.
+37877 new 1606) VR2DDHA-CA1N2. 3, 1.
+;
+70447 old VR2DDHA-CA1N2. 10, 2. Ma1RK. P. 41, 4.
+70447 new VR2DDHA-CA1N2. 10, 2. MA1RK. P. 41, 4.
+;
+; Ni1 -> NI1
+;
+42890 old 1803) S4A1RN3G. PADDH. Ni1Ti 74. ²a.
+42890 new 1803) S4A1RN3G. PADDH. NI1TI 74. ²a.
+43673 old 1838) KA1M. Ni1TIS. 5, 68.
+43673 new 1838) KA1M. NI1TIS. 5, 68.
+43709 old 1840) KA1M. Ni1TIS. 4, 25. ²b.
+43709 new 1840) KA1M. NI1TIS. 4, 25. ²b.
+44223 old 1863) KA1m. Ni1TIS. 4, 46.
+44223 new 1863) KA1m. NI1TIS. 4, 46.
+45754 old 1927) KA1M. Ni1TIS. 5, 22. HIT. ed.
+45754 new 1927) KA1M. NI1TIS. 5, 22. HIT. ed.
+46341 old 1950) KA1M. Ni1TIS. 13, 33.
+46341 new 1950) KA1M. NI1TIS. 13, 33.
+46361 old 1951) KA1M. Ni1TIS. 9, 17. HIT. ed.
+46361 new 1951) KA1M. NI1TIS. 9, 17. HIT. ed.
+46383 old 1952) KA1M. Ni1TIS. 3, 8.
+46383 new 1952) KA1M. NI1TIS. 3, 8.
+46619 old 1960) KA1M. Ni1TIS. 3, 21. ²b.
+46619 new 1960) KA1M. NI1TIS. 3, 21. ²b.
+50403 old 2108) KA1M. Ni1TIS. 1, 42.
+50403 new 2108) KA1M. NI1TIS. 1, 42.
+51749 old 2162) KA1M. Ni1TIS. 5, 69.
+51749 new 2162) KA1M. NI1TIS. 5, 69.
+90236 old 3781) KA1M. Ni1TIS. 11, 42.
+90236 new 3781) KA1M. NI1TIS. 11, 42.
+91467 old 3830) KA1M. Ni1TIS. 14, 11. Unsere
+91467 new 3830) KA1M. NI1TIS. 14, 11. Unsere
+91801 old 3845) KA1M. Ni1TIS. 1, 18. Vgl. den
+91801 new 3845) KA1M. NI1TIS. 1, 18. Vgl. den
+92427 old PADDH. Ni1TI 5. ²a. <s>paWatA</s>. ²c.
+92427 new PADDH. NI1TI 5. ²a. <s>paWatA</s>. ²c.
+113388 old 4732) MBH. 5, 1266. ²c. Ni1LAK.
+113388 new 4732) MBH. 5, 1266. ²c. NI1LAK.
+166203 old Ni1TI 81. ²d. <s>jIvati</s>. Vgl. Spruch
+166203 new NI1TI 81. ²d. <s>jIvati</s>. Vgl. Spruch
+;
+; misc
+;
+70091 old Du1rva-Sprosslingen und Gras sich
+70091 new Du1rva1-Sprosslingen und Gras sich
+;
+109107 old wird man beim Anblick der Gan3ga von
+109107 new wird man beim Anblick der Gan3ga1 von
+;
+143999 old -- 6043. In der Uebersetzung ist nach "war" ein Semikolon zu setzen und hinzuzufügen: "die Gan5ga1 und andere Ströme ergiessen sich in's Meer". <pb n="5.215"/>
+143999 new -- 6043. In der Uebersetzung ist nach "war" ein Semikolon zu setzen und hinzuzufügen: "die Gan3ga1 und andere Ströme ergiessen sich in's Meer". <pb n="5.215"/>
+;
+36520 old S. 60. PRASan3ga1bh. 10, ²a. BHARTR2. bei
+36520 new S. 60. PRASAN3GA1BH. 10, ²a. BHARTR2. bei
+;
+152442 old S4A1NTIs4. ²c. Umgestellt
+152442 new S4A1NTIS4. ²c. Umgestellt
+;
+99659 old S4ATAKa1. 29. NI1TISAM3K. 70. ²a.
+99659 new S4ATAKA1V. 29. NI1TISAM3K. 70. ²a.
+;
+99774 old Sita1, der Tod Jat2a1ks2a's, das Bündniss
+99774 new Si1ta1, der Tod Jat2a1ks2a's, das Bündniss
+;
+143801 old ²d4. <s>manugataHH</s> <s>kOyaM payo</s>
+143801 new ²d. <s>manugataHH</s> <s>kOyaM payo</s>
+;
+181032 old 7640) SPHUT2AS4LOKA. ²a. <s>vAdya</s> = <s>vakAra Adyo yasya</s>. ²b. <s>kAnta</s> = <s>kakAro 'nte yasya</s>. ²c. <s>cakriRA</s> = <s>sarpeRa</s>. Gemeint ist <s>valmIka</s> <i>Ameisenhaufe</i> (auch N. pr. eines <wide>R2shi</wide>).
+181032 new 7640) SPHUT2AS4LOKA. ²a. <s>vAdya</s> = <s>vakAra Adyo yasya</s>. ²b. <s>kAnta</s> = <s>kakAro 'nte yasya</s>. ²c. <s>cakriRA</s> = <s>sarpeRa</s>. Gemeint ist <s>valmIka</s> <i>Ameisenhaufe</i> (auch N. pr. eines <wide>R2s2i</wide>).
+;
+44223 old 1863) KA1m. NI1TIS. 4, 46.
+44223 new 1863) KA1M. NI1TIS. 4, 46.
+;
+148145 old 6222) KA1M. NI1T1S. 1,27. ²d. <s>tasmin ji°</s> gedruckt.
+148145 new 6222) KA1M. NI1TIS. 1,27. ²d. <s>tasmin ji°</s> gedruckt.
+;
+27472 old PETROW S. 38. NI1TISAM3k. 34. S4A1RN3G.
+27472 new PETROW S. 38. NI1TISAM3K. 34. S4A1RN3G.
+;
+18084 old 777. = NITIS4A1STRA in Telugu-Charr. 116. CARR 381. ²a. <s>asAraM Kalu saMsAraM</s>
+18084 new 777. = NI1TIS4A1STRA in Telugu-Charr. 116. CARR 381. ²a. <s>asAraM Kalu saMsAraM</s>
+;
+151927 old 6387) PRAS4NOTTORAM. 21 in
+151927 new 6387) PRAS4NOTTARAM. 21 in
+;
+42631 old 1792) PRAS4NoTTARAM. 26 in
+42631 new 1792) PRAS4NOTTARAM. 26 in
+;
+17310 old 745) S4AK. 21. PAN5CAT. ed. orn. I,
+17310 new 745) S4A1K. 21. PAN5CAT. ed. orn. I,
+;
+59041 old 2467) S4AK. ed. BÖHTL. 158. ed.
+59041 new 2467) S4A1K. ed. BÖHTL. 158. ed.
+;
+124075 old -- 5192, ²a. Vgl. WEBER, VAJRASU1CI1 227, S4I. 51, ²a. In der Note ist BHA1G. P. zu lesen.
+124075 new -- 5192, ²a. Vgl. WEBER, VAJRASU1CI1 227, S4l. 51, ²a. In der Note ist BHA1G. P. zu lesen.
+;
+25343 old BRAHMAVAIV. P. ( ²s. S4KDs. u. <s>nArI</s>
+25343 new BRAHMAVAIV. P. ( ²s. S4KDR. u. <s>nArI</s>
+;
+115658 old 4823) YA1JN5. 3, 8. S4KDa. unter
+115658 new 4823) YA1JN5. 3, 8. S4KDR. unter
+;
+117013 old nach S4KDa. unter <s>yAcan</s>. <pb n="3.51"/>
+117013 new nach S4KDR. unter <s>yAcan</s>. <pb n="3.51"/>
+;
+4060 old Auch beim Schol. zu S4iS4. 2, 33 Vgl.
+4060 new Auch beim Schol. zu S4IS4. 2, 33 Vgl.
+;

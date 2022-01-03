@@ -40,3 +40,5 @@ step3e - Transcoding of Sanskrit text.
 	 Other forms will be boesp_hk.xml, boesp_deva.xml, boesp_iast.xml.
 	 boesp.dtd is not changed.
 step4a - Insert corrected Sanskrit for volume 1 verses into boesp.xml
+step4b - Transcode AS to IAST.
+
