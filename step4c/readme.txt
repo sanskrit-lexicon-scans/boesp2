@@ -23,6 +23,7 @@ temp_boesp_01.xml
 
 Check validation:
 python ../step0/xmlvalidate.py temp_boesp_01.xml ../step0/boesp.dtd
+
 #--------------------------------------------------------
 install revised version 01 of boesp
 
@@ -32,6 +33,19 @@ remake hk, deva, and slp1 versions of step0/boesp.xml
 cd ../step0
 sh transcode_xml.sh
 add and commit
+# -------------------------------------------------------------
+temp_boesp_02.xml
+ Correct wrongly marked Greek text at Footnote 5001.
+ <g></g> -> ²c.
+install revised version 01 of boesp
+
+cp temp_boesp_02.xml ../step0/boesp.xml
+
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+add and commit
+ 
 #--------------------------------------------------------
 
 #--------------------------------------------------------
