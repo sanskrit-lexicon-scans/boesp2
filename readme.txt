@@ -41,4 +41,4 @@ step3e - Transcoding of Sanskrit text.
 	 boesp.dtd is not changed.
 step4a - Insert corrected Sanskrit for volume 1 verses into boesp.xml
 step4b - Transcode AS to IAST.
-
+step4c - Insert Greektext into boesp.xml

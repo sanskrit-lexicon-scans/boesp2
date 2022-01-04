@@ -2,7 +2,7 @@ step4b
 
 AS conversion to IAST
 
-Refer https://github.com/funderburkjim/boesp-prep/issues/44
+Refer https://github.com/funderburkjim/boesp-prep/issues/45
 
 Start with a copy of step0/boesp.xml at commit
   c774b7cc176837ce81631f2b2fa946f50b6e4f48
