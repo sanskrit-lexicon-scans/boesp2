@@ -17,5 +17,7 @@ Greek.Notes.and.Addenda.in.boesp-1-corrected.txt
 Greek.Notes.and.Addenda.in.boesp-2-corrected.txt
 Greek.Notes.and.Addenda.in.boesp-3-corrected.txt
 
+The greek text in these 6 files have been inserted into step0/boesp.xml .
+See step4c directory.
 
 
