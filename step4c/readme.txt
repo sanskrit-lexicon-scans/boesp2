@@ -59,6 +59,7 @@ cd ../step0
 sh transcode_xml.sh
 add and commit
 
+Commit: 656610bab80840ffc3e8111ce60ca915f026e356
 # -------------------------------------------------------------
 temp_boesp_04.xml
 Greek.Notes.and.Addenda.in.boesp-1-corrected.txt
@@ -101,6 +102,15 @@ first word may be wrong.Note: In these 2, the greek text is printed in a 'verse'
 the line breaks appear significant.
 D 3411: mullti-line
 D 7199: multi-line
+
+#--------------------------------------------------------
+install 04
+cp temp_boesp_04.xml ../step0/boesp.xml
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+add and commit
+
 #--------------------------------------------------------
 TODO: (Jonathan)
 F 2597 
