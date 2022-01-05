@@ -102,6 +102,7 @@ first word may be wrong.Note: In these 2, the greek text is printed in a 'verse'
 the line breaks appear significant.
 D 3411: mullti-line
 D 7199: multi-line
+D 6075: multi-line
 
 #--------------------------------------------------------
 install 04
@@ -121,9 +122,22 @@ V3 3754
 F 4103 
 F 4327 
 F 4496 
-D 6075 
-D 7046 
+D 6075 DONE by Andhrabharati
+D 7046 DONE by Andhrabharati
 #--------------------------------------------------------
 first word may be wrong to be checked in:
 F 3219	<g>ο᾽θδὲ παρορᾷ τὸ πραϰτέον</g> 
 D 4014  <g>«Ἰδού, τῇ ὑπερβολῇ ETCETERA<g>
+
+#--------------------------------------------------------
+temp_boesp_05.xml
+<gr>X</gr> -> <g>X</g>  : Only need 1 tag for Greek text.
+Also, change 'version' from 1.3 to 1.3.1 in boesp.xml and boesp.dtd.
+Also, Greek text for D 6075 and D 7046 now provided, as well as a
+correction to F 6109.
+
+cp temp_boesp_05.xml ../step0/boesp.xml
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+add and commit
