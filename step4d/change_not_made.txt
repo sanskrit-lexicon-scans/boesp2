@@ -1,0 +1,48 @@
+1 old <?xml version="1.4" encoding="UTF-8"?>
+1 new <?xml version="1.3" encoding="UTF-8"?>
+;-----------------
+1210 old 54) R. 3, 57, 20.
+1210 new 54) <ls>R.</ls> 3, 57, 20.
+;-----------------
+17816 old kaTam, rAmo hemamftam</s> und R. 3, 48.
+17816 new kaTam, rAmo hemamftam</s> und <ls>R.</ls> 3, 48.
+;-----------------
+20982 old Zweifel aus R.
+20982 new Zweifel aus <ls>R.</ls>
+;-----------------
+50226 old <b>2102.</b> (<b>830.</b>) <g> Ὑπὸ τῆς σφοδρᾶς περιβολῆς οἱ μαστοὶ αὐτῆς ϰαταπεπιεσμένοι εἰσίν, τὰ δὲ τρίχια ὀρϑὰ ἕστηϰε, τῇ δ’ ὑπερβολῇ τῆς ἐτιϑυμίας τὸ ϰαλὸν παραμηρίδιον ϰαταρρεῖ· “μὴ μή, ὦ ἐμὸν ἀγλάισμα, μὴ ἄγαν ἐμέ — ἃλις“ οὕτω ϰεϰλασμένῃ τῇ φωνῇ φϑεγγομέη πότερον ϰαταδεδάρϑηϰεν ἢ τέϑνηϰεν ἢ εἰς τὴν έμὴν ϰαρδίαν εἰσδέδυϰεν ἢ τέτηϰεν.</g> <pb n="1.412"/>
+50226 new <b>2102.</b> (<b>830.</b>) <g> Ὑπὸ τῆς σφοδρᾶς περιβολῆς οἱ μαστοὶ αὐτῆς ϰαταπε-<pb n="1.412"/>πιεσμένοι εἰσίν, τὰ δὲ τρίχια ὀρϑὰ ἕστηϰε, τῇ δ’ ὑπερβολῇ τῆς ἐτιϑυμίας τὸ ϰαλὸν παραμηρίδιον ϰαταρρεῖ· “μὴ μή, ὦ ἐμὸν ἀγλάισμα, μὴ ἄγαν ἐμέ — ἃλις“ οὕτω ϰεϰλασμένῃ τῇ φωνῇ φϑεγγομέη πότερον ϰαταδεδάρϑηϰεν ἢ τέϑνηϰεν ἢ εἰς τὴν έμὴν ϰαρδίαν εἰσδέδυϰεν ἢ τέτηϰεν.</g>
+;-----------------
+57019 old 84, 21. ²a. <s>jAtasya mftyurniyato</s> R.
+57019 new 84, 21. ²a. <s>jAtasya mftyurniyato</s> <ls>R.</ls>
+;-----------------
+84715 old 218. PAÑCAT. 1, 14, 99. ²a. = R. 5, 50,
+84715 new 218. PAÑCAT. 1, 14, 99. ²a. = <ls>R.</ls> 5, 50,
+;-----------------
+116252 old Ausgg.; vgl. jedoch R. 2, 104, 24, wo
+116252 new Ausgg.; vgl. jedoch <ls>R.</ls> 2, 104, 24, wo
+;-----------------
+122879 old yamaH prAptakAlaH prIyadvezyO ni°</s> R.
+122879 new yamaH prAptakAlaH prIyadvezyO ni°</s> <ls>R.</ls>
+;-----------------
+122881 old syAtpriyApriye</s> R. <s>taTA priyApriye
+122881 new syAtpriyApriye</s> <ls>R.</ls> <s>taTA priyApriye
+;-----------------
+130277 old 109, 58. ²c. <s>putra</s> st. <s>putrAn</s> R.
+130277 new 109, 58. ²c. <s>putra</s> st. <s>putrAn</s> <ls>R.</ls>
+;-----------------
+137180 old auch R. 7, 59, 2, 4 ( ²b. <s>rAjA cEva
+137180 new auch <ls>R.</ls> 7, 59, 2, 4 (²b. <s>rAjA cEva
+;-----------------
+153192 old kilbizam</s> R.
+153192 new kilbizam</s> <ls>R.</ls>
+;-----------------
+158528 old <s>tanmahaM</s> und <s>taM</s> st. <s>tanmayaM</s>.
+158528 new <s>tanmahaM</s> und <s>taM<</s> st. <s>tanmayaM</s>.
+;-----------------
+159351 old <s>mitrARAm</s>, der Comm. in der Bomb.
+159351 new <s>mitrARAm</s>, der Comm. in der <ls>Bomb.
+;-----------------
+159352 old Ausg. des R. <s>kAryAya</s>.
+159352 new Ausg. des R.</ls> <s>kAryAya</s>.
+;-----------------

@@ -141,3 +141,11 @@ remake hk, deva, and slp1 versions of step0/boesp.xml
 cd ../step0
 sh transcode_xml.sh
 add and commit
+#--------------------------------------------------------
+temp_boesp_06.xml
+The missing 8 F/V3 ones noted above, along with correction to F3219
+
+cp temp_boesp_06.xml ../step0/boesp.xml
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh

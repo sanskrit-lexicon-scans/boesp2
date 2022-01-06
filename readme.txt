@@ -9,8 +9,8 @@ step0 - Original digitizations from Thomas.
 
 step1 - prepare Sanskrit in <S>, <HS> sections for proofreading in
         SLP1 and Devanagari. Based on non-xml form of volume 1
-	Generates a preliminary xml version of volume 1
-	
+        Generates a preliminary xml version of volume 1
+        
 step1a - continuation of step1
 
 step2 - Various checks and changes on pre-xml version 
@@ -30,15 +30,17 @@ step3c - Remove lg, l markdup
 
 step3d - Add n attribute for <S>.
          Also, multiple <S> when multiple <D>
-	 Also, in <S> groups, add <s>X</s> markup.
-	    Now everywhere, <s>X</s> indicates Sanskrit text.
+         Also, in <S> groups, add <s>X</s> markup.
+            Now everywhere, <s>X</s> indicates Sanskrit text.
          Make <S> definition in boesp.dtd more specific:
-	    a sequence of one or more 's' elements, 
-	    with an optional 'pb' element at the end
+            a sequence of one or more 's' elements, 
+            with an optional 'pb' element at the end
 step3e - Transcoding of Sanskrit text.
          step0/boesp.xml will be the 'base' form, in slp1 transcoding.
-	 Other forms will be boesp_hk.xml, boesp_deva.xml, boesp_iast.xml.
-	 boesp.dtd is not changed.
+         Other forms will be boesp_hk.xml, boesp_deva.xml, boesp_iast.xml.
+         boesp.dtd is not changed.
 step4a - Insert corrected Sanskrit for volume 1 verses into boesp.xml
 step4b - Transcode AS to IAST.
 step4c - Insert Greektext into boesp.xml
+step4d - Misc corrections mentioned in issue 45, starting at
+         https://github.com/funderburkjim/boesp-prep/issues/45#issuecomment-1006366284
