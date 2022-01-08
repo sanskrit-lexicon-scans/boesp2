@@ -202,9 +202,19 @@ temp_boesp_06.xml:
 ! 3 lines, different
 Install as commit
 cp temp_boesp_06.xml ../step0/boesp.xml
-  commit 
 remake hk, deva, and slp1 versions of step0/boesp.xml
 cd ../step0
 sh transcode_xml.sh
 add and commit
+This results in boesp.xml at commit de93d5502bed9af0871e9f1bc858d4757e0cd6b0.
 # -------------------------------------------------------------
+temp_boesp_07.xml
+Further revise to shorten line length in long greek text.
+There are about 100 such identfied.
+Install as commit:
+cp temp_boesp_07.xml ../step0/boesp.xml
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+add and commit
+This results in boesp.xml at commit 
