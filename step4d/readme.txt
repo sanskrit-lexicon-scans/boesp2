@@ -217,4 +217,68 @@ remake hk, deva, and slp1 versions of step0/boesp.xml
 cd ../step0
 sh transcode_xml.sh
 add and commit
-This results in boesp.xml at commit 
+This results in boesp.xml at commit [commit hash to fill in later]
+#-------------------------------------------------------------
+temp_boesp_deva.AB._1.txt copied from boesp_deva.AB._1.txt at
+ https://github.com/funderburkjim/boesp-prep/issues/43#issuecomment-1008294756
+
+temp_boesp.AB._1.xml
+Convert temp_boesp_deva.AB._1.txt to slp1.
+This can be done as in step0/transcode_xml.sh
+sh temp_convert_ab_1.sh
+---
+cd ../step3e
+python transcode.py deva slp1 ../step4d/temp_boesp_deva.AB._1.txt  ../step4d/temp_boesp.AB._1.xml
+===
+Now back in step4d.
+This has same number of lines (185334) as
+  current boesp.xml at commit a244fe721
+
+
+
+python ../step0/changes/diff_to_changes.py ../step0/boesp.xml temp_boesp.AB._1.xml temp_changes_boesp.AB_1.txt
+
+837 changes  (this many lines changed)
+
+To analyze these 837 changes, start with a copy temp_boesp_08.xml of
+ boesp.xml at commit a244fe721, and make successive changes as noticed from
+ temp_changes_boesp.AB_1.txt
+11 '<g> ' -> '<g>'
+649 ' </s>$' -> '</s>'  (regex replacement)
+2  ' </s> ' -> '</s> '
+34 lines:  Insert space before avagraha in sanskrit text
+13 : F -> f in Sanskrit text (slp1 spelling)
+3 : f1 -> f in Sanskrit text (slp1 spelling)
+11 : 'h ' -> 'H '  (visarga in Sanskrit text, slp1 spelling)
+12 : Missing '-' at end of Sanskrit text in a 'long' line
+
+103 remaining changes put into change_09.txt
+
+There is one change that is problematic
+;-----------------
+158357 old <s>samsAravizavfkzasya dve Pale amftopame .</s>
+158357 new ; line repeated
+REASON:  The '; line repeated' line violates the DTD for <S> elements.
+
+To deal with this properly, 
+First, we comment out the 158357 change from change_09.txt (manually)
+Then construct temp_boesp_09.xml
+python ../step0/changes/updateByLine.py temp_boesp_08.xml change_09.txt temp_boesp_09.xml
+
+diff temp_boesp.AB._1.xml temp_boesp_09.xml
+Now temp_boesp_09.xml is same as temp_boesp.AB._1.xml, except for
+1) the version in first line  (which should be 1.4).
+2) the presence of the '; line repeated'
+
+Next,
+cp temp_boesp_09.xml temp_boesp_10.xml
+Manually delete line 158357 from temp_boesp_10.xml
+Also, manually: (95240) may be corrected as Fuss ᴗᴗᴗ–! from Fuss {?!}.
+
+Now, install temp_boesp_10.xml as new version of boesp.xml
+
+cp temp_boesp_10.xml ../step0/boesp.xml
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+add and commit
