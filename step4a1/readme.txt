@@ -18,15 +18,40 @@ sh transcode_ab.sh slp1 deva ../../step4a1/verses_02.txt  ../../step4a1/verses_0
 
 
 # invertibility check
-cd ../step1a/sanproof_1_02
 sh transcode_ab.sh deva slp1 ../../step4a1/verses_02_deva.txt ../../step4a1/temp.txt
-cd ../../step4a1  # may need to do manually
 diff verses_02.txt temp.txt
 # no diff expected
 
 
 ----------------------------------------------------------
 Put copies of these into boesp_prep_sam and boesp_prep_ab repositories
+verses_02_deva.txt -> boesp-prep-ab/sanproof/boesp-2_deva.txt
+verses_02.txt -> boesp-prep-sam/sanproof/boesp-2_slp1.txt
+
+
+----------------------------------------------------------
+#extract HS and S verses from volume 3
+
+python extract_verses.py 3 temp_boesp.xml verses_03.txt
+ 3520 verses
+28874 lines written to verses_03.txt
+----------------------------------------------------------
+# make a devanagari version: verses_03_deva.txt
+
+sh transcode_ab.sh slp1 deva ../../step4a1/verses_03.txt  ../../step4a1/verses_03_deva.txt
+
+
+# invertibility check
+sh transcode_ab.sh deva slp1 ../../step4a1/verses_03_deva.txt ../../step4a1/temp.txt
+diff verses_03.txt temp.txt
+# no diff expected
+
+
+----------------------------------------------------------
+Put copies of these into boesp_prep_sam and boesp_prep_ab repositories
+cp verses_03_deva.txt  ../../boesp-prep-ab/sanproof/boesp-3_deva.txt
+cp verses_03.txt ../../boesp-prep-sam/sanproof/boesp-3_slp1.txt
+
 
 ----------------------------------------------------------
 # Get corrected versions of the verses
