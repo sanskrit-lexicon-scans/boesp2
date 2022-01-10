@@ -1,0 +1,140 @@
+; h3 1
+<entry>
+<info L="7668.1" page="5.223" gtypes="HS"/>
+<HS>
+<s>amuM kAlakzepaM</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5. In ²d. ist bei AUFRECHT zu lesen: <s>°jvAlAvalijawila°</s>.
+</HS>
+</entry>
+
+; h3 2
+<entry>
+<info L="7687.1" page="5.226" gtypes="HS"/>
+<HS>
+<s>arTA na santi</s> u. s. w. herausgegeben von AUFRECHT a. a. O. S. 73. ²b. <s>dAtA na saMkucita°</s> st. <s>tyAgAnna saMkucati</s>.
+</HS>
+</entry>
+
+; h3 3
+<entry>
+<info L="7690.1" page="5.226" gtypes="HS"/>
+<HS>
+<s>alipawalEH</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 63. ²d. <s>samIra kiM pAmarezu re kirasi</s>.
+</HS>
+</entry>
+
+; h3 4
+<entry>
+<info L="7711.1" page="5.229" gtypes="HS"/>
+<HS>
+<s>asyA manoharA°</s> herausgegeben von TH. AUFRECHT a. a. O. 82. ²b. Besser <s>nirjitAH</s> st. <s>varjitAH</s>.
+</HS>
+</entry>
+
+; h4 5
+<entry>
+<info L="7716.1" page="5.229" gtypes="HS"/>
+<HS>
+<s>aho durjanasaMsargAt</s> u. s. w. s. zu Spr. 6696.
+<pb n="5.230"/>
+</HS>
+</entry>
+
+; h3 6
+<entry>
+<info L="7738.1" page="5.232" gtypes="HS"/>
+<HS>
+<s>AlokavantaH</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 49. ²c. <s>candramA eva</s>.
+</HS>
+</entry>
+
+; h4 7
+<entry>
+<info L="7750.1" page="5.233" gtypes="HS"/>
+<HS>
+<s>iBaturagaSatEH</s> s. zu 1137.
+<pb n="5.234"/>
+</HS>
+</entry>
+
+; h3 8
+<entry>
+<info L="7756.1" page="5.234" gtypes="HS"/>
+<HS>
+<s>uttaMsakOtuka°</s> herausgegeben von TH. AUFRECHT a. a. O. 12. ²a. <s>vilAsinIBir</s>.
+</HS>
+</entry>
+
+; h3 9
+<entry>
+<info L="7785.1" page="5.238" gtypes="HS"/>
+<HS>
+<s>etAsu ketaki</s> herausgegeben von TH. AUFRECHT a. a. O. 71. ²c. <s>°vapurna jA°</s>, wie das Metrum verlangt.
+</HS>
+</entry>
+
+; h4 10
+<entry>
+<info L="7788.1" page="5.238" gtypes="HS"/>
+<HS>
+<s>ehi svAgatam</s> s. zu 1478.
+<pb n="5.239"/>
+</HS>
+</entry>
+
+; h3 11
+<entry>
+<info L="7791.1" page="5.239" gtypes="HS"/>
+<HS>
+<s>kaTamiha manuzyajanmA</s> herausgegeben von TH. AUFRECHT a. a. O. 62. ²d. <s>AnanAntamA tfpteH</s>. <s>AnanAntam</s> erklärt eine Glosse durch <s>AkaRWam</s>.
+</HS>
+</entry>
+
+; h4 12
+<entry>
+<info L="7794.1" page="5.239" gtypes="HS"/>
+<HS>
+<s>kamale kamalotpattiH</s> s. zu 1846.
+</HS>
+</entry>
+
+; h3 13
+<entry>
+<info L="7838.1" page="5.245" gtypes="HS"/>
+<HS>
+<s>kusumaM koSAtakyAH</s> herausgeg. von TH. AUFRECHT a. a. O. 17. ²c. Besser <s>alikulanicayE ruciraM</s>.
+</HS>
+</entry>
+
+; h3 14
+<entry>
+<info L="7841.1" page="5.246" gtypes="HS"/>
+<HS>
+<s>kfpaRasya samfdDInAM BoktAraH</s> (so hier) herausgeg. von TH. AUFRECHT a. a. O. S. 48. ²d. <s>SaSvadOrvAgneH</s>.
+</HS>
+</entry>
+
+; h3 15
+<entry>
+<info L="7845.1" page="5.246" gtypes="HS"/>
+<HS>
+<s>kenAtra campakataro</s> herausgeg. von TH. AUFRECHT a. a. O. 85. ²c. <s>pravfdDa</s> st. <s>prarUQa</s>. ²d. <s>Bo Bagna°</s>.
+</HS>
+</entry>
+
+; h3 16
+<entry>
+<info L="7846.1" page="5.246" gtypes="HS"/>
+<HS>
+<s>kokila kalamAlApEH</s> (so hier) herausgeg. von TH. AUFRECHT a. a. O. 40.
+<pb n="5.247"/>
+</HS>
+</entry>
+
+; h3 17
+<entry>
+<info L="7847.1" page="5.247" gtypes="HS"/>
+<HS>
+<s>kva citprARiprAptam</s> herausgeg. von TH. AUFRECHT a. a. O. 78. ²d. <s>tanu</s>, wie ich ebend. 636 vermuthet hatte, aber <s>jana</s> wie bei AUFRECHT. Man verbinde also <s>janatanuDano°</s>.
+<pb n="5.247"/>
+</HS>
+</entry>

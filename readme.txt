@@ -45,3 +45,4 @@ step4b - Transcode AS to IAST.
 step4c - Insert Greektext into boesp.xml
 step4d - Misc corrections mentioned in issue 45, starting at
          https://github.com/funderburkjim/boesp-prep/issues/45#issuecomment-1006366284
+step4e - Move <h3>, <h4> into new HS entries.  Ref #39.
