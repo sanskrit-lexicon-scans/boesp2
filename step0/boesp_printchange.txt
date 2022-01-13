@@ -71,5 +71,9 @@ Verse 1998: difference at line 1
 
 ; print correction; there is no such word as <s>nvahaM</s>, but <s>(a)nvahaM</s>, hence added the avagraha.
 ; -------------------------------------
+L=7791.1
+<s>kaTamiha manuzyajanmA</s> herausgegeben von TH. AUFRECHT a. a. O. 62.
+<s>kaTamiha manuzyajanmA</s> herausgegeben von TH. AUFRECHT a. a. O. 29.
+; -------------------------------------
 ; =====================================
 ; =====================================

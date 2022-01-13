@@ -1,0 +1,258 @@
+; The h3 entries from "Ueber die Paddhati von Çârngadhara" Von Th. Aufrecht
++7668.1 -> 7866 <s>amuM kAlakzepaM</s>  pages 4-5 of volume 6
++7687.1 -> 7867 <s>arTA na santi</s> page 73
+7690.1 -> 7868 <s>alipawalEH</s> page 63
+7711.1 -> 7869 <s>asyA manoharA°</s> page 82
+7738.1 -> 7870 <s>AlokavantaH</s> page 49
+7756.1 -> 7871 <s>uttaMsakOtuka°</s> page 12
+7785.1 -> 7872 <s>etAsu ketaki</s> page 71
+7791.1 -> 7873 <s>kaTamiha manuzyajanmA</s> page 62  NOT FOUND
+7838.1 -> 7874 <s>kusumaM koSAtakyAH</s> page 17
+7841.1 -> 7875 <s>kfpaRasya samfdDInAM BoktAraH</s> page 48
+7845.1 -> 7876 <s>kenAtra campakataro</s> page 85
+7846.1 -> 7877 <s>kokila kalamAlApEH</s> page 40
+7847.1 -> 7878 <s>kva citprARiprAptam</s> page 78
+<entry>
+<info L="7866" page="6.4" gtypes="S"/>
+<S>
+<s>amuM kAlakzepaM tyaja jalada gaMBIramaDurEH</s>
+<s>kimeBirnirGozEH sfja rawiti rAMkAri salilaM .</s>
+<s>aye paSyAvasTAmakaruRasamIravyatikara-</s>
+<s>jvalahAvajvajvAlAjawilamUrterviwapinaH ..</s>
+</S>
+<D n="7866">
+"Was, Wolke, nu7tzt dein erfreulich dumpfes Dro7hnen? Sa7ume
+nicht la7nger und spru7tze stracks das sprudelnde Nass. Schaue nur
+den Zustand jenes Baume, der eben so kraus aussieht, wie ein
+Flammenmeer, das durch die Wuth des unbarmherzigen Windes
+gefa7chelt wird" pa1n2au 133, 21 :
+</D>
+<F n="7866"> 1) b. jha1tka1ri A. B. O. jha1tka1ra D. tatka1ri E.
+</F>
+</entry>
+
+<entry>
+<info L="7867" page="6.73" gtypes="S"/>
+<S n="7867">
+<s>arTA na saMti na ca muMcati mAM durASA</s>
+<s>tyAgAnna saMkucati durlalitaM mano me .</s>
+<s>yAcYA ca lAGavakarI svavaDe ca pApaM</s>
+<s>prARAH svayaM vfajata kiM pravilaMbitena ..</s>
+</S>
+<D n="7867">
+"Ich habe kein Vermögen und doch verlässt mich nicht die
+falsche Hoffnung und mein verwöhntes Herz verschliesst sich nicht
+gegen Freigebigkeit. Betteln führt zu Erniederung und Selbstmord
+ist Sünde. Fliehe, mein Leben, aus freien Stücken, wozu das lange
+Zögern!" - asampâdayatah2 kam2cid 30, 9. idam idam iti bhûruhâm
+133, 23. udayati vitatordhvaraçmi 129, 9. kim2 kramis2yati kilais2a
+vâmano 142, 5. kumudavanam apaçri 128, 8. jitaros2arayâ mahâdhiyah
+12, 8. tulye 'parâdhe svarbhânur 17, 6. nanu sam2diçeti
+sudr2çoditayâ 105, 3. paritos2ayitâ na kaçcana 22, 3. pâdâhatam2
+yad utthâya 15, 14. pâçcâtyabhâgam iha sânus2u 142, 7. pratiku1latâm
+upagate hi vidhau 29, 16. priyasakhîsadr2çam pratibodhitâh2
+133, 14. bahu jagada purastât 130, 4. madhurayâ madhubodhita
+34, 13. mahâtmâno 'nugr2hn2anti 12, 15. mâ jîvan yah2 parâvajn5â
+15, 15. yâm2 yâm priyah2 praiks2ata 110, 12. yugântakâlapratisam2hr2tâtmano
+142, 6. lulitanayanatârâh2 ks2âmavaktrendu 128, 9.
+vikacakamalagandhair 129, 1. sam2ks2obham payasi punar 134, 21.
+samûlaghâtam aghnantah2 15, 16. sampadâ susthitammanyo 30, 8.
+salîlayâtâni na bhartur 140, 33. sahajândhadr2çah 22, 4. ha1yahâri
+hasitam 121, 6.
+155. <wide>Mâtangadivâkara</wide>. Ist älter als Râjaçekhara. 72, 10:
+</D>
+</entry>
+
+<entry>
+<info L="7868" page="6.63" gtypes="S"/>
+<S n="7868">
+<s>alipawalEranuyAtAM sahfdayahfdayajvaraM viluMpaMtIM .</s>
+<s>mfgamadaparimalalaharIM samIra pAmarapure kirasi ..</s>
+</S>
+<D n="7868">
+"Weshalb giessest du, Wind, die von Bienenschwärmen verfolgte
+Woge von Moschusduft, die die Herzenskrankheit von Verständigen
+heilen könnte, in eine Stadt aus, wo die Leute keine
+Nase haben?" - utkr2tyotkr2tya kr2ttim 145, 1. Ma1lati1. jalanivid2itavastra
+134, 27. Mâlatî. daivâd 41, 2:
+</D>
+</entry>
+
+<entry>
+<info L="7869" page="6.82" gtypes="S"/>
+<S n="7869">
+<s>asyA manoharAkArakabarIbAravarjitAH .</s>
+<s>lajjayeva vane vAsaM cakruScamarabarhiRAH ..</s>
+</S>
+<D n="7869">
+"Die Yaks und Pfauen, weil sie des Ma7dchens reizende Haarflechtenfu7lle
+nicht besassen, zogen sich aus Scham in den Wald
+zuru7ck." - nyañcaccañcalacañcucumbana  36, 4. bahuna1tra kim
+uktena du1ti 109, 2.
+</D>
+</entry>
+
+<entry>
+<info L="7870" page="6.49" gtypes="S"/>
+<S n="7870">
+<s>AlokavantaH saMnyeva BUyAMso BAskarAdayaH .</s>
+<s>kalAvAneva tu grAvadrAvakarmaRi karmaWaH ..</s>
+</S>
+<D n="7870">
+"Licht besitzen auch die Sonne und andere Gestirne, aber
+nur der vielseitige Mond versteht es Steine flüssig zu machen ¹)." -
+</D>
+<F n="7870">
+Auspielung auf den Candraka1nta-Stein. Bd. XXVII.
+</F>
+</entry>
+
+<entry>
+<info L="7871" page="6.12" gtypes="S"/>
+<S n="7871">
+<s>uttaMsakOtukarasena vilAsinInAM</s>
+<s>lUnAni yasya na naKErapi pallavAni .</s>
+<s>udyAnasaMqanataro sahakAra sa tva-</s>
+<s>maMgArakArakaragocaratAM gato 'si ..</s>
+</S>
+<D n="7871">
+"Du Mango, ehemals Zierde, des Haines, bist jetzt dem
+Kohlenbrenner in die Hände gefallen, ohne dass die Schönen mit
+ihren Nagelspitzen deine Knospen am Ohrringfeste (Sahaka1rabhan5jikA)
+spielend gepflu7kt ha7tten."
+</D>
+<F n="7871">
+Utpalarâja. 59, 31
+</F>
+</entry>
+
+<entry>
+<info L="7872" page="6.71" gtypes="S"/>
+<S n="7872">
+<s>etAsu ketaki latAsu vikAsinIzu</s>
+<s>sOBAgyamadButataraM BavatI biBarti .</s>
+<s>yatkaMwakErvyaTitamAtmavapurajAnaM-</s>
+<s>stvAmeva sevitumupakramate dvirePaH ..</s>
+</S>
+<D n="7872">
+"Unter diesen blühenden Schlingpflanzen geniessest du, ketaki1,
+die wundersamste Seligkeit; denn der Bienenju1ngling, ohne auf die
+ihn verwundenden Stacheln zu achten, eilt zu dir allein heran um
+mit dir zu liebkosen."
+</D>
+<F n="7872">
+Maha1deva (S4ri1maha1deva). eta1su 59, 27:
+</F>
+</entry>
+
+<entry>
+<info L="7873" page="6.62" gtypes="S"/>
+<S n="7873">
+<s>kaTamiha manuzyajanmA ?</s>
+<s></s>
+<s></s>
+<s></s>
+</S>
+<D n="7873">
+
+</D>
+<F n="7873">
+
+</F>
+</entry>
+
+<entry>
+<info L="7874" page="6.17" gtypes="S"/>
+<S n="7874">
+<s>kusumaM koSAtakyA vikasati rAtrO divA ca kUzmAMqyAH .</s>
+<s>alikulanilayaM ruciraM kiMtu yaSaH kumudakamalayoreva ..</s>
+</S>
+<D n="7874">
+"Zwar birst auch die Blüthe der Koçâtakî bei Nacht und die
+der Kûs2mân2d2î bei Tag auf, aber nur die reizende Blume der
+Nachtlilie und Taglilie werden allgemein gepriesen, weil sie von
+Bienenschwärmen aufgesucht werden." - Dieser Krishna war vielleicht
+der Bruder von Çârn3gadhara.
+</D>
+<F n="7874">
+Kr2s2n2a. 67, 3
+</F>
+</entry>
+
+<entry>
+<info L="7875" page="6.48" gtypes="S"/>
+<S n="7875">
+<s>kfpaRasamfdDInAmapi BoktAraH saMti kecidatinipuRAH .</s>
+<s>jalasaMpado 'burASeryAMti vaSaM sarvadEva baqavAgneH ..</s>
+</S>
+<D n="7875">
+"Auch der aufgesparte Reichthum der Geizigen findet schlaue
+Leute, die ihn zu benutzen wissen: die Wassermenge des Weltmeeres
+fällt stets unter die Botmässigkeit des unterseeischen Feuers."
+</D>
+<F n="7875">
+Praka1s4avars2a. kr2pan2a 23, 6
+</F>
+</entry>
+
+<entry>
+<info L="7876" page="6.85" gtypes="S"/>
+<S n="7876">
+<s>kenAtra campakataro bata ropito 'si</s>
+<s>kugrAmapAmarajanAMtikavAwikAyAM .</s>
+<s>yatra prarUQanavaSAkavivfdDaloBA-</s>
+<s>dgoBagnavAwaGawano 'citapallavo 'si ..</s>
+</S>
+<D n="7876">
+"Wer, Campakabaum, hat dich in diesen Garten gepflanzt, der
+an einem armseligen Dorfe liegt und bäuerischen Leuten angehört?
+Hier bricht das Rindvieh durch die Hecke um sich an dem frischen
+Gemüse zu weiden, aber niemand weidet sich an deinen Blüthen."
+</D>
+<F n="7876">
+Vijjaka1. kena1tra 59, 17
+</F>
+</entry>
+
+<entry>
+<info L="7877" page="6.40" gtypes="S"/>
+<S n="7877">
+<s>kokila kalapralApEralamalamAlokase rasAlaM kiM .</s>
+<s>SaranikaraBaritaSaraDiH SabaraH saratIha parisare saDanuH ..</s>
+</S>
+<D n="7877">
+"Weshalb blickst du, Kokila, den Mangobaum unermu7dlich au
+und lässt deinen lieblichen Gesang erto7nen? Sieh, der wilde Bergbewohner
+schweift in der Na7he umher, und hat seinen Ko7cher voll
+von Pfeilen und den Bogen in der Hand."
+</D>
+<F n="7877">
+Dhanadadeva (Çrîdhanadadevânâm). Die Handschriften
+geben oft fehlerhaft Çrîdhanadevânâm.
+kokila 46, 4
+</F>
+</entry>
+
+<entry>
+<info L="7878" page="6.78" gtypes="S"/>
+<S n="7878">
+<s>kvacitprARiprAptam Gawitamapi kAryaM viGawaya-</s>
+<s>nyaSakyaM kenApi kvacidaGawamAnaM Gawayati .</s>
+<s>tadevaM sarvezAmupari parito jAgrati viDA-</s>
+<s>vupAlaMBaH ko 'yaM jana nanu DanopArjanaviDO ..</s>
+</S>
+<D n="7878">
+"Manchmal vereitelt sie ein bereits in Händen befindliches vollzogenes
+Geschäft, und ein anderes Mal bringt sie ein unmöglich
+scheinendes unvorbereitetes Werk zu Wege : da in dieser Weise
+die Vorsehung allenthalben über allen wacht, wie kommt es, dass
+die Menschen ihr Vorwürfe machen, wenn es sich darum handelt
+Reichthümer zu erwerben?"
+</D>
+<F n="7878">
+Râmacandrabhat2t2a. kvacit pân2iprâptam2 findet sich
+nur in C. D. E. nach 29, 1.
+<i>jana nanu</i> ist schwerlich richtig.
+</F>
+</entry>
+

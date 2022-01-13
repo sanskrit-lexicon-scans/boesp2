@@ -13,13 +13,55 @@ Copy to temp_boesp_01.xml, where the changes will be made.
 cp temp_boesp.xml temp_boesp_01.xml
 
 Make new entries for all the h3, h4 elements (17 new entries).
+These are the '.1' cross-reference entries.
 
 See h3_h4_entries.txt for the new entries.  These identify which were
 previously coded with <h3> and which with <h4>, in case this distinction
 is needed later.
 
+python aufprep.py temp_aufstart.txt
+  Provides skeleton for the aufrecht entries
+  They are numbered (L) starting with 1 more than the last Boe number (L=7865)
+  Here is the correspondence between the .1 references in Boe and the
+  new Aufrecht entries:
+; The h3 entries from "Ueber die Paddhati von Śārngadhara" Von Th. Aufrecht
+7668.1 -> 7866 <s>amuM kAlakzepaM</s>  pages 4-5 of volume 6
+7687.1 -> 7867 <s>arTA na santi</s> page 73
+7690.1 -> 7868 <s>alipawalEH</s> page 63
+7711.1 -> 7869 <s>asyA manoharA°</s> page 82
+7738.1 -> 7870 <s>AlokavantaH</s> page 49
+7756.1 -> 7871 <s>uttaMsakOtuka°</s> page 12
+7785.1 -> 7872 <s>etAsu ketaki</s> page 71
+7791.1 -> 7873 <s>kaTamiha manuzyajanmA</s> page 62
+   Note above should be page 29.  Print error in vol 4 at 7791.1
+7838.1 -> 7874 <s>kusumaM koSAtakyAH</s> page 17
+7841.1 -> 7875 <s>kfpaRasya samfdDInAM BoktAraH</s> page 48
+7845.1 -> 7876 <s>kenAtra campakataro</s> page 85
+7846.1 -> 7877 <s>kokila kalamAlApEH</s> page 40
+7847.1 -> 7878 <s>kva citprARiprAptam</s> page 78
 
-install revised version 01 of boesp
+---------------------------------------------
+aufrecht_entries.txt
+ Separate file in which the Aufrecht entries are typed.
+ constructed manually
+aufrecht_entries1.txt
+ Changedto unicode
+ python aufrecht_transcode.py  aufrecht_entries.txt aufrecht_entries1.txt
+;
+aufrecht_entries2.txt
+  Manual editing, esp. with regard to F and D elements.
+  The F elements in boesp always (almost always) mention the source of the verse.
+  That is the convention used for the F elements in the Aufrecht verses.
+
+devanagari version for proof-reading
+sh transcode_ab.sh slp1 deva ../../step4e/aufrecht_entries2.txt ../../step4e/aufrecht_entries2_deva.txt
+
+
+#
+temp_boesp_02.xml
+  Add (at the bottom) the Aufrecht entries.
+
+install revised version 02 of boesp
 
 cp temp_boesp_01.xml ../step0/boesp.xml
   commit 

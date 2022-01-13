@@ -1,0 +1,244 @@
+<entry>
+<info L="7866" page="6.4" gtypes="S"/>
+<S>
+<s>amuM kAlakzepaM tyaja jalada gaMBIramaDurEH</s>
+<s>kimeBirnirGozEH sfja rawiti rAMkAri salilaM .</s>
+<s>aye paSyAvasTAmakaruRasamIravyatikara-</s>
+<s>jvalahAvajvajvAlAjawilamUrterviwapinaH ..</s>
+</S>
+<D n="7866">
+"Was, Wolke, nϋtzt dein erfreulich dumpfes Drӧhnen? Sӓume
+nicht lӓnger und sprϋtze stracks das sprudelnde Nass. Schaue nur
+den Zustand jenes Baume, der eben so kraus aussieht, wie ein
+Flammenmeer, das durch die Wuth des unbarmherzigen Windes
+gefӓchelt wird" pāṇau 133, 21 :
+</D>
+<F n="7866"> 1) b. jhātkāri A. B. O. jhātkāra D. tatkāri E.
+</F>
+</entry>
+
+<entry>
+<info L="7867" page="6.73" gtypes="S"/>
+<S n="7867">
+<s>arTA na saMti na ca muMcati mAM durASA</s>
+<s>tyAgAnna saMkucati durlalitaM mano me .</s>
+<s>yAcYA ca lAGavakarI svavaDe ca pApaM</s>
+<s>prARAH svayaM vfajata kiM pravilaMbitena ..</s>
+</S>
+<D n="7867">
+"Ich habe kein Vermögen und doch verlässt mich nicht die
+falsche Hoffnung und mein verwöhntes Herz verschliesst sich nicht
+gegen Freigebigkeit. Betteln führt zu Erniederung und Selbstmord
+ist Sünde. Fliehe, mein Leben, aus freien Stücken, wozu das lange
+Zögern!" - asampādayataḥ kaṃcid 30, 9. idam idam iti bhūruhām
+133, 23. udayati vitatordhvaraśmi 129, 9. kiṃ kramiṣyati kilaiṣa
+vāmano 142, 5. kumudavanam apaśri 128, 8. jitaroṣarayā mahādhiyah
+12, 8. tulye 'parādhe svarbhānur 17, 6. nanu saṃdiśeti
+sudṛśoditayā 105, 3. paritoṣayitā na kaścana 22, 3. pādāhataṃ
+yad utthāya 15, 14. pāścātyabhāgam iha sānuṣu 142, 7. pratikūlatām
+upagate hi vidhau 29, 16. priyasakhīsadṛśam pratibodhitāḥ
+133, 14. bahu jagada purastāt 130, 4. madhurayā madhubodhita
+34, 13. mahātmāno 'nugṛhṇanti 12, 15. mā jīvan yaḥ parāvajñā
+15, 15. yāṃ yām priyaḥ praikṣata 110, 12. yugāntakālapratisaṃhṛtātmano
+142, 6. lulitanayanatārāḥ kṣāmavaktrendu 128, 9.
+vikacakamalagandhair 129, 1. saṃkṣobham payasi punar 134, 21.
+samūlaghātam aghnantaḥ 15, 16. sampadā susthitammanyo 30, 8.
+salīlayātāni na bhartur 140, 33. sahajāndhadṛśah 22, 4. hāyahāri
+hasitam 121, 6.
+155. <wide>Mātangadivākara</wide>. Ist älter als Rājaśekhara. 72, 10:
+</D>
+</entry>
+
+<entry>
+<info L="7868" page="6.63" gtypes="S"/>
+<S n="7868">
+<s>alipawalEranuyAtAM sahfdayahfdayajvaraM viluMpaMtIM .</s>
+<s>mfgamadaparimalalaharIM samIra pAmarapure kirasi ..</s>
+</S>
+<D n="7868">
+"Weshalb giessest du, Wind, die von Bienenschwärmen verfolgte
+Woge von Moschusduft, die die Herzenskrankheit von Verständigen
+heilen könnte, in eine Stadt aus, wo die Leute keine
+Nase haben?" - utkṛtyotkṛtya kṛttim 145, 1. Mālati1. jalanivid2itavastra
+134, 27. Mālatī. daivād 41, 2:
+</D>
+</entry>
+
+<entry>
+<info L="7869" page="6.82" gtypes="S"/>
+<S n="7869">
+<s>asyA manoharAkArakabarIbAravarjitAH .</s>
+<s>lajjayeva vane vAsaM cakruScamarabarhiRAH ..</s>
+</S>
+<D n="7869">
+"Die Yaks und Pfauen, weil sie des Mӓdchens reizende Haarflechtenfϋlle
+nicht besassen, zogen sich aus Scham in den Wald
+zurϋck." - nyañcaccañcalacañcucumbana  36, 4. bahunātra kim
+uktena dūti 109, 2.
+</D>
+</entry>
+
+<entry>
+<info L="7870" page="6.49" gtypes="S"/>
+<S n="7870">
+<s>AlokavantaH saMnyeva BUyAMso BAskarAdayaH .</s>
+<s>kalAvAneva tu grAvadrAvakarmaRi karmaWaH ..</s>
+</S>
+<D n="7870">
+"Licht besitzen auch die Sonne und andere Gestirne, aber
+nur der vielseitige Mond versteht es Steine flüssig zu machen ¹)." -
+</D>
+<F n="7870">
+Auspielung auf den Candrakānta-Stein. Bd. XXVII.
+</F>
+</entry>
+
+<entry>
+<info L="7871" page="6.12" gtypes="S"/>
+<S n="7871">
+<s>uttaMsakOtukarasena vilAsinInAM</s>
+<s>lUnAni yasya na naKErapi pallavAni .</s>
+<s>udyAnasaMqanataro sahakAra sa tva-</s>
+<s>maMgArakArakaragocaratAM gato 'si ..</s>
+</S>
+<D n="7871">
+"Du Mango, ehemals Zierde, des Haines, bist jetzt dem
+Kohlenbrenner in die Hände gefallen, ohne dass die Schönen mit
+ihren Nagelspitzen deine Knospen am Ohrringfeste (SahakārabhañjikA)
+spielend gepflϋkt hӓtten."
+</D>
+<F n="7871">
+Utpalarāja. 59, 31
+</F>
+</entry>
+
+<entry>
+<info L="7872" page="6.71" gtypes="S"/>
+<S n="7872">
+<s>etAsu ketaki latAsu vikAsinIzu</s>
+<s>sOBAgyamadButataraM BavatI biBarti .</s>
+<s>yatkaMwakErvyaTitamAtmavapurajAnaM-</s>
+<s>stvAmeva sevitumupakramate dvirePaH ..</s>
+</S>
+<D n="7872">
+"Unter diesen blühenden Schlingpflanzen geniessest du, ketaki1,
+die wundersamste Seligkeit; denn der Bienenjūngling, ohne auf die
+ihn verwundenden Stacheln zu achten, eilt zu dir allein heran um
+mit dir zu liebkosen."
+</D>
+<F n="7872">
+Mahādeva (Śri1mahādeva). etāsu 59, 27:
+</F>
+</entry>
+
+<entry>
+<info L="7873" page="6.62" gtypes="S"/>
+<S n="7873">
+<s>kaTamiha manuzyajanmA ?</s>
+<s></s>
+<s></s>
+<s></s>
+</S>
+<D n="7873">
+
+</D>
+<F n="7873">
+
+</F>
+</entry>
+
+<entry>
+<info L="7874" page="6.17" gtypes="S"/>
+<S n="7874">
+<s>kusumaM koSAtakyA vikasati rAtrO divA ca kUzmAMqyAH .</s>
+<s>alikulanilayaM ruciraM kiMtu yaSaH kumudakamalayoreva ..</s>
+</S>
+<D n="7874">
+"Zwar birst auch die Blüthe der Kośātakī bei Nacht und die
+der Kūṣmāṇd2ī bei Tag auf, aber nur die reizende Blume der
+Nachtlilie und Taglilie werden allgemein gepriesen, weil sie von
+Bienenschwärmen aufgesucht werden." - Dieser Krishna war vielleicht
+der Bruder von Śārn3gadhara.
+</D>
+<F n="7874">
+Kṛṣṇa. 67, 3
+</F>
+</entry>
+
+<entry>
+<info L="7875" page="6.48" gtypes="S"/>
+<S n="7875">
+<s>kfpaRasamfdDInAmapi BoktAraH saMti kecidatinipuRAH .</s>
+<s>jalasaMpado 'burASeryAMti vaSaM sarvadEva baqavAgneH ..</s>
+</S>
+<D n="7875">
+"Auch der aufgesparte Reichthum der Geizigen findet schlaue
+Leute, die ihn zu benutzen wissen: die Wassermenge des Weltmeeres
+fällt stets unter die Botmässigkeit des unterseeischen Feuers."
+</D>
+<F n="7875">
+Prakāśavarṣa. kṛpaṇa 23, 6
+</F>
+</entry>
+
+<entry>
+<info L="7876" page="6.85" gtypes="S"/>
+<S n="7876">
+<s>kenAtra campakataro bata ropito 'si</s>
+<s>kugrAmapAmarajanAMtikavAwikAyAM .</s>
+<s>yatra prarUQanavaSAkavivfdDaloBA-</s>
+<s>dgoBagnavAwaGawano 'citapallavo 'si ..</s>
+</S>
+<D n="7876">
+"Wer, Campakabaum, hat dich in diesen Garten gepflanzt, der
+an einem armseligen Dorfe liegt und bäuerischen Leuten angehört?
+Hier bricht das Rindvieh durch die Hecke um sich an dem frischen
+Gemüse zu weiden, aber niemand weidet sich an deinen Blüthen."
+</D>
+<F n="7876">
+Vijjakā. kenātra 59, 17
+</F>
+</entry>
+
+<entry>
+<info L="7877" page="6.40" gtypes="S"/>
+<S n="7877">
+<s>kokila kalapralApEralamalamAlokase rasAlaM kiM .</s>
+<s>SaranikaraBaritaSaraDiH SabaraH saratIha parisare saDanuH ..</s>
+</S>
+<D n="7877">
+"Weshalb blickst du, Kokila, den Mangobaum unermϋdlich au
+und lässt deinen lieblichen Gesang ertӧnen? Sieh, der wilde Bergbewohner
+schweift in der Nӓhe umher, und hat seinen Kӧcher voll
+von Pfeilen und den Bogen in der Hand."
+</D>
+<F n="7877">
+Dhanadadeva (Śrīdhanadadevānām). Die Handschriften
+geben oft fehlerhaft Śrīdhanadevānām.
+kokila 46, 4
+</F>
+</entry>
+
+<entry>
+<info L="7878" page="6.78" gtypes="S"/>
+<S n="7878">
+<s>kvacitprARiprAptam Gawitamapi kAryaM viGawaya-</s>
+<s>nyaSakyaM kenApi kvacidaGawamAnaM Gawayati .</s>
+<s>tadevaM sarvezAmupari parito jAgrati viDA-</s>
+<s>vupAlaMBaH ko 'yaM jana nanu DanopArjanaviDO ..</s>
+</S>
+<D n="7878">
+"Manchmal vereitelt sie ein bereits in Händen befindliches vollzogenes
+Geschäft, und ein anderes Mal bringt sie ein unmöglich
+scheinendes unvorbereitetes Werk zu Wege : da in dieser Weise
+die Vorsehung allenthalben über allen wacht, wie kommt es, dass
+die Menschen ihr Vorwürfe machen, wenn es sich darum handelt
+Reichthümer zu erwerben?"
+</D>
+<F n="7878">
+Rāmacandrabhaṭṭa. kvacit pāṇiprāptaṃ findet sich
+nur in C. D. E. nach 29, 1.
+<i>jana nanu</i> ist schwerlich richtig.
+</F>
+</entry>
+

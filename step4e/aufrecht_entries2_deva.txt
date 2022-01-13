@@ -1,0 +1,238 @@
+<entry>
+<info L="7866" page="6.4" gtypes="S"/>
+<S>
+<s>अमुं कालक्षेपं त्यज जलद गंभीरमधुरैः</s>
+<s>किमेभिर्निर्घोषैः सृज रटिति रांकारि सलिलं ।</s>
+<s>अये पश्यावस्थामकरुणसमीरव्यतिकर-</s>
+<s>ज्वलहावज्वज्वालाजटिलमूर्तेर्विटपिनः ॥</s>
+</S>
+<D n="7866">
+"Was, Wolke, nϋtzt dein erfreulich dumpfes Drӧhnen? Sӓume
+nicht lӓnger und sprϋtze stracks das sprudelnde Nass. Schaue nur
+den Zustand jenes Baume, der eben so kraus aussieht, wie ein
+Flammenmeer, das durch die Wuth des unbarmherzigen Windes
+gefӓchelt wird."
+</D>
+<F n="7866">
+Akālajalada. 42, 20.
+1) b. jhātkāri A. B. O. jhātkāra D. tatkāri E.
+</F>
+</entry>
+
+<entry>
+<info L="7867" page="6.73" gtypes="S"/>
+<S n="7867">
+<s>अर्था न संति न च मुंचति मां दुराशा</s>
+<s>त्यागान्न संकुचति दुर्ललितं मनो मे ।</s>
+<s>याच्ञा च लाघवकरी स्ववधे च पापं</s>
+<s>प्राणाः स्वयं वृअजत किं प्रविलंबितेन ॥</s>
+</S>
+<D n="7867">
+"Ich habe kein Vermögen und doch verlässt mich nicht die
+falsche Hoffnung und mein verwöhntes Herz verschliesst sich nicht
+gegen Freigebigkeit. Betteln führt zu Erniederung und Selbstmord
+ist Sünde. Fliehe, mein Leben, aus freien Stücken, wozu das lange
+Zögern!"
+</D>
+<F n="7867">
+Māghakavi. 25, 7.
+</F>
+</entry>
+
+<entry>
+<info L="7868" page="6.63" gtypes="S"/>
+<S n="7868">
+<s>अलिपटलैरनुयातां सहृदयहृदयज्वरं विलुंपंतीं ।</s>
+<s>मृगमदपरिमललहरीं समीर पामरपुरे किरसि ॥</s>
+</S>
+<D n="7868">
+"Weshalb giessest du, Wind, die von Bienenschwärmen verfolgte
+Woge von Moschusduft, die die Herzenskrankheit von Verständigen
+heilen könnte, in eine Stadt aus, wo die Leute keine
+Nase haben?"
+</D>
+<F n="7868">
+Bhavabhūti. 43, 2.
+</F>
+</entry>
+
+<entry>
+<info L="7869" page="6.82" gtypes="S"/>
+<S n="7869">
+<s>अस्या मनोहराकारकबरीबारवर्जिताः ।</s>
+<s>लज्जयेव वने वासं चक्रुश्चमरबर्हिणाः ॥</s>
+</S>
+<D n="7869">
+"Die Yaks und Pfauen, weil sie des Mӓdchens reizende Haarflechtenfϋlle
+nicht besassen, zogen sich aus Scham in den Wald
+zurϋck."
+</D>
+<F n="7869">
+Vararuci. 98, 1.
+</F>
+</entry>
+
+<entry>
+<info L="7870" page="6.49" gtypes="S"/>
+<S n="7870">
+<s>आलोकवन्तः संन्येव भूयांसो भास्करादयः ।</s>
+<s>कलावानेव तु ग्रावद्रावकर्मणि कर्मठः ॥</s>
+</S>
+<D n="7870">
+"Licht besitzen auch die Sonne und andere Gestirne, aber
+nur der vielseitige Mond versteht es Steine flüssig zu machen."
+</D>
+<F n="7870">
+Prahlādana. 41, 1.
+Auspielung auf den Candrakānta-Stein.
+</F>
+</entry>
+
+<entry>
+<info L="7871" page="6.12" gtypes="S"/>
+<S n="7871">
+<s>उत्तंसकौतुकरसेन विलासिनीनां</s>
+<s>लूनानि यस्य न नखैरपि पल्लवानि ।</s>
+<s>उद्यानसंडनतरो सहकार स त्व-</s>
+<s>मंगारकारकरगोचरतां गतो ऽसि ॥</s>
+</S>
+<D n="7871">
+"Du Mango, ehemals Zierde, des Haines, bist jetzt dem
+Kohlenbrenner in die Hände gefallen, ohne dass die Schönen mit
+ihren Nagelspitzen deine Knospen am Ohrringfeste (SahakārabhañjikA)
+spielend gepflϋkt hӓtten."
+</D>
+<F n="7871">
+Utpalarāja. 59, 31.
+</F>
+</entry>
+
+<entry>
+<info L="7872" page="6.71" gtypes="S"/>
+<S n="7872">
+<s>एतासु केतकि लतासु विकासिनीषु</s>
+<s>सौभाग्यमद्भुततरं भवती बिभर्ति ।</s>
+<s>यत्कंटकैर्व्यथितमात्मवपुरजानं-</s>
+<s>स्त्वामेव सेवितुमुपक्रमते द्विरेफः ॥</s>
+</S>
+<D n="7872">
+"Unter diesen blühenden Schlingpflanzen geniessest du, ketakī,
+die wundersamste Seligkeit; denn der Bienenjūngling, ohne auf die
+ihn verwundenden Stacheln zu achten, eilt zu dir allein heran um
+mit dir zu liebkosen."
+</D>
+<F n="7872">
+Mahādeva (Śrīmahādeva). 59, 27.
+</F>
+</entry>
+
+<entry>
+<info L="7873" page="6.62" gtypes="S"/>
+<S n="7873">
+<s>कथमिह मनुष्यजन्मा संप्रविशति सदसि विबुधगमितायां ।</s>
+<s>येम न सुभाषितामृतमाह्लादि निपीतमा तृप्तेः ॥</s>
+</S>
+<D n="7873">
+"Wie darf ein Menschensohn es wagen in eine von göttlichen
+Weisen berufene Versammlung einzutreten, falls er nicht den wonnesamen
+Nektar edler Rede in vollen Zügen eingeschlürft hat."
+</D>
+<F n="7873">
+Cāṇakya. 5, 2.
+</F>
+</entry>
+
+<entry>
+<info L="7874" page="6.17" gtypes="S"/>
+<S n="7874">
+<s>कुसुमं कोशातक्या विकसति रात्रौ दिवा च कूष्मांड्याः ।</s>
+<s>अलिकुलनिलयं रुचिरं किंतु यशः कुमुदकमलयोरेव ॥</s>
+</S>
+<D n="7874">
+"Zwar birst auch die Blüthe der Kośātakī bei Nacht und die
+der Kūṣmāṇd2ī bei Tag auf, aber nur die reizende Blume der
+Nachtlilie und Taglilie werden allgemein gepriesen, weil sie von
+Bienenschwärmen aufgesucht werden." - Dieser Krishna war vielleicht
+der Bruder von Śārṅgadhara.
+</D>
+<F n="7874">
+Kṛṣṇa. 67, 3.
+</F>
+</entry>
+
+<entry>
+<info L="7875" page="6.48" gtypes="S"/>
+<S n="7875">
+<s>कृपणसमृद्धीनामपि भोक्तारः संति केचिदतिनिपुणाः ।</s>
+<s>जलसंपदो ऽबुराशेर्यांति वशं सर्वदैव बडवाग्नेः ॥</s>
+</S>
+<D n="7875">
+"Auch der aufgesparte Reichthum der Geizigen findet schlaue
+Leute, die ihn zu benutzen wissen: die Wassermenge des Weltmeeres
+fällt stets unter die Botmässigkeit des unterseeischen Feuers."
+</D>
+<F n="7875">
+Prakāśavarṣa. 23, 6.
+</F>
+</entry>
+
+<entry>
+<info L="7876" page="6.85" gtypes="S"/>
+<S n="7876">
+<s>केनात्र चम्पकतरो बत रोपितो ऽसि</s>
+<s>कुग्रामपामरजनांतिकवाटिकायां ।</s>
+<s>यत्र प्ररूढनवशाकविवृद्धलोभा-</s>
+<s>द्गोभग्नवाटघटनो ऽचितपल्लवो ऽसि ॥</s>
+</S>
+<D n="7876">
+"Wer, Campakabaum, hat dich in diesen Garten gepflanzt, der
+an einem armseligen Dorfe liegt und bäuerischen Leuten angehört?
+Hier bricht das Rindvieh durch die Hecke um sich an dem frischen
+Gemüse zu weiden, aber niemand weidet sich an deinen Blüthen."
+</D>
+<F n="7876">
+Vijjakā. 59, 17.
+</F>
+</entry>
+
+<entry>
+<info L="7877" page="6.40" gtypes="S"/>
+<S n="7877">
+<s>कोकिल कलप्रलापैरलमलमालोकसे रसालं किं ।</s>
+<s>शरनिकरभरितशरधिः शबरः सरतीह परिसरे सधनुः ॥</s>
+</S>
+<D n="7877">
+"Weshalb blickst du, Kokila, den Mangobaum unermϋdlich au
+und lässt deinen lieblichen Gesang ertӧnen? Sieh, der wilde Bergbewohner
+schweift in der Nӓhe umher, und hat seinen Kӧcher voll
+von Pfeilen und den Bogen in der Hand."
+</D>
+<F n="7877">
+Dhanadadeva (Śrīdhanadadevānām). 46, 4.
+Die Handschriften geben oft fehlerhaft Śrīdhanadevānām.
+</F>
+</entry>
+
+<entry>
+<info L="7878" page="6.78" gtypes="S"/>
+<S n="7878">
+<s>क्वचित्पाणिप्राप्तम् घटितमपि कार्यं विघटय-</s>
+<s>त्यशक्यं केनापि क्वचिदघटमानं घटयति ।</s>
+<s>तदेवं सर्वेषामुपरि परितो जाग्रति विधा-</s>
+<s>वुपालंभः को ऽयं जन ननु धनोपार्जनविधौ ॥</s>
+</S>
+<D n="7878">
+"Manchmal vereitelt sie ein bereits in Händen befindliches vollzogenes
+Geschäft, und ein anderes Mal bringt sie ein unmöglich
+scheinendes unvorbereitetes Werk zu Wege : da in dieser Weise
+die Vorsehung allenthalben über allen wacht, wie kommt es, dass
+die Menschen ihr Vorwürfe machen, wenn es sich darum handelt
+Reichthümer zu erwerben?"
+</D>
+<F n="7878">
+Rāmacandrabhaṭṭa. kvacit pāṇiprāptaṃ findet sich
+nur in C. D. E. nach 29, 1.cd
+<i>jana nanu</i> ist schwerlich richtig.
+</F>
+</entry>
+
