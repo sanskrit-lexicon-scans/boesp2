@@ -127,7 +127,7 @@ Mahādeva (Śrīmahādeva). 59, 27.
 </entry>
 
 <entry>
-<info L="7873" page="6.62" gtypes="S"/>
+<info L="7873" page="6.29" gtypes="S"/>
 <S n="7873">
 <s>kaTamiha manuzyajanmA saMpraviSati sadasi vibuDagamitAyAM .</s>
 <s>yema na suBAzitAmftamAhlAdi nipItamA tfpteH ..</s>

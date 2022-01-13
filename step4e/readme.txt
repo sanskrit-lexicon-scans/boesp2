@@ -33,7 +33,7 @@ python aufprep.py temp_aufstart.txt
 7756.1 -> 7871 <s>uttaMsakOtuka°</s> page 12
 7785.1 -> 7872 <s>etAsu ketaki</s> page 71
 7791.1 -> 7873 <s>kaTamiha manuzyajanmA</s> page 62
-   Note above should be page 29.  Print error in vol 4 at 7791.1
+   Note above should be page 29.  Print error in vol 5 at 7791.1
 7838.1 -> 7874 <s>kusumaM koSAtakyAH</s> page 17
 7841.1 -> 7875 <s>kfpaRasya samfdDInAM BoktAraH</s> page 48
 7845.1 -> 7876 <s>kenAtra campakataro</s> page 85
