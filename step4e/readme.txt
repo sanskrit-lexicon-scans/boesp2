@@ -59,8 +59,8 @@ sh transcode_ab.sh slp1 deva ../../step4e/aufrecht_entries2.txt ../../step4e/auf
 #---------------------------------------------------
 Andhrabharati revisions: from aufrecht_entries2_deva_updated.txt
 
-1. Changed opening simple double-quote " to „ Double Low-9 Quotation Mark U201E
-   And closing double-quote to “ Left Double Quotation Mark U201C
+1. Changed opening simple double-quote " to „ DOUBLE LOW-9 QUOTATION MARK U201E
+   And closing double-quote to “ LEFT DOUBLE QUOTATION MARK U201C
    These changes to closely resemble the printed text, but U201C is an odd
    choice.  Let it be.
    
