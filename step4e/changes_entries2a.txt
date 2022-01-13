@@ -1,0 +1,69 @@
+5 old <s>kimeBirnirGozEH sfja rawiti rAMkAri salilaM .</s>
+5 new <s>kimeBirnirGozEH sfja Jawiti JAMkAri salilam .</s>
+;-----------------
+7 old <s>jvalahAvajvajvAlAjawilamUrterviwapinaH ..</s>
+7 new <s>jvaladdAvajvAlA[vali]jawilamUrterviwapinaH ..</s>
+;-----------------
+12 old den Zustand jenes Baume, der eben so kraus aussieht, wie ein
+12 new den Zustand jenes Baumes, der eben so kraus aussieht, wie ein
+;-----------------
+17 old Akālajalada. 42, 20.
+17 new Acala. 42, 20.
+;-----------------
+18 old 1) b. jhātkāri A. B. O. jhātkāra D. tatkāri E.
+18 new 7866) b. jhātkāri A. B. O. jhātkāra D. tatkāri E.
+;-----------------
+62 old <s>asyA manoharAkArakabarIbAravarjitAH .</s>
+62 new <s>asyA manoharAkArakabarIBAravarjitAH .</s>
+;-----------------
+87 old Auspielung auf den Candrakānta-Stein.
+87 new 7870) Anspielung auf den Candrakānta-Stein.
+;-----------------
+96 old <s>udyAnasaMqanataro sahakAra sa tva-</s>
+96 new <s>udyAnamaMqanataro sahakAra sa tva-</s>
+;-----------------
+100 old „Du Mango, ehemals Zierde, des Haines, bist jetzt dem
+100 new „Du Mango, ehemals Zierde des Haines, bist jetzt dem
+;-----------------
+102 old ihren Nagelspitzen deine Knospen am Ohrringfeste (SahakārabhañjikA)
+102 new ihren Nagelspitzen deine Knospen am Ohrringfeste (Sahakārabhañjikā)
+;-----------------
+119 old „Unter diesen blühenden Schlingpflanzen geniessest du, ketakī,
+119 new „Unter diesen blühenden Schlingpflanzen geniessest du, Ketakī,
+;-----------------
+120 old die wundersamste Seligkeit; denn der Bienenjūngling, ohne auf die
+120 new die wundersamste Seligkeit; denn der Bienenjüngling, ohne auf die
+;-----------------
+133 old <s>yema na suBAzitAmftamAhlAdi nipItamA tfpteH ..</s>
+133 new <s>yena na suBAzitAmftamAhlAdi nipItamA tfpteH ..</s>
+;-----------------
+153 old der Kūṣmāṇd2ī bei Tag auf, aber nur die reizende Blume der
+153 new der Kūṣmāṇḍī bei Tag auf, aber nur die reizende Blume der
+;-----------------
+155 old Bienenschwärmen aufgesucht werden.“ - Dieser Krishna war vielleicht
+155 new Bienenschwärmen aufgesucht werden.“ -- Dieser Kṛṣṇa war vielleicht
+;-----------------
+167 old <s>jalasaMpado 'burASeryAMti vaSaM sarvadEva baqavAgneH ..</s>
+167 new <s>jalasaMpado 'mburASeryAMti vaSaM sarvadEva baqavAgneH ..</s>
+;-----------------
+182 old <s>kenAtra campakataro bata ropito 'si</s>
+182 new <s>kenAtra caMpakataro bata ropito 'si</s>
+;-----------------
+183 old <s>kugrAmapAmarajanAMtikavAwikAyAM .</s>
+183 new <s>kugrAmapAmarajanAMtikavAwikAyAm .</s>
+;-----------------
+201 old <s>kokila kalapralApEralamalamAlokase rasAlaM kiM .</s>
+201 new <s>kokila kalapralApEralamalamAlokase rasAlaM kim .</s>
+;-----------------
+205 old „Weshalb blickst du, Kokila, den Mangobaum unermüdlich au
+205 new „Weshalb blickst du, Kokila, den Mangobaum unermüdlich an
+;-----------------
+227 old scheinendes unvorbereitetes Werk zu Wege : da in dieser Weise
+227 new scheinendes unvorbereitetes Werk zu Wege: da in dieser Weise
+;-----------------
+234 old nur in C. D. E. nach 29, 1.cd
+234 new nur in C. D. E. nach 29, 1.
+;-----------------
+235 old <i>jana nanu</i> ist schwerlich richtig.
+235 new 7878) <wide>jana nanu</wide> ist schwerlich richtig.
+;-----------------

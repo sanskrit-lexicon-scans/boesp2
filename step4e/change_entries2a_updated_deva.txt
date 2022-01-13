@@ -1,0 +1,21 @@
+10 old „Was, Wolke, nützt dein erfreulich dumpfes Drӧhnen? Sӓume
+10 new „Was, Wolke, nützt dein erfreulich dumpfes Dröhnen? Säume
+;-----------------
+11 old nicht lӓnger und sprütze stracks das sprudelnde Nass. Schaue nur
+11 new nicht länger und sprütze stracks das sprudelnde Nass. Schaue nur
+;-----------------
+14 old gefӓchelt wird.“
+14 new gefächelt wird.“
+;-----------------
+66 old „Die Yaks und Pfauen, weil sie des Mӓdchens reizende Haarflechtenfϋlle
+66 new „Die Yaks und Pfauen, weil sie des Mädchens reizende Haarflechtenfülle
+;-----------------
+103 old spielend gepflükt hӓtten.“
+103 new spielend gepflükt hätten.“
+;-----------------
+206 old und lässt deinen lieblichen Gesang ertӧnen? Sieh, der wilde Bergbewohner
+206 new und lässt deinen lieblichen Gesang ertönen? Sieh, der wilde Bergbewohner
+;-----------------
+207 old schweift in der Nӓhe umher, und hat seinen Kӧcher voll
+207 new schweift in der Nähe umher, und hat seinen Köcher voll
+;-----------------

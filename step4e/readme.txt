@@ -56,8 +56,50 @@ aufrecht_entries2.txt
 devanagari version for proof-reading
 sh transcode_ab.sh slp1 deva ../../step4e/aufrecht_entries2.txt ../../step4e/aufrecht_entries2_deva.txt
 
+#---------------------------------------------------
+Andhrabharati revisions: from aufrecht_entries2_deva_updated.txt
 
-#
+1. Changed opening simple double-quote " to „ Double Low-9 Quotation Mark U201E
+   And closing double-quote to “ Left Double Quotation Mark U201C
+   These changes to closely resemble the printed text, but U201C is an odd
+   choice.  Let it be.
+   
+#<s>ज्वलद्दावज्वाला[वलि]जटिलमूर्तेर्विटपिनः ॥</s>; filled up [वलि] to make the verse metrically correct. (Taken from another ed. of Sār.Pad.) Note ejf removed comment
+
+sh transcode_ab.sh deva slp1 ../../step4e/aufrecht_entries2_deva_updated.txt ../../step4e/aufrecht_entries2_updated.txt
+
+'umlaut' in German:
+ä  (\u00e4)     LATIN SMALL LETTER A WITH DIAERESIS
+ö  (\u00f6)     LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)     LATIN SMALL LETTER U WITH DIAERESIS
+
+Other 'umlaut' introduced:
+ϋ  (\u03cb)     GREEK SMALL LETTER UPSILON WITH DIALYTIKA
+ӓ  (\u04d3)     CYRILLIC SMALL LETTER A WITH DIAERESIS
+ӧ  (\u04e7)     CYRILLIC SMALL LETTER O WITH DIAERESIS
+
+Change to Latin with diaresis.
+
+aufrecht_entries2a.txt
+u  6
+a  6
+o  3
+aufrecht_entries2a_updated.txt
+u  1
+a  6
+o  3
+
+
+sh transcode_ab.sh slp1 deva ../../step4e/aufrecht_entries2a_updated.txt ../../step4e/aufrecht_entries2a_updated_deva.txt
+
+python ../step0/changes/diff_to_changes.py aufrecht_entries2_deva_updated.txt aufrecht_entries2a_updated_deva.txt change_entries2a_updated_deva.txt
+ 7 lines changed.
+
+Current version of aufrecht verses: aufrecht_entries2a_updated.txt,
+ with Devanagari version aufrecht_entries2a_updated_deva.txt.
+Change from aufrecht_entries2_deva_updated.txt:
+  change_entries2a_updated_deva.txt  (7 changes).
+  
 temp_boesp_02.xml
   Add (at the bottom) the Aufrecht entries.
 
