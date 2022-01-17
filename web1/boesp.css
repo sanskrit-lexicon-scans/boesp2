@@ -1,0 +1,68 @@
+/* boesp.css  */
+body {
+font-family: sans-serif;
+font-size: 14pt;
+font-style: normal;
+font-weight: normal;
+color: #333333;
+background: white;
+}
+.de {
+font-family: serif;
+font-size: 14pt;
+font-style: normal;
+font-weight: normal;
+color: black;
+background: white;
+}
+.footnote {
+    font-family: monospace;
+    font-size:10pt;
+}
+.vn {
+    font-family: monospace;
+    font-size:10pt;
+}
+p {
+float: inherit;
+	margin: 0 0 0 0;
+}
+table {
+	width: 800px;
+}
+/* rv01.001.01 */
+p.stamp {
+font-size: 14pt;
+font-weight: bold;
+float: none;
+padding-top: 10px;
+padding-bottom: 2px;
+}
+p.comm {
+font-style: italic;
+}
+@font-face { 
+ src: url(fonts/siddhanta.ttf);
+ font-family: siddhanta_deva;
+}
+/* Sanskrit devanagari */
+.sdeva {
+ color: #8b0000;
+ background: white;
+ font-size: 14pt;
+ /*font-family: "Sanskrit 2003"; */
+ font-family: siddhanta_deva;
+ /*padding-right: 40px;*/
+}
+
+.vndeva, .fndeva {
+ color: #333333;
+ background: white;
+ font-size: 10pt;
+ /* Use of default font family renders better devanagari line spacing.*/
+ /*font-family: siddhanta_deva;*/
+ 
+}
+.greek {
+}
+}
