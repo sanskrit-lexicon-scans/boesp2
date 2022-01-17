@@ -75,5 +75,10 @@ L=7791.1
 <s>kaTamiha manuzyajanmA</s> herausgegeben von TH. AUFRECHT a. a. O. 62.
 <s>kaTamiha manuzyajanmA</s> herausgegeben von TH. AUFRECHT a. a. O. 29.
 ; -------------------------------------
+L = 7866  (from Aufrecht additions)
+<s>jvaladdAvajvAlAjawilamUrterviwapinaH ..</s>
+<s>jvaladdAvajvAlA[vali]jawilamUrterviwapinaH ..</s>
+Ref: https://github.com/funderburkjim/boesp-prep/issues/39#issuecomment-1012580993
+; -------------------------------------
 ; =====================================
 ; =====================================

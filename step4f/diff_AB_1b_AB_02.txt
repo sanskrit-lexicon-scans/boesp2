@@ -1,0 +1,414 @@
+1c1
+< <?xml version="1.3" encoding="UTF-8"?>
+---
+> <?xml version="1.4" encoding="UTF-8"?>
+17611d17610
+< ; line deleted here
+18092,18093c18091,18092
+< ; line deleted here as it is properly of V3-776
+< ; line deleted here as it is properly of V3-776
+---
+> 777. = NĪTIŚĀSTRA in Telugu-Charr. 116. CARR 381. ²a. <s>असारं खलु संसारं</s>
+> NĪTIŚ. ²c. ²d. <s>हिमालये हरः शेते हरिः शेते म॰</s> Beide.
+18095c18094
+< *<V4 n="777">
+---
+> <V4 n="777">
+18097c18096
+< </V4>; does this mean 776 at S. 624, Z. 25 (of Vol. 3)? if so, it is applicable to V3-776
+---
+> </V4>
+24559d24557
+< ; line deleted here
+33966c33964,33965
+< st. <s>एको हि</s>. ²c. Gleichfalls <s>दृष्टं</s>, wie auch in KĀVYAS. ²d. <s>दारिद्य</s> wie bei uns.
+---
+> st. <s>एको हि</s>. ²c. Gleichfalls <s>दृष्टं</s>,
+> wie auch in KĀVYAS. ²d. <s>दारिद्य</s> wie bei uns.
+34155,34159c34154,34159
+< ; line deleted being the repeat of V3-998
+< ; line deleted being the repeat of V3-998
+< ; line deleted being the repeat of V3-998
+< ; line deleted being the repeat of V3-998
+< ; line deleted being the repeat of V3-998
+---
+> 1447. = VṚDDHA-CĀṆ. Berl. Hdschrr. 6. 
+> ²a. <s>अत एव</s> st. <s>एतदर्थं</s>.
+> ²b. <s>दया</s> st. <s>नृपाः संग्रह</s> die eine,
+> <s>साधवः</s> die audere Hdschr. (vgl. Spruch 4413, ²d). 
+> ²d. <s>च</s> st. <s>हि</s> die eine, 
+> <s>यास्यन्ति</s> st. <s>यान्ति हि</s> die audere Hdschr.
+36890,36893c36890,36894
+< ; line deleted being the repeat of V3-1582
+< ; line deleted being the repeat of V3-1582
+< ; line deleted being the repeat of V3-1582
+< ; line deleted being the repeat of V3-1582
+---
+> 1562. = VṚDDHA-CĀṆ. Berl. Hdschrr. 272.
+> ²a. <s>प्रधानानि</s>.
+> ²b. <s>संनिकृष्ठे शुभग्रह</s> (auch <s>शुभे गृहे</s>).
+> ²c. <s>वशिष्ठदत्तलग्ने</s> (auch <s>वाशिष्ठ॰</s>).
+> ²d. <s>जानकी दुःखभागिनी</s>.
+42742,42743d42742
+< ; line repeated
+< ; line repeated
+48878,48881c48877,48878
+< ; line deleted being repeat of V3-2049
+< ; line deleted being repeat of V3-2049
+< ; line deleted being repeat of V3-2049
+< ; line deleted being repeat of V3-2049
+---
+> 2046. CARR 401. ²a. <s>दुर्जनानां</s> st. <s>कण्टकानां</s>,
+> wodurch aller Witz verloren gebt.
+49265c49262
+< und <s>गजभुजंगविहंगsaबन्धनं</s>.
+---
+> und <s>गजभुजंगविहंगसबन्धनं</s>.
+49472,49474c49469,49470
+< (vgl. zu Spruch 2541) <s>। सेतौ
+< सैकतलिङ्गेन नष्टं मे ताम्रभाजनम् ॥</s>
+< ; line deleted
+---
+> (vgl. zu Spruch 2541)
+> <s>। सेतौ सैकतलिङ्गेन नष्टं मे ताम्रभाजनम् ॥</s>
+51562c51558
+< *<V4 n="2152">
+---
+> <V4 n="2152">
+51564c51560
+< </V4>; applicable to V3-2152
+---
+> </V4>
+54758c54754
+< चरितं जोर</s> neben unsere Lesart.
+---
+> <s>चरितं जोर</s> neben unsere Lesart.
+60139d60134
+< ; line merged with the previous one
+60146d60140
+< ; line split here
+60149d60142
+< ; lines merged here
+60156d60148
+< ; line deleted 
+60158d60149
+< ; line deleted 
+60164c60155
+< Gestalt: 
+---
+> Gestalt:
+60166d60156
+< ; line deleted 
+60168d60157
+< ; line deleted
+70183c70172
+< <V3 n="2">
+---
+> <V3 n="2921">
+73486,73487d73474
+< ; line deleted
+< ; line deleted
+76422c76409
+< *<V4 n="3187">
+---
+> <V4 n="3187">
+76424c76411
+< </V4>; applicable to V3-3189
+---
+> </V4>
+77472c77459
+< *<V5 n="3229">
+---
+> <V5 n="3229">
+78870,78872c78857,78859
+< ; line deleted being repeat of V3-3231
+< ; line deleted being repeat of V3-3231
+< ; line deleted being repeat of V3-3231
+---
+> 3291. = VṚDDHA-CĀṆ. Berl. Hdschrr. 249.
+> Neue Varianten: ²b. <s>कन्या</s> st. <s>नारी</s>.
+> ²c. <s>सामन्त</s> und <s>समस्त</s> st. <s>मन्त्रिणा</s>.
+89621c89608
+< *<V4 n="3754">
+---
+> <V4 n="3754">
+89623c89610
+< </V4>; applicable to V3-3754
+---
+> </V4>
+89816,89818d89802
+< ; line deleted
+< ; line deleted
+< ; line deleted
+90552c90536
+< *<V4 n="3791">
+---
+> <V4 n="3791">
+90554c90538
+< </V4>; applicable to V3-3791
+---
+> </V4>
+93755,93758c93739,93742
+< ; line deleted being repeat of V3-3979
+< ; line deleted being repeat of V3-3979
+< ; line deleted being repeat of V3-3979
+< ; line deleted being repeat of V3-3979
+---
+> 3924. = VṚDDHA-CĀṆ. Berl. Hdschrr. 260.
+> ²a. <s>परदारा परस्वं च</s>.
+> ²c. <s>परिहास्यं गुरुस्थाने</s>.
+> ²d. <s>यत्रतः परिवर्जयेत्</s>.
+95170c95154
+< *<V4 n="3979">
+---
+> <V4 n="3979">
+95172c95156
+< </V4>; applicable to V3-3979
+---
+> </V4>
+98597c98581
+< *<V4 n="4116">
+---
+> <V4 n="4116">
+98599c98583
+< </V4>; applicable to V3-4116
+---
+> </V4>
+111317,111318c111301,111302
+< 4640. = VṚDDHA-CĀṆ. Berl.
+< Hdschrr. 94. ²d. <s>अल्पस्य</s> neben <s>नाल्पस्य; तपसं</s>. Vgl. GALAN. Varr. 52.
+---
+> 4640. = VṚDDHA-CĀṆ. Berl. Hdschrr. 94.
+> ²d. <s>अल्पस्य</s> neben <s>नाल्पस्य; तपसं</s>. Vgl. GALAN. Varr. 52.
+114676c114660
+< (auch ॰<s>नाः</s>) <s>मूर्खाश्चाक्षरवर्जिताः</s>.
+---
+> (auch <s>॰नाः</s>) <s>मूर्खाश्चाक्षरवर्जिताः</s>.
+118962c118946
+< ॰<s>शतैः</s>) <s>रा॰गणैर्भुज्यते</s> (auch
+---
+> <s>॰शतैः</s>) <s>रा॰गणैर्भुज्यते</s> (auch
+133542c133526
+< *<V4 n="5589">
+---
+> <V4 n="5589">
+133544c133528
+< </V4>; applicable to V3-5589
+---
+> </V4>
+141233c141217
+< Aenderung für ॰<s>प्रहारेषु</s>.
+---
+> Aenderung für <s>॰प्रहारेषु</s>.
+148620,148622c148604
+< 6218. = BAHUDARŚANA 15. Keine neue
+< Variante.
+< ; line deleted
+---
+> 6218. = BAHUDARŚANA 15. Keine neue Variante.
+155947c155929
+< *<V4 n="6528">
+---
+> <V4 n="6528">
+155949c155931
+< </V4>; applicable to V3-6528. The sentence "Zum... worden sind." is a general comment and need not be put here.
+---
+> </V4>
+158357d158338
+< ; line repeated
+172261c172242
+< <info L="7223.1" page="3.539" gtypes="HS"/>
+---
+> <info L="7223.1" page="3.539" gtypes="HS,V4"/>
+172271c172252
+< <info L="7224" page="3.539" gtypes="S,D,F,V4"/>
+---
+> <info L="7224" page="3.539" gtypes="S,D,F"/>
+182468c182449
+< 7668) SPHUṬAŚLOKA. ²c. <s>सकल</s> st. <s>निखिल</s> v. l. <h3><s>अमुं कालक्षेपं</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 4. 5. In ²d. ist bei AUFRECHT zu lesen: <s>॰ज्वालावलिजटिल॰</s>.</h3>
+---
+> 7668) SPHUṬAŚLOKA. ²c. <s>सकल</s> st. <s>निखिल</s> v. l.
+182472a182454,182462
+> <info L="7668.1" page="5.223" gtypes="HS"/>
+> <HS>
+> <s>अमुं कालक्षेपं</s> u. s. w. herausgegeben von
+> TH. AUFRECHT a. a. O. S. 4. 5.
+> In ²d. ist bei AUFRECHT zu lesen: <s>॰ज्वालावलिजटिल॰</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+182748c182738
+< 7687) SPHUṬAŚLOKA. <h3><s>अर्था न सन्ति</s> u. s. w. herausgegeben von AUFRECHT a. a. O. S. 73. ²b. <s>दाता न संकुचित॰</s> st. <s>त्यागान्न संकुचति</s>.</h3>
+---
+> 7687) SPHUṬAŚLOKA.
+182752a182743,182750
+> <info L="7687.1" page="5.226" gtypes="HS"/>
+> <HS>
+> <s>अर्था न सन्ति</s> u. s. w. herausgegeben von AUFRECHT a. a. O. S. 73.
+> ²b. <s>दाता न संकुचित॰</s> st. <s>त्यागान्न संकुचति</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+182796a182795,182802
+> <info L="7690.1" page="5.226" gtypes="HS"/>
+> <HS>
+> <s>अलिपटलैः</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 63.
+> ²d. <s>समीर किं पामरेषु रे किरसि</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+183100c183106
+< 7711) PAÑCĀYUDHAPRAPAÑCABHĀṆA. <h3><s>अस्या मनोहरा॰</s> herausgegeben von TH. AUFRECHT a. a. O. 82. ²b. Besser <s>निर्जिताः</s> st. <s>वर्जिताः</s>.</h3>
+---
+> 7711) PAÑCĀYUDHAPRAPAÑCABHĀṆA.
+183104a183111,183118
+> <info L="7711.1" page="5.229" gtypes="HS"/>
+> <HS>
+> <s>अस्या मनोहरा॰</s> herausgegeben von TH. AUFRECHT a. a. O. 82.
+> ²b. Besser <s>निर्जिताः</s> st. <s>वर्जिताः</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+183170c183184
+< 7716) SABHĀTARAṂGA. <pb n="5.230"/><h4><s>अहो दुर्जनसंसर्गात्</s> u. s. w. s. zu Spr. 6696.</h4>
+---
+> 7716) SABHĀTARAṂGA.
+183173c183187,183195
+< ;* new <HS> entry 7716.1 here.
+---
+> 
+> <entry>
+> <info L="7716.1" page="5.229" gtypes="HS"/>
+> <HS>
+> <s>अहो दुर्जनसंसर्गात्</s> u. s. w. s. zu Spr. 6696.
+> <pb n="5.230"/>
+> </HS>
+> </entry>
+> 
+183490a183513,183520
+> <info L="7738.1" page="5.232" gtypes="HS"/>
+> <HS>
+> <s>आलोकवन्तः</s> u. s. w. herausgegeben von TH. AUFRECHT a. a. O. S. 49.
+> ²c. <s>चन्द्रमा एव</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+183665c183695,183703
+< ;* new <HS> entry 7750.1 here.
+---
+> 
+> <entry>
+> <info L="7750.1" page="5.233" gtypes="HS"/>
+> <HS>
+> <s>इभतुरगशतैः</s> s. zu 1137.
+> <pb n="5.234"/>
+> </HS>
+> </entry>
+> 
+183750c183788
+< 7756) SPHUṬAŚLOKA. <h3><s>उत्तंसकौतुक॰</s> herausgegeben von TH. AUFRECHT a. a. O. 12. ²a. <s>विलासिनीभिर्</s>.</h3>
+---
+> 7756) SPHUṬAŚLOKA.
+183754a183793,183800
+> <info L="7756.1" page="5.234" gtypes="HS"/>
+> <HS>
+> <s>उत्तंसकौतुक॰</s> herausgegeben von TH. AUFRECHT a. a. O. 12.
+> ²a. <s>विलासिनीभिर्</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+184182a184229,184236
+> <info L="7785.1" page="5.238" gtypes="HS"/>
+> <HS>
+> <s>एतासु केतकि</s> herausgegeben von TH. AUFRECHT a. a. O. 71.
+> ²c. <s>॰वपुर्न जा॰</s>, wie das Metrum verlangt.
+> </HS>
+> </entry>
+> 
+> <entry>
+184223c184277,184285
+< ;* new <HS> entry 7788.1 here.
+---
+> 
+> <entry>
+> <info L="7788.1" page="5.238" gtypes="HS"/>
+> <HS>
+> <s>एहि स्वागतम्</s> s. zu 1478.
+> <pb n="5.239"/>
+> </HS>
+> </entry>
+> 
+184266a184329,184337
+> <info L="7791.1" page="5.239" gtypes="HS"/>
+> <HS>
+> <s>कथमिह मनुष्यजन्मा</s> herausgegeben von TH. AUFRECHT a. a. O. 62.
+> ²d. <s>आननान्तमा तृप्तेः</s>. <s>आननान्तम्</s> erklärt eine Glosse durch
+> <s>आकण्ठम्</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+184309c184380,184387
+< ;* new <HS> entry 7794.1 here.
+---
+> 
+> <entry>
+> <info L="7794.1" page="5.239" gtypes="HS"/>
+> <HS>
+> <s>कमले कमलोत्पत्तिः</s> s. zu 1846.
+> </HS>
+> </entry>
+> 
+184950a185029,185036
+> <info L="7838.1" page="5.245" gtypes="HS"/>
+> <HS>
+> <s>कुसुमं कोशातक्याः</s> herausgeg. von TH. AUFRECHT a. a. O. 17.
+> ²c. Besser <s>अलिकुलनिचयै रुचिरं</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+184992a185079,185086
+> <info L="7841.1" page="5.246" gtypes="HS"/>
+> <HS>
+> <s>कृपणस्य समृद्धीनां भोक्तारः</s> (so hier) herausgeg. von
+> TH. AUFRECHT a. a. O. S. 48. ²d. <s>शश्वदौर्वाग्नेः</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+185050a185145,185152
+> <info L="7845.1" page="5.246" gtypes="HS"/>
+> <HS>
+> <s>केनात्र चम्पकतरो</s> herausgeg. von TH. AUFRECHT a. a. O. 85.
+> ²c. <s>प्रवृद्ध</s> st. <s>प्ररूढ</s>. ²d. <s>भो भग्न॰</s>.
+> </HS>
+> </entry>
+> 
+> <entry>
+185066a185169,185176
+> <info L="7846.1" page="5.246" gtypes="HS"/>
+> <HS>
+> <s>कोकिल कलमालापैः</s> (so hier) herausgeg. von TH. AUFRECHT a. a. O. 40.
+> <pb n="5.247"/>
+> </HS>
+> </entry>
+> 
+> <entry>
+185077a185188,185197
+> </entry>
+> 
+> <entry>
+> <info L="7847.1" page="5.247" gtypes="HS"/>
+> <HS>
+> <s>क्व चित्प्राणिप्राप्तम्</s> herausgeg. von TH. AUFRECHT a. a. O. 78.
+> ²d. <s>तनु</s>, wie ich ebend. 636 vermuthet hatte, aber <s>जन</s>
+> wie bei AUFRECHT. Man verbinde also <s>जनतनुधनो॰</s>.
+> <pb n="5.247"/>
+> </HS>

@@ -154,5 +154,7 @@
 
 <e n='125'> <s>INIT,SKT</s> <in>~</in> <out>\u0901</out> <cl>atom</cl> </e>  <!-- candrabindu, anunasika -->
 <e n='126'> <s>INIT,SKT</s> <in>o~</in> <out>\u0950</out> <cl>atom</cl> </e>  <!-- OM -->
+<!-- degree symbol == laghava -->
+<e> <s>INIT,SKT</s> <in>°</in> <out>\u0970</out> </e>
 
 </fsm>

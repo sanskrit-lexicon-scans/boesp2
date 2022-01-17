@@ -200,5 +200,7 @@
 <e> <s>INIT</s> <in></in> <out></out></e>
 <e> <s>INIT</s> <in></in> <out>/</out></e>
 -->
+<!-- degree symbol == laghava -->
+<e> <s>INIT</s> <in>\u0970</in> <out>°</out> </e>
 
 </fsm>
