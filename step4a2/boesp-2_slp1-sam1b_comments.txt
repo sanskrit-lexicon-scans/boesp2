@@ -1,0 +1,210 @@
+<edit>
+<info L="2281" page="2.12" gtypes="S,D,F"/>
+<S n="2281">
+<s>citA dahati nirjIvaM cintA jIvaM dahatyaho .</s>
+<s>bindunEvADikA ciMtA citAtyalpA hi BUtale ..</s>
+</S>
+</edit>
+Does <ciMtA> have to be changed to <cintA>?
+Jim: Yes, pdf has cintA
+-------------
+Verse 2342: difference at line 5
+<s>A janmanaH smarotpattO mAnasenozarAyitam ..</s>
+<s>AjanmanaH smarotpattO mAnasenozarAyitam ..</s>
+I have made correction but this is a scan error 
+<A janmanaH> to <AjanmanaH>
+------------------
+Verse 2495: difference at line 6
+<s>BiyaH sImA mftyuH sukftakulasImASritaBftiH</s>
+<s>BiyaH sImA mftyuH sukftakulasImA 'SritaBftiH</s>
+I have not corrected and added space and avagraha
+--------------------
+
+Verse 2597: difference at line 4
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pAperatiM mA kfTAH</s>
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pApe ratiM mA kfTAH</s>
+Not corrected the word <pAperatiM>
+-------------------
+Verse 2605.1: difference at line 4
+<s>te te satpuruzAH parArGaGawakAH</s> s. Spruch 1460.
+<s>te te satpuruzAH parArTaGawakAH</s> s. Spruch 1460.
+Not corrected to <parArTaGawakAH>
+Scan says otherwise (jim agree)
+-----------------
+<edit>
+<info L="2642" page="2.88" gtypes="S,D,F,V3"/>
+<S n="2642">
+<s>triBirvarzEstriBirmAsEstriBiH pakzEstriBirdinEH .</s>
+<s>atyugrapuRyapApAnAmihEva PalamaSnute ..</s>
+</S>
+</edit>
+Not corrected. There should be a space between the two words.
+jim agree
+-----------------
+<edit>
+<info L="2646" page="2.89" gtypes="S,D,F"/>
+<S n="2646">
+<s>triviDAH puruzA rAjannutamADamamaDyamAH .</s>
+<s>niyojayedyaTAvattAMstriviDezveva karmasu ..</s>
+</S>
+</edit>
+Not corrected. I think <rAjannutamADamamaDyamAH> is correct acc to scan.
+-------------------
+Verse 2731,2732: difference at line 6
+<pb n="2.106"/>
+; this line not needed here. <pb n="2.106"/>
+
+Unclear how to process this.
+------------------
+<edit>
+<info L="2743" page="2.108" gtypes="S,D,F,V3,V5"/>
+<S n="2743">
+<s>dAtA daridraH kfpaRo DanAQyaH pApI cirAyuH sukftI gatAyuH .</s>
+<s>rAjAkulInaH sukulaSva dAsaH paSyantu lokAH kalikelitAni ..</s>
+</S>
+</edit>
+Not corrected. <rAjAkulInaH> is correct acc to scan.
+-------------------
+
+<edit>
+<info L="3198" page="2.201" gtypes="S,D,F,V3"/>
+<S n="3198">
+<s>na kiMtkvicidastIha vastvasADyaM vipaScitAm .</s>
+<s>ayo 'BedyamupAyena dravatAmupanIyate ..</s>
+</S>
+</edit>
+Not corrected to the suggested version. 
+This does not make sense so perhaps needs correction, but unsure.
+-------------------
+<edit>
+<info L="3358" page="2.233" gtypes="S,D,F"/>
+<S n="3358">
+<s>na BayeByo BayaM tasya na pApeByo na rAjataH .</s>
+<s>A dehapatanAdgaNgAmupAste yaH pumAniha ..</s>
+</S>
+</edit>
+Not corrected to <A><deha...> 
+scan shows space
+------------------
+
+till 3486
+
+------------------
+<edit>
+<info L="3562" page="2.273" gtypes="S,D,F,V2,V3"/>
+<S n="3562">
+<s>nAtmAnamavamanyeta pUrvABirasamfdDiBiH .</s>
+<s>A mftyoH SriyamanvicCennEnAM manyeta durlaBAm ..</s>
+</S>
+</edit>
+Not corrected
+-------------
+<edit>
+<info L="3661" page="2.293" gtypes="S,D,F"/>
+<S n="3661">
+<s>nASo Bavati yudDena kadAciduBayorapi .</s>
+<s>sundopasandAvanyo 'nyaM samavIryO hatO na kim ..</s>
+</S>
+</edit>
+Not corrected
+--------------
+till 3820
+--------------
+Verse 3926: difference at line 4
+<s>paraduHKAturA nityaM svasuKAni mahAntyapi .</s>
+<s>paraduHKaM samAkarRya svaBAvasujano janaH .</s>
+; -------------------------------------
+Verse 3926: difference at line 5
+<s>napekzante mahAymAnaH sarvaBUtahite ratAH ..</s>
+<s>upakArAsamarTatvAtprApnoti hfdayavyaTAm ..</s>
+
+REVIEW again
+---------- 4 hours corrections
+till 3946
+
+<edit>
+<info L="4036" page="2.372" gtypes="S,D,F,V2,V3"/>
+<S n="4036">
+<s>pAdanyAsaM kzitiDaragurormUrDni kftvA sumeroH</s>
+<s>krAntaM yena kzapitatamasA maDyamaM DAma vizRoH .</s>
+<s>so 'yaM candraH patati gaganAdalpaSezErmUyaKE-</s>
+<s>ratyArUQirBavati mahatAmapyapaBraMSanizWA ..</s>
+</S>
+</edit>
+Not corrected.
+---------------
+<edit>
+<info L="4193" page="2.406" gtypes="S,D,F,V3,V5"/>
+<S n="4193">
+<s>pOlasyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
+<s>nrAmeRApi kaTaM na hemahariRasyAsaMBavo lakzitaH .</s>
+<s>akzEScApi yuDizWireRa sahasA prApto hyanarTaH kaTaM</s>
+<s>pratyAsannavipattimUQamanasAM prAyo matiH kzIyate ..</s>
+</S>
+</edit>
+Not changed <pOlasyaH> to <pOlastyaH>
+--------------
+<edit>
+<info L="4299" page="2.429" gtypes="S,D,F"/>
+<S n="4299">
+<s>prANmA meti manAgamAnitaguRaM jAtABilAzaM tataH</s>
+<s>savrIqaM tadanu SlaTodyamamanu pratyastaDEryaM punaH .</s>
+<s>premArdraM spfhaRIyanirBararahaH krIqApragalBaM tato</s>
+<s>niHSaNkANgavikarzaRADikasuKaM ramyaM kulastrIratam ..</s>
+</S>
+</edit>
+Not corrected.
+----------
+<edit>
+<info L="4487" page="2.469" gtypes="S,D,F"/>
+<S n="4487">
+<s>bfhaspateraviSvAsa iti SAstrasya nirRayaH .</s>
+<s>aviSvAsI taTA ca syAdyaTA saMvyavahAravAn ..</s>
+</S>
+</edit>
+Not changed.
+----------
+<edit>
+<info L="4643" page="2.505" gtypes="S,D,F,V4"/>
+<S n="4643">
+<s>BrAntaM yAcanatatpareRa manasA dehIti vAkpreritA</s>
+<s>BuktaM mAnavivarjitaM paragfhe niHSaNkayA kAkavat .</s>
+<s>sAkzepaM BrukuwIkawAkzakuwilaM dfzwaM KalAnAM muKaM</s>
+<s>tfzRe devi yadanyadicCasi punastatrApi sajjA vayam ..</s>
+<pb n="2.506"/>
+</S>
+</edit>
+Corrected. Was scan error.
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

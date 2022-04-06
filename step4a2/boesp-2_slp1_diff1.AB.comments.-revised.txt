@@ -1,0 +1,749 @@
+; -------------------------------------
+Verse 2230: difference at line 4
+<s>caturvedo 'pi yo BUtvA caRqakarma smAcaret .</s>
+<s>caturvedo 'pi yo BUtvA caRqakarma samAcaret .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2272.1: difference at line 4
+<s>cARqAlaH kimayam</s> s. Spruch 225.
+<s>cARqAlaH kimayam</s> s. Spruch 2225.
+; AB version is proper.
+; -------------------------------------
+Verse 2281: difference at line 5
+<s>bindunEvADikA ciMtA citAtyalpA hi BUtale ..</s>
+<s>bindunEvADikA cintA citAtyalpA hi BUtale ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2302: difference at line 7
+<s>yvaktaM kAntAjanAnAM viwacaritakftaH SESirA vAnti vAtAH ..</s>
+<s>vyaktaM kAntAjanAnAM viwacaritakftaH SESirA vAnti vAtAH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2342: difference at line 5
+<s>A janmanaH smarotpattO mAnasenozarAyitam ..</s>
+<s>AjanmanaH smarotpattO mAnasenozarAyitam ..</s>
+; This has been a "consistent correction" I did in my files, आ being the part (start) of a samAsa. The print has it with space at some places and without space at some places.
+; -------------------------------------
+Verse 2495: difference at line 6
+<s>BiyaH sImA mftyuH sukftakulasImASritaBftiH</s>
+<s>BiyaH sImA mftyuH sukftakulasImA 'SritaBftiH</s>
+; To decide by debating.
+; I had inserted the avagraha for clarity; it could be skipped, if wished.
+; There should in fact be two avagrahas here.
+; -------------------------------------
+Verse 2500: difference at line 5
+<s>sAmnA 'pi nigfhyante gajA iva kareRuBiH ..</s>
+<s>sAmnA te 'pi nigfhyante gajA iva kareRuBiH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2532: difference at line 4
+<s>tAdfSI jAyate budDirvyasAyo 'pi tAdfSaH .</s>
+<s>tAdfSI jAyate budDirvyavasAyo 'pi tAdfSaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2538: difference at line 6
+<s>tAvadvAYCitamarTa sidDisahitaM tAvajjanaH sajjano</s>
+<s>tAvadvAYCitamarTasidDisahitaM tAvajjanaH sajjano</s>
+; AB version is likely proper.
+; The context made me put this as a single word, as the print is not clear enough.
+; -------------------------------------
+Verse 2597: difference at line 4
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pAperatiM mA kfTAH</s>
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pApe ratiM mA kfTAH</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2608: difference at line 4
+<s>te DanyAste SasyA iha BUtale .</s>
+<s>te DanyAste vivekajYAste SasyA iha BUtale .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2635: difference at line 5
+<s>duHKopasfzwamiti mUrKacicAraREzA .</s>
+<s>duHKopasfzwamiti mUrKavicAraREzA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2642: difference at line 4
+<s>triBirvarzEstriBirmAsEstriBiH pakzEstriBirdinEH .</s>
+<s>triBirvarzEstriBirmAsEstriBiHpakzEstriBirdinEH .</s>
+; AB version is proper.
+; The context made me leave the space here.
+; -------------------------------------
+Verse 2643: difference at line 4
+<s>trilokeSaH SarNgI SabaraSaralakzyatvamagama-</s>
+<s>trilokeSaH SArNgI SabaraSaralakzyatvamagama-</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2646: difference at line 4
+<s>triviDAH puruzA rAjannutamADamamaDyamAH .</s>
+<s>triviDAH puruzA rAjannuttamADamamaDyamAH .</s>
+; AB version is proper.
+; This has to be treated as a print error, as the classifying words intended are uttama, adhama & madhyama.
+; Also, the meter of the verse is bad without this change!
+; -------------------------------------
+Verse 2656: difference at line 5
+<s>mAlatISaSaBflloKAkadalInAM kaWoratA ..</s>
+<s>mAlatISaSaBflleKAkadalInAM kaWoratA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2659: difference at line 5
+<s>kamalaM jalasaM rohi tvanmuKaM tvadupASrayam ..</s>
+<s>kamalaM jalasaMrohi tvanmuKaM tvadupASrayam ..</s>
+; AB version is proper. (No space here)
+; -------------------------------------
+Verse 2666: difference at line 5
+<s>mayApi maraRe cetastrayametatsamaM kftaM ..</s>
+<s>mayApi maraRe cetastrayametatsamaM kftam ..</s>
+; AB version is proper. (The ending character is always written as halant form (but not as a anusvara) at the ending of the 2nd & 4th lines of a verse, as a standard practice; it is optional at 1st and 3rd line endings.)
+; -------------------------------------
+Verse 2678: difference at line 5
+<s>saMtozaH SIlamutsAho maRqyantyanujIvinam ..</s>
+<s>saMtozaH SIlamutsAho maRqayantyanujIvinam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2682: difference at line 5
+<s>tanmUlodDftiramBasA kzaRaGftodrekeRa saMpAditA .</s>
+<s>tanmUlodDftiramBasA kzaRaDftodrekeRa saMpAditA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2690: difference at line 4
+<s>daRqo hi sumahattejo durGaraScAkftAtmaBiH .</s>
+<s>daRqo hi sumahattejo durDaraScAkftAtmaBiH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2724,2725: difference at line 8
+<s>tvaramARaSca luBdaSca BItaH kAmI ca te daSa .</s>
+<s>tvaramARaSca lubDaSca BItaH kAmI ca te daSa .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2731,2732: difference at line 6
+<pb n="2.106"/>
+; this line not needed here. <pb n="2.106"/>
+; AB version is proper.
+; This line is extra here, as there is no page break at S.2731.
+; -------------------------------------
+Verse 2739,2740: difference at line 8
+<s>pOlastyo rAkzaso mAnAnmadAddaBBodBavo nfpaH .</s>
+<s>pOlastyo rAkzaso mAnAnmadAddamBodBavo nfpaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2743: difference at line 5
+<s>rAjAkulInaH sukulaSva dAsaH paSyantu lokAH kalikelitAni ..</s>
+<s>rAjA 'kulInaH sukulaSva dAsaH paSyantu lokAH kalikelitAni ..</s>
+; To decide by debating.
+; the avagraha is needed here for clarity, as the verse is talking about contradicting (opposing) characteristics of types of 'dual' groups.
+; (दरिद्रः vs. धनाढ्यः), (चिरायुः vs. गतायुः) and (अकुलीन vs. सुकुलः).
+; This may be taken as a print correction.
+; -------------------------------------
+Verse 2758: difference at line 4
+<s>dAnasaMvananA hyete granTA meDaviBiH kftAH .</s>
+<s>dAnasaMvananA hyete granTA meDAviBiH kftAH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2820,2821,2822: difference at line 5
+<s>GorAgniBayasaMtrastaM kzutpipAsAhitaktamam ..</s>
+<s>GorAgniBayasaMtrastaM kzutpipAsAhitaklamam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2879: difference at line 5
+<s>tizWate hi suhfdyatra na banDastatra tizWati ..</s>
+<s>tizWate hi suhfdyatra na banDustatra tizWati ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2912,2913: difference at line 9
+<s>anurakteSacihnAni doze 'pi tuRakIrtanam ..</s>
+<s>anurakteSacihnAni doze 'pi guRakIrtanam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2918: difference at line 5
+<s>dfzwASca PullA niculA na mftA cAsmi kiM nvidam ..</s>
+<s>dfzwASca PullA niculA na mftA cAsmi kiM tvidam ..</s>
+; AB version is proper. (There is no such word as न्विदम्, the intended one being तु+इदम् = त्विदम्.)
+; This may be taken as a print correction.
+; -------------------------------------
+Verse 2922: difference at line 5
+<s>samaH sarvezu BUtezu ca liNgaM DarmakAraRam ..</s>
+<s>samaH sarvezu BUtezu na liNgaM DarmakAraRam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2932: difference at line 7
+<s>jAtA vAmatayEva saMprati mama prItyE navoQa priyA ..</s>
+<s>jAtA vAmatayEva saMprati mama prItyE navoQA priyA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2934.1: difference at line 4
+<s>dfzwA prasUnaM hfzyanti</s> s. Spruch <s>hfzyantyftumuKaM dfzwvA</s>.
+<s>dfzwvA prasUnaM hfzyanti</s> s. Spruch <s>hfzyantyftumuKaM dfzwvA</s>.
+; AB version is proper.
+; -------------------------------------
+Verse 2939: difference at line 4
+<s>deyaM Boja GanaM GanaM sukftiBirno saMcitaM saMpade</s>
+<s>deyaM Boja GanaM DanaM sukftiBirno saMcitaM saMpade</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2983: difference at line 4
+<s>dogDrI DAnyaM ca mahI rAjYA surakzitA .</s>
+<s>dogDrI DAnyaM hiraRyaM ca mahI rAjYA surakzitA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 2984: difference at line 5
+<s>kErajIrRaBayAdDrAtarBojanaM parihIyate ..</s>
+<s>kErajIrRaBayAdBrAtarBojanaM parihIyate ..</s>
+; AB version is proper. (अजीर्णभयात् + प्रातर्भोजनं = अजीर्णभयाद् + प्रातर्भोजनं = अजीर्णभयाद्भ्रातर्भोजनं)
+; -------------------------------------
+Verse 3006: difference at line 4
+<s>dvAtriMSaddaSadvezimaDye Bramasi nityaSaH .</s>
+<s>dvAtriMSaddaSanadvezimaDye Bramasi nityaSaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3009: difference at line 5
+<s>rAjAnaM cAvirodDAraM BrahmARaM cApravAsinam ..</s>
+<s>rAjAnaM cAvirodDAraM brahmARaM cApravAsinam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3012: difference at line 4
+<s>dvavimO puruzavyAGra sUryamaRqalaBedinO .</s>
+<s>dvAvimO puruzavyAGra sUryamaRqalaBedinO .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3013: difference at line 4
+<s>dvAvimO purzO rAjansvargasyopari tizWataH .</s>
+<s>dvAvimO puruzO rAjansvargasyopari tizWataH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3016: difference at line 4
+<s>dviguRaM triguRaM BARqakrayaviDAnataH .</s>
+<s>dviguRaM triguRaM vApi BARqakrayaviDAnataH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3018: difference at line 5
+<s>sAmyarTe saMtyajanprARAnyAM gatiM yAti sevakaH ..</s>
+<s>svAmyarTe saMtyajanprARAnyAM gatiM yAti sevakaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3031: difference at line 4
+<s>dvezo namEza durDarzo jito yena vivekinA .</s>
+<s>dvezo nAmEza durDarzo jito yena vivekinA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3045: difference at line 5
+<s>vinASe nASe vA tava sati viyogo 'sTyuBayatA .</s>
+<s>vinASe nASe vA tava sati viyogo 'styuBayaTA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3045: difference at line 7
+<s>vinAzo labDasya vyaTayatitarAM na tvanudayaH ..</s>
+<s>vinASo labDasya vyaTayatitarAM na tvanudayaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3054,3055: difference at line 9
+<s>kastamicCetparidrazwuM dAtumicCati cenmahIn ..</s>
+<s>kastamicCetparidrazwuM dAtumicCati cenmahIm ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3096: difference at line 5
+<s>bEqAlavratiko jYeyo hiMSraH sarvABisaMDakaH ..</s>
+<s>bEqAlavratiko jYeyo hiMsraH sarvABisaMDakaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3098,3099: difference at line 5
+<s>viBajya stataM vIra sa rAjA harisattama ..</s>
+<s>viBajya satataM vIra sa rAjA harisattama ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3126: difference at line 5
+<s>DarmeRaBIpsitA arTA DarmeRa suKakIrtayaH ..</s>
+<s>DarmeRABIpsitA arTA DarmeRa suKakIrtayaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3129: difference at line 4
+<s>Darme tatparatA muKe maDuratA dAne sumutsAhatA</s>
+<s>Darme tatparatA muKe maDuratA dAne samutsAhatA</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3132: difference at line 4
+<s>Darme rAgaH Srute cintA dAne vysanamuttamam .</s>
+<s>Darme rAgaH Srute cintA dAne vyasanamuttamam .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3136: difference at line 5
+<s>SalyaM cAsya na kfntati vidDAstatra saBAsadaH ..</s>
+<s>SalyaM cAsya na kfntanti vidDAstatra saBAsadaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3144: difference at line 5
+<s>nikziptaM hi muKe ratnaM na kuryatprARaDAraRam ..</s>
+<s>nikziptaM hi muKe ratnaM na kuryAtprARaDAraRam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3161: difference at line 4
+<s>DIsattvedypgayuktAnAM kiM durApaM mahAtmanAm .</s>
+<s>DIsattvedyogayuktAnAM kiM durApaM mahAtmanAm .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3167.1: difference at line 4
+<s>DfzwErindriyanAmaBiH</s> s. Spruch 3160.
+<s>DfzwErindriyanAmaBiH</s> s. Spruch 3166.
+; AB version is proper.
+; -------------------------------------
+Verse 3198: difference at line 4
+<s>na kiMtkvicidastIha vastvasADyaM vipaScitAm .</s>
+<s>na kiMcitkvacidastIha vastvasADyaM vipaScitAm .</s>
+; AB version is proper.
+; This may to be taken as a print correction, for the meter to tally properly for the verse.
+; -------------------------------------
+Verse 3291: difference at line 4
+<s>nadItire ca ye vfkzA yA ca nArI nirASrayA .</s>
+<s>nadItIre ca ye vfkzA yA ca nArI nirASrayA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3324: difference at line 4
+<s>na nirmitA kenaca dfzwapUrvA na SrUyate hemamayI kuraNgI .</s>
+<s>na nirmitA kena ca dfzwapUrvA na SrUyate hemamayI kuraNgI .</s>
+; AB version is proper.
+; The space is needed here to make the words केन  & च properly separated.
+; This may be taken as a print correction.
+; -------------------------------------
+Verse 3358: difference at line 5
+<s>A dehapatanAdgaNgAmupAste yaH pumAniha ..</s>
+<s>AdehapatanAdgaNgAmupAste yaH pumAniha ..</s>
+; Same as at S.2342
+; -------------------------------------
+Verse 3361: difference at line 5
+<s>na tyajedGorakazwE 'pi yadi sADvI pativratA ..</s>
+<s>na tyajedGorakazwe 'pi yadi sADvI pativratA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3393: difference at line 5
+<s>varzaM yAvatkimanyena maWancintAM dinatrayam ..</s>
+<s>varzaM yAvatkimanyena maWacintAM dinatrayam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3410: difference at line 5
+<s>sarvatra nUtanaM sevakAnne purAtane ..</s>
+<s>sarvatra nUtanaM SastaM sevakAnne purAtane ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3462: difference at line 5
+<s>parasyArTamanaM vA prakASayati no mahAn ..</s>
+<s>parasyArTamanarTaM vA prakASayati no mahAn ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3466.2: difference at line 4
+<s>naSyati vipulamaterapi</s> s. Spruch <s>vipulamaterapi naSyati</s>. [= 6156]
+<s>naSyati vipulamaterapi</s> s. Spruch <s>vipulamaterapi naSyati</s>.
+; AB version is proper. (The print has no '[= 6156]' here!)
+; -------------------------------------
+Verse 3476: difference at line 6
+<s>mahadBiH puRyOGESciragfhItASca vizayA</s>
+<s>mahadBiH puRyOGESciraparigfhItASca vizayA</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3482: difference at line 4
+<s>na sA vidyA na tacCIlaM na sA kalA .</s>
+<s>na sA vidyA na tacCIlaM na taddAnaM na sA kalA .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3486: difference at line 4
+<s>na sIdannapi GarmeRa mano 'Garme niveSayet .</s>
+<s>na sIdannapi DarmeRa mano 'Darme niveSayet .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3497: difference at line 5
+<s>strIyo hi mUlaM dozARAM taTA tvamapi vetTa ha ..</s>
+<s>striyo hi mUlaM dozARAM taTA tvamapi vetTa ha ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3554: difference at line 4
+<s>nAtidUre na cAsanne DanAQyE nAtidurbale .</s>
+<s>nAtidUre na cAsanne DanAQye nAtidurbale .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3562: difference at line 5
+<s>A mftyoH SriyamanvicCennEnAM manyeta durlaBAm ..</s>
+<s>AmftyoH SriyamanvicCennEnAM manyeta durlaBAm ..</s>
+; Same as at S.2342
+; -------------------------------------
+Verse 3573: difference at line 5
+<s>DAnAdDi DarmaH sravati SElAdaDi nadI yaTA ..</s>
+<s>DanAdDi DarmaH sravati SElAdaDi nadI yaTA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3575: difference at line 6
+<s>vipreByo nEva na ca hutamanale nArcito SaMBudevo</s>
+<s>vipreByo nEva dattaM na ca hutamanale nArcito SaMBudevo</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3585: difference at line 4
+<s>nAnyaduHKataraM kiMcillokezu pratiBAti me .</s>
+<s>nAnyadduHKataraM kiMcillokezu pratiBAti me .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3594: difference at line 4
+<s>nApfzwaH kasyavidbrUyAnna cAnyAyena pfcCataH .</s>
+<s>nApfzwaH kasyacidbrUyAnna cAnyAyena pfcCataH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3605: difference at line 4
+<s>nAmamAtreRa tuzyeta CatreRa ca mahIpatiH .</s>
+<s>nAmamAtreRa tuzyeta CattreRa ca mahIpatiH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3608: difference at line 4
+<s>nAmftaM na vizaM kiMcidekAM mukttvAM nitambinIm .</s>
+<s>nAmftaM na vizaM kiMcidekAM mukttvA nitambinIm .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3609,3610,3611: difference at line 4
+<s>nAyakaH purato yAyAtprAvIrapftanAvftaH .</s>
+<s>nAyakaH purato yAyAtpravIrapftanAvftaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3624: difference at line 5
+<s>samvadantopatizWante vanezUpavanezu ca ..</s>
+<s>saMvadantopatizWante vanezUpavanezu ca ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3631: difference at line 5
+<s>santrARyanvAsate dAntA brAhmaRAH saMSitavratAH ..</s>
+<s>sattrARyanvAsate dAntA brAhmaRAH saMSitavratAH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3660: difference at line 4
+<s>nASayitumeva nIcaH parakAryaM vetti na prasAGayitum .</s>
+<s>nASayitumeva nIcaH parakAryaM vetti na prasADayitum .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3660.1: difference at line 4
+<s>nASayetkarzayecCatrum(°cCatrUn)</s> s. Spruch <s>nityamAwavikaM sEnyam</s>.
+<s>nASayetkarzayecCatrum (°cCatrUn)</s> s. Spruch <s>nityamAwavikaM sEnyam</s>.
+; AB version is proper.
+; -------------------------------------
+Verse 3661: difference at line 5
+<s>sundopasandAvanyo 'nyaM samavIryO hatO na kim ..</s>
+<s>sundopasundAvanyo 'nyaM samavIryO hatO na kim ..</s>
+; AB version is proper.
+; This may to be taken as print correction, as सुन्द & उपसुन्द are twins and are always cited together as सुन्दोपसुन्दौ.
+; -------------------------------------
+Verse 3674: difference at line 5
+<s>visfjya GanasarvasvaM BartA vE SaraRaM striyAH ..</s>
+<s>visfjya DanasarvasvaM BartA vE SaraRaM striyAH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3694: difference at line 4
+<s>nAhaM svargaPalopagatfzito nAByarTitastvaM mayA</s>
+<s>nAhaM svargaPalopaBogatfzito nAByarTitastvaM mayA</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3776.1: difference at line 4
+<s>niSvAsidgIrRahutaBuk</s> s. Spruch 3778.
+<s>niSvAsodgIrRahutaBuk</s> s. Spruch 3778.
+; AB version is proper.
+; -------------------------------------
+Verse 3798: difference at line 6
+<s>teneyaM maDuganDalubDamanasA guYjalatA sevyate</s>
+<s>teneyaM maDuganDalubDamanasA guYjAlatA sevyate</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3807: difference at line 4
+<s>nUnamAjYAkarastasyAH saBruvo makaraDvajaH .</s>
+<s>nUnamAjYAkarastasyAH suBruvo makaraDvajaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3820: difference at line 5
+<s>OGena vyuhyamAnAnAM plavAnAM srotasA yaTA ..</s>
+<s>oGena vyuhyamAnAnAM plavAnAM srotasA yaTA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3899: difference at line 5
+<s>SvaBIyatyapi mandiraM SlaTaSilaM kUpaM ca gehIyati .</s>
+<s>SvaBrIyatyapi mandiraM SlaTaSilaM kUpaM ca gehIyati .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3919: difference at line 4
+<s>paratozayitA na kaSca svagato yasya guRo 'sti dehinaH .</s>
+<s>paratozayitA na kaSca na svagato yasya guRo 'sti dehinaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3926: difference at line 4
+<s>paraduHKAturA nityaM svasuKAni mahAntyapi .</s>
+<s>paraduHKaM samAkarRya svaBAvasujano janaH .</s>
+; AB version is proper. (Typed text has S.3928 repeated here at S.3926)
+; -------------------------------------
+Verse 3926: difference at line 5
+<s>napekzante mahAymAnaH sarvaBUtahite ratAH ..</s>
+<s>upakArAsamarTatvAtprApnoti hfdayavyaTAm ..</s>
+; AB version is proper. (Typed text has S.3928 repeated here at S.3926)
+; -------------------------------------
+Verse 3946: difference at line 5
+<s>tyAjyamAhurharAtmAnaM veSma prajvalitaM yaTA ..</s>
+<s>tyAjyamAhurdurAtmAnaM veSma prajvalitaM yaTA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3978: difference at line 5
+<s>hasanIyaH parezAM sa SaKArUQo jawI yaTA ..</s>
+<s>hasanIyaH parezAM sa SAKArUQo jawI yaTA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 3995: difference at line 5
+<s>BavasTitirivAnityasaMBanDA hi vilAsinI ..</s>
+<s>BavasTitirivAnityasaMbanDA hi vilAsinI ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4025: difference at line 6
+<s>KaNgavyagrakaro viDehi satataM rAjYAM saBAsevanaM</s>
+<s>Kaqgavyagrakaro viDehi satataM rAjYAM saBAsevanaM</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4029: difference at line 5
+<s>jalAmava samudraSuktO muktAPalatAM payodasya ..</s>
+<s>jalamiva samudraSuktO muktAPalatAM payodasya ..</s>
+; AB version is proper.
+; Seems the print error mentioned in AB file is not incorporated here, even though 'noted' by Jim in his remark at Github!
+; -------------------------------------
+Verse 4036: difference at line 6
+<s>so 'yaM candraH patati gaganAdalpaSezErmUyaKE-</s>
+<s>so 'yaM candraH patati gaganAdalpaSezErmayUKE-</s>
+; AB version is proper.
+; This has to be taken as a print error मूयख > मयूख.
+; -------------------------------------
+Verse 4041: difference at line 7
+<s>karRe 'paraM spfSati hantyiparaM samUlam ..</s>
+<s>karRe 'paraM spfSati hantyaparaM samUlam ..</s>
+; AB version is proper. (हन्ति + अपरं = हन्त्यपरं)
+; This has to be taken as a print error. (हन्त्यिपरं > हन्त्यपरं)
+; -------------------------------------
+Verse 4049: difference at line 5
+<s>AmrakalporasaH strIRAM SrIRAM dAnaM rasaH paraH ..</s>
+<s>Amrakalpo rasaH strIRAM SrIRAM dAnaM rasaH paraH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4069: difference at line 5
+<s>prARadrohaM yadA gacCettaM nAsti pAtakam ..</s>
+<s>prARadrohaM yadA gacCettaM Gnato nAsti pAtakam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4071: difference at line 5
+<s>tAnyapAkurute putro na SrIrapradaH sutaH ..</s>
+<s>tAnyapAkurute putro na SarIrapradaH sutaH ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4086: difference at line 5
+<s>dA bAlyAdvipravaryEH svavadanavivare DAryate vEriRI me .</s>
+<s>dAbAlyAdvipravaryEH svavadanavivare DAryate vEriRI me .</s>
+; Same as at S.2342
+; -------------------------------------
+Verse 4125: difference at line 5
+<s>punarnaro yAcati yAcyate ca punarnaraH Socati Socyate ca..</s>
+<s>punarnaro yAcati yAcyate ca punarnaraH Socati Socyate ca ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4156.2: difference at line 4
+<s>pustake pratyayaDItam</s> und <s>pustakezu ca nADItaH</s> <s>(nADItam)</s> s. Spruch 4155.
+<s>pustake pratyayADItam</s> und <s>pustakezu ca nADItaH (nADItam)</s> s. Spruch 4155.
+; AB version is proper.
+; -------------------------------------
+Verse 4160: difference at line 4
+<s>pUjyate yadapujyo 'pi yadagamyo 'pi gamyate .</s>
+<s>pUjyate yadapUjyo 'pi yadagamyo 'pi gamyate .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4161: difference at line 4
+<s>pUjyo banDurapi priyo 'pi tanayo BratA vayasyo 'pi vA</s>
+<s>pUjyo banDurapi priyo 'pi tanayo BrAtA vayasyo 'pi vA</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4162: difference at line 4
+<s>pUraM viDurvarDiyituM payoDeH Sagke 'yameRANkamaRiM kiyanti .</s>
+<s>pUraM viDurvarDayituM payoDeH SaNke 'yameRANkamaRiM kiyanti .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4174: difference at line 5
+<s>nAcoditA vAgvadati satyA hyezA sarasvati ..</s>
+<s>nAcoditA vAgvadati satyA hyezA sarasvatI ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4177: difference at line 4
+<s>pUrvaM pItaH samudro yErvinDyAdriSca ye narAH .</s>
+<s>pUrvaM pItaH samudro yErvinDyAdriSca nivAritaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4184: difference at line 5
+<s>nAlamekasya tatsarva miti matvA SamaM vrajet ..</s>
+<s>nAlamekasya tatsarvamiti matvA SamaM vrajet ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4189: difference at line 6
+<s>itTaM tadBuvi nAsti yasya viDina nopAyacintA kftA</s>
+<s>itTaM tadBuvi nAsti yasya viDinA nopAyacintA kftA</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4193: difference at line 4
+<s>pOlasyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
+<s>pOlastyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
+; AB version is proper.
+; This has to be taken as print change, as Rāvaṇa has the alt. name पौलस्त्यः, not पौलस्यः.
+; -------------------------------------
+Verse 4199: difference at line 5
+<s>tadvE SastraM SastravidAM na SastraM na SastraM Cedanam smftam ..</s>
+<s>tadvE SastraM SastravidAM na SastraM Cedanam smftam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4200.1: difference at line 4
+<s>prajAM rakzati hi nfpaH</s> s. den fogenden Spruch.
+<s>prajAM rakzati hi nfpaH</s> s. den folgenden Spruch.
+; AB version is proper.
+; -------------------------------------
+Verse 4204: difference at line 4
+<s>prAjAnAM pAlanaM SasyaM svargakoSasya varDanam .</s>
+<s>prajAnAM pAlanaM SasyaM svargakoSasya varDanam .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4206: difference at line 5
+<s>rAjYaH SriyaM kulaM prARAnnAdagDA vinivartate ..</s>
+<s>rAjYaH SriyaM kulaM prARAnnAdagDvA vinivartate ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4216.1: difference at line 4
+<s>prajYAsaMpAdane dakzAm</s> s. Spruch
+<s>prajYAsaMpAdane dakzAm</s> s. Spruch 881.
+; AB version is proper.
+; -------------------------------------
+Verse 4221: difference at line 5
+<s>amitramapi sevena na ca jAtu viSaNkayet ..</s>
+<s>amitramapi seveta na ca jAtu viSaNkayet ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4246: difference at line 4
+<s>praTamaM yaH samAKyAtaH SIlavAnitisaMsadi .</s>
+<s>praTamaM yaH samAKyAtaH SIlavAniti saMsadi .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4265: difference at line 4
+<s>pramAdaH paramo dvizI pramAdaH paramaM vizam .</s>
+<s>pramAdaH paramo dvezI pramAdaH paramaM vizam .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4279: difference at line 4
+<s>praSAntaSAstrArTAvicAracApalaM</s>
+<s>praSAntaSAstrArTavicAracApalaM</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4299: difference at line 4
+<s>prANnA meti manAgamAnitaguRaM jAtABilAzaM tataH</s>
+<s>prANmA meti manAgamAnitaguRaM jAtABilAzaM tataH</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4299: difference at line 6
+<s>premArdraM spfhaRIyanirBararahaH krIqApragalBaM tato</s>
+<s>premArdraM spfhaRIyanirBararahaHkrIqApragalBaM tato</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4303,4304: difference at line 4
+<s>prAjYe niryAjyamAne tu santi rAjYastrayo guRAH .</s>
+<s>prAjYe niyojyamAne tu santi rAjYastrayo guRAH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4314: difference at line 4
+<s>prARizu nityamahiMsAM kzamAM ca kuryAccitrAparAGizu .</s>
+<s>prARizu nityamahiMsAM kzamAM ca kuryAccitrAparADizu .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4321: difference at line 5
+<s>sa taTA vaYcite mUQo makaraH kapinA yaTA ..</s>
+<s>sa taTA vaYcito mUQo makaraH kapinA yaTA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4326.1: difference at line 4
+<s>prAptArTAgrahaRaM dravya°</s> s. den vorangeheden Spruch.
+<s>prAptArTAgrahaRaM dravya°</s> s. den vorangehenden Spruch.
+; AB version is proper.
+; -------------------------------------
+Verse 4343: difference at line 5
+<s>svArTaM ca prArTanAM vettu kzete kzArAvasecanam ..</s>
+<s>svArTaM ca prArTanAM vettu kzate kzArAvasecanam ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4356: difference at line 5
+<s>ASrayetpArTivaM vidvAMstaddUreREva nAnyaTA ..</s>
+<s>ASrayetpArTivaM vidvAMstaddvAreREva nAnyaTA ..</s>
+; AB version is proper.
+; The word needs a closer attenntion, as vidvān + stat + dvāreṇa + iva.
+; And this is from the famous Bhartṛhari's Śatakatraya, to be read wrongly!
+; -------------------------------------
+Verse 4372: difference at line 5
+<s>SayanamavanipfzWe vAsasi valkale ca .</s>
+<s>SayanamavanipfzWe vAsasI valkale ca .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4384: difference at line 4
+<s>banDuH ko nAma duzwAnAM kupyetko nAtiuAcitaH .</s>
+<s>banDuH ko nAma duzwAnAM kupyetko nAtiyAcitaH .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4444: difference at line 4
+<s>bAle lIlAmukulitamamI sundarA dfztipAtAH</s>
+<s>bAle lIlAmukulitamamI sundarA dfzwipAtAH</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4447.1: difference at line 4
+<s>bAlo yuvA vA vfdDaSca</s> s. den vorangeheden Spruch.
+<s>bAlo yuvA vA vfdDaSca</s> s. den vorangehenden Spruch.
+; AB version is proper.
+; -------------------------------------
+Verse 4457: difference at line 4
+<s>bAhuvIryaM balaM rAjYAM brAhmaRo brahmavidBalI .</s>
+<s>bAhuvIryaM balaM rAjYAM brAhmaRo brahmavidbalI .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4458: difference at line 5
+<s>SroRI tIrTaSilA ca netraSaParaM GammillaSEvAlakam .</s>
+<s>SroRI tIrTaSilA ca netraSaParaM DammillaSEvAlakam .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4487: difference at line 5
+<s>aviSvAsI taTA ca syAdyaTA saMvyavahAravAn ..</s>
+<s>aviSvAsI taTA ca syAdyaTA saMvyvahAravAn ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4504: difference at line 5
+<s>pitAputrO vijAnIyAdBrAhmaRastu tayoH pitA ..</s>
+<s>pitAputrO vijAnIyAdbrAhmaRastu tayoH pitA ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4527: difference at line 4
+<s>BagavatO jagannetre sUryAcandramasAvapi .</s>
+<s>BagavantO jagannetre sUryAcandramasAvapi .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4546: difference at line 4
+<s>BarturanvAsane tizWandazwiM nAnyatra vikzipet .</s>
+<s>BarturanvAsane tizWandfzwiM nAnyatra vikzipet .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4547: difference at line 4
+<s>BartuScittAnuvfttitvaM sadvfttamanurjIvinAm .</s>
+<s>BartuScittAnuvfttitvaM sadvfttamanujIvinAm .</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4563: difference at line 5
+<s>syAdakAraRavErInaH kAraRAdapare pare ..</s>
+<s>syAdakAraRavErI naH kAraRAdapare pare ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4630: difference at line 5
+<s>rAjakAryapatiDvaMsAnmantrI dozeRa lipyate ..</s>
+<s>rAjakAryapariDvaMsAnmantrI dozeRa lipyate ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4636: difference at line 5
+<s>lavaRaprAtarASena tfzRA pratyuta jAyale ..</s>
+<s>lavaRaprAtarASena tfzRA pratyuta jAyate ..</s>
+; AB version is proper.
+; -------------------------------------
+Verse 4643: difference at line 4
+<s>BAntaM yAcanatatpareRa manasA dehIti vAkpreritA</s>
+<s>BrAntaM yAcanatatpareRa manasA dehIti vAkpreritA</s>
+; AB version is proper.
+; The word भान्तं does not render a sensible meaning here, as does the word भ्रान्तं.
+; Also the alphabetical ordering of the Spruches gets disturbed without the change.
+; This can be taken as a print change.
