@@ -151,4 +151,7 @@ python diff_verses1.py boesp-2_slp1-sam1b.txt boesp-2_slp1_final.txt boesp-2_slp
 15 lines with differences in Sanskrit verse
 
 upload these for further comments from AB and Sampada.
+
+sh ../step4a1/transcode_ab.sh slp1 deva ../../step4a2/boesp-2_slp1_diff_ab2a_final.txt ../../step4a2/boesp-2_deva_diff_ab2a_final.txt
+
 =============================================================
