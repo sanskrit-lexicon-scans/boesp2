@@ -1,0 +1,16 @@
+
+Listing of the few 'print changes'.  These are instances where the
+digitization (boesp.xml) intentionally differs from the pdf pages.
+
+3198 old <s>na kiMtkvicidastIha vastvasADyaM vipaScitAm .</s>
+3198 new <s>na kiMcitkvacidastIha vastvasADyaM vipaScitAm .</s>
+2646 old <s>triviDAH puruzA rAjannutamADamamaDyamAH .</s>
+2646 new <s>triviDAH puruzA rAjannuttamADamamaDyamAH .</s>
+2605.1 old parArGaGawakAH
+2605.1 new parArTaGawakAH
+3661 old sundopasandAvanyo
+3661 new sundopasundAvanyo
+4036 old mUyaKEr
+4036 new mayUKEr
+4193 old pOlasyaH
+4193 new pOlastyaH
