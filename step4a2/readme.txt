@@ -155,3 +155,45 @@ upload these for further comments from AB and Sampada.
 sh ../step4a1/transcode_ab.sh slp1 deva ../../step4a2/boesp-2_slp1_diff_ab2a_final.txt ../../step4a2/boesp-2_deva_diff_ab2a_final.txt
 
 =============================================================
+04-11-2022.
+Received comments from above diffs in files:
+ from Sampada:       boesp-2_slp1_diff_sam1b_final.comments.txt
+ from Andhrabharati: boesp-2_deva_diff_ab2a_final.AB.comments.txt
+My discussion in file:
+ boesp-2_final1_comment.txt
+
+I made changes to boesp-2_slp1_final.txt, the results are in
+  boesp-2_slp1_final1.txt
+
+=============================================================
+install edits from final1.txt.
+
+cp ../step0/boesp.xml temp_boesp_01.xml
+Manual changes: temp_boesp_02.xml
+1. Remove '<pb n="2.106"/>' at line 65548 under <s n="2731">
+2. Change 3077 to 4 lines
+3. Change 3359 to 4 lines
+4. 3996 remove extra line
+
+python ../step4a1/update_xml_verses.py temp_boesp_02.xml boesp-2_slp1_final1.txt temp_boesp_03.xml
+
+check:
+python ../step4a1/extract_verses.py 2 temp_boesp_03.xml temp_verses.txt
+diff boesp-2_slp1_final1.txt temp_verses.txt
+ #no diff, as expected
+
+rm temp_verse.txt
+
+Check validation:
+python ../step0/xmlvalidate.py temp_boesp_03.xml ../step0/boesp.dtd
+ ok  (as expected)
+
+======================================================================
+
+#--------------------------------------------------------
+install revised versions of xml and dtd
+cp temp_boesp_03.xml ../step0/boesp.xml
+
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh

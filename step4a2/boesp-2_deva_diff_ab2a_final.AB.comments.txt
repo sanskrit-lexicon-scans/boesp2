@@ -1,0 +1,122 @@
+; -------------------------------------
+Verse 2342: difference at line 5
+<s>आजन्मनः स्मरोत्पत्तौ मानसेनोषरायितम् ॥</s>
+<s>आ जन्मनः स्मरोत्पत्तौ मानसेनोषरायितम् ॥</s>
+;; AB original comment--
+; This has been a "consistent correction" I did in my files, आ being the part (start) of a samAsa. The print has it with space at some places and without space at some places.
+;; AB final comment--
+; Consulted Apte and MW and seen that both "आ " and "आ" do exist with similar meaning.
+; Thus the space in Boesp is to be retained.
+; -------------------------------------
+Verse 2495: difference at line 6
+<s>भियः सीमा मृत्युः सुकृतकुलसीमा ऽश्रितभृतिः</s>
+<s>भियः सीमा मृत्युः सुकृतकुलसीमाश्रितभृतिः</s>
+;; AB original comment--
+; To decide by debating.
+; I had inserted the avagraha for clarity; it could be skipped, if wished.
+; There should in fact be two avagrahas here.
+;; AB final comment--
+The verse has different groups all separated by a space, except this सुकृतकुलसीमा and क्षुधासीमा--
+(तपःसीमा मुक्तिः) (सकलगुणसीमा वितरणं)
+(कलासीमा काव्यं) (जननसुखसीमा सुवदना)
+(भियः सीमा मृत्युः) (सुकृतकुलसीमा ऽश्रितभृतिः)
+(क्षुधासीमान्नान्तः) (श्रुतिमुखरसीमा हरिकथा)
+; क्षुधासीमा has a sandhi with अन्नान्तः, so does सुकृतकुलसीमा with आश्रितभृतिः.
+; As mentioned above, the avagraha was just introduced for more clarity.
+; -------------------------------------
+Verse 2605.1: difference at line 4
+<s>ते ते सत्पुरुषाः परार्थघटकाः</s> s. Spruch 1460.
+<s>ते ते सत्पुरुषाः परार्घघटकाः</s> s. Spruch 1460.
+; Just like to ask to refer to S.1460 in boesp-1 (which has the same lettering twice) and decide!
+; -------------------------------------
+Verse 2642: difference at line 4
+<s>त्रिभिर्वर्षैस्त्रिभिर्मासैस्त्रिभिःपक्षैस्त्रिभिर्दिनैः ।</s>
+<s>त्रिभिर्वर्षैस्त्रिभिर्मासैस्त्रिभिः पक्षैस्त्रिभिर्दिनैः ।</s>
+;; AB original comment--
+; The context made me leave the space here.
+; The verse is talking about (त्रिभिः + वर्षैः = त्रिभिर्वर्षैः) (त्रिभिः + मासैः = त्रिभिर्मासैः) (त्रिभिः + पक्षैः = त्रिभिःपक्षैः) (त्रिभिः + दिनैः = त्रिभिर्दिनैः)
+; The Puritans prescribe a उपध्मानीय here (as preceding the letter प), in place of विसर्ग, but the Liberals go with the visarga itself.
+; -------------------------------------
+Verse 2743: difference at line 5
+<s>राजा ऽकुलीनः सुकुलश्व दासः पश्यन्तु लोकाः कलिकेलितानि ॥</s>
+<s>राजाकुलीनः सुकुलश्व दासः पश्यन्तु लोकाः कलिकेलितानि ॥</s>
+;; AB original comment--
+; To decide by debating.
+; the avagraha is needed here for clarity, as the verse is talking about contradicting (opposing) characteristics of types of 'dual' groups.
+; (दरिद्रः vs. धनाढ्यः), (चिरायुः vs. गतायुः) and (अकुलीन vs. सुकुलः).
+; This may be taken as a print correction.
+; -------------------------------------
+Verse 2918: difference at line 5
+<s>दृष्टाश्च फुल्ला निचुला न मृता चास्मि किं त्विदम् ॥</s>
+<s>दृष्टाश्च फुल्ला निचुला न मृता चास्मि किं न्विदम् ॥</s>
+;; AB original comment--
+; AB version is proper. (There is no such word as न्विदम्, the intended one being तु+इदम् = त्विदम्.)
+; This may be taken as a print correction.
+;; AB updated comment--
+; My comment at S.2918 seems to be a hasty one; the text न्विदम् does exist. So my file needs correction here.
+(https://github.com/funderburkjim/boesp-prep-ab/issues/10#issuecomment-1082627312)
+; -------------------------------------
+Verse 3358: difference at line 5
+<s>आदेहपतनाद्गङ्गामुपास्ते यः पुमानिह ॥</s>
+<s>आ देहपतनाद्गङ्गामुपास्ते यः पुमानिह ॥</s>
+;; AB original comment--
+; Same as at S.2342
+;; AB final comment--
+; Consulted Apte and MW and seen that both "आ " and "आ" do exist with similar meaning.
+; Thus the space in Boesp is to be retained.
+; -------------------------------------
+Verse 3459: difference at line 4
+<s>न शक्यो वायुराकाशे पाशैर्बद्धुं मनोजवः ।</s>
+<s>न शक्यो वायुराकाशे पाशैर्बन्द्धुं मनोजवः ।</s>
+;; AB final comment--
+; Boethlingk gave the variant form (पाशैर्बद्धुं) in the FN, so the main text may be retained as is (पाशैर्बन्द्धुं).
+; -------------------------------------
+Verse 3562: difference at line 5
+<s>आमृत्योः श्रियमन्विच्छेन्नैनां मन्येत दुर्लभाम् ॥</s>
+<s>आ मृत्योः श्रियमन्विच्छेन्नैनां मन्येत दुर्लभाम् ॥</s>
+;; AB original comment--
+; Same as at S.2342
+;; AB final comment--
+; Consulted Apte and MW and seen that both "आ " and "आ" do exist with similar meaning.
+; Thus the space in Boesp is to be retained.
+; -------------------------------------
+Verse 3661: difference at line 5
+<s>सुन्दोपसुन्दावन्यो ऽन्यं समवीर्यौ हतौ न किम् ॥</s>
+<s>सुन्दोपसन्दावन्यो ऽन्यं समवीर्यौ हतौ न किम् ॥</s>
+;; AB original comment--
+; This may to be taken as print correction, as सुन्द & उपसुन्द are twins and are always cited together as सुन्दोपसुन्दौ.
+;; AB final comment--
+; Just like to ask to refer the translation of the verse, having "Sunda and Upasunda", and decide!
+; -------------------------------------
+Verse 4036: difference at line 6
+<s>सो ऽयं चन्द्रः पतति गगनादल्पशेषैर्मयूखै-</s>
+<s>सो ऽयं चन्द्रः पतति गगनादल्पशेषैर्मूयखै-</s>
+;; AB original comment--
+; This has to be taken as a print error मूयख > मयूख.
+;; AB final comment--
+;  Just like to ask to refer the English translation of the verse (from German)-
+	"This moon here, which has set (thrown) its foot (its rays) on the head of Sumeru, the prince of the mountains, on it, after annihilation of the eclipse, the middle area of Vishnu (the celestial space) now descends from the sky with the few rays that are left to him. rays from the sky: too high climbing ends also with the great ones with falling."
+and correlate with the word 'rays' and then decide!
+; -------------------------------------
+Verse 4086: difference at line 5
+<s>दा बाल्याद्विप्रवर्यैः स्ववदनविवरे धार्यते वैरिणी मे ।</s>
+<s>दाबाल्याद्विप्रवर्यैः स्ववदनविवरे धार्यते वैरिणी मे ।</s>
+;; AB original comment--
+; Same as at S.2342
+;; AB final comment--
+; Consulted Apte and MW and seen that both "आ " and "आ" do exist with similar meaning.
+; Thus the space in Boesp is to be retained.
+; -------------------------------------
+Verse 4193: difference at line 4
+<s>पौलस्त्यः कथमन्यदारहरणे दोषं न विज्ञातवा-</s>
+<s>पौलस्यः कथमन्यदारहरणे दोषं न विज्ञातवा-</s>
+;; AB original comment--
+; This has to be taken as print change, as Rāvaṇa has the alt. name पौलस्त्यः, not पौलस्यः.
+;; AB final comment--
+; I do not know how to 'infer' Rāvaṇa from पौलस्यः!
+; पुलस्त्य > विश्रवण (विश्रवस्) > रावण is the geneology of Rāvaṇa (पौलस्त्यः is the taddhita form of पुलस्त्य, meaning a descendent)
+; -------------------------------------
+Verse 4487: difference at line 5
+<s>अविश्वासी तथा च स्याद्यथा संव्य्वहारवान् ॥</s>
+<s>अविश्वासी तथा च स्याद्यथा संव्यवहारवान् ॥</s>
+; This is a bad rendering by AB indeed. Needs some more focus in reading.

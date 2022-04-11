@@ -1,0 +1,79 @@
+Additional discussion from Sampada in file:
+ boesp-2_slp1_diff_sam1b_final.comments.txt
+revisions to final1 per Sampada comments:
+2281.  cintA -> ciMtA in 2nd line. 
+2731.  Remove line '; this line not needed here. <pb n="2.106"/>'
+       Reason -- '<pb n="2.106"/>' occurs at end of 2732.
+4193. Sampada "<4193> number doesn't seem to appear in my entry."
+  Agree. Jim introduced error. Remove '4193 ' in final1
+
+One point of disagreement with Sampada remains:
+2342.  'A janmanaH' retained.
+ Sampada disagrees:
+  "I still feel that <AjanmanaH> should be one word.
+   I think AB also suggested the same.
+   <Ajanma> would have a meaning (from birth), what would <A> mean?"
+ AB Comment:
+  ; Consulted Apte and MW and seen that both "आ " and "आ" do exist with
+  ; similar meaning.
+  Thus the space in Boesp is to be retained.
+
+------------------------------------------------
+In these cases, Sampada agrees with final.
+2597. 'pApe ratiM' retained. Sampada agrees
+2646. 'rAjannuttamADamamaDyamAH' retained. Sampada agrees
+2656. 'mAlatISaSaBflleKAkadalInAM' retained. Sampada agrees
+3045. 'styuBayaTA' retained. Sampada agrees.
+3198. 'kiMcitkvacidastIha' Sampada agrees. (this is print error)
+3811. 'nfpARAM ca narARAM ca' retained. Sampada agrees
+3926. Sampada agrees - "I had mixed up with 3928 :("
+4125. Sampada agrees "error of space"
+4256.2 Sampada agrees with final.
+4299. Sampada agree
+===================================================================
+===================================================================
+Additional discussion from AB in file
+  boesp-2_deva_diff_ab2a_final.AB.comments.txt
+2342. AB agrees with final
+2495. AB agrees with final1. See his discussion in file.
+2605.1 AB suggests 'parArGaGawakAH' -> 'parArTaGawakAH' (print change)
+  Agree. Change made.
+ 'parArGaGawakAH' and refers to S. 1460,
+  and 1460 has 'parArTaGawakAH'.
+  
+2642 final has 'triBiH pakzEs' and agrees with print.
+  A case can be made for 'triBiHpakzEs'. See AB discussion in file.
+2743: AB urges print change राजाकुलीनः  -> राजा ऽकुलीनः
+  ** CHANGE NOT (YET) MADE
+<s>राजा ऽकुलीनः सुकुलश्व दासः पश्यन्तु लोकाः कलिकेलितानि ॥</s>
+<s>राजाकुलीनः सुकुलश्व दासः पश्यन्तु लोकाः कलिकेलितानि ॥</s>
+;; AB original comment--
+; To decide by debating.
+; the avagraha is needed here for clarity, as the verse is talking about contradicting (opposing) characteristics of types of 'dual' groups.
+; (दरिद्रः vs. धनाढ्यः), (चिरायुः vs. गतायुः) and (अकुलीन vs. सुकुलः).
+; This may be taken as a print correction.
+  
+2918: AB agrees with न्विदम्
+3358: AB agrees with आ देहपतना
+3459: AB agrees with पाशैर्बन्द्धुं
+3562: AB agrees with आ मृत्योः
+3661: AB print change 'sundopasandAvanyo' -> 'sundopasundAvanyo'
+      Agree. change made
+      ; This may to be taken as print correction,
+        as सुन्द & उपसुन्द are twins and are always cited together as सुन्दोपसुन्दौ.
+      ;; AB final comment--
+      ; Just like to ask to refer the [German] translation of the verse,
+      ; having "Sunda and Upasunda", and decide! 
+4036: AB urges print change mUyaKEr -> mayUKEr
+      Agree: change made
+4086: AB suggests 'दाबाल्याद्विप्रवर्यैः' -> 'दा बाल्याद्विप्रवर्यैः'. (in agreement with print)
+      Agree. Change made to final1.
+4193: AB suggests पौलस्यः -> पौलस्त्यः  (print change)
+      Agree. Change made to final1.  confer 3324 Footnote and 766.
+      "; This has to be taken as print change, as Rāvaṇa has the
+         alt. name पौलस्त्यः, not पौलस्यः.
+       ; I do not know how to 'infer' Rāvaṇa from पौलस्यः!
+       ; पुलस्त्य > विश्रवण (विश्रवस्) > रावण is the geneology of Rāvaṇa
+       (पौलस्त्यः is the taddhita form of पुलस्त्य, meaning a descendent)
+4487: AB agrees with संव्यवहारवान्.
+

@@ -1,0 +1,134 @@
+<edit>
+<info L="3279" page="2.217" gtypes="S,D,F"/>
+<S n="3279">
+<s>na tvevAtmAvamantavyaH puruzeRa kadA ca na .</s>
+<s>nahyAtmapariBUtasya BUtirBavati SoBanA ..</s>
+</S>
+</edit>
+
+Entry was <s>na hyAtmapariBUtasya BUtirBavati SoBanA ..</s>
+I have dropped the space, is that ok?
+-------------
+
+Final diff comparison file: 10/4/2022
+
+1.
+Verse 2281: difference at line 5
+<s>bindunEvADikA ciMtA citAtyalpA hi BUtale ..</s>
+<s>bindunEvADikA cintA citAtyalpA hi BUtale ..</s>
+
+Logically, I agree that your proposal of <cintA> is grammatically right. Since it was very clearly <ciMtA> in the scan, I stuck with it. I haven't made a correction for anusvAra before. I have usually respected the scan in these cases.
+jim:  Agree -  This is 2nd line in verse and had ciMtA.  
+2.
+Verse 2342: difference at line 5
+<s>AjanmanaH smarotpattO mAnasenozarAyitam ..</s>
+<s>A janmanaH smarotpattO mAnasenozarAyitam ..</s>
+
+I still feel that <AjanmanaH> should be one word. I think AB also suggested the same. <Ajanma> would have a meaning (from birth), what would <A> mean?
+
+3.
+Verse 2597: difference at line 4
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pAperatiM mA kfTAH</s>
+<s>tfzRAM CindDi Baja kzamAM jahi madaM pApe ratiM mA kfTAH</s>
+
+Agree with your suggestion of <pApe ratiM>
+
+4.
+Verse 2646: difference at line 4
+<s>triviDAH puruzA rAjannutamADamamaDyamAH .</s>
+<s>triviDAH puruzA rAjannuttamADamamaDyamAH .</s>
+
+OK.
+
+
+5.
+Verse 2656: difference at line 5
+<s>mAlatISaSaBflloKAkadalInAM kaWoratA ..</s>
+<s>mAlatISaSaBflleKAkadalInAM kaWoratA ..</s>
+
+Agree with your <mAlatISaSaBflleKAkadalInAM> correction.
+
+6.
+Verse 2731,2732: difference at line 6
+<pb n="2.106"/>
+; this line not needed here. <pb n="2.106"/>
+
+OK
+
+7.
+Verse 3045: difference at line 5
+<s>vinASe nASe vA tava sati viyogo 'styuBayatA .</s>
+<s>vinASe nASe vA tava sati viyogo 'styuBayaTA .</s>
+
+Agree with you.
+
+8.
+Verse 3198: difference at line 4
+<s>na kiMtkvicidastIha vastvasADyaM vipaScitAm .</s>
+<s>na kiMcitkvacidastIha vastvasADyaM vipaScitAm .</s>
+
+Completely different from scan but seems right because scan didn't make sense. Sanskrit scan error.
+OK
+
+9.
+Verse 3811: difference at line 4
+<s>nfpARAM narARAM ca kevalaM tulyamUrtitA .</s>
+<s>nfpARAM ca narARAM ca kevalaM tulyamUrtitA .</s>
+
+OK, agree with you.
+
+10.
+Verse 3926: difference at line 4
+<s>paraduHKAturA nityaM svasuKAni mahAntyapi .</s>
+<s>paraduHKaM samAkarRya svaBAvasujano janaH .</s>
+
+OK, agree with you. I had mixed up with 3928 :(
+
+11.
+Verse 3926: difference at line 5
+<s>napekzante mahAymAnaH sarvaBUtahite ratAH ..</s>
+<s>upakArAsamarTatvAtprApnoti hfdayavyaTAm ..</s>
+
+OK agree.
+
+12.
+Verse 4125: difference at line 5
+<s>punarnaro yAcati yAcyate ca punarnaraH Socati Socyate ca..</s>
+<s>punarnaro yAcati yAcyate ca punarnaraH Socati Socyate ca ..</s>
+
+OK agree, error of space.
+
+13.
+Verse 4156.2: difference at line 4
+<s>pustake pratyayADItam</s> und <s>pustakezu ca nADItaH</s> <s>(nADItam)</s> s. Spruch 4155.
+<s>pustake pratyayADItam</s> und <s>pustakezu ca nADItaH (nADItam)</s> s. Spruch 4155.
+
+OK agree.
+
+14.
+Verse 4193: difference at line 4
+<s>pOlasyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
+4193 <s>pOlasyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
+
+My entry seems to be the exact same thing.
+<4193> number doesn't seem to appear in my entry.
+
+15.
+Verse 4299: difference at line 6
+<s>premArdraM spfhaRIyanirBararahaH krIqApragalBaM tato</s>
+<s>premArdraM spfhaRIyanirBararahaHkrIqApragalBaM tato</s>
+
+Ok agree.
+
+
+
+
+
+
+
+
+
+
+
+
+

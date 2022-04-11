@@ -167,7 +167,7 @@ if __name__=="__main__":
   else:
    entry = d[L]
    edit_entry(entry,edit)  #
-   if True:
+   if False:  # debug not needed
     if iedit == 0:
      print(edit.L)
      for line in edit.lines:
