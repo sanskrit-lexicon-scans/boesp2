@@ -52,3 +52,8 @@ step4f - Further editing of boesp.
 step4g - Corrections to German text
          Ref: https://github.com/funderburkjim/boesp-prep/issues/52
 	 
+web0 - an 'anchor' approach to display. EXPERIMENTAL NOT CURRENTLY USED.
+       https://funderburkjim.github.io/boesp-prep/web0/section1.html
+web1 - https://funderburkjim.github.io/boesp-prep/web1/boesp.html?123
+       displays verse 123.
+       Used as link target in PWK, and some other displays.
