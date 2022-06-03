@@ -1,0 +1,372 @@
+; -----------------------------------------------------
+262 old ihm ergebenen Diener, der er von der
+262 new ihm ergebenen Diener, den er von der
+; -----------------------------------------------------
+1557 old rasch diese Holzer und auch wohl einen
+1557 new rasch diese Hölzer und auch wohl einen
+; -----------------------------------------------------
+5732 old bekannt, von unendlicher Ausdehnnung;
+5732 new bekannt, von unendlicher Ausdehnung;
+; -----------------------------------------------------
+6078 old Walde gehaglich: unter Menschen versengt
+6078 new Walde behaglich: unter Menschen versengt
+; -----------------------------------------------------
+19005 old Hālāhala Giftchen, du seiest der
+19005 new Hālāhala-Giftchen, du seiest der
+; -----------------------------------------------------
+21643 old Tochter des grossen Heiligen Jahnu die
+21643 new Tochter des grossen Heiligen Yahnu die
+; -----------------------------------------------------
+24872 old Ruhebette, die Gattin auf dem Schooses:
+24872 new Ruhebette, die Gattin auf dem Schoosse:
+; -----------------------------------------------------
+25847 old Hoflichkeiten bezeigt, und zwischen
+25847 new Höflichkeiten bezeigt, und zwischen
+; -----------------------------------------------------
+29069 old nur Potasche vermag die Flecken in
+29069 new nur Pottasche vermag die Flecken in
+; -----------------------------------------------------
+29070 old Kleidern zu ertfernen.
+29070 new Kleidern zu entfernen.
+; -----------------------------------------------------
+30294 old tanzenden Pfauen, der Erboden unter ihm
+30294 new tanzenden Pfauen, der Erdboden unter ihm
+; -----------------------------------------------------
+32426 old geben kein Lebenzeichen von sich;
+32426 new geben kein Lebenszeichen von sich;
+; -----------------------------------------------------
+36621 old <b>1549.</b> (<b>606.</b>) Pfeile wie Karnin,
+36621 new <b>1549.</b> (<b>606.</b>) Pfeile wie Karṇin,
+; -----------------------------------------------------
+37084 old die Sinnesgegestände nachzudenken
+37084 new die Sinnesgegenstände nachzudenken
+; -----------------------------------------------------
+38128 old Schatz vor sich liegen sicht, greift es
+38128 new Schatz vor sich liegen sieht, greift es
+; -----------------------------------------------------
+39670 old hinuterschlucken).
+39670 new hinunterschlucken).
+; -----------------------------------------------------
+39802 old des unbedeutendedsten Geschäftes hier im
+39802 new des unbedeutendsten Geschäftes hier im
+; -----------------------------------------------------
+41534 old vorübergehenden Wanderen genossen wird?
+41534 new vorübergehenden Wanderern genossen wird?
+; -----------------------------------------------------
+44207 old winziger Keri und dennoch bringt Indra
+44207 new winziger Kerl und dennoch bringt Indra
+; -----------------------------------------------------
+44246 old geben, keine Früche ernten; anderseits
+44246 new geben, keine Früchte ernten; anderseits
+; -----------------------------------------------------
+45699 old Gesangen uns angeben.
+45699 new Gesanges uns angeben.
+; -----------------------------------------------------
+46672 old ehrenwerthan guten Menschen die
+46672 new ehrenwerthen guten Menschen die
+; -----------------------------------------------------
+47224 old wohnen.» «Wozu?» «Um irgedwie mit
+47224 new wohnen.» «Wozu?» «Um irgendwie mit
+; -----------------------------------------------------
+47532 old errichter hat? Wohin Pṛthu, der aus der
+47532 new errichtet hat? Wohin Pṛthu, der aus der
+; -----------------------------------------------------
+47533 old Handfläche entsprossesne Sohn Vena's?
+47533 new Handfläche entsprossene Sohn Vena's?
+; -----------------------------------------------------
+49639 old war ausgestrocknet, so dass ich es mit
+49639 new war ausgetrocknet, so dass ich es mit
+; -----------------------------------------------------
+50083 old Schoos Gebetteten, den Knaben, den
+50083 new Schooss Gebetteten, den Knaben, den
+; -----------------------------------------------------
+50428 old den Erboden zerreisst, wird durch Gräser
+50428 new den Erdboden zerreisst, wird durch Gräser
+; -----------------------------------------------------
+52175 old Stier, der an einen schwerren Karren
+52175 new Stier, der an einen schweren Karren
+; -----------------------------------------------------
+54830 old noch Hängende zurückt, indem sie ihn
+54830 new noch Hängende zurück, indem sie ihn
+; -----------------------------------------------------
+55222 old Fischen auf den Grund zurückt; die
+55222 new Fischen auf den Grund zurück; die
+; -----------------------------------------------------
+56345 old Schönheit zu Grunde, das Begehren doe
+56345 new Schönheit zu Grunde, das Begehren die
+; -----------------------------------------------------
+58468 old Brahmannen, Freunde und Angehörige
+58468 new Brahmanen, Freunde und Angehörige
+; -----------------------------------------------------
+60804 old Sinneswerkeugen, mit demselben Namen,
+60804 new Sinneswerkzeugen, mit demselben Namen,
+; -----------------------------------------------------
+62888 old Augenlied, des Weibes Freund der Gatte,
+62888 new Augenlid, des Weibes Freund der Gatte,
+; -----------------------------------------------------
+62896 old <i>Augenlied.</i>
+62896 new <i>Augenlid.</i>
+; -----------------------------------------------------
+64689 old Brandopfer sind nicht ein Sechszehntel
+64689 new Brandopfer sind nicht ein Sechzehntel
+; -----------------------------------------------------
+67893 old Brahmadatta, ein Leid der verlust des
+67893 new Brahmadatta, ein Leid der Verlust des
+; -----------------------------------------------------
+68902 old <b>2864.</b> (<b>4197.</b>) Der Tod raft den
+68902 new <b>2864.</b> (<b>4197.</b>) Der Tod rafft den
+; -----------------------------------------------------
+69160 old Kandragupta brachte, obgleich er allein
+69160 new Candragupta brachte, obgleich er allein
+; -----------------------------------------------------
+69773 old nicht fren Wohnenden, nicht Ungelehrten,
+69773 new nicht fern Wohnenden, nicht Ungelehrten,
+; -----------------------------------------------------
+70106 old Verderben das Eisen, an dem der Koder
+70106 new Verderben das Eisen, an dem der Köder
+; -----------------------------------------------------
+70149 old Guten baat. Ein Besuch, den wir dir
+70149 new Guten baar. Ein Besuch, den wir dir
+; -----------------------------------------------------
+70412 old Zweifel bestehen, im Meere ded Lebens.
+70412 new Zweifel bestehen, im Meere des Lebens.
+; -----------------------------------------------------
+70588 old ist kein Duft, kein Tropfchen Honig,
+70588 new ist kein Duft, kein Tröpfchen Honig,
+; -----------------------------------------------------
+71348 old das Wortchen «gieb» auszusprechen im
+71348 new das Wörtchen «gieb» auszusprechen im
+; -----------------------------------------------------
+71595 old <b>2979.</b> (<b>1254.</b>) Obgleich eines Mennes
+71595 new <b>2979.</b> (<b>1254.</b>) Obgleich eines Mannes
+; -----------------------------------------------------
+72619 old Eroberugen auszugehen gedenkt.
+72619 new Eroberungen auszugehen gedenkt.
+; -----------------------------------------------------
+72798 old ist des Königs Liebeling.
+72798 new ist des Königs Liebling.
+; -----------------------------------------------------
+73922 old streckt dagegen mein Gelieber nur die
+73922 new streckt dagegen mein Geliebter nur die
+; -----------------------------------------------------
+76456 old Veranlssung lernt man ja Freunde wie
+76456 new Veranlassung lernt man ja Freunde wie
+; -----------------------------------------------------
+78228 old liesse: der Verstandige, der dieser
+78228 new liesse: der Verständige, der dieser
+; -----------------------------------------------------
+78386 old bedeckten Erboden empfindet, wenn es mit
+78386 new bedeckten Erdboden empfindet, wenn es mit
+; -----------------------------------------------------
+79473 old angebornene Wesen waltet hier vor, wie
+79473 new angeborene Wesen waltet hier vor, wie
+; -----------------------------------------------------
+79514 old Gedanken gerichtet, wordurch der
+79514 new Gedanken gerichtet, wodurch der
+; -----------------------------------------------------
+79751 old <b>3327.</b> (<b>1411.</b>) Die Menchen freuen sich,
+79751 new <b>3327.</b> (<b>1411.</b>) Die Menschen freuen sich,
+; -----------------------------------------------------
+84767 old Flamme) hinuterhalten und nicht darüber
+84767 new Flamme) hinunterhalten und nicht darüber
+; -----------------------------------------------------
+84953 old forderlich, o Lieber, als eines
+84953 new förderlich, o Lieber, als eines
+; -----------------------------------------------------
+85132 old selbstbestimmte That: der Mensch bier
+85132 new selbstbestimmte That: der Mensch hier
+; -----------------------------------------------------
+85616 old entgenzuarbeiten.
+85616 new entgegenzuarbeiten.
+; -----------------------------------------------------
+87704 old Nutzen entsehen sowohl Freunde, als auch
+87704 new Nutzen entstehen sowohl Freunde, als auch
+; -----------------------------------------------------
+88197 old micht zu tödten. Wenn die von dir beim
+88197 new mich zu tödten. Wenn die von dir beim
+; -----------------------------------------------------
+89089 old Veranlassund hasst, wie sollte den
+89089 new Veranlassung hasst, wie sollte den
+; -----------------------------------------------------
+94187 old Schlange im Ameisenahaufen und jene
+94187 new Schlange im Ameisenhaufen und jene
+; -----------------------------------------------------
+95270 old sich ganz dem Beruf Andern zu helfenn
+95270 new sich ganz dem Beruf Andern zu helfen
+; -----------------------------------------------------
+96164 old benahe nicht anders, als wie auf einen
+96164 new beinahe nicht anders, als wie auf einen
+; -----------------------------------------------------
+98251 old vornehmen und doch winziggen Herren zu
+98251 new vornehmen und doch winzigen Herren zu
+; -----------------------------------------------------
+98449 old auf folgenden Weise gekennzeichenet:
+98449 new auf folgenden Weise gekennzeichnet:
+; -----------------------------------------------------
+98871 old darum hat der Urschopfer selbst den Sohn
+98871 new darum hat der Urschöpfer selbst den Sohn
+; -----------------------------------------------------
+99072 old die Dichter an den Fingen herzählte,
+99072 new die Dichter an den Fingern herzählte,
+; -----------------------------------------------------
+99725 old der über die Trennung ihrer Gelieben
+99725 new der über die Trennung ihrer Geliebten
+; -----------------------------------------------------
+100074 old besuchen, gelagnen zur höchsten Stellung
+100074 new besuchen, gelangen zur höchsten Stellung
+; -----------------------------------------------------
+104022 old ausgezeichenete Leute lassen nicht ab
+104022 new ausgezeichnete Leute lassen nicht ab
+; -----------------------------------------------------
+104154 old Gelieben der Groll sich breit machen,
+104154 new Geliebten der Groll sich breit machen,
+; -----------------------------------------------------
+105773 old <b>4413.</b> (<b>4619.</b>) Nit einem an Macht
+105773 new <b>4413.</b> (<b>4619.</b>) Mit einem an Macht
+; -----------------------------------------------------
+105997 old Begabte und mit richtigen Urheile
+105997 new Begabte und mit richtigen Urtheile
+; -----------------------------------------------------
+106936 old die Menchen. O Bruder Cātaka, du musst
+106936 new die Menschen. O Bruder Cātaka, du musst
+; -----------------------------------------------------
+106970 old nicht wiederlich und dennoch währt das
+106970 new nicht widerlich und dennoch währt das
+; -----------------------------------------------------
+109332 old Veranlassund sind.
+109332 new Veranlassung sind.
+; -----------------------------------------------------
+110251 old werthvoller Länderereien erkaufter
+110251 new werthvoller Ländereien erkaufter
+; -----------------------------------------------------
+110528 old der aus fünf Elementen zusammnegesetzte,
+110528 new der aus fünf Elementen zusammengesetzte,
+; -----------------------------------------------------
+115392 old Jugend einer Jungfran ohne Geliebten,
+115392 new Jugend einer Jungfrau ohne Geliebten,
+; -----------------------------------------------------
+122948 old <b>5128.</b> (<b>2318.</b>) Wie ein Töpferr aus einem
+122948 new <b>5128.</b> (<b>2318.</b>) Wie ein Töpfer aus einem
+; -----------------------------------------------------
+133001 old <b>5566.</b> (<b>2523.</b>) Fin kluger Fürst darf
+133001 new <b>5566.</b> (<b>2523.</b>) Ein kluger Fürst darf
+; -----------------------------------------------------
+134928 old Person als Triefeder wirkt.
+134928 new Person als Triebfeder wirkt.
+; -----------------------------------------------------
+135375 old wahren Sinn des Wortlants kennt, für den
+135375 new wahren Sinn des Wortlauts kennt, für den
+; -----------------------------------------------------
+137114 old sechszehntes Jahr erreicht, dann soll
+137114 new sechzehntes Jahr erreicht, dann soll
+; -----------------------------------------------------
+139498 old des Gebirges, aber aufkeine Weise, von
+139498 new des Gebirges, aber auf keine Weise, von
+; -----------------------------------------------------
+139709 old züchtigen; hat er aber sein sechszehntes
+139709 new züchtigen; hat er aber sein sechzehntes
+; -----------------------------------------------------
+142797 old des Götterfüsten Palästen zu verkehren.
+142797 new des Götterfürsten Palästen zu verkehren.
+; -----------------------------------------------------
+143516 old von Haus aus unhewohnten Höllen Gazellen
+143516 new von Haus aus unbewohnten Höllen Gazellen
+; -----------------------------------------------------
+145244 old Andern Gefälligkeitem zu leisten? Wozu
+145244 new Andern Gefälligkeiten zu leisten? Wozu
+; -----------------------------------------------------
+146799 old <b>6140.</b> Ohne Tohn vermag ein Töpfer
+146799 new <b>6140.</b> Ohne Thon vermag ein Töpfer
+; -----------------------------------------------------
+146801 old ein Goldarbeiter keinen Ohring
+146801 new ein Goldarbeiter keinen Ohrring
+; -----------------------------------------------------
+149433 old gehütet werden, zumahl von einem
+149433 new gehütet werden, zumal von einem
+; -----------------------------------------------------
+149648 old man stets befolgen, zumahl wenn man mit
+149648 new man stets befolgen, zumal wenn man mit
+; -----------------------------------------------------
+150310 old Planeten es bewirkt hätten, Beschworer
+150310 new Planeten es bewirkt hätten, Beschwörer
+; -----------------------------------------------------
+154057 old Auge der heiligen Schrifft, gewöhnliche
+154057 new Auge der heiligen Schrift, gewöhnliche
+; -----------------------------------------------------
+154634 old rücksichsvolles Benehmen,
+154634 new rücksichtsvolles Benehmen,
+; -----------------------------------------------------
+154656 old vernunden ist? Charakterfeste Menschen,
+154656 new verbunden ist? Charakterfeste Menschen,
+; -----------------------------------------------------
+156019 old einem beftigen Schmerz ergriffen und von
+156019 new einem heftigen Schmerz ergriffen und von
+; -----------------------------------------------------
+156403 old allzumahl für Glück bringend, sie mögen
+156403 new allzumal für Glück bringend, sie mögen
+; -----------------------------------------------------
+156989 old <b>6576.</b> (<b>3044.</b>) Als sie den Gelieben
+156989 new <b>6576.</b> (<b>3044.</b>) Als sie den Geliebten
+; -----------------------------------------------------
+157505 old zumahl aber von Eseln und Kamelen; darum
+157505 new zumal aber von Eseln und Kamelen; darum
+; -----------------------------------------------------
+157553 old kennzeichenet.
+157553 new kennzeichnet.
+; -----------------------------------------------------
+158151 old geringste Vertauen haben.
+158151 new geringste Vertrauen haben.
+; -----------------------------------------------------
+158797 old eine Beleidung erfahren hat, an
+158797 new eine Beleidigung erfahren hat, an
+; -----------------------------------------------------
+159127 old überaus Heilsames fü die eigene Person.
+159127 new überaus Heilsames für die eigene Person.
+; -----------------------------------------------------
+159480 old <b>6681.</b> (<b>3107.</b>) Der ist in Wirklicheit
+159480 new <b>6681.</b> (<b>3107.</b>) Der ist in Wirklichkeit
+; -----------------------------------------------------
+159608 old ihm schreckliche Angst verusacht.
+159608 new ihm schreckliche Angst verursacht.
+; -----------------------------------------------------
+161102 old wird gepriese: ein Esel, der Nichts
+161102 new wird gepriesen: ein Esel, der Nichts
+; -----------------------------------------------------
+162706 old im Unglück nicht seine Besonneheit
+162706 new im Unglück nicht seine Besonnenheit
+; -----------------------------------------------------
+163326 old wie die Früche des Kapittha, die von
+163326 new wie die Früchte des Kapittha, die von
+; -----------------------------------------------------
+164965 old (ist Kampf) auf dem Erboden zum
+164965 new (ist Kampf) auf dem Erdboden zum
+; -----------------------------------------------------
+167621 old <b>7031.</b> (<b>3249.</b>) Ein mit Lak belegter,
+167621 new <b>7031.</b> (<b>3249.</b>) Ein mit Lack belegter,
+; -----------------------------------------------------
+167625 old Liebenssünder, Der ist dein, o sel'ger
+167625 new Liebessünder, Der ist dein, o sel'ger
+; -----------------------------------------------------
+167747 old im Unhalsen dich lass zeigst und nicht
+167747 new im Umhalsen dich lass zeigst und nicht
+; -----------------------------------------------------
+169145 old <b>7093.</b> Die wohlreichende Blüthe der
+169145 new <b>7093.</b> Die wohlriechende Blüthe der
+; -----------------------------------------------------
+170504 old den Bauch zu nähren vermag Jederman.
+170504 new den Bauch zu nähren vermag Jedermann.
+; -----------------------------------------------------
+173438 old eigenen Herzen entstandener Hochmuch
+173438 new eigenen Herzen entstandener Hochmuth
+; -----------------------------------------------------
+174542 old Leben auf dieselb Weise die Speise
+174542 new Leben auf dieselbe Weise die Speise
+; -----------------------------------------------------
+174985 old aus der göttlichen Rede des herem
+174985 new aus der göttlichen Rede des hehren
+; -----------------------------------------------------
+175153 old Bäumen geben, trägt Früche, obgleich
+175153 new Bäumen geben, trägt Früchte, obgleich
+; -----------------------------------------------------
+176695 old machen suchen; sogar ein machtiger Fürst
+176695 new machen suchen; sogar ein mächtiger Fürst

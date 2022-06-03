@@ -49,3 +49,6 @@ step4d - Misc corrections mentioned in issue 45, starting at
 step4e - Move <h3>, <h4> into new HS entries.  Ref #39.
 step4f - Further editing of boesp.
          Ref: https://github.com/funderburkjim/boesp-prep/issues/39#issuecomment-1013895539
+step4g - Corrections to German text
+         Ref: https://github.com/funderburkjim/boesp-prep/issues/52
+	 

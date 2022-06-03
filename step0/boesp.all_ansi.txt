@@ -1,7 +1,7 @@
-
+ 
 <H> Boehtlingk, Indische Sprüche, Vol.· 
 1-3, 2. Auflage, St. Petersburg 1870· 
-[Seite1.1]
+[Seite1.1] 
  
 <S> aMzo 'pi duSTadiSTAnAM pareSAM syAdvinAzakRt |· 
 vAlalezo 'pi vyAghrANAM patsyAjjIvitahAnaye ||· 
@@ -84,7 +84,7 @@ tadevAbhiprapadyeta na vihanyAtkadA ca na ||·
  
 <D4> Wenn die Geschöpfe der Thätigkeit· 
 entsagten, würden sie schlechterdings· 
-leben können; darum soll man sich ihr· 
+nicht leben können; darum soll man sich ihr· 
 hingeben und sie nimmer unterdrücken.· 
  
 <F>4) MBH. 3, 1209. [Seite1.2]· 
@@ -173,7 +173,7 @@ na vyaJjane ruciryasya tyAjyo nRpa ivAturaH ||·
  
 <D11><A3363> Ein Fürst und ein Kranker· 
 sind aufzugeben, wenn jener gegen einen· 
-ihm ergebenen Diener, der er von der· 
+ihm ergebenen Diener, den er von der· 
 Geburt an gehegt, dieser gegen eine· 
 Speise, die er von Geburt an gern· 
 genossen, einen Widerwillen zeigt, so· 
@@ -1082,7 +1082,7 @@ gesetzt wird.·
 <D68><A3385> Setzt man aber eben dieses· 
 Feuer durch Reiben der Hölzer in· 
 Flammen, so versengt es mit seiner Kraft· 
-rasch diese Holzer und auch wohl einen· 
+rasch diese Hölzer und auch wohl einen· 
 Wald.· 
  
 <D69><A3386> Gerade so verhält es sich· 
@@ -2958,7 +2958,7 @@ Ausgaben noch folgenden Vers ein:·
  
 <V3>174. fg. Vgl. Spruch 2570.· 
  
-
+ 
  
 <S> atyAsannA vinAzAya dUrasthA na phalapradAH |· 
 sevyA madhyamabhAvena rAjavahnigurustriyaH ||· 
@@ -4076,7 +4076,7 @@ sAraM tato grAhyamapAsya phalgu haMsairyathA kSIramivAmbumadhyAt ||·
  
  
 <D243><A85> Die Sprachlehre ist, wie· 
-bekannt, von unendlicher Ausdehnnung;· 
+bekannt, von unendlicher Ausdehnung;· 
 dabei ist das Leben kurz und die· 
 Hindernisse zahlreich: darum lasse man· 
 das Unbedeutende weg und nehme nur das· 
@@ -4314,7 +4314,7 @@ jane dahati saMsargo vane saGgavivarjanam ||·
  
 <D258> Wer unbeständigen Sinnes ist, der· 
 fühlt sich weder unter Menschen, noch im· 
-Walde gehaglich: unter Menschen versengt· 
+Walde behaglich: unter Menschen versengt· 
 ihn die Gesellschaft, im Walde der· 
 Mangel an Umgang.· 
  
@@ -6613,7 +6613,7 @@ KAVITA1MR2TAK. 3. ²b. {#pRSThake#}. ²c.·
 ca#} st. {#hi#}. [Seite1.74]· 
  
 <V3>400. = CARR 484. ²a. {#avamAnaM#}.· 
-
+ 
 <F4.2>-- 400. In der Chrestomathie habe ich die Lesart {#kAryadhvaMso#} aufgenommen.· 
  
  
@@ -7603,7 +7603,7 @@ Bomb. 31. ²b. {#zakro#} st. {#zakto#}.·
 ²d. {#nanu#} st. {#na tu#}. Vergl.· 
 Spruch 39.· 
  
-  
+ 
 <S> apragalbhAH padanyAse jananIrAgahetavaH |· 
 santyeke bahulAlApAH kavayo bAlakA iva ||· 
  
@@ -8858,9 +8858,9 @@ Grunde.·
 {#saMmAnAdbrAhmaNaH#} und fg.· 
  
 <V1>536. Lies «Geschätzte» st. «Geachtete».· 
-
+ 
 <V3>536. Lies «Geschätzte» st. «Geachtete».· 
-
+ 
  
  
 <S> amRtAtmani padmanAM dveSTari snigdhatArake |· 
@@ -10165,9 +10165,9 @@ nitarAmeva rAjangatAsIt#}.·
  
  
 <V1>606. Note, Z. 3 lies S4ATAKA1V. st. S4A1TAKA1V.· 
-
+ 
 <V3>606. Note, Z. 3 lies S4ATAKA1V. st. S4A1TAKA1V.· 
-
+ 
 <F4.1>-- 606. Lies in der Uebersetzung Z. 6: «so mache ich mir noch weniger aus dir».· 
  
 <S> arthAnAmIzvaro yaH syAdindriyANAmanIzvaraH |· 
@@ -10707,9 +10707,9 @@ unsere Aenderung für {#alabhyeSu#}. ²d.·
 Vgl. HIT. 104, 17.· 
  
 <V1>636. In der Note KAVITA1MR2TAK. zu lesen.· 
-
+ 
 <V3>636. In der Note ist KAVITA1MR2TAK. zu lesen.· 
-
+ 
 <F4.2>-- 636. KALPATARU. ²c. {#alabhyeSu#}.· 
  
  
@@ -13658,7 +13658,7 @@ nanu santi bhavAdRzAni bhUyo bhuvane 'sminvacanAni durjanAnAm ||·
  
  
 <D814><A3665> Bilde dir nicht ein mein· 
-Ha1la1hala Giftchen, du seiest der· 
+Ha1la1hala-Giftchen, du seiest der· 
 oberste aller Schrecken: giebt es denn· 
 nicht in dieser Welt noch Andere deines· 
 Gleichen, als da sind die Reden der· 
@@ -15559,7 +15559,7 @@ kanyA kalmaSanAzinI bhagavatI bhAgIrathI dRzyate ||·
  
  
 <D929> Zuvörderst sieht man diese· 
-Tochter des grossen Heiligen Jahnu die· 
+Tochter des grossen Heiligen Yahnu die· 
 sündentilgende hehre Gan3ga1, als Wasser· 
 im Gefässe, welches der erste Ältervater· 
 (Brahman) bei seinen religiösen· 
@@ -17963,7 +17963,7 @@ utsaGge patirUDhAM ca lAlanaM trividhaM viduH ||·
  
 <D1063> Das Mädchen hätschele man auf· 
 dem Sitze, die Jungfrau auf dem· 
-Ruhebette, die Gattin auf dem Schooses:· 
+Ruhebette, die Gattin auf dem Schoosse:· 
 von dreierlei Art ist, wie man weiss,· 
 das Hätscheln.· 
  
@@ -18726,7 +18726,7 @@ tulye 'pi snigdhatAyoge tailaM tailaM ghRtaM ghRtam ||·
  
 <D1101> So ist denn ein Unterschied· 
 zwischen einem Freunde, der uns bloss· 
-Hoflichkeiten bezeigt, und zwischen· 
+Höflichkeiten bezeigt, und zwischen· 
 einem Freunde in Wahrheit: bei gleichem· 
 Fettgehalte (bei gleicher· 
 Freundlichkeit) beibt Oel Oel und Butter· 
@@ -21107,8 +21107,8 @@ kSArANameva sAmarthyaM malanAzAya vAsadAm ||·
  
 <D1239> Stolze sind im Stande den Stolz· 
 schlechter Menschen zu Nichte zu machen:· 
-nur Potasche vermag die Flecken in· 
-Kleidern zu ertfernen.· 
+nur Pottasche vermag die Flecken in· 
+Kleidern zu entfernen.· 
  
 <F>1239) SUBHA1S2. 147. ²a. ²b.· 
 {#urddhatuM mauddhatyaM#} die Hdschr.· 
@@ -21413,7 +21413,7 @@ sameti#} st. {#puruSasiMhamupaiti#}. ²b.·
 [Seite1.239]· 
  
 <V3>1255. = BAHUDARS4ANA 7. 29. 40. CARR 388.· 
-
+ 
  
 <F4.2>-- 1255. SABHA1TAR. ²b. {#daivaM pradhAnamiti#}. ²c. {#daivaM vihAya#}. Nach AUFRECHT in Z.d.d.m.G. 27, 18 ist KR2SHN2AMIS4RA der Verfasser.· 
  
@@ -21988,7 +21988,7 @@ vasudhA kandaladhavalA dRSTiM pathikaH kva pAtayatu ||·
  
 <D1290><A491> Ueber ihm eine dicke· 
 Wolkendecke, ihm zur Seite Berge mit· 
-tanzenden Pfauen, der Erboden unter ihm· 
+tanzenden Pfauen, der Erdboden unter ihm· 
 weiss von Kandali1-Blüthen: wohin soll· 
 der Wanderer das Auge richten?· 
  
@@ -23535,7 +23535,7 @@ rbhagno mAnakaliH sahAsarabhasavyAsaktakaNthagraham ||·
 <D1378><A530> Mann und Frau ruhen auf· 
 demselben Lager mit abgewandtem· 
 Gesichte, reden nicht mit einander und· 
-geben kein Lebenzeichen von sich;· 
+geben kein Lebenszeichen von sich;· 
 obgleich in Beider Herzen Zuneigung· 
 vorhanden ist, so bewahren sie doch die· 
 angenommene Würde; allmählich wenden· 
@@ -26665,7 +26665,7 @@ valasya#} st. {#khalasya#}. ²d.·
 vAkzalyastu na nirhartu zakyo hRdizayo hi saH ||· 
  
  
-<D1549><A606> Pfeile wie Karnin,· 
+<D1549><A606> Pfeile wie Karn2in,· 
 Na1li1ka und Na1ra1ca zieht man wieder· 
 aus den Körper heraus; aber der Pfeil· 
 des verletzenden Wortes kann nicht· 
@@ -26995,7 +26995,7 @@ karmondriyaiH karmaryAgamasaktaH sa viziSyate ||·
  
 <D1569> Wer die Organe für sinnliche· 
 Verrichtungen hemmt, im Herzen aber über· 
-die Sinnesgegestände nachzudenken· 
+die Sinnesgegenstände nachzudenken· 
 fortfährt, von dem Thörichten heisst es,· 
 dass er verkehrt handle.· 
  
@@ -27775,7 +27775,7 @@ na svayaM daivamAdatte puruSArthamapekSate ||·
 <D1614><A624> Wenn das Schicksal auch· 
 ganz unerwartet, wie in der Geschichte· 
 von der Krähe und der Palmnuss, einen· 
-Schatz vor sich liegen sicht, greift es· 
+Schatz vor sich liegen sieht, greift es· 
 nicht selbst darnach, sondern wartet auf· 
 des Menschen Arbeit.· 
  
@@ -28922,7 +28922,7 @@ bestimmten Zweck sogar Gift, das man·
 geniesst, zu Nektar wird für alle· 
 Geschöpfe, dann soll man sich nicht· 
 lange bedenken (und das Gift· 
-hinuterschlucken).· 
+hinunterschlucken).· 
  
 <F>1679) PAN5CAT. ed. Bomb. III, 173.· 
  
@@ -29022,7 +29022,7 @@ Geschäft leidet, der ist der rechte Mann·
 ein Geschäft zu vollbringen.· 
  
 <D1685> Da ja beim Zustandekommen sogar· 
-des unbedeutendedsten Geschäftes hier im· 
+des unbedeutendsten Geschäftes hier im· 
 Leben mehr als eine Ursache wirksam ist,· 
 so ist derjenige, welcher eine Sache· 
 nach ihren vielen Seiten kennt,· 
@@ -30344,7 +30344,7 @@ yA na vezyeva sAmAnyA pathikairapi bhujyate ||·
 wie ein Eheweib nur Einem· 
 ausschliesslich gehört, der nicht wie· 
 eine allgemeine Buhldirne auch von· 
-vorübergehenden Wanderen genossen wird?· 
+vorübergehenden Wanderern genossen wird?· 
  
 <F>1749) VIKRAMA1DITYA in S4A1RN3G.· 
 PADDH. VR2DDHA-CA1N2. 16, 12. PAN5CAT.· 
@@ -32321,7 +32321,7 @@ cAtakaH ko varAko 'yaM yasyendro vArivAhakaH ||·
 <D1860><A713> Entschlossene sind zu· 
 preisen, hoher Stand dagegen wird nicht· 
 gerühmt: was ist dieser Ca1taka für ein· 
-winziger Keri und dennoch bringt Indra· 
+winziger Kerl und dennoch bringt Indra· 
 ihm das Wasser!· 
  
 <F>1860) PAN5CAT. ed. KOSEG. II, 149.· 
@@ -32347,7 +32347,7 @@ ayatnenaidhamAnAzca dRzyante bahavo janAH ||·
  
 <D1862> Man sieht Hunderte von Menschen,· 
 die trotz aller Mühe, die sie sich· 
-geben, keine Früche ernten; anderseits· 
+geben, keine Früchte ernten; anderseits· 
 sieht man aber auch viele Menschen,· 
 denen es ohne alle Anstrengung wohlgeht.· 
  
@@ -33432,7 +33432,7 @@ antaraM kathayiSyanti kAkalIkovidAH punaH ||·
 <D1922><A742> Ein Kokila bin ich, eine· 
 Krähe du; beide sind wir gleich schwarz,· 
 den Unterschied aber werden Kenner des· 
-Gesangen uns angeben.· 
+Gesanges uns angeben.· 
  
 <F>1922) SA1H. D. 314. Vgl. Spruch 805· 
 und 1612.· 
@@ -34174,7 +34174,7 @@ tataH sAdhutaraH kAryo durjanAya hitArthinA ||·
  
  
 <D1960><A761> Führt man vor einem· 
-ehrenwerthan guten Menschen die· 
+ehrenwerthen guten Menschen die· 
 zusammengelegten Hände zur Stirn, so· 
 muss man dieses noch sorgfältiger vor· 
 einem schlechten Menschen thun, wenn man· 
@@ -34568,7 +34568,7 @@ nikAro 'gre pazcAddhanamahaha bhostaddhi nidhanam ||·
  
 <D1985><A770> «Wohin gedenkst du, o· 
 Bruder, zu gehen?» «Wo reiche Leute· 
-wohnen.» «Wozu?» «Um irgedwie mit· 
+wohnen.» «Wozu?» «Um irgendwie mit· 
 erbetteltem Gelde das Leben zu fristen.»· 
 «Ist nicht Verachtung der Lohn des· 
 Bettelns?» «Zuerst Kränkung, Geld· 
@@ -34817,8 +34817,8 @@ rnanu balavatA kAlenaite prabAdhya nimIlitAH ||·
 gegangen, der im Himmel des grossen· 
 Indra Freund gewesen ist? Wohin König· 
 Sagara, der die Ufer des Meeres· 
-errichter hat? Wohin Pr2thu, der aus der· 
-Handfläche entsprossesne Sohn Vena's?· 
+errichtet hat? Wohin Pr2thu, der aus der· 
+Handfläche entsprossene Sohn Vena's?· 
 Wohin Manu, des Sonnengottes Sohn? Der· 
 Gott der Zeit hat sie hinweggetrieben· 
 und ihnen die Augen geschlossen.· 
@@ -35086,7 +35086,7 @@ S4u1dra Macht -- Brahmanendienst.·
 <F>2008) BRAHMAVAIV. P., GAN2ES4AKHAN2D2A 35· 
 nach S4KDR. unter {#bala#}. Vgl. Spruch· 
 {#balaM vidyA ca viprANAm#}.· 
-
+ 
  
 <V2>2008. Streiche ein {#ca#} in ²b.· 
  
@@ -36435,7 +36435,7 @@ na dRzyate doSalavo 'pi toyadhermamaiva tatkarmaphalaM vijRmbhate ||·
  
 <D2075><A819> Vor Durst begab ich mich· 
 an das Ufer des Meeres, aber auch dieses· 
-war ausgestrocknet, so dass ich es mit· 
+war ausgetrocknet, so dass ich es mit· 
 einem Male verschluckte: am Ocean ist· 
 auch nicht die geringste Schuld zu· 
 entdecken, nur meiner Thaten Lohn thut· 
@@ -36768,7 +36768,7 @@ pAtAlaM vA praviSTaM harati sahasitaM durnivAryaH kRtAntaH ||·
 rafft lachend Jeden hinweg: das Kind im· 
 Mutterleibe, den Singenden, den auf dem· 
 Lager Ruhenden, den auf der Mutter· 
-Schoos Gebetteten, den Knaben, den· 
+Schooss Gebetteten, den Knaben, den· 
 Jüngling, den Greis, den Mann reifen· 
 Alters, den Armen, den Reichen, den· 
 Bösewicht und den Edlen, den, der sich· 
@@ -37017,7 +37017,7 @@ saMhateH pazya mAhAtmyaM tRNairvAri nivAryate ||·
  
 <D2106> Schau auf die Allmacht vereinter· 
 Kräfte: Wasser, das Berge spaltet und· 
-den Erboden zerreisst, wird durch Gräser· 
+den Erdboden zerreisst, wird durch Gräser· 
 gehemmt!· 
  
 <F>2106) SUBHA1S2. 272. ²c. {#saMhate#}· 
@@ -37948,7 +37948,7 @@ Schellen willen.·
  
 <F>2158) SUBHA1S2. 279. ²c.· 
 {#ghaNTAbhiH#} die Hdschr.· 
-
+ 
 <V3>2158. = VR2DDHA-CA1N2. Berl.· 
 Hdschrr. 26. Lautet hier nach Entfernung· 
 der offenbaren Schreibfehler: {#guNeSu· 
@@ -37957,7 +37957,7 @@ vikrIyante na ghaNTAbhirgavaH·
 kSIravivarjitAH ||#}· 
  
 <F4.2>-- 2158. PRASAN3GAR. Zweimal und beide Male wie CA1N2., ²b. lautet aber: {#kimATopaiH pra°#}.· 
-  
+ 
 <S> guNaiH pUjA bhavetpuMsAM naikasmAjjAyate kulAt |· 
 cUDAratnaM zazI zaMbhoryAnamuccaiH zravA hareH ||· 
 [Seite1.423]· 
@@ -38260,7 +38260,7 @@ jagadupakaraNam pavitrayonirnapazunA na nimIyate gavendraH ||·
  
 <D2177><A870> Gegen ein Vieh von· 
 Menschen vertauscht man keinen edlen· 
-Stier, der an einen schwerren Karren· 
+Stier, der an einen schweren Karren· 
 gespannt wird, von Gras sich nährt, über· 
 ebenen und unebenen Boden den Pflug· 
 hinzieht, ein nützliches Werkzeug der· 
@@ -40216,7 +40216,7 @@ der Geliebten zu Füssen geworfen hatte,·
 zeigt sich gleichgiltig gegen ihre· 
 Zurückweisung und ist so eben im Begriff· 
 fortzugehen; da hält ihn die am Leben· 
-noch Hängende zurückt, indem sie ihn· 
+noch Hängende zurück, indem sie ihn· 
 lange und mit einem durch Seufzer· 
 bewegten Busen ansieht mit ihren· 
 verschämten, matten und von· 
@@ -40522,7 +40522,7 @@ sich, als wäre er ermüdet, zugleich mit·
 den Wanderern unter die Bäume; die Kühle· 
 des Wassers im Teiche zieht sich, als· 
 wäre sie erschöpft, zugleich mit den· 
-Fischen auf den Grund zurückt; die· 
+Fischen auf den Grund zurück; die· 
 Strahlen der Sonne schlürfen, als wären· 
 sie erhitzt, zugleich mit den Menschen· 
 Wasser; der Schlaf begiebt sich, als· 
@@ -41340,7 +41340,7 @@ kAmo hriyaM vRttamanAryasevA krodhaH zriyaM sarvamevAbhimAnaH ||·
  
  
 <D2351><A4062> Das Alter richtet die· 
-Schönheit zu Grunde, das Begehren doe· 
+Schönheit zu Grunde, das Begehren die· 
 Besonnenheit, der Tod die Lebensgeister,· 
 das Murren die Erfüllung der Pflichten,· 
 Liebe die Scham, Unedlen geleisteter· 
@@ -42927,7 +42927,7 @@ saphalaM jIvitaM tasya AtmArthaM ko na jIvati ||·
 [Seite2.46]· 
  
 <D2439><A983> Durch wessen Leben· 
-Brahmannen, Freunde und Angehörige· 
+Brahmanen, Freunde und Angehörige· 
 leben, dessen Leben ist von Nutzen: wer· 
 lebt nicht für sich?· 
  
@@ -44656,7 +44656,7 @@ arthoSmaNA virahitaH puruSaH sa eva anyaH kSaNena bhavatIti vicitrametat ||·
  
 <D2533><A119> Es ist doch seltsam, dass· 
 derselbe Mensch mit denselben gesunden· 
-Sinneswerkeugen, mit demselben Namen,· 
+Sinneswerkzeugen, mit demselben Namen,· 
 mit demselben ungetrübten Geiste, mit· 
 derselben Rede wie zuvor, plötzlich ein· 
 anderer wird, wenn ihn die dem Gelde· 
@@ -46175,14 +46175,14 @@ patiH prajAnAM bhikSUNAM gRhyajJAnAM budhaH suhRt ||·
  
 <D2616> Der Kinder Freund sind die· 
 Eltern, des Auges Freund ist das· 
-Augenlied, des Weibes Freund der Gatte,· 
+Augenlid, des Weibes Freund der Gatte,· 
 der Unterthanen Freund der Herrscher,· 
 der Bettler Freund ein Hausherr, der· 
 Unwissenden Freund ein Kluger.· 
  
 <F>2616) BHA1G. P. 6, 4, 12. ²b.· 
 {#pakSman#} bezeichnet offenbar auch das· 
-{%Augenlied.%}· 
+{%Augenlid.%}· 
  
 <S> toyeneva saraH zriyeva visutA seneva susvAminA · 
 jIveneva kalevaraM jaladharazreNIva vRSTizriyA |· 
@@ -47512,7 +47512,7 @@ sarvAbhayapradAnasya kalAM nArhanti SoDazIm ||·
  
 <D2694><A196> Spenden, Trankopfer· 
 vollbrachte Kasteiungen, Wallfahrten und· 
-Brandopfer sind nicht ein Sechszehntel· 
+Brandopfer sind nicht ein Sechzehntel· 
 von dem werth, was die Sicherstellung· 
 aller Geschöpfe vor jeglicher Unbill· 
 gilt.· 
@@ -49927,7 +49927,7 @@ duHkhaM cAniSTasaMvAso duHkhamiSTaviyojanam ||·
  
  
 <D2826><A4190> Ein Leid ist das Alter, o· 
-Brahmadatta, ein Leid der verlust des· 
+Brahmadatta, ein Leid der Verlust des· 
 Vermögens, ein Leid das Zusammenleben· 
 mit Unlieben, ein Leid das Getrenntsein· 
 von Lieben.· 
@@ -50498,7 +50498,7 @@ phutkRtya, nanu#} (fehlt auch)·
 {#bhakSayati#}.· 
  
 <V3>2855. = BAHUDARS4ANA 72. ²d. {#phutkRtya bhuJjIta#}.· 
-
+ 
  
 <F4.2>-- 2855. ²b. {#sujane 'pyavizvAsaH#}.· 
  
@@ -50653,7 +50653,7 @@ III, 206. ed. orn. I, 139. ed. Bomb. ²a.·
 aprAptaM sarvakAmArthAnmRtyurAdAya gacchati ||· 
  
  
-<D2864><A4197> Der Tod raft den· 
+<D2864><A4197> Der Tod rafft den· 
 Schwachen und den Starken hinweg, den· 
 Helden und den Feigling, den· 
 Einfaltspinsel und den Weisen, so wie· 
@@ -50842,7 +50842,7 @@ rAjyamekazcakaroccaiH sumantrI candraguptakaH ||·
 <D2875><A1196> Durjodhana ging trotz· 
 aller seiner Macht zu Grunde, weil er· 
 einen schlechten Minister hatte;· 
-Kandragupta brachte, obgleich er allein· 
+Candragupta brachte, obgleich er allein· 
 stand, das Königthum in die Höhe, weil· 
 er einen guten Minister hatte.· 
  
@@ -51290,7 +51290,7 @@ zUrANAM nirdhanAnAM ca na deyA kanyakA budhaiH ||·
  
  
 <D2903> Kluge Männer sollen ihre Tochter· 
-nicht fren Wohnenden, nicht Ungelehrten,· 
+nicht fern Wohnenden, nicht Ungelehrten,· 
 nicht solchen, die den Weg der Erlösung· 
 einschlagen, nicht Helden und nicht· 
 Armen zur Ehe geben.· 
@@ -51549,7 +51549,7 @@ mInastu sAmiSaM lohamAsvAdayati mRtyave ||·
 <D2917><A1221> Auch ein dem Auge sich· 
 entziehender, in tiefem Wasser· 
 umherschwimmender Fisch kostet zu seinem· 
-Verderben das Eisen, an dem der Koder· 
+Verderben das Eisen, an dem der Köder· 
 hängt.· 
  
 <F>2917) KA1M. NI1TIS. 1, 44.· 
@@ -51581,7 +51581,7 @@ ferner mit Dornen bedeckt, giebst keinen·
 Schatten und deine Frucht mögen nicht· 
 einmal Affen geniessen; du bist· 
 geruchlos, von Bienen gemieden und Alles· 
-Guten baat. Ein Besuch, den wir dir· 
+Guten baar. Ein Besuch, den wir dir· 
 abstatteten, wäre nutzlos für uns;· 
 bleibe, wo du bist, wir aber seufzen auf· 
 und gehen unserer Wege.· 
@@ -51776,7 +51776,7 @@ Hausvaters einem Schiffe von Stein·
 gleicht, wenn er sich des Spendens· 
 enthält; wer ein solches Schiff· 
 besteigt, versinkt, darüber kann ja kein· 
-Zweifel bestehen, im Meere ded Lebens.· 
+Zweifel bestehen, im Meere des Lebens.· 
  
 <F>2930) SUBHA1S2. 9. ²c. {#tasyArUDho· 
 bhavAmbhodhi#} die Hdschr. ²d.· 
@@ -51915,7 +51915,7 @@ mächtige Wasserrose im Bilde erblickte,·
 schwoll sie vor Freude und unter dem· 
 Rufe «o Wunder! o Wunder! was in aller· 
 Welt ist das!» flog sie hinaus. Doch da· 
-ist kein Duft, kein Tropfchen Honig,· 
+ist kein Duft, kein Tröpfchen Honig,· 
 auch fehlt die sonstige Weichheit. Da· 
 schüttelte sie mit dem Kopfe und flog· 
 gesenkten Hauptes beschämt wieder davon.· 
@@ -52483,7 +52483,7 @@ dAtA cettadvijAnIyAddadyAtsvapizitAnyapi ||·
  
 <D2968><A1248> Kennte der Geber (Reiche)· 
 den Schmerz, der über den kommt, welcher· 
-das Wortchen «gieb» auszusprechen im· 
+das Wörtchen «gieb» auszusprechen im· 
 Begriff ist, er gäbe sein eigenes· 
 Fleisch sogar hin.· 
  
@@ -52656,7 +52656,7 @@ Thor.·
 daivasya cAgame yatnastena kAryo vijAnatA ||· 
  
  
-<D2979><A1254> Obgleich eines Mennes· 
+<D2979><A1254> Obgleich eines Mannes· 
 Sache, würde sie auch gut geführt, durch· 
 das Schicksal, wie man weiss, bisweilen,· 
 zu Schanden wird, so muss er, sofern er· 
@@ -53403,7 +53403,7 @@ Märschen: das eine Mal, so heisst es,·
 ist der Marsch angezeigt, wenn es gilt· 
 bei einer Gefahr Leben und Güter zu· 
 retten, das andere Mal, wenn man auf· 
-Eroberugen auszugehen gedenkt.· 
+Eroberungen auszugehen gedenkt.· 
  
 <F>3022) PAN5CAT. ed. KOSEG. III, 35.· 
 ed. Bomb. 37. ²b.· 
@@ -53533,7 +53533,7 @@ yo naro naranAthasya sa bhavedAjavallabhaH ||·
 <D3030><A1283> Der Mann, welcher gegen· 
 des Fürsten Feinde von Hass erfüllt ist· 
 und dessen Günstlingen Liebes erweist,· 
-ist des Königs Liebeling.· 
+ist des Königs Liebling.· 
  
 <F>3030) PAN5CAT. ed. KOSEG. I, 66. ed.· 
 orn. 43. ed. Bomb. 57.· 
@@ -54360,7 +54360,7 @@ sakhyaH zapAmi yadi kiMcidapi smarAmi ||·
 auch in der Gesellschaft des Geliebten· 
 in den Pausen des Minnespiels Hunderte· 
 von vertraulichen Liebesworten redest;· 
-streckt dagegen mein Gelieber nur die· 
+streckt dagegen mein Geliebter nur die· 
 Hand nach dem Schurze aus, so habe ich,· 
 das schwöre ich euch, o Freundinnen,· 
 Alles vergessen (was ich sagen wollte).· 
@@ -56232,7 +56232,7 @@ kAraNena hi jAnAti mitrANi ca ripUMstathA ||·
 <D3188><A1344> Niemand ist (von Hause· 
 aus) eines Andern Freund, Niemand eine· 
 andern Feind: bei einer bestimmten· 
-Veranlssung lernt man ja Freunde wie· 
+Veranlassung lernt man ja Freunde wie· 
 Feinde kennen.· 
  
 <F>3188) CA1N2. 23 bei HAEB. 314.· 
@@ -57503,7 +57503,7 @@ nizcitya matimAMstasmAdarthamekaM prasAdhayet ||·
  
 <D3262><A1387> Es giebt Nichts in der· 
 Welt, was sich nicht mit Geld machen· 
-liesse: der Verstandige, der dieser· 
+liesse: der Verständige, der dieser· 
 Wahrheit sich bewusst geworden ist, soll· 
 darum nur Geld machen.· 
  
@@ -57622,7 +57622,7 @@ Polster nach Herzenslust (oder: bei dem·
 eigenen Gatten) ruht, lässt sich nicht· 
 mit der Wonne vergleichen, die es auf· 
 dem nur mit Du1rva1 oder anderen Grase· 
-bedeckten Erboden empfindet, wenn es mit· 
+bedeckten Erdboden empfindet, wenn es mit· 
 einem fremden Manne in Berührung kommt.· 
  
 <F>3269) HIT. ed. SCHL. ad II, 112.· 
@@ -58384,7 +58384,7 @@ svabhAva evAtra tathAtirivyate yathA prakRyA madhuraM gavAM payaH ||·
 <D3316><A1404> Daraus, dass ein böser· 
 Mensch die Gesetzbücher liest oder den· 
 Veda studirt, folgt noch Nichts: nur das· 
-angebornene Wesen waltet hier vor, wie· 
+angeborene Wesen waltet hier vor, wie· 
 ja auch die Milch der Kühe von Natur· 
 süss ist.· 
  
@@ -58414,7 +58414,7 @@ mAtuH kevalameva yauvanavanacchede kuThArA vayam ||·
  
 <D3318><A1405> Wir haben nicht auf· 
 gehörige Weise auf S4iva's Stätte unsere· 
-Gedanken gerichtet, wordurch der· 
+Gedanken gerichtet, wodurch der· 
 Kreislauf des Lebens (die Wiedergeburt)· 
 aufgehoben wird; auch haben wie keine· 
 guten Werke eingesammelt, die geeignet· 
@@ -58591,7 +58591,7 @@ cAnakyas#} und {#cAzaktas#} st.·
 Atmano nAvabudhyante manuSyA jIvitakSayam ||· 
  
  
-<D3327><A1411> Die Menchen freuen sich,· 
+<D3327><A1411> Die Menschen freuen sich,· 
 wenn die Sonne aufgeht, und auch, wenn· 
 der Tag zur Neige geht, und werden nicht· 
 gewahr, dass dabei auch ihr Leben· 
@@ -58846,7 +58846,7 @@ d. m. G. 25, 461.·
 PADDH. mit folgenden Variante in· 
 ²b.: {#tAM prati prahitaM manaH#};· 
 vgl. AUFRECHT in Z. d. d. m. G. 25, 461.· 
-
+ 
  
 <F4.2>-- 3339. ²c. {#tatraivAramata#}.· 
  
@@ -60527,7 +60527,7 @@ pariharettataH#}.·
 <V3>3437. = NI1TIS4A1STRA in Telugu-Charr. 51.· 
  
 <F4.2>-- 3437. ²d. {#putrapautrikam#}.· 
-
+ 
  
 <S> na viSamamRtaM kartuM zakyaM yatnazatairapi |· 
 tyajati kaTutAM na svAM nimbaH sthitvA payohrade ||· 
@@ -62224,7 +62224,7 @@ nAmedhyaM prakSipedvahnau na ca pAdau pratApayet ||·
  
 <D3546><A1519> Feuer soll man nicht mit· 
 dem Munde anblasen, es nicht (mit der· 
-Flamme) hinuterhalten und nicht darüber· 
+Flamme) hinunterhalten und nicht darüber· 
 springen, nichts Unreines soll man in's· 
 Feuer werfen und auch nicht die Füsse· 
 daran wärmen.· 
@@ -62364,7 +62364,7 @@ prabhaviSNoryathA tAta kSamA sarvatra sarvadA ||·
  
 <D3553><A4381> Nichts Anderes ist· 
 segensreicher und in so hohem Grade· 
-forderlich, o Lieber, als eines· 
+förderlich, o Lieber, als eines· 
 Mächtigen Nachsicht gegen Jedermann und· 
 zu jeder Zeit.· 
  
@@ -62487,7 +62487,7 @@ itazcetarazcainaM kRtAntaH parikarSati ||·
  
  
 <D3561><A4384> Es giebt keine· 
-selbstbestimmte That: der Mensch bier· 
+selbstbestimmte That: der Mensch hier· 
 ist nicht Herr über sich, sondern es· 
 zieht ihn das Schicksal bald hierhin,· 
 bald dorthin.· 
@@ -62840,7 +62840,7 @@ kein Werk, ohne vorher den Fürsten davon·
 benachrichtigt zu haben, es sei denn,· 
 dass es sich darum handelte, einem dem· 
 Fürsten drohenden Unfall· 
-entgenzuarbeiten.· 
+entgegenzuarbeiten.· 
  
 <F>3580) HIT. ed. SCHL. II, 86. JOHNS.· 
 89. ed. Calc. 1830 S. 224. ²a.· 
@@ -64337,7 +64337,7 @@ sAmarthyayogAjjAyante mitrANi ripavastathA ||·
 <D3671><A1562> Von Hause aus giebt es ja· 
 keinen Feind und eben so wenig auch· 
 einen Freund: in Rücksicht auf den· 
-Nutzen entsehen sowohl Freunde, als auch· 
+Nutzen entstehen sowohl Freunde, als auch· 
 Feinde.· 
  
 <F>3671) MBH. 12, 5298, ²b. 5050. ²a.· 
@@ -64686,7 +64686,7 @@ Genuss der Früchte im Himmel, nicht habe·
 ich dich darum gebeten, auch bin ich· 
 zufrieden, wenn ich Gras verspeise,· 
 nicht ziemt es dir also, mein Guter,· 
-micht zu tödten. Wenn die von dir beim· 
+mich zu tödten. Wenn die von dir beim· 
 Opfer geschlachteten Thiere sicher in· 
 den Himmel kommen, warum opferst du denn· 
 nicht Mütter und Väter, Söhne und· 
@@ -65344,7 +65344,7 @@ akAraNadveSi manastu yasya vai kathaM janastaM paritoSayiti ||·
 Grunde in Zorne geräth, der wird, sobald· 
 jener weicht, bestimmt wieder heiterer· 
 Laune; wessen Herz aber ohne alle· 
-Veranlassund hasst, wie sollte den· 
+Veranlassung hasst, wie sollte den· 
 Jemand zufriedenzustellen vermögen?· 
  
 <F>3730) GHAT2AKARPARA, NI1TISA1RA 10· 
@@ -69017,7 +69017,7 @@ ta eva nidhanaM yAnti valmIkodarasarpavat ||·
 <D3942><A1706> Leute, die ihre· 
 gegenseitigen Geheimnisse nicht· 
 bewahren, gehen in den Tod wie jene· 
-Schlange im Ameisenahaufen und jene· 
+Schlange im Ameisenhaufen und jene· 
 andere im Leibe (des Prinzen).· 
  
 <F>3942) PAN5CAT. ed. KOSEG. III, 200.· 
@@ -69796,7 +69796,7 @@ satatpadaM samApnoti parAdapi hi yatparam ||·
  
  
 <D3983><A1732> Der Mann auf Erden, der· 
-sich ganz dem Beruf Andern zu helfenn· 
+sich ganz dem Beruf Andern zu helfen· 
 widmet, wird (im künftigen Leben) einer· 
 Stellung theilhaftig, die noch über der· 
 höchsten steht.· 
@@ -70432,7 +70432,7 @@ Trinkgeschirr gebrauchen, die sich mit·
 den von Natur reinen Almosen begnügen,· 
 die sich niedersetzen, wo es sich gerade· 
 trifft, und die stets auf die ganze Welt· 
-benahe nicht anders, als wie auf einen· 
+beinahe nicht anders, als wie auf einen· 
 Grashalm schauen.· 
  
 <F>4021) BHARTR2. ed. BOHL. 3, 91. HAEB.· 
@@ -71959,7 +71959,7 @@ Früchten und schlage das Lager auf dem·
 Erdboden auf aus kunstlosen Zweigen;· 
 erhebe dich, wir gehen in den Wald, wo· 
 man niemals sogar den Namen der· 
-vornehmen und doch winziggen Herren zu· 
+vornehmen und doch winzigen Herren zu· 
 hören bekommt, der Herren, deren Sinn· 
 der Unverstand trübt und deren Sprache· 
 enstellt wird durch den unnatürlichen· 
@@ -72112,7 +72112,7 @@ und {#zucizca vyavasAyi ca#}. ²d.·
 {#prazasyate#} st. {#sa ucyate#}.· 
 <g></g> GALAN. Im GA1RUD2A-P. 112. (s.· 
 S4KDR.) unter {#bhRtya#} wird der Koch· 
-auf folgenden Weise gekennzeichenet:· 
+auf folgenden Weise gekennzeichnet:· 
 {#pitRpaitAmahe dakSaH zAstrajJaH· 
 satyavAcakaH | zaucayuktaH sadAkArI· 
 sUpakAraH sa uvyate ||#}· 
@@ -72221,7 +72221,7 @@ der Familie in Ansehen.·
 (Nachträge) und in der ersten Auflage· 
 anders, aber gewiss unrichtig aufgefasst· 
 worden.· 
-
+ 
 <V2>4116. Statt {#zIlair#} in ²a. wird wohl {#zilpair#} zu lesen sein.· 
  
 <V3>4116. = VR2DDHA-CA1N2. Berl.· 
@@ -72229,7 +72229,7 @@ Hdschrr. 24. ²a. {#putrAstu vividhaiH·
 zAstrai#} (st. {#zIlair#}) bei uns· 
 könnte man {#zilpair#} vermuthen). ²c.· 
 {#nItijJA buddhisaMpannA#}. ²d. {#khalu pUjitA#}.· 
-
+ 
 <F4.1>-- S. 643, Spr. 4116. Füge «GALAN. Varr. 170» hinzu.· 
  
  
@@ -72409,7 +72409,7 @@ tasmAtpuntra iti proktaH svayameva svayaMbhuvA ||·
  
 <D4127><A4552> Weil ein Sohn den Vater· 
 aus der Hölle Put erlöst (tra1yate),· 
-darum hat der Urschopfer selbst den Sohn· 
+darum hat der Urschöpfer selbst den Sohn· 
 Puttra genannt.· 
  
 <F>4127) M. 9, 138. MBH. 1, 3026 und R.· 
@@ -72569,7 +72569,7 @@ adyApi tattulyakaverabhAvAdanAmikA sArthavatI babhUva ||·
  
  
 <D4138><A1798> Wenn man in alten Zeiten· 
-die Dichter an den Fingen herzählte,· 
+die Dichter an den Fingern herzählte,· 
 dann kam Ka1lida1sa auf den kleinen· 
 Finger zu stehen; da auch noch heut zu· 
 Tage kein ähnlicher Dichter da ist, so· 
@@ -73051,7 +73051,7 @@ payAMsi dogdhi priyaviprayoge sazokakokInayane kiyanti ||·
 Mond hier, um des Oceans Wassermasse zu· 
 vermehren, eine ungeheure Menge von· 
 Wasser dem Mondstein und auch den Augen· 
-der über die Trennung ihrer Gelieben· 
+der über die Trennung ihrer Geliebten· 
 betrübten Cakrava1ka-Weibchen entzieht.· 
  
 <F>4162) KUVALAj. 46, ²b.· 
@@ -73299,7 +73299,7 @@ pazcAdgaGgAM niSevante te 'pi yAntyuttamAM gatim ||·
 <D4178><A4569> Auch solche Menschen, die· 
 in ihrer Jugend böse Thaten· 
 vollbrachten, nachher aber die Gan3ga1· 
-besuchen, gelagnen zur höchsten Stellung· 
+besuchen, gelangen zur höchsten Stellung· 
 (im künftigen Leben).· 
  
 <F>4178) MBH. 13, 1788.· 
@@ -75620,7 +75620,7 @@ PADDH.·
 <HS>{#prANAtipAtaH stainyaM ca#} s. den vorangehenden Spruch.· 
  
 <HS>{#prANAtyaye samutpanne#} s. Spruch 4308. [Seite2.432]· 
-
+ 
  
 <S> prANAnAM bata kiM bruve kaThinatAM taireva sAviSkRtA · 
 niSkrAmanti kadAcideva hi na ye yAJcAvacobhiH samam |· 
@@ -76156,7 +76156,7 @@ Hindernissen auf gar keine Unternehmung·
 ein; Leute gewöhnlichen Schlage stehen· 
 von ihrem Unternehmen ab, wenn sich ein· 
 Hinderniss ihnen in den Weg legt;· 
-ausgezeichenete Leute lassen nicht ab· 
+ausgezeichnete Leute lassen nicht ab· 
 vom Unternommenen, wenn auch Hindernisse· 
 auf Hindernisse ihnen entgegentreten.· 
  
@@ -76249,7 +76249,7 @@ bhavati na yAvaccandanasurabhirmadhunirmalaH pavanaH ||·
  
 <D4347><A1916> So lange mag im Herzen· 
 der Jungfrauen in Gegenwart ihrer· 
-Gelieben der Groll sich breit machen,· 
+Geliebten der Groll sich breit machen,· 
 als nicht der reine Frühlingswind mit· 
 dem Dufte des Sandels zu wehen beginnt.· 
  
@@ -77425,7 +77425,7 @@ acht Waffen habe.·
 na saMdhirvigraho naiva vinA yAnaM prazasyate ||· 
 [Seite2.454]· 
  
-<D4413><A4619> Nit einem an Macht· 
+<D4413><A4619> Mit einem an Macht· 
 Ueberlegenen, einem Schlechten und keine· 
 Schranken Kennenden wird weder Bündniss· 
 noch Krieg empfohlen; ein alsbaldiger· 
@@ -77578,7 +77578,7 @@ zaktA vaJcayituM dhUrtA brAhmaNaM chAgalAdiva ||·
  
  
 <D4422><A4622> Mit vielem Verstande· 
-Begabte und mit richtigen Urheile· 
+Begabte und mit richtigen Urtheile· 
 Ausgerüstete können ihnen an Kraft· 
 Ueberlegene hintergehen, wie jene· 
 Schelme einen Brahmanen um seinen· 
@@ -78286,7 +78286,7 @@ yatte 'sminna patanti caJcupuTake dvitrAH payobindavaH ||·
 keimt der Same, quellen die Flüsse,· 
 bricht die Schlingpflanze hervor,· 
 schlagen die Bäume aus und freuen sich· 
-die Menchen. O Bruder Ca1taka, du musst· 
+die Menschen. O Bruder Ca1taka, du musst· 
 irgend Etwas, doch wissen wir nicht· 
 genau was, verbrochen haben, dass nicht· 
 wenigstens zwei, drei Tropfen Wasser in· 
@@ -78314,7 +78314,7 @@ kA nAmeyamatarkya hetugahanA daivI satAM yAtanA ||·
  
  
 <D4463><A1973> Erscheint die Sinnenwelt· 
-nicht wiederlich und dennoch währt das· 
+nicht widerlich und dennoch währt das· 
 Verlangen nach ihr, so lange man lebt!· 
 Des Körpers Abnahme kommt zum· 
 Bewusstsein und dennoch klammert man· 
@@ -80074,7 +80074,7 @@ obgleich dieses die Folge der eigenen·
 Thaten ist, bewirkt, dann wäre er unser· 
 Feind ohne alle Veranlassung, während· 
 die andern Feinde es in Folge einer· 
-Veranlassund sind.· 
+Veranlassung sind.· 
  
 <F>4563) NAIS2. 17, 78. ²d. {#apare· 
 'pare#} der Text, {#apare 'nye pare· 
@@ -80755,7 +80755,7 @@ sarvabhUmyutthitaphalAdAnena paradUSaNaH ||·
  
  
 <D4600><A4667> Ein durch Abtretung· 
-werthvoller Länderereien erkaufter· 
+werthvoller Ländereien erkaufter· 
 Friedensschluss heisst Ucchinna· 
 (geschunden); nimmt aber (der Sieger)· 
 die Einkünfte des ganzen Landes für· 
@@ -80963,7 +80963,7 @@ enstanden und wieder zu Grunde gegangen.·
 Was ist dies nun, o Wunder, für eine· 
 ungeheure Verirrung, die mit Trauer im· 
 Gefolge bei den Menschen auftaucht, wenn· 
-der aus fünf Elementen zusammnegesetzte,· 
+der aus fünf Elementen zusammengesetzte,· 
 dem Schaum gleichende Leib eines· 
 Angehörigen wieder zu den fünf Elementen· 
 zurückkehrt?· 
@@ -84507,7 +84507,7 @@ zAntihInatapasaH phalaM vRthA tintiDIrasavihInabhojanam ||·
  
 <D4806> Werthlos ist das Leben eines· 
 mutterlosen Kindes, werthlos die frische· 
-Jugend einer Jungfran ohne Geliebten,· 
+Jugend einer Jungfrau ohne Geliebten,· 
 werthlos der Lohn von Busse ohne Ruhe· 
 des Gemüths, werthlos eine Speise ohne· 
 Tamarindensaft.· 
@@ -84694,7 +84694,7 @@ Schritt und Tritt wäre ihm lieber.·
 <F>4815) BHARTR2. bei SCHIEFNER und· 
 WEBER S. 23. ²a. {#udvahataH puMso#}· 
 unsere Aenderung für {#udvahatAM puMsAM#}.· 
-
+ 
 <V3>4815. Vgl. Spruch 6003.· 
  
 <HS> {#mAnamudvahatAM puMsAm#} s. den vorangehenden Spruch.· 
@@ -89985,7 +89985,7 @@ Unterthanen, ohne ihnen wehe zu thun.·
 evamAtmakRtaM karmA mAnavaH pratipadyate ||· 
  
  
-<D5128><A2318> Wie ein Töpferr aus einem· 
+<D5128><A2318> Wie ein Töpfer aus einem· 
 Lehmkloss bildet, was er will, so wird· 
 der Mensch der von ihm selbst· 
 vollbrachten That theilhaftig (d. i. so· 
@@ -91299,11 +91299,11 @@ Tadel: was er erlangen soll, erlangt er·
 doch.· 
  
 <F>5211) MBH. 10, 85. ²c. {#kiMcit#} ed. Calc.· 
-
+ 
 <V3>5211. ²a. Lies {#dakSaH#}.· 
-
+ 
 <F4.2>-- 5211. ²a. Lies {#dakSaH#}.· 
-
+ 
  
 <S> yadi dahatyanlo 'tra kimadgutaM yadi ca gauravamadriSu kiM tataH |· 
 lavaNamambu sadaiva mahodadheH prakRtireva satAmaviSAditA ||· 
@@ -97193,7 +97193,7 @@ yamatyAnnItimAntAjA nAvamanyetkadA ca na ||·
  
  
  
-<D5566><A2523> Fin kluger Fürst darf· 
+<D5566><A2523> Ein kluger Fürst darf· 
 solche Minister nimmer gering schätzen,· 
 die mit ihm Gewinn und Verlust gemein· 
 haben.· 
@@ -98595,7 +98595,7 @@ na tasya devAH zreyAMso yaspAtmApi na kAraNam ||·
 schätzt und eine falsche Meinung von· 
 sich hat, dem sind die Götter nicht· 
 hold, da bei ihm nicht einmal die eigene· 
-Person als Triefeder wirkt.· 
+Person als Triebfeder wirkt.· 
  
 <F>5651) MBH. 1, 3020. Vgl. Spruch 5619.· 
  
@@ -98916,7 +98916,7 @@ umsonst mit sich umher.·
 <D5673><A4919> Derjenige, welcher den· 
 Sinn des Wortlauts nicht kennt, trägt· 
 nur die Last desselben; wer aber den· 
-wahren Sinn des Wortlants kennt, für den· 
+wahren Sinn des Wortlauts kennt, für den· 
 ist die Kenntniss des Wortlauts nicht· 
 umsonst.· 
  
@@ -100197,7 +100197,7 @@ prApte tu SoDze varSe putraM mitravadAcaret ||·
 <D5747> Fünf Jahre soll man den Sohn wie· 
 einen Fürsten, zehn Jahre wie einen· 
 Sclaven behandeln; hat er aber sein· 
-sechszehntes Jahr erreicht, dann soll· 
+sechzehntes Jahr erreicht, dann soll· 
 man ihn wie einen Freund behandeln.· 
  
 <F>5747) CARR 456. Vgl. Spruch· 
@@ -101982,7 +101982,7 @@ na kathaMcinmahIpasya cittAntaH kenacitkvacit ||·
  
 <D5840><A1739> Der Erde Grenze lässt· 
 sich erreichen, auch die des Meeres und· 
-des Gebirges, aber aufkeine Weise, von· 
+des Gebirges, aber auf keine Weise, von· 
 Niemanden und niemals das Ende der· 
 Gedanken eines Fürsten.· 
  
@@ -102131,7 +102131,7 @@ prApte tu SoDaze varSe putraM mitravadAcaret ||·
  
 <D5848><A2665> Fünf Jahre soll man einen· 
 Sohn hätscheln, zehn Jahre ihn· 
-züchtigen; hat er aber sein sechszehntes· 
+züchtigen; hat er aber sein sechzehntes· 
 Jahr erreicht, dann behandle man ihn als· 
 Freund.· 
  
@@ -104389,7 +104389,7 @@ na mUrkhajanasaMparkaH surendrabhavaneSvapi ||·
 <D5975><A2746> Besser mit Thieren des· 
 Waldes in undurchdringlichen Gebirgen· 
 umherzuirren, als mit Thoren selbst in· 
-des Götterfüsten Palästen zu verkehren.· 
+des Götterfürsten Palästen zu verkehren.· 
  
 <F>5975) BHARTR2. ed. BOHL. 2, 11. HAEB.· 
 62. lith. Ausg. I 13. lith. Ausg. II 14.· 
@@ -104894,7 +104894,7 @@ und keine Sophisten, die im Stande sind·
 Einfältige zu bethören, indem sie in· 
 einem Augenblick etwas Unbegründetes als· 
 Begründetes hinstellen, so würden in den· 
-von Haus aus unhewohnten Höllen Gazellen· 
+von Haus aus unbewohnten Höllen Gazellen· 
 weiden (so v. a. so würde Niemand zur· 
 Hölle fahren).· 
  
@@ -106187,7 +106187,7 @@ kiM saMgamena tanayo yadi nekSaNIyaH kiM yauvanena viraho yadi vallabhAyAH ||·
 <D6073><A2791> Wozu das Geld, wenn es· 
 nicht an Arme verabreicht wird? Wozu der· 
 Dienst, wenn man sich nicht bemüht,· 
-Andern Gefälligkeitem zu leisten? Wozu· 
+Andern Gefälligkeiten zu leisten? Wozu· 
 der Beischlaf, wenn man keinen Sohn zu· 
 sehen bekommt? Wozu die Jugend, wenn die· 
 Geliebte fehlt?· 
@@ -107285,9 +107285,9 @@ Eigenschaften erweist?·
 vinA svarNaM svarNakAraH kuNDalaM kartumakSamaH ||· 
  
  
-<D6140> Ohne Tohn vermag ein Töpfer· 
+<D6140> Ohne Thon vermag ein Töpfer· 
 keinen Topf zu machen und ohne Gold kann· 
-ein Goldarbeiter keinen Ohring· 
+ein Goldarbeiter keinen Ohrring· 
 verfertigen.· 
  
 <F>6140) PAN5CAT. 2, 6, 29.· 
@@ -109235,7 +109235,7 @@ akSINavRtto na kSINo vRttatastu hato hataH ||·
  
  
 <D6251> Der Lebenswandel muss sorgfältig· 
-gehütet werden, zumahl von einem· 
+gehütet werden, zumal von einem· 
 Brahmanen: wer seinen guten Wandel· 
 bewahrt hat, der ist noch nicht· 
 verloren; wer aber um seinen Wandel· 
@@ -109390,7 +109390,7 @@ pazya haMsA vane baddhA vRddhavAkyena mocitAH ||·
  
  
 <D6261> Den Rath eines Bejahrten soll· 
-man stets befolgen, zumahl wenn man mit· 
+man stets befolgen, zumal wenn man mit· 
 Vorzügen reich ausgestattet ist:· 
 Flamingos, die in einem Walde gefangen· 
 waren, wurden durch den Rath eines· 
@@ -109856,7 +109856,7 @@ bhUtopasargamatha mantravido vadanti karmaiva zuddhamatayo yatayo gRNanti ||·
 Leiden als veränderten Zustand des· 
 Schleimes, der Galle oder des Windes im· 
 Körper, Sterndeuter sagen, dass die· 
-Planeten es bewirkt hätten, Beschworer· 
+Planeten es bewirkt hätten, Beschwörer· 
 erklären es für eine Besessenheit von· 
 böse Geistern, ehrliche Asketen deuten· 
 es einfach als Schicksal (als Folge· 
@@ -112570,7 +112570,7 @@ vedAthacakSuSA viprA itare cArthacakSuSA ||·
 <D6450> Ein Gelehrter schaut mit dem· 
 Auge der Gelehrsamkeit, Fürsten schauen· 
 mit dem Auge der Politik, Brahmanen mit dem· 
-Auge der heiligen Schrifft, gewöhnliche· 
+Auge der heiligen Schrift, gewöhnliche· 
 Menschen mit dem Auge des Nutzens.· 
  
 <F>6450) VR2DDHA-CA1N2. Berl. Hdschrr.· 
@@ -112992,7 +112992,7 @@ na virAjanti hi sarve vittavihInasya puruSasya ||·
  
 <D6474><A2992> Eine edle Gemüthsart,· 
 Ehrlichkeit, Nachsicht, ein· 
-rücksichsvolles Benehmen,· 
+rücksichtsvolles Benehmen,· 
 Liebenswürdigkeit, Adel der Geburt:· 
 alles dieses tritt ja bei einem Manne· 
 ohne Geld nicht hervor.· 
@@ -113009,7 +113009,7 @@ dhanaM vinA nIcakule prasUtAH svargaM gatAH zIlamavApya dhirAH ||·
 Vornehmste, nimmer aber Adel der Geburt;· 
 was nützt Einem der Adel der Geburt,· 
 wenn er nicht mit edler Gemüthsart· 
-vernunden ist? Charakterfeste Menschen,· 
+verbunden ist? Charakterfeste Menschen,· 
 aus niedrigem Geschlecht entsprossen,· 
 sind ohne Vermögen in den Himmel· 
 gekommen, wenn sie im Besitz einer edlen· 
@@ -114021,7 +114021,7 @@ mriyante vyAdhinA kliSTAsteSAM mAtA vRthAprajA ||·
  
  
 <D6531> Die Mutter derer, welche, von· 
-einem beftigen Schmerz ergriffen und von· 
+einem heftigen Schmerz ergriffen und von· 
 einer Krankheit gequält, unter Seufzern· 
 ihren Geist aufgeben, während die· 
 Angehörigen trauern, hat umsonst Kinder· 
@@ -114306,7 +114306,7 @@ prasthAne vA praveze vA sarve siddhikarA matAH ||·
 <D6549> Einen frommen Bettler, ein Ross,· 
 einen Fürsten, einen Pfau, einen· 
 Elephanten und einen Stier hält man· 
-allzumahl für Glück bringend, sie mögen· 
+allzumal für Glück bringend, sie mögen· 
 ausziehen oder heim kehren.· 
  
 <F>6549) SUBHA1S2. 263. ²c.· 
@@ -114735,7 +114735,7 @@ genossene Koloquinthengurke.·
 bhAle JnjanaM dRzorlAkSA kapole tilakaH kRtaH ||· 
  
  
-<D6576><A3044> Als sie den Gelieben· 
+<D6576><A3044> Als sie den Geliebten· 
 draussen kommen hörte, da trug sie, die· 
 ihren Anputz noch nicht vollendet hatte,· 
 schwarze Augen und das Stirnzeichen auf· 
@@ -115122,7 +115122,7 @@ rAbhasoSTro vizeSeNa tasmAttAnnaiva saMspRzet ||·
  
 <D6597><A5097> Die Berührung von Hunden,· 
 Hähnen und Ca1n2d2a1la gilt für gleich,· 
-zumahl aber von Eseln und Kamelen; darum· 
+zumal aber von Eseln und Kamelen; darum· 
 soll man diese nicht berühren.· 
  
 <F>6597) PAN5CAT. ed. KOSEG. III, 118.· 
@@ -115159,7 +115159,7 @@ da sie gerade diesen Hauptsitz der gegen·
 die Männer gerichteten Verachtung meiden· 
 wie eines Ca1n2d2a1la Brunnen, den ein· 
 aufgepflanztes Knochenstück· 
-kennzeichenet.· 
+kennzeichnet.· 
  
 <F>6599) BHARTR2. ed. BOHL. 3, 75. HAEB.· 
 72. lith. Ausg. I 74. GALAN. 68.· 
@@ -115599,7 +115599,7 @@ gewaltsam sogar seine Hüter; ein Böser·
 thut denen, die ihm einen Gefallen· 
 erwiesen, Etwas zu Leide; darum sollen· 
 Kluge hier im Leben auch nicht das· 
-geringste Vertauen haben.· 
+geringste Vertrauen haben.· 
  
  
 <F>6627) SAM3SKR2TAPA1T2HOP. 48.· 
@@ -116054,7 +116054,7 @@ na tadbudhAH prazaMsanti zreyastatrApasaraNam ||·
  
  
 <D6651> Wenn derjenige, der {|ein|} Mal· 
-eine Beleidung erfahren hat, an· 
+eine Beleidigung erfahren hat, an· 
 demselben Orte verweilt, so heissen· 
 Kluge dieses nicht gut: sich aus dem· 
 Staube zu machen, ist besser.· 
@@ -116291,7 +116291,7 @@ nRSu tasmAdavizvAsaH puSkalaM hitamAtmanaH ||·
 für die Summe aller Lehrbücher, die über· 
 Lebensklugheit handeln; darum ist· 
 Misstrauen gegen die Menschen etwas· 
-überaus Heilsames fü die eigene Person.· 
+überaus Heilsames für die eigene Person.· 
  
 <F>6666) MBH. 12, 5107. ²b. 5108, ²a.· 
  
@@ -116549,7 +116549,7 @@ und {#sujAtaH#} st. {#sa jAtaH#}. ²b.·
 parivartini saMsAre mRtaH ko vA na jAyate ||· 
  
  
-<D6681><A3107> Der ist in Wirklicheit· 
+<D6681><A3107> Der ist in Wirklichkeit· 
 geboren, durch dessen Geburt die Familie· 
 in die Höhe kommt: wer wohl wird bei dem· 
 Kreislauf des Lebens nach dem Tode nicht· 
@@ -116641,7 +116641,7 @@ AvahatyugrabhayadAM svayamevApadaM nRpaH ||·
 Ungebührliches treibt, indem sein Auge· 
 durch die Sinnenwelt geblendet ist,· 
 führt selbst einen Unfall herbei, der· 
-ihm schreckliche Angst verusacht.· 
+ihm schreckliche Angst verursacht.· 
  
 <F>6687) KA1M. NI1TIS. 1, 39.· 
 [Seite3.425]· 
@@ -117709,7 +117709,7 @@ adAnaH pInagAtro 'pi nindya eva hi gardabhaH ||·
 <D6753><A3139> Ein riesiger Elephant,· 
 der durch beständiges Spenden (Fliessen· 
 des Brunstsaftes) hingeschwunden ist,· 
-wird gepriese: ein Esel, der Nichts· 
+wird gepriesen: ein Esel, der Nichts· 
 spendet (keinen Brunstsaft hat), wird nur· 
 verhöhnt, wäre er auch fett.· 
  
@@ -118878,7 +118878,7 @@ sa zriyo bhAjanaM rAjaMnyazcApatsu na muhyati ||·
  
 <D6822><A5160> Wer den heftigen Andrang· 
 des Zornes und der Freude zurückhält und· 
-im Unglück nicht seine Besonneheit· 
+im Unglück nicht seine Besonnenheit· 
 verliert, der ist, o Fürst, ein Gefäss· 
 der Wohlfahrt (d. i. dem wird Wohlfahrt· 
 reichlich zu Theil).· 
@@ -119318,7 +119318,7 @@ viniryAti yadA lakSmIrgajabhuktakapitthavat ||·
 <D6848><A3177> Das Glück erscheint· 
 (allmählich) wie die Milch in der· 
 Kokosnuss und verschwindet (plötzlich)· 
-wie die Früche des Kapittha, die von· 
+wie die Früchte des Kapittha, die von· 
 Elephanten verzehrt werden.· 
  
 <F>6848) NI1TIPRADI1PA 16 bei HAEB. in· 
@@ -120495,7 +120495,7 @@ sarpanti pratimandiraM dvirasanAH saMtyaktamArgo jano varSANAM ca kalezca sAMpra
  
  
 <D6919> Ueberall sind Kandali1-Blüthen· 
-(ist Kampf) auf dem Erboden zum· 
+(ist Kampf) auf dem Erdboden zum· 
 Vorschein gekommen, die Gewässer· 
 (Dummen) sind hoch angeschwollen· 
 (gedeihen ausserordentlich), die· 
@@ -122387,11 +122387,11 @@ yastADyate dayitayA praNayAparAdhAtso 'GgIkRto bhagavatA makaradhvajena ||·
  
  
  
-<D7031><A3249> Ein mit Lak belegter,· 
+<D7031><A3249> Ein mit Lack belegter,· 
 frühlingssprossenlinder, Ein bespangter· 
 Fuss, ein schwer wollüstig träger; Wo· 
 ein Tritt von ihm trifft einen· 
-Liebenssünder, Der ist dein, o sel'ger· 
+Liebessünder, Der ist dein, o sel'ger· 
 Delphinfahnenträger! {%Rückert.%}· 
  
 <F>7031) AMAR. 86.· 
@@ -122479,7 +122479,7 @@ kaNThAzleSaparigrahe zithilatA yannAdarazcumbane tatte dhUrta hRdi sthitA priyat
 richtest, keinen Wunsch von mir· 
 erfüllst, in den Nächten gewöhnlich· 
 rasch aufathmest wie des Feuers Flamme,· 
-im Unhalsen dich lass zeigst und nicht· 
+im Umhalsen dich lass zeigst und nicht· 
 daran denkst mich zu küssen, so· 
 (schliesse ich daraus,) dass in deinem· 
 Herzen, o Schelm, eine andere Geliebte· 
@@ -123487,7 +123487,7 @@ svArthasatkRtaH#} und·
 yathA puSpaM tathA rAjA durjanaiH pariveSTitaH ||· 
  
  
-<D7093> Die wohlreichende Blüthe der· 
+<D7093> Die wohlriechende Blüthe der· 
 Ketaki1 ist mit Dornen besetzt; einer· 
 solchen Blüthe gleicht ein von· 
 Bösewichtern umgebener Fürst.· 
@@ -124454,7 +124454,7 @@ nRpasaMzraya iSyate budhairjaTharaM ko na vibharti kevalam ||·
 <D7149><A3286> Um Freunden Nutzen und· 
 Feinden Schaden zu bringen suchen Kluge· 
 sich einem Fürsten anzuschliessen: bloss· 
-den Bauch zu nähren vermag Jederman.· 
+den Bauch zu nähren vermag Jedermann.· 
  
 <F>7149) PAN5CAT. ed. KOSEG. i, 27. ed.· 
 orn. 9. ed. Bomb. 22. HIT. ed. SCHL. II,· 
@@ -125738,7 +125738,7 @@ Gazellen den Tod.·
 Spr. 2638. 3929. 7118.· 
  
 <F4.1>-- S. 539, Z. 4. Lies «vorangehenden» st. «folgenden».· 
-
+ 
 <S> sthAne nivAsaH sukulaM kalatraM putraH pavitraH svakanAnurAgaH |· 
 nyAyAcca vintaM svahitaM ca cittaM nicchadmadharmo hi sukhAni sapta ||· 
  
@@ -126575,7 +126575,7 @@ itkSipya TiTTibhaH pAdau zete bhaGgabhayAddivaH ||·
  
  
 <D7269><A5335> Wodurch könnte ein im· 
-eigenen Herzen entstandener Hochmuch· 
+eigenen Herzen entstandener Hochmuth· 
 gedämpft werden? Der Vogel Tit2ibha· 
 schläft mit nach oben gerichteten Füssen· 
 aus Furcht, der Himmel könnte sonst· 
@@ -127366,7 +127366,7 @@ prAsAdasyosthAnAmatra kasmAnna dIyate ||·
 <D7319> Wenn im Himmel Weilende durch· 
 eine Spende dort gesättigt werden,· 
 warum reicht man dann nicht hier im· 
-Leben auf dieselb Weise die Speise· 
+Leben auf dieselbe Weise die Speise· 
 denen, die auf dem Söller eines· 
 Palastes stehen?· 
  
@@ -127699,7 +127699,7 @@ kukSau yAvadime bhavanti dhRtaye bhikSAhRtAH saktavastAvaddAsyakRtArjanairnahi d
 <D7337><A5374> Gesättigt sind wir schon· 
 durch die heilige Silbe, die süsser als· 
 Honig und wohlschmeckender als Butter· 
-aus der göttlichen Rede des herem· 
+aus der göttlichen Rede des hehren· 
 Unsterblichen träufelt. So lange die· 
 durch Betteln gewonnene Grütze dem Magen· 
 Befriedigung schafft, verlangen wir ja· 
@@ -127823,7 +127823,7 @@ samUleSvayi vRkSeSu prayatnaH saphalo nRNAm ||·
 verschiedenen Glieder des Staates, wie· 
 man weiss, im Gebieter, aber erst die· 
 Mühe, die sich die Menschen mit den· 
-Bäumen geben, trägt Früche, obgleich· 
+Bäumen geben, trägt Früchte, obgleich· 
 jene Wurzeln haben.· 
  
 <F>7344) HIT. ed. 16, ²a. Eine Variante· 
@@ -128744,7 +128744,7 @@ zuzieht.·
 pazya rogApahArAya bhaveduSNIkRtaM payaH ||· 
  
  
-<D7396> EiN bedeutender Mann bringt uns· 
+<D7396> Ein bedeutender Mann bringt uns· 
 ja Nutzen, nimmer aber Schaden,· 
 bereiteten wir ihm auch Schmerzen;· 
 erhitzte Milch vertreibt uns, sieh, eine· 
@@ -128931,7 +128931,7 @@ na zatrumavamanyeta balavAnapi bhUmipaH ||·
  
 <D7407><A5411> Mit einem Schwächeren und· 
 mit einem Gleichen soll man Frieden zu· 
-machen suchen; sogar ein machtiger Fürst· 
+machen suchen; sogar ein mächtiger Fürst· 
 soll einen Feind nicht gering schätzen.· 
  
 <F>7407) R. ed. GORR. 6, 11, 12.· 
