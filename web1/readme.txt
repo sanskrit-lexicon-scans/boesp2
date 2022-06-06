@@ -12,9 +12,8 @@ Refer https://github.com/funderburkjim/boesp-prep/issues/?
 Input file step0/boesp.xml 
 
 # put output files in current directory (./)
-#python make_html.py ../step0/boesp.xml .
 
 (start with sanskrit-lexicon/rvlinks approach)
-
+# Note this is in redo.sh.
 python make_json.py ../step0/boesp_deva.xml json
 

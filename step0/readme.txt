@@ -1,5 +1,11 @@
 #  Boehtlingk, Indische Sprüche
 
+NOTE ON REDO (6-6-2022)
+If boesp.xml is changed, then there are two steps:
+1. sh transcode_xml.sh
+2. cd ../web1; sh redo.sh
+-----------------------------------
+
 Reorganized step0 as of 10-20-2021.
 
 Preliminary work with volume 1 has been moved to the 'oldwork' directory.
