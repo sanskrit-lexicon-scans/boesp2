@@ -81,3 +81,34 @@ to Sampada
   boesp-3_slp1_diff1.txt
   the print-correction notes from AB (part of readme_ab_3.txt).
 =========================================================================
+Revision1 by Andhrabharati
+ref: https://github.com/funderburkjim/boesp-prep/issues/49#issuecomment-1179654452
+ verses_03_deva.AB.-Rev.1.txt
+ There are comments from AB at bottom, these removed to
+  readme_ab_3_rev1.txt, and the remaining verses in
+  boesp-3_deva_ab0_rev1.txt
+  
+convert AB version to slp1: boesp-3_slp1_ab1_rev1.txt
+ copied transcode_ab.sh from step4a1
+ sh transcode_ab.sh deva slp1 ../../step4a3/boesp-3_deva_ab0_rev1.txt ../../step4a3/boesp-3_slp1_ab0_rev1.txt
+28869 read from ../../step4a3/boesp-3_deva_ab0_rev1.txt
+28869 written to ../../step4a3/boesp-3_slp1_ab0_rev1.txt
+
+Recompute diff
+python diff_verses1.py boesp-3_slp1_sam1.txt boesp-3_slp1_ab0_rev1.txt boesp-3_slp1_diff1_rev1.txt
+3521 edits from boesp-3_slp1_ab0_rev1.txt
+251 written to temp_boesp-3_slp1_diff1_rev1.txt
+
+Still a lot of differences, but 316 fewer differences than before. Good!
+
+prepare deva version for ab
+sh transcode_ab.sh slp1 deva ../../step4a3/boesp-3_slp1_diff1_rev1.txt ../../step4a3/boesp-3_deva_diff1_rev1.txt
+
+=========================================================================
+distribution of diff1:
+to Andhrabharati
+  boesp-3_deva_diff1_rev1.txt
+to Sampada
+  boesp-3_slp1_diff1_rev1.txt
+  the print-correction notes from AB (part of readme_ab_3.txt).
+=========================================================================
