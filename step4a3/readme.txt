@@ -112,3 +112,16 @@ to Sampada
   boesp-3_slp1_diff1_rev1.txt
   the print-correction notes from AB (part of readme_ab_3.txt).
 =========================================================================
+sampada's corrections to boesp-3_slp1_diff1_rev1.txt:
+boesp-3_slp1_sam2.txt
+Recompute diff:
+python diff_verses1.py boesp-3_slp1_sam2.txt boesp-3_slp1_ab0_rev1.txt boesp-3_slp1_diff1_rev2.txt
+3521 edits from boesp-3_slp1_sam2.txt
+3521 edits from boesp-3_slp1_ab0_rev1.txt
+17 lines with differences in Sanskrit verse
+17 written to boesp-3_slp1_diff1_rev2.txt
+
+boesp-3_sam2_comments.txt contain comments by Sampada and Jim on these
+17 differences, and also a few others mentioned by Sampada.
+
+Ask Andhrabharati and Sampada to review these comments.

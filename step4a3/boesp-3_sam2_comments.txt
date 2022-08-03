@@ -1,0 +1,257 @@
+Revision for submitted boesp3 from Sampada (Sampada = 'I' in comments)
+Jim's comments start with 'jim:' and have 'PREFER'.
+Also, 4 additional differences are included with Jim's comments,
+and 'USE' as the choice.  (cases from boesp-3_sl1_diff1_rev2.txt)
+
+***
+<edit>
+<info L="4771.1" page="3.26" gtypes="HS"/>
+<HS>
+<s>mahAvratisahasrezu</s> s. nach Spruch <s>miTyAdfzwisahasrezu</s>.
+</HS>
+</edit>
+Corrected first word acc to AB, but second correction not included.
+My entry <s>miTyAdfzwisahasrezu</s> is right.
+AB suggestion <s>miTyAMdfzwisahasrezu</s> seems incorrect.
+jim: PREFER <s>miTyAdfzwisahasrezu</s> agrees with scan.
+
+; -------------------------------------
+Verse 4844: difference at line 4
+<s>mA vanaM CindDi savyAGraM mA vyaGrA nInaSanvanAt .</s>
+<s>mA vanaM CindDi savyAGraM mA vyAGrA nInaSanvanAt .</s>
+jim: USE <s>vyAGrA</s>
+  Tiger. PRINT CHANGE
+; -------------------------------------
+
+; -------------------------------------
+Verse 4908: difference at line 4
+<s>mUQa jahIhi DanAgamatfzRAM kuru tanubudDimanastu vitfzRAm .</s>
+<s>mUQa jahIhi DanAgamatfzRAM kuru tanubudDimanassu vitfzRAm .</s>
+jim: USE <s>tanubudDimanassu</s>
+  print agrees with <s>manassu</s>, which is loc. pl. of <s>manas</s>
+    (or loc. pl. can be sandhi variant <s>manaHsu</s>)
+; -------------------------------------
+
+*** 
+<edit>
+<info L="4927" page="3.61" gtypes="S,D,F"/>
+<S n="4927">
+<s>mUlaBftyoparoDena nagantUnpratimAnayet .</s>
+<s>nAtaH parataro dozo rAjyaBedakaro yataH ..</s>
+</S>
+</edit>
+
+AB suggests <s>mUlaBftyoparADena</s>
+this would indicate print error
+jim: PREFER <s>mUlaBftyoparoDena</s>  agrees with scan.
+     <s>uparoDa</s> in MW as 'obstruction'
+jim additional question:
+  <s>nagantUnpratimAnayet</s>, but scan has <s>nAgantUnpratimAnayet</s> ?
+
+***
+Verse 5042: difference at line 4
+<s>yatkiMcidapisaMkalpAnnaro duHKe nimajjati .</s>
+<s>yatkiMcidapi saMkalpAnnaro duHKe nimajjati .</s>
+;
+Verse 5042: difference at line 5
+<s>nakiMcidapisaMkalpAtsuKamakzayamaSnute ..</s>
+<s>nakiMcidapi saMkalpAtsuKamakzayamaSnute ..</s>
+
+The two corrections I made suggested by AB by adding space
+<s>yatkiMcidapi saMkalpAnnaro</s> and
+<s>nakiMcidapi saMkalpAtsuKamakzayamaSnute</s>>
+seem to be due to Print Error.
+jim: PREFER <s>api saM</s>
+   Print does not have a space at either point.
+   There are 100+ instances where text puts a space after 'api'.
+   
+***
+Verse 5226.1: difference at line 4
+<s>yadi Bintte sUryaputraH (sUryasutaH)</s> s. Spruch 5230.
+<s>yadi Binatte sUryaputraH (sUryasutaH)</s> s. Spruch 5230.
+I have corrected <s>Bintte</s> to <s>Binatte</s> as suggested by AB, thus this is a print error.
+jim: PREFER <s>Bintte</s>
+     print has <s>Bintte</s>
+     MW shows verb form <s>Bintte</s>.  (but <s>Binatti</s>)   
+
+***
+Verse 5268: difference at line 4
+<s>yadvyayaM puruzaH kiMcitkurute vE SuBASuBam .</s>
+<s>yadDyayaM puruzaH kiMcitkurute vE SuBASuBam .</s>
+I am not convinced with this correction, not making the change.
+
+jim: PREFER <s>yadvyaya</s>
+  in print, Devanagari of first word hard to dissect.
+  <s>vyaya<s> in MW 'passing away', etc.
+  <s>Dyaya</s> not found in MW.
+  
+***
+<edit>
+<info L="5306" page="3.135" gtypes="S,D,F,V5"/>
+<S n="5306">
+<s>yanmanoraTaSatEragocaraM na spfSanti kavayo girApi yat .</s>
+<s>svapravfttirapi yatra durlaBA lIlayEva vidaDAti tadviDiH ..</s>
+</S>
+</edit>
+AB suggests <s>svapnavfttirapi</s> as correction,
+but I am not convinced. Leaving it as is.
+jim: PREFER <s>svapnavftti</s>
+  German text uses 'Traume' which means dream, which
+  agrees with 'svapna-vftti'.  
+  
+***
+<info L="5487" page="3.171" gtypes="S,D,F"/>
+<S n="5487">
+<s>yAvadBA BAraverBAti (yAvadBABA raverBAti) tAvanmAGo na dfSyate .</s>
+<s>udite vE punarmAGe BAraverBA (BA raverBA) raveriva ..</s>
+</S>
+</edit>
+
+I have made the corrections as suggested by AB but not <s>tAbanmAGo<s>
+<edit>
+jim: PREFER <s>tAvanmAGo</s>
+   <s>yAvat</s> ... <s>tAvat</s>
+   scan shows <s>tAvanmAGo</s>.
+
+***
+<edit>
+<info L="5488" page="3.171" gtypes="S,D,F"/>
+<S n="5488">
+<s>yAvadDriyeta jaWaraM tAvatsvatvaM hi dehinAm .</s>
+<s>aDikaM yo 'Bimanyeta sa steno daRqamarhati ..</s>
+</S>
+</edit>
+jim: PREFER ? <s>yAvadDriyeta</s>
+  Cannot decide.  
+  Not corrected from <s>yAvadDriyeta</s> to <s>yAvadBriyeta</s> . Left as is.
+
+***
+<edit>
+<info L="5579" page="3.190" gtypes="S,D,F,V5"/>
+<S n="5579">
+<s>ye saMtozasuKaprabudDamanasastezAM na BinnA mudo</s>
+<s>ye tvanye DanaloBasaMkulaDiyastezAM na tfzRA hatA .</s>
+<s>itTaM kasya kfte kftaH sa viDinA tAdfkpadaM saMpadAM</s>
+<s>svAtmanyeva samAptahemamahimA merurna me rocate ..</s>
+</S>
+</edit>
+Not changed <s>rocate</s> to <s>rAcate</s> as suggested by AB
+jim: PREFER <s>rocate</s>
+   can find no verb form <s>rAcate</s>.
+   Note <s>rAcate<s> agrees with scan.  Thus <s>rocate</s> is a print change.
+
+***
+<edit>
+<info L="5689" page="3.210" gtypes="S,D,F"/>
+<S n="5689">
+<s>yOvane vartamAnAnAM mfzwABaraRavAsasAm .</s>
+<s>nArIRAM svEravfttInAM spfhyanti kulastriyaH ..</s>
+</S>
+</edit>
+Not changed <s>spfhyanti</s> to <s>spfhayanti</s> as suggested by AB
+Need to check scan too.
+jim: PREFER: <s>spfhayanti</s>
+   3rd. pl. of class 10 spfh.
+  <s>spfhyanti</s>  is not a known verb form.
+  print is <s>hay</s>  (cf. scan for  verse 4662 line 3 'prasahya')
+
+***
+<edit>
+<info L="5710" page="3.215" gtypes="S,D,F"/>
+<S n="5710">
+<s>raTaH SarIraM puruzasya dfzwamAtmA niyatendriyARyAhuraSvAn .</s>
+<s>tErapramattaH kuSalI sadaSvErdAntEH suKaM yAti raTIva DIraH ..</s>
+</S>
+</edit>
+Not changed
+<s>niyatendriyARyAhuraSvAn</s> to <s>niyantendriyARyAhuraSvAn</s>
+as suggested by AB
+Need to check scan too.
+jim: PREFER: <s>niyatendriya</s>
+   scan is smudged.  <s>niyatendriya</s> = 'whose senses are restrained'.
+
+***
+<edit>
+<info L="6049" page="3.290" gtypes="S,D,F,V5"/>
+<S n="6049">
+<s>vAsaH KaRqamidaM prayacCa yadi vA svANke gfhARArBakaM</s>
+<s>riktaM BUtalamatra nATa BavataH pfzWe palAloccayaH .</s>
+<s>daMpatyoriti jalpitaM niSi yadA cOraH pravizwastadA</s>
+<s>labDaM karpawamanyatastadupari kziptvA rudannirgataH ..</s>
+</S>
+</edit>
+Not changed from <s>vAsaH KaRqamidaM</s> to <s>vAsaHKaRqamidaM</s>
+Need to check scan again.
+jim:  PREFER: <s>vAsaHKaRqamidaM</s>
+  scan shows no space.
+
+; -------------------------------------
+Verse 6109: difference at line 4
+<s>vidvattvaM ca nfpatvaM ca nEva kadA ca na .</s>
+<s>vidvattvaM ca nfpatvaM ca nEva tulyaM kadA ca na .</s>
+jim: USE <s>tulyaM</s>
+  agrees with print and with meter.
+; -------------------------------------
+
+; -------------------------------------
+Verse 6119: difference at line 5
+<s>veSyA mahApaTaH proktA nijanArI samo yaTA ..</s>
+<s>veSyA mahApaTaH proktA nijanArI yaTA ..</s>
+jim: USE <s>samo</s>
+    agrees with print and with meter.
+; -------------------------------------
+
+***
+<edit>
+<info L="6249" page="3.333" gtypes="S,D,F"/>
+<S n="6249">
+<s>vftimapyASritaH SatrirvaDyaH syAdvijigIzuRA .</s>
+<s>kiM punaH saMSrito durgaM sAmagryA parayA yutam ..</s>
+</S>
+</edit>
+Not sure of this suggested correction. Need to check the scan properly.
+AB suggested <s>SatrurvaTyaH</s> for <s>SatrirvaDyaH</s>.
+I have corrected to <s>SatrurvaDyaH</s>
+jim: PREFER: <s>SatrurvaDyaH</s>
+    Scan agrees with <s>SatrurvaDyaH</s>
+
+***
+<edit>
+<info L="6401" page="3.363" gtypes="S,D,F,V5"/>
+<S n="6401">
+<s>SabdaSAstramanaDItya yaH pumAnvaktumicCati vacaH saBAntare .</s>
+<s>banDumicCati vane madotkawaM kuYjaraM kamalatantunA hi saH ..</s>
+</S>
+</edit>
+Not corrected acc to AB suggestion
+<s>banDumicCati</s> to <s>bandDumicCati</s>
+
+jim: PREFER <s>bandDum</s>
+     infinitive of banD (to bind)
+     agrees with scan
+
+***
+Verse 6842: difference at line 4
+<s>samsTo vizamasTo vA pApo vA yadi vA SuciH .</s>
+<s>samasTo vizamasTo vA pApo vA yadi SuciH .</s>
+I have not corrected acc to AB. My entry is consistent with the scan.
+jim: PREFER <s>samsTo</s>
+   scan has <s>samsTo</s>.
+   <s>samsTo</s> has right number of syllables for <s>anuzwup</s> meter.
+    
+***
+Verse 6846: difference at line 4
+<s>samAdiSatpitA putraM liKa leKaM mamAjYayA .</s>
+<s>samAdiSatpitA putraM leKaM mamAjYayA .</s>
+I have not corrected acc to AB. My entry is consistent with the scan.
+jim: PREFER <s>liKa leKaM</s> .
+   consistent with scan and meter.
+
+***
+Verse 7223.1: difference at line 4
+<s>sTAnaBrazwAH suSoBante</s> s. den folgenden Spruch.
+<s>sTAnaBrazwAH su SoBante</s> s. den folgenden Spruch.
+I have not corrected acc to AB. I think this is a scan error.
+Jim: PREFER <s>su SoBante</s>
+  agrees with scan.
+  <s>su</s> here used as adverb ('they shine well').
