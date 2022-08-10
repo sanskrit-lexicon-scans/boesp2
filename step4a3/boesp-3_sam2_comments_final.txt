@@ -1,12 +1,8 @@
-Revision for submitted boesp3 from Sampada (Sampada = 'I' in comments)
+evision for submitted boesp3 from Sampada (Sampada = 'I' in comments)
 Jim's comments start with 'jim:' and have 'PREFER'.
 Also, 4 additional differences are included with Jim's comments,
 and 'USE' as the choice.  (cases from boesp-3_sl1_diff1_rev2.txt)
 
-Notes added from three Andhrabharati comments, starting at
- https://github.com/funderburkjim/boesp-prep/issues/49#issuecomment-1203555708
- Identified as 'AB comment':
- 
 ***
 <edit>
 <info L="4771.1" page="3.26" gtypes="HS"/>
@@ -18,18 +14,16 @@ Corrected first word acc to AB, but second correction not included.
 My entry <s>miTyAdfzwisahasrezu</s> is right.
 AB suggestion <s>miTyAMdfzwisahasrezu</s> seems incorrect.
 jim: PREFER <s>miTyAdfzwisahasrezu</s> agrees with scan.
-AB comment: "AB text wrong here"
-
-***
+sam: OK
 ; -------------------------------------
 Verse 4844: difference at line 4
 <s>mA vanaM CindDi savyAGraM mA vyaGrA nInaSanvanAt .</s>
 <s>mA vanaM CindDi savyAGraM mA vyAGrA nInaSanvanAt .</s>
 jim: USE <s>vyAGrA</s>
   Tiger. PRINT CHANGE
+sam: OK
 ; -------------------------------------
 
-***
 ; -------------------------------------
 Verse 4908: difference at line 4
 <s>mUQa jahIhi DanAgamatfzRAM kuru tanubudDimanastu vitfzRAm .</s>
@@ -37,6 +31,7 @@ Verse 4908: difference at line 4
 jim: USE <s>tanubudDimanassu</s>
   print agrees with <s>manassu</s>, which is loc. pl. of <s>manas</s>
     (or loc. pl. can be sandhi variant <s>manaHsu</s>)
+sam: OK
 ; -------------------------------------
 
 *** 
@@ -52,8 +47,10 @@ AB suggests <s>mUlaBftyoparADena</s>
 this would indicate print error
 jim: PREFER <s>mUlaBftyoparoDena</s>  agrees with scan.
      <s>uparoDa</s> in MW as 'obstruction'
+sam: I agreed with AB on this.
 jim additional question:
   <s>nagantUnpratimAnayet</s>, but scan has <s>nAgantUnpratimAnayet</s> ?
+sam: should be <nAgantUnpratimAnayet>
 
 ***
 Verse 5042: difference at line 4
@@ -71,6 +68,7 @@ seem to be due to Print Error.
 jim: PREFER <s>api saM</s>
    Print does not have a space at either point.
    There are 100+ instances where text puts a space after 'api'.
+sam: grammatically the word ending with api is not really a samAsa with the rest. I still think it should be separated by a space. Even if there are 100 such unseparated cases, are there others which do have the space. This could also be a recurrent error.
    
 ***
 Verse 5226.1: difference at line 4
@@ -80,6 +78,7 @@ I have corrected <s>Bintte</s> to <s>Binatte</s> as suggested by AB, thus this i
 jim: PREFER <s>Bintte</s>
      print has <s>Bintte</s>
      MW shows verb form <s>Bintte</s>.  (but <s>Binatti</s>)   
+sam: Agreed, MW shows the form <Bintte>.
 
 ***
 Verse 5268: difference at line 4
@@ -91,6 +90,7 @@ jim: PREFER <s>yadvyaya</s>
   in print, Devanagari of first word hard to dissect.
   <s>vyaya<s> in MW 'passing away', etc.
   <s>Dyaya</s> not found in MW.
+sam: Agreed
   
 ***
 <edit>
@@ -105,6 +105,7 @@ but I am not convinced. Leaving it as is.
 jim: PREFER <s>svapnavftti</s>
   German text uses 'Traume' which means dream, which
   agrees with 'svapna-vftti'.  
+sam: OK, agree with your logic.
   
 ***
 <info L="5487" page="3.171" gtypes="S,D,F"/>
@@ -119,6 +120,7 @@ I have made the corrections as suggested by AB but not <s>tAbanmAGo<s>
 jim: PREFER <s>tAvanmAGo</s>
    <s>yAvat</s> ... <s>tAvat</s>
    scan shows <s>tAvanmAGo</s>.
+sam: yes
 
 ***
 <edit>
@@ -131,6 +133,7 @@ jim: PREFER <s>tAvanmAGo</s>
 jim: PREFER ? <s>yAvadDriyeta</s>
   Cannot decide.  
   Not corrected from <s>yAvadDriyeta</s> to <s>yAvadBriyeta</s> . Left as is.
+sam: it should be left as <s>yAvadDriyeta</s>
 
 ***
 <edit>
@@ -146,6 +149,7 @@ Not changed <s>rocate</s> to <s>rAcate</s> as suggested by AB
 jim: PREFER <s>rocate</s>
    can find no verb form <s>rAcate</s>.
    Note <s>rAcate<s> agrees with scan.  Thus <s>rocate</s> is a print change.
+sam: yes, print error.
 
 ***
 <edit>
@@ -161,6 +165,7 @@ jim: PREFER: <s>spfhayanti</s>
    3rd. pl. of class 10 spfh.
   <s>spfhyanti</s>  is not a known verb form.
   print is <s>hay</s>  (cf. scan for  verse 4662 line 3 'prasahya')
+sam: OK
 
 ***
 <edit>
@@ -176,6 +181,7 @@ as suggested by AB
 Need to check scan too.
 jim: PREFER: <s>niyatendriya</s>
    scan is smudged.  <s>niyatendriya</s> = 'whose senses are restrained'.
+sam: <s>niyatendriya</s> makes definite sense.
 
 ***
 <edit>
@@ -191,23 +197,24 @@ Not changed from <s>vAsaH KaRqamidaM</s> to <s>vAsaHKaRqamidaM</s>
 Need to check scan again.
 jim:  PREFER: <s>vAsaHKaRqamidaM</s>
   scan shows no space.
+sam: yes, this is acceptable.
 
-***
 ; -------------------------------------
 Verse 6109: difference at line 4
 <s>vidvattvaM ca nfpatvaM ca nEva kadA ca na .</s>
 <s>vidvattvaM ca nfpatvaM ca nEva tulyaM kadA ca na .</s>
 jim: USE <s>tulyaM</s>
   agrees with print and with meter.
+sam: yes
 ; -------------------------------------
 
-***
 ; -------------------------------------
 Verse 6119: difference at line 5
 <s>veSyA mahApaTaH proktA nijanArI samo yaTA ..</s>
 <s>veSyA mahApaTaH proktA nijanArI yaTA ..</s>
 jim: USE <s>samo</s>
     agrees with print and with meter.
+sam: yes
 ; -------------------------------------
 
 ***
@@ -223,6 +230,7 @@ AB suggested <s>SatrurvaTyaH</s> for <s>SatrirvaDyaH</s>.
 I have corrected to <s>SatrurvaDyaH</s>
 jim: PREFER: <s>SatrurvaDyaH</s>
     Scan agrees with <s>SatrurvaDyaH</s>
+sam: agreed
 
 ***
 <edit>
@@ -238,6 +246,7 @@ Not corrected acc to AB suggestion
 jim: PREFER <s>bandDum</s>
      infinitive of banD (to bind)
      agrees with scan
+sam: yes, inf. is there in MW, I should have seen.
 
 ***
 Verse 6842: difference at line 4
@@ -247,6 +256,8 @@ I have not corrected acc to AB. My entry is consistent with the scan.
 jim: PREFER <s>samsTo</s>
    scan has <s>samsTo</s>.
    <s>samsTo</s> has right number of syllables for <s>anuzwup</s> meter.
+sam: in fact, scan has <samasTo> and this fits in meter.
+sam: should be <samasTo vizamasTo vA pApo vA yadi SuciH .</s>
     
 ***
 Verse 6846: difference at line 4
@@ -255,6 +266,7 @@ Verse 6846: difference at line 4
 I have not corrected acc to AB. My entry is consistent with the scan.
 jim: PREFER <s>liKa leKaM</s> .
    consistent with scan and meter.
+sam: agreed
 
 ***
 Verse 7223.1: difference at line 4
@@ -264,3 +276,5 @@ I have not corrected acc to AB. I think this is a scan error.
 Jim: PREFER <s>su SoBante</s>
   agrees with scan.
   <s>su</s> here used as adverb ('they shine well').
+sam: I have not seen <su> as an adverb being written separately from the verb. It is usually written as prefix. Are there more such instances in boesp?
+sam: I still think it should be <suSoBante>

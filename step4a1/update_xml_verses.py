@@ -89,7 +89,12 @@ def edit_entry(entry,edit):
  newgroups = []
  found = False
  info = entry.info
- assert info == edit.lines[1]
+ #assert info == edit.lines[1]
+ if info != edit.lines[1]:
+  print('edit_entry error.')
+  print('entry.info = ',info)
+  print('edit info  = ',edit.lines[1])
+  exit(1)
  gtypes = entry.gtypes
  groups = entry.groups
  egroups = edit.groups
