@@ -273,19 +273,6 @@ There are 21 'cases' mentioned in boesp-3_sam2_comments.txt.
 In 7 of these 21 cases,  I have made made changes to the AB version.
 In the other 14 cases, no change has been made to AB version.
 
-----------------------------------
-In 10 of these, Jim's choice is already represented by AB's text
-in boesp-3_slp1_final_2.txt:
-- 4844 no change. AB version used.
-- 4908 no change. AB version used.
-- 5042 no change. AB version used.
-- 5306 no change. AB version used.
-- 5689 no change. AB version used.
-- 6049 no change. AB version used.
-- 6109 no change. AB version used.
-- 6401 no change. AB version used.
-- 6842 no change. AB version used.
-- 7223.1 no change. AB version used.
 
 =========================================================================
 THE 7 CHANGES MADE (shown in three groups of 4, 1, 2)
@@ -319,25 +306,9 @@ where  AB  concurs with comment 'Go with <s>Bintte</s> as suggested'
 old: <s>yadi Binatte sUryaputraH (sUryasutaH)</s> s. Spruch 5230.
 new: <s>yadi Bintte sUryaputraH (sUryasutaH)</s> s. Spruch 5230.
 
-
--- 5579. ²a. <s>°praboDamanasastezAmaBinnA</s>. ²d. Lies <s>rocate</s>.
-</V5>
-old: <s>svAtmanyeva samAptahemamahimA merurna me rAcate ..</s>
-new: <s>svAtmanyeva samAptahemamahimA merurna me rocate ..</s>
-
-- 5710 no change
-  AB shows clearer scan with 'niyant' --  and there are
-  some words in MW with 'niyant' (e.g. niyantavya)
-  So maybe 'niyanta' is a legitimate spelling variation of 'niyata' ?
-old: <s>raTaH SarIraM puruzasya dfzwamAtmA niyantendriyARyAhuraSvAn .</s>
-new: <s>raTaH SarIraM puruzasya dfzwamAtmA niyatendriyARyAhuraSvAn .</s>
-
 ----------------------------------
-
-
 2 cases of changes made but not (yet) confirmed by AB comments 
 Revise according to Jim's suggestions in boesp-3_sam2_comments.txt
-
 
 + 4927 AB ?
 old: <s>mUlaBftyAparADena nAgantUnpratimAnayet .</s>
@@ -348,6 +319,23 @@ Note: mUlaBftyoparoDena agrees with print
 + 6119 AB concur? (meter requires 'samo') 
 old: <s>veSyA mahApaTaH proktA nijanArI yaTA ..</s>
 new: <s>veSyA mahApaTaH proktA nijanArI samo yaTA ..</s>
+
+
+=========================================================================
+14 NO CHANGES Notes
+----------------------------------
+In 10 of these, Jim's choice is already represented by AB's text
+in boesp-3_slp1_final_2.txt:
+- 4844 no change. AB version used.
+- 4908 no change. AB version used.
+- 5042 no change. AB version used.
+- 5306 no change. AB version used.
+- 5689 no change. AB version used.
+- 6049 no change. AB version used.
+- 6109 no change. AB version used.
+- 6401 no change. AB version used.
+- 6842 no change. AB version used.
+- 7223.1 no change. AB version used.
 
 ----------------------------------
 4 cases where Jim changes mind to agree with AB version.
@@ -369,6 +357,17 @@ new: <s>yAvadDriyeta jaWaraM tAvatsvatvaM hi dehinAm .</s>
 - 5579 no change
 (use rAcate)  AB notices the correction in an addendum.
 <V5 n="5579">
+-- 5579. ²a. <s>°praboDamanasastezAmaBinnA</s>. ²d. Lies <s>rocate</s>.
+</V5>
+old: <s>svAtmanyeva samAptahemamahimA merurna me rAcate ..</s>
+new: <s>svAtmanyeva samAptahemamahimA merurna me rocate ..</s>
+
+- 5710 no change
+  AB shows clearer scan with 'niyant' --  and there are
+  some words in MW with 'niyant' (e.g. niyantavya)
+  So maybe 'niyanta' is a legitimate spelling variation of 'niyata' ?
+old: <s>raTaH SarIraM puruzasya dfzwamAtmA niyantendriyARyAhuraSvAn .</s>
+new: <s>raTaH SarIraM puruzasya dfzwamAtmA niyatendriyARyAhuraSvAn .</s>
 
 =========================================================================
 Install final version of volume 3 verses into temp_boesp_03.xml.
