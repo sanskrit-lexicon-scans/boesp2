@@ -366,9 +366,51 @@ new: <s>svAtmanyeva samAptahemamahimA merurna me rocate ..</s>
   AB shows clearer scan with 'niyant' --  and there are
   some words in MW with 'niyant' (e.g. niyantavya)
   So maybe 'niyanta' is a legitimate spelling variation of 'niyata' ?
+  NOTE:  AB comment disagrees. niyantA is noun (controller)
 old: <s>raTaH SarIraM puruzasya dfzwamAtmA niyantendriyARyAhuraSvAn .</s>
 new: <s>raTaH SarIraM puruzasya dfzwamAtmA niyatendriyARyAhuraSvAn .</s>
 
 =========================================================================
 Install final version of volume 3 verses into temp_boesp_03.xml.
-python ../step4a1/update_xml_verses.py temp_boesp_01.xml boesp-3_slp1_final_2.txt temp_boesp_03.xml
+python ../step4a1/update_xml_verses.py temp_boesp_02.xml boesp-3_slp1_final_2.txt temp_boesp_03.xml
+
+check:
+python ../step4a1/extract_verses.py 3 temp_boesp_03.xml temp_verses.txt
+diff boesp-3_slp1_final_2.txt temp_verses.txt
+ #no diff, as expected
+rm  temp_verses.txt
+
+Check validation:
+python ../step0/xmlvalidate.py temp_boesp_03.xml ../step0/boesp.dtd
+ ok  (as expected)
+
+#--------------------------------------------------------
+install revised versions of xml and dtd
+cp temp_boesp_03.xml ../step0/boesp.xml
+
+remake hk, deva, and slp1 versions of step0/boesp.xml
+cd ../step0
+sh transcode_xml.sh
+OUTPUT FROM SCRIPT
+ ===========================
+starting with boesp.xml (slp1 Sanskrit)
+moving to step3e directory
+ ===========================
+create boesp_hk.xml
+185724 lines read from ../step0/boesp.xml
+9102 entries found
+185724 lines written to ../step0/boesp_hk.xml
+ ===========================
+create boesp_deva.xml
+185724 lines read from ../step0/boesp.xml
+9102 entries found
+185724 lines written to ../step0/boesp_deva.xml
+ ===========================
+create boesp_iast.xml
+185724 lines read from ../step0/boesp.xml
+9102 entries found
+185724 lines written to ../step0/boesp_iast.xml
+END transcode_xml.sh
+
+---------------------------------------------------------
+push this repository to github
