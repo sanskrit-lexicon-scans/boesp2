@@ -1,0 +1,21 @@
+
+Log of proofreading of footnotes
+* L_0001_0265
+boesp_vol1/L_0001_0265/L_0001_0265_rev1.txt
+ 09-07-2022 Sampada proofread.
+ boesp.xml at commit 03087abcc050711a0e7f339d5f2bb428117ebdb5
+ cp ../step0/boesp.xml L_0001_0265/temp_boesp_L_0001_0265_old.xml
+ manually replace L_0001_0265_rev1.txt in temp_boesp_L_0001_0265_old.xml
+ and save as temp_boesp_L_0001_0265_rev1.xml
+ cp L_0001_0265/temp_boesp_L_0001_0265_rev1.xml ../step0/boesp.xml
+ 
+* install
+ See step0/readme.txt
+ cd ../step0
+ cd ../web1
+ sh redo.sh
+185722 lines read from ../step0/boesp_deva.xml
+9102 entries found
+79 sections found
+79 section files written to directory json
+

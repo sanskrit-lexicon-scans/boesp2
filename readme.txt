@@ -51,7 +51,7 @@ step4f - Further editing of boesp.
          Ref: https://github.com/funderburkjim/boesp-prep/issues/39#issuecomment-1013895539
 step4g - Corrections to German text
          Ref: https://github.com/funderburkjim/boesp-prep/issues/52
-	 
+step4footnote - proof-reading of footnotes. 
 web0 - an 'anchor' approach to display. EXPERIMENTAL NOT CURRENTLY USED.
        https://funderburkjim.github.io/boesp-prep/web0/section1.html
 web1 - https://funderburkjim.github.io/boesp-prep/web1/boesp.html?123

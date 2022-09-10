@@ -1,0 +1,6246 @@
+<entry>
+<info L="1" page="1.1" gtypes="S,D,F,V1,V3"/>
+<S n="1">
+<s>aMSo 'pi duzwadizwAnAM parezAM syAdvinASakft .</s>
+<s>vAlaleSo 'pi vyAGrARAM yatsyAjjIvitahAnaye ..</s>
+</S>
+<D n="1">
+<b>1.</b> Bei denen, die vom Missgeschick
+verfolgt werden, kann auch das Geringste
+den Untergang Anderer bewirken, wie ja
+auch ein Härchen aus dem Schwanze eines
+Tigers zum Verlust des Lebens führt.
+</D>
+<F n="1">
+1) SUBHĀṢ. 253.
+</F>
+<V1 n="1">
+1. Vgl. Reise um die Welt in den
+Jahren 1844--1847. Von CARL Grafen von
+GÖRTZ. Bd III, S. 261: «Dafür lernte ich
+dort (in Java) zwei mechanische Gifte
+kennen: erstliche die Barthaare des
+Tigers, welcher überhaupt auf Java eine
+so grosse Rolle spielt; diese Haare
+werden klein geschnitten, und sollen
+angeblich in den Wänden des Magens und
+der Eingeweide unverdaut stecken bleiben
+und durch Entzündung tödtlich werden.
+Wahrhaft teuflisch ist das zweite: ein
+langes Pferdehaar wird, künstlich zu
+einer Pille zusammengerollt, unter das
+Essen gemischt, in den Eingeweiden
+entrollt es sich dann und führt, indem
+es dieselben zerschneidet, einen eben so
+hülflosen als schrecklichen Tod herbei.»
+</V1>
+<V3 n="1">
+1. Vgl. Reise um die Welt in den
+Jahren 1844--1847. Von CARL Grafen von
+GÖRTZ. Bd III, S. 261: «Dafür lernte ich
+dort (in Java) zwei mechanische Gifte
+kennen: erstliche die Barthaare des
+Tigers, welcher überhaupt auf Java eine
+so grosse Rolle spielt; diese Haare
+werden klein geschnitten, und sollen
+angeblich in den Wänden des Magens und
+der Eingeweide unverdaut stecken bleiben
+und durch Entzündung tödtlich werden.
+Wahrhaft teuflisch ist das zweite: ein
+langes Pferdehaar wird, künstlich zu
+einer Pille zusammengerollt, unter das
+Essen gemischt, in den Eingeweiden
+entrollt es sich dann und führt, indem
+es dieselben zerschneidet, einen eben so
+hülflosen als schrecklichen Tod herbei.»
+Es ist vergessen worden zu bemerken,
+dass die Hdschr. in ²d. <s>jagDo</s> st.
+<s>yatsyAj</s> liest. Diese Lesart hätte
+beibehalten werden müssen; man füge
+demnach in der Uebersetzung «, das
+verschluckt wird,» nach «Tiger» hinzu.
+</V3>
+</entry>
+
+<entry>
+<info L="2" page="1.1" gtypes="S,D,F"/>
+<S n="2">
+<s>akaRWasya kaRWe kaTaM puzpamAlA vinA nAsikAyAH kaTaM DUpaganDaH .</s>
+<s>akarRasya karRe kaTaM gItanftyamapAdasya pAde kaTaM me praRAmaH ..</s>
+</S>
+<D n="2">
+<b>2.</b> Was soll der Blumenkranz am Halse,
+da ich doch keinen Hals habe? Was soll
+der Wohlgeruch des Räucherwerks, da ich
+doch keine Nase habe? Was soll Gesang
+und Tanz dem Ohre, da ich doch keine
+Ohren habe? Was soll die tiefe
+Verbeugung zu Füssen, da ich doch keine
+Füsse habe? (Verspottung des
+Götzendienstes.)
+</D>
+<F n="2">
+2) SUBHĀṢ. 7. 155. ²b. <s>nAsikAyAH</s>
+und <s>DUpaganDaH</s> unsere Aenderung
+für <s>nAsikAyAM</s> und <s>DUpaganDaM</s>.
+²c. <s>netre</s> st. <s>karRe</s> an einer
+Stelle. ²d. <s>pAdaM</s> und <s>praRAmaM</s>
+an einer Stelle.
+</F>
+</entry>
+
+<entry>
+<info L="3" page="1.1" gtypes="S,D,F"/>
+<S n="3">
+<s>akaruRatvamakAraRavigrahaH paraDane parayoziti ca spfhA .</s>
+<s>svajanabanDujanezvasahizRutA prakftisidDamidaM hi durAtmanAm ..</s>
+</S>
+<D n="3" a="1">
+<b>3.</b> (<b>1.</b>) Hartherzigkeit, grundloses
+Streiten, Verlangen nach fremdem Gute
+and fremdem Weibe, Unduldsamkeit gegen
+seine Hausgenossen und Verwandte: dieses
+ist ja den Bösen schon von Natur eigen.
+</D>
+<F n="3">
+3) BHARTṚ. ed. BOHL. 2, 42. HAEB.
+76. lith. Ausg. I 51. lith. Ausg. II 52.
+GALAN. 55. SAṂSKṚTAPĀṬH. 62. ²b.
+<s>paraDanopakftiH parayozitaH,
+paraDanasya hftiH parayozitaH (°tAm),
+paraDanAya ratiH parayoziti, paraDane
+ca spfhA parayoziti</s>. ²c. <s>sujana</s>.
+²d. <s>durAtmanaH</s>. Vgl. Spr. <s>vipadi
+DEryam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="4" page="1.1" gtypes="S,D,F"/>
+<S n="4">
+<s>akarmaRAM vE BUtAnAM vfttiH syAnnahi kA ca na .</s>
+<s>tadevABiprapadyeta na vihanyAtkadA ca na ..</s>
+</S>
+<D n="4">
+<b>4.</b> Wenn die Geschöpfe der Thätigkeit
+entsagten, würden sie schlechterdings
+nicht leben können; darum soll man sich ihr
+hingeben und sie nimmer unterdrücken.
+</D>
+<F n="4">
+4) MBH. 3, 1209. <pb n="1.2"/>
+</F>
+</entry>
+
+<entry>
+<info L="5" page="1.2" gtypes="S,D,F"/>
+<S n="5">
+<s>akarmaSIlaM ca mahASanaM ca lokadvizwaM bahumAyaM nfSaMsam .</s>
+<s>adeSakAlajYamanizwavezametAngfhe na prativAsayeta ..</s>
+</S>
+<D n="5" a="3360">
+<b>5.</b> (<b>3360.</b>) Wer träge, gefrässig, den
+Leuten verhasst, ein Betrüger und
+boshaft ist, weder Ort noch Zeit kennt
+(d. i. auf dieselben keine Rücksicht
+nimmt) und widerliche Kleider trägt, den
+soll man nicht im Hause beherbergen.
+</D>
+<F n="5">
+5) MBH. 5, 1368. ²c. <s>veSam</s> st.
+<s>vezam</s> ed. Calc.
+</F>
+</entry>
+
+<entry>
+<info L="6" page="1.2" gtypes="S,D,F"/>
+<S n="6">
+<s>akasmAtprakriyA nFRAmakasmAccApakarzaRam .</s>
+<s>SuBASuBe mahattvaM ca prakartuM budDilAGavam ..</s>
+</S>
+<D n="6" a="3361">
+<b>6.</b> (<b>3361.</b>) Ohne Grund Männer zu erhöhen
+und zu erniedrigen, ihnen Gutes und
+Böses, so wie Grösse zu verleihen, zeugt
+von geringem Verstande.
+</D>
+<F n="6">
+6) MBH. 12, 4170.
+</F>
+</entry>
+
+<entry>
+<info L="7" page="1.2" gtypes="S,D,F,V4"/>
+<S n="7">
+<s>akasmAdiha yaH kaScidarTaM prApnoti pUruzaH .</s>
+<s>taM haWeneti manyante sa hi yatno na kasyacit ..</s>
+</S>
+<D n="7">
+<b>7.</b> Wenn Jemand hier auf Erden
+unerwartet in den Besitz von Etwas
+gelangt, so meint man, ein glücklicher
+Zufall habe es gemacht, da keine
+Bemühung von irgend einer Seite dabei
+stattgefunden hat.
+</D>
+<F n="7">
+7) MBH. 3, 1217.
+</F>
+<V4 n="7">
+-- 7, ²b, <g>α</g>. <s>haWa</s> bedeutet hier «absolute Nothwendigkeit».
+</V4>
+</entry>
+
+<entry>
+<info L="8" page="1.2" gtypes="S,D,F"/>
+<S n="8">
+<s>akasmAdeva kupyanti prasIdantyanimittataH .</s>
+<s>SIlametadasADUnAmaBraM pAriplavaM yaTA ..</s>
+</S>
+<D n="8" a="3362">
+<b>8.</b> (<b>3362.</b>) Ohne allen Grund zu zürnen
+und ohne alle Veranlassung gnädig zu
+sein, ist der Bösen Art und Weise, das
+Abbild einer unstäten Wolke.
+</D>
+<F n="8">
+8) MBH. 5, 1300. ²d. <s>aBra</s> ed.
+Calc.
+</F>
+</entry>
+
+<entry>
+<info L="9" page="1.2" gtypes="S,D,F"/>
+<S n="9">
+<s>akasmAdeva tanvaNgI jahAsa yadiyaM punaH .</s>
+<s>nUnaM prasUnabARo 'syAM svArAjyamaDitizWati ..</s>
+</S>
+<D n="9" a="2">
+<b>9.</b> (<b>2.</b>) Da diese Schlankgliederige zu
+wiederholten Malen ohne alle
+Veranlassung auflachte, so wird gewiss
+der Gott, welcher Blumen als Pfeile
+gebraucht, in ihr das Regiment
+unumschränkt führen.
+</D>
+<F n="9">
+9) SĀH. D. 58.
+</F>
+</entry>
+
+<entry>
+<info L="10" page="1.2" gtypes="S,D,F"/>
+<S n="10">
+<s>akasmAdeva yaH kopAdaBIkzRaM bahu BAzate .</s>
+<s>tasmAdudvijate lokaH sasPuliNgAdivAnalAt ..</s>
+</S>
+<D n="10" a="3">
+<b>10.</b> (<b>3.</b>) Wer ohne alle Veranlassung in
+seinem Zorne beständig viel spricht, vor
+dem schrecken die Menschen zurück wie
+vor Feuer, das Funken sprüht.
+</D>
+<F n="10">
+10) KĀM. NĪTIS. 14, 9.
+</F>
+</entry>
+
+<entry>
+<info L="11" page="1.2" gtypes="S,D,F,V4,V5"/>
+<S n="11">
+<s>akasmAddvezwi yo BaktamAjanmaparisevitam .</s>
+<s>na vyaYjane ruciryasya tyAjyo nfpa ivAturaH ..</s>
+</S>
+<D n="11" a="3363">
+<b>11.</b> (<b>3363.</b>) Ein Fürst und ein Kranker
+sind aufzugeben, wenn jener gegen einen
+ihm ergebenen Diener, den er von der
+Geburt an gehegt, dieser gegen eine
+Speise, die er von Geburt an gern
+genossen, einen Widerwillen zeigt, so
+wie wenn jener an den Insignien, dieser
+an Brühe keinen Gefallen mehr findet.
+</D>
+<F n="11">
+11) KAVITĀMṚTAK. 37. ²d. <s>tyAjyo</s>
+unsere Aenderung für <s>tyajyo</s>.
+<pb n="1.3"/>
+</F>
+<V4 n="11">
+-- 11, ²a, <g>β</g>. Besser <s>parizevitam</s>.
+</V4>
+<V5 n="11">
+-- 11. PRASAṄGARATNĀVALĪ.
+</V5>
+</entry>
+
+<entry>
+<info L="11.1" page="1.3" gtypes="HS"/>
+<HS>
+<s>akasmAdyuvatI vfdDaM</s> s. Spr. <s>nAkasmAdyuvatI vfdDaM</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="12" page="1.3" gtypes="S,D,F"/>
+<S n="12">
+<s>akARqakopino BarturanyAsakteSca yozitaH .</s>
+<s>praSAntiScetasaH kartuM brahmaRApi na Sakyate ..</s>
+</S>
+<D n="12">
+<b>12.</b> Einem Herrn, der ohne alle
+Veranlassung in Zorn geräth, und einem
+Weibe, das an einem Andern hängt, vermag
+sogar Brahman nicht das Herz zu
+beruhigen.
+</D>
+<F n="12">
+12) SUBHĀṢ. 83. ²b. <s>yozitaH</s>
+unsere Aenderung für <s>yoziti</s>.
+</F>
+</entry>
+
+<entry>
+<info L="13" page="1.3" gtypes="S,D,F"/>
+<S n="13">
+<s>akARqapAtajAtAnAmArdrARAM marmaBedinAm .</s>
+<s>gAQaSokaprahArARAmacintEva mahOzaDam ..</s>
+</S>
+<D n="13" a="5">
+<b>13.</b> (<b>5.</b>) Ein wunderbares Heilmittel
+gegen die unerwartet fallenden, frischen
+und die empfindlichsten Stellen
+treffenden Schläge tiefen Kummers ist --
+gar nicht an sie zu denken.
+</D>
+<F n="13">
+13) PRAB. 94. HIT. ed. SCHL. IV, 82.
+ed. JOHNS. 86, ed. RODR. S. 434. ²a.
+<s>patra</s> st. <s>pAta</s>. ²b. <s>astrARAM</s>
+und <s>gAtrARAM</s> st. <s>ArdrARAM</s>
+(PRAB.). ²d. <s>acinteva</s> und
+<s>acintyEva</s>. ²d. <s>mahOzaDi</s> und
+<s>°DI</s>. Vgl. MBH. 12, 12493.
+</F>
+</entry>
+
+<entry>
+<info L="14" page="1.3" gtypes="S,D,F"/>
+<S n="14">
+<s>akAmasya kriyA kAciddfSyate neha karhicit .</s>
+<s>yadyadDi kurute kiMcittattatkAmasya cezwitam ..</s>
+</S>
+<D n="14" a="3364">
+<b>14.</b> (<b>3364.</b>) Nie und nimmer sieht man
+hier auf Erden irgend eine That ausgehen
+von Jemand, der nicht einen Trieb dazu
+in sich fühlte: was man auch thun mag,
+ist stets des Triebes Treiben.
+</D>
+<F n="14">
+14) M. 2, 4.
+</F>
+</entry>
+
+<entry>
+<info L="15" page="1.3" gtypes="S,D,F"/>
+<S n="15">
+<s>akAmAM kAmayAnasya SarIramupatapyate .</s>
+<s>icCatIM kAmayAnasya prItirBavati SoBanA ..</s>
+</S>
+<D n="15" a="3365">
+<b>15.</b> (<b>3365.</b>) Wer mit einem Weibe, das
+ihn nicht liebt, der Liebe pflegt,
+dessen Leib nimmt Schaden; wer dagegen
+mit einem Weibe, das nach ihm Verlangen
+trägt, Liebe pflegt, der empfindet
+herrliche Lust.
+</D>
+<F n="15">
+15) R. ed. Bomb. 5, 22, 42, ²b. 43,
+²a. ed. GORR. 24, 37, ²b. 38, ²a. ²a.
+²c. <s>kAmamAnasya</s> GORR. ²b.
+<s>paripIqyate</s> GORR. ²c. <s>icCantIM</s>
+GORR. ²d. <s>ratirBavati</s> GORR.
+</F>
+</entry>
+
+<entry>
+<info L="16" page="1.3" gtypes="S,D,F"/>
+<S n="16">
+<s>akAmAnkAmayati yaH kAmayAnAnparityajet .</s>
+<s>balavantaM ca yo dvezwi tamAhurmUQacetasam ..</s>
+</S>
+<D n="16" a="3366">
+<b>16.</b> (<b>3366.</b>) Wer diejenigen liebt, die
+ihn nicht lieben, diejenigen meidet, die
+ihn lieben, und einen Stärkeren
+anfeindet, den nennt man einen Thoren.
+</D>
+<F n="16">
+16) MBH. 5, 1002. <pb n="1.4"/>
+</F>
+</entry>
+
+<entry>
+<info L="17" page="1.4" gtypes="S,D,F"/>
+<S n="17">
+<s>akAryakaraRAdBItaH kAryARAM vivarjanAt .</s>
+<s>akAle mantraBedAcca yena mAdyenna tatpibet ..</s>
+</S>
+<D n="17" a="3367">
+<b>17.</b> (<b>3367.</b>) Wer da fürchtet Etwas zu
+thun, was er nicht thun sollte, Etwas zu
+unterlassen, was er thun sollte, und zur
+Unzeit eine Berathschlagung zu
+verrathen, der trinke nicht, was ihn
+berauschen könnte.
+</D>
+<F n="17">
+17) MBH. 5, 1136.
+</F>
+</entry>
+
+<entry>
+<info L="18" page="1.4" gtypes="S,D,F"/>
+<S n="18">
+<s>akAryaM taTyaM vA Bavati vitaTaM vA kimaparaM pratIte loke 'sminharati mahimAnaM janaravaH .</s>
+<s>tulottIrRasyApi prakawanihatASezatamaso ravestAdfktejo nahi Bavati kanyAM gatavataH ..</s>
+</S>
+<D n="18">
+<b>18.</b> Ob eine Unthat wahr oder unwahr
+sei, macht Nichts zur Sache; wenn die
+Welt es glaubt, nimmt das Gerede der
+Leute (dem davon Betroffenen) die
+Grösse: ist der Sonnengott auch
+glücklich über die Wage (das Zeichen im
+Thierkreise und zugleich das mit der
+Wage angestellte Gottesurtheil)
+hinweggekommen und hat er auch vor Aller
+Augen die gesammte Finsterniss
+vernichtet, so ist doch sein Glanz von
+dem Augenblicke an, dass er zur Jungfrau
+ging, nicht mehr derselbe.
+</D>
+<F n="18">
+18) SUBHĀṢ. 295. ²a. <s>akArye
+taTye--vitaTe</s> die Hdschr. ²c.
+<s>punottI°, pragawanihitA°</s> die Hdschr.
+²d. <s>Bavati</s> fehlt in der Hdschr.,
+<s>kanyAgata iti</s> die Hdschr. Vgl. Spr.
+<s>parIvAdastaTyo</s>.
+</F>
+</entry>
+
+<entry>
+<info L="19" page="1.4" gtypes="S,D,F"/>
+<S n="19">
+<s>akAryamasakftkftvA dfSyante hyaDamA narAH .</s>
+<s>DanayuktAH svakarmasTA dfSyante cApare 'DanAH ..</s>
+</S>
+<D n="19">
+<b>19.</b> Ganz niedrige Menschen, die oft
+Ungebührliches vollbrachten, sieht man
+ja mit Reichthümern gesegnet, Andere
+dagegen, die ihren Pflichten leben, von
+Armuth heimgesucht.
+</D>
+<F n="19">
+19) MBH. 13, 7602, ²b. 7603, ²a. ²a.
+<s>aSakft</s> ed. Calc. ²b. <s>aDamA</s>
+unsere Aenderung für <s>aDanA</s>.
+</F>
+</entry>
+
+<entry>
+<info L="20" page="1.4" gtypes="S,D,F"/>
+<S n="20">
+<s>akAryARyapi paryApya kftvApi vfjinArjanam .</s>
+<s>viDIyate hitaM yasya sa dehaH kasya susTiraH ..</s>
+</S>
+<D n="20" a="3368">
+<b>20.</b> (<b>3368.</b>) Wessen Leib möchte wohl
+bestehen, wenn man ihm Gutes erwiese,
+trotzdem dass er zuvor Ungebührliches
+vollbrachte und Sünde einsammelte?
+</D>
+<F n="20">
+20) RĀJA-TAR. 4, 383.
+</F>
+</entry>
+
+<entry>
+<info L="20.1" page="1.4" gtypes="HS"/>
+<HS>
+<s>akArye taTye vA</s> s. Spr. 18.
+</HS>
+</entry>
+
+<entry>
+<info L="21" page="1.4" gtypes="S,D,F"/>
+<S n="21">
+<s>akAlacaryA vizamA ca gozWI kumitrasevA na kadApi kAryA .</s>
+<s>paSyARqajaH padmavane prasupto Danurvimuktena SareRa BinnaH ..</s>
+</S>
+<D n="21">
+<b>21.</b> Unzeitiges Thun, unpassende
+Gesellschaft und Verkehr mit schlechten
+Freunden soll man stets meiden: sieh,
+ein Vogel, der unter Wasserrosen
+eingeschlafen war, ward von einem
+Pfeile, der vom Bogen abgeschossen
+wurde, durchbohrt.
+</D>
+<F n="21">
+21) SUBHĀṢ. 12. ²c. <s>yasyARqajaM
+padmavanena prasuktaH</s> die Hdschr. ²d.
+<s>sinnaM</s> die Hdschr. <pb n="1.5"/>
+</F>
+</entry>
+
+<entry>
+<info L="22" page="1.5" gtypes="S,D,F"/>
+<S n="22">
+<s>akAlayuktasEnyastu hanyate kAlayoDinA .</s>
+<s>kOSikena hatajyotirniSITa iva vAyasaH ..</s>
+</S>
+<D n="22" a="6">
+<b>22.</b> (<b>6.</b>) Wer aber zur Unzeit sein Heer
+rüstet, der wird von dem, der zur
+rechten Zeit kämpft, niedergemacht, wie
+die um Mitternacht des Augenlichts
+beraubte Krähe von der Eule.
+</D>
+<F n="22">
+22) KĀM. NĪTIS. 9, 40. HIT. ed.
+SCHL. IV, 47. ed. JOHNS. 51. ²a.
+<s>akAlasEnyayuktastu</s> HIT.
+</F>
+</entry>
+
+<entry>
+<info L="23" page="1.5" gtypes="S,D,F"/>
+<S n="23">
+<s>akAlasahamatyalpaM mUrKavyasaninAyakam .</s>
+<s>aguptaM BIruyoDaM ca durgavyasanamucyate ..</s>
+</S>
+<D n="23" a="3369">
+<b>23.</b> (<b>3369.</b>) Wenn eine Burg sich nicht
+lange zu halten vermag, gar zu klein
+ist, einen dummen oder lasterhaften
+Befehlshaber hat, nicht gehörig bewacht
+ist und von feigen Kriegern vertheidigt
+wird, so nennt man dieses die Mängel
+einer Burg.
+</D>
+<F n="23">
+23) HIT. ed. SCHL. III, 135. ed.
+JOHNS. 140. ed. Calc. 1830. ²a.
+<s>atyalpa</s> und <s>atyalya</s> ²b.
+<s>nAmakam</s>. ²c. <s>svaguptaBIruyudDaM
+ca, suguptaBIruyudDaM ca, suguptaM</s>
+(auch <s>aguptaM) BIruyoDaSca</s>.
+</F>
+</entry>
+
+<entry>
+<info L="23.1" page="1.5" gtypes="HS"/>
+<HS>
+<s>akAlasEnyayuktastu</s> s. Spr. 22.
+</HS>
+</entry>
+
+<entry>
+<info L="24" page="1.5" gtypes="S,D,F"/>
+<S n="24">
+<s>akAle kftyamArabDaM karturnArTAya kalpate .</s>
+<s>tadeva kAla ArabDaM mahate 'rTAya kalpate ..</s>
+</S>
+<D n="24" a="3370">
+<b>24.</b> (<b>3370.</b>) Ein zur Unzeit begonnenes
+Werk bringt dem Thäter keinen Nutzen;
+dasselbe Werk, zu rechter Zeit begonnen,
+bringt grossen Nutzen.
+</D>
+<F n="24">
+24) MBH. 12, 5006, ²b. <s>kartuM nA°</s>
+ed. Calc.
+</F>
+</entry>
+
+<entry>
+<info L="25" page="1.5" gtypes="S,D,F"/>
+<S n="25">
+<s>akiMcanaH paripatansuKamAsvAdayizyasi .</s>
+<s>akiMcanaH suKaM Sete samuttizWati cEva ha ..</s>
+</S>
+<D n="25" a="3371">
+<b>25.</b> (<b>3371.</b>) Bist du arm, so wirst du
+dich tummeln und dein Mahl mit
+Wohlbehagen verzehren; der Arme schläft
+und erhebt sich mit Wohlbehagen.
+</D>
+<F n="25">
+25) MBH. 12, 6568.
+</F>
+</entry>
+
+<entry>
+<info L="26" page="1.5" gtypes="S,D,F"/>
+<S n="26">
+<s>akiMcanasya dAntasya SAntasya samacetasaH .</s>
+<s>sadA saMtuzwamanasaH sarvAH suKamayA diSaH ..</s>
+</S>
+<D n="26" a="3372">
+<b>26.</b> (<b>3372.</b>) Dem Armen, in seinen
+Leidenschaften Gezügelten, Beruhigten,
+Gleichmüthigen und stets Zufriedenen ist
+die ganze Welt voller Freuden.
+</D>
+<F n="26">
+26) BHARTṚ. lith. Ausg. I, 3, 100.
+²d. die grammatisch richtigere Form
+<s>saKamayyo</s> würde gegen die Metrum
+verstossen; vgl. den Schluss von Spruch
+<s>yadA na kurute BAvaM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="27" page="1.5" gtypes="S,D,F"/>
+<S n="27">
+<s>akiMcanasya SudDasya upapannasya sarvataH .</s>
+<s>avekzamARastrI~llokAnna tulyamiha lakzaye ..</s>
+</S>
+<D n="27" a="3373">
+<b>27.</b> (<b>3373.</b>) Blicke ich in alle drei
+Welten, so gewahre ich hier Niemand, der
+dem reinen, mit Allen ausgerüsteten
+Armen gleichkäme.
+</D>
+<F n="27">
+27) MBH. 12, 6570. ²b.
+<s>upapannasya = vErAgyasaMpannasya</s>
+NĪLAK. ²c. <s>avekzyamARastrIlokAn</s> ed.
+Calc. <pb n="1.6"/>
+</F>
+</entry>
+
+<entry>
+<info L="28" page="1.6" gtypes="S,D,F"/>
+<S n="28">
+<s>akIrtiM vinayo hanti hantyanarTaM parAkramaH .</s>
+<s>hanti nityaM kzamA kroDamAcAro hantyalakzaRam ..</s>
+</S>
+<D n="28" a="3374">
+<b>28.</b> (<b>3374.</b>) Gutes Betragen hält Schande
+fern, muthiges Auftreten hält Schaden
+fern, Nachsicht hält stets den Zorn
+fern, Beobachtung der Sitte hält Unglück
+verheissende Zeichen fern.
+</D>
+<F n="28">
+28) MBH. 5, 1488. ²d. = M. 4, 156,
+²d.
+</F>
+</entry>
+
+<entry>
+<info L="29" page="1.6" gtypes="S,D,F"/>
+<S n="29">
+<s>akIrtirnindyate devEH kIrtirlokezu pUjyate .</s>
+<s>kIrtyarTaM tu samAramBaH sarvezAM sumahAtmanAm ..</s>
+</S>
+<D n="29">
+<b>29.</b> Unehre tadeln die Götter, Ehre
+wird unter den Menschen gefeiert und der
+Ehre wegen unternehmen alle Hochherzigen
+ein Werk.
+</D>
+<F n="29">
+29) R. ed. Bomb. 7, 45, 13, ²b. 14,
+²a.
+</F>
+</entry>
+
+<entry>
+<info L="30" page="1.6" gtypes="S,D,F"/>
+<S n="30">
+<s>akIrtiryasya gIyeta loke BUtasya kasyacit .</s>
+<s>patatyevADamA~llokAnyAvacCabdaH prakIrtyate ..</s>
+</S>
+<D n="30">
+<b>30.</b> Ein Geschöpf, dessen Unehre hier
+auf Erden gesungen wird, stürzt in die
+untersten Wohnungen der Hölle, so lange
+sein Name genannt wird.
+</D>
+<F n="30">
+30) R. ed. Bomb. 7, 45, 12, ²b. 13,
+²a.
+</F>
+</entry>
+
+<entry>
+<info L="31" page="1.6" gtypes="S,D,F"/>
+<S n="31">
+<s>akIrteH kAraRaM yozidyozidvErasya kAraRam .</s>
+<s>saMsArakAraRaM yozidyozitaM varjayettataH ..</s>
+</S>
+<D n="31">
+<b>31.</b> Der Unehre Ursache ist das Weib,
+der Feindschaft Ursache ist das Weib,
+des weltlichen Daseins Ursache ist das
+Weib; darum soll man das Weib meiden.
+</D>
+<F n="31">
+31) SUBHĀṢ. 164. 185.
+</F>
+</entry>
+
+<entry>
+<info L="31.1" page="1.6" gtypes="HS"/>
+<HS>
+<s>akurveto 'pi</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="32" page="1.6" gtypes="S,D,F"/>
+<S n="32">
+<s>akurvanto 'pi pApAni SucayaH pApasaMSrayAt .</s>
+<s>parapApErvinaSyanti matsyA nAgahrade yaTA ..</s>
+</S>
+<D n="32">
+<b>32.</b> Sogar Unschuldige, die nichts
+Böses verüben, gehen, weil sie Bösen
+sich anschliessen, durch das Böse
+Anderer zu Grunde, wie die Fische im
+Schlangensee.
+</D>
+<F n="32">
+32) R. ed. GORR. 3, 42, 50. 45. 13.
+ed. Bomb. 38, 26. ²a. <s>akurvato</s> ed.
+Bomb. <s>hi</s> st. <s>'pi</s> GORR. an einer
+Stlle. ²c. <s>dozEr</s> st. <s>pApEr</s>
+GORR. an einer Stelle.
+</F>
+</entry>
+
+<entry>
+<info L="32.1" page="1.6" gtypes="HS"/>
+<HS>
+<s>akurvanto hi pApAni</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="33" page="1.6" gtypes="S,D,F"/>
+<S n="33">
+<s>akulAnAM kule BAvaM kulInAnAM kulakzayam .</s>
+<s>saMyogaM viprayogaM ca paSyanti cirajIvinaH ..</s>
+</S>
+<D n="33">
+<b>33.</b> Menschen, die lange leben, sehen
+Leute niedrigen Standes zu hohem
+Geschlechte gelangen und das Geschlecht
+Edelgeborener zu Grunde gehen; so
+erleben sie auch Verbindungen und
+Trennungen.
+</D>
+<F n="33">
+33) MBH. 3, 13231. <pb n="1.7"/>
+</F>
+</entry>
+
+<entry>
+<info L="34" page="1.7" gtypes="S,D,F"/>
+<S n="34">
+<s>akulIno 'pi mUrKo 'pi BUpAlaM yo 'tra sevate .</s>
+<s>api saMmAnahIno 'pi sa sarvatra prapUjyate ..</s>
+</S>
+<D n="34" a="7">
+<b>34.</b> (<b>7.</b>) Wer hier einem Fürsten dient,
+wird überall geehrt, selbst wenn er von
+niedriger Herkunft, ein Thor und der
+Ehre nicht würdig ist.
+</D>
+<F n="34">
+34) PAÑCAT. ed. KOSEG. I, 164. ed.
+orn. 117. ed. Bomb. 148. ²c. <s>sanmAna</s>
+KOSEG. ²d. <s>sarvatrApi pU°</s> ed. Bomb.
+</F>
+</entry>
+
+<entry>
+<info L="35" page="1.7" gtypes="S,D,F,V1,V3"/>
+<S n="35">
+<s>akftajYamakAryajYaM dIrGarozamanArjavam .</s>
+<s>caturo vidDi caRqAlAYjanmanA saha paYcamam ..</s>
+</S>
+<D n="35" a="8">
+<b>35.</b> (<b>8.</b>) Den Undankbaren, den der seine
+Pflichten nicht kennt, den Nachtragenden
+und den Unredlichen; diese vier erkenne
+für Caṇḍāla und als fünften den, der
+es von Geburt ist.
+</D>
+<F n="35">
+35) ŚĀRṄG. PADDH. PĀTAKAVIVṚTI
+8. ²c. <s>cARqAlAn</s>.
+</F>
+<V1 n="35">
+35. Vgl. Spruch 1849.
+</V1>
+<V3 n="35">
+35. Vgl. Spruch 1849.
+</V3>
+</entry>
+
+<entry>
+<info L="36" page="1.7" gtypes="S,D,F"/>
+<S n="36">
+<s>akftatyAgamahimnAM miTyA kiM rAjarAjaSabdena .</s>
+<s>goptAraM na niDInAM mahayanti maheSvaraM vibuDAH ..</s>
+</S>
+<D n="36" a="9">
+<b>36.</b> (<b>9.</b>) Warum giebt man fälschlich den
+Titel «König der Könige» solchen, die
+nicht die hohe Tugend der Freigebigkeit
+geübt haben? Nicht den Hüter der Schätze
+(Kubera), wohl aber den grossen Herrn
+(Śiva) verehren die Weisen.
+</D>
+<F n="36">
+36) PAÑCAT. ed. KOSEG. II, 72. ed.
+Bomb. 68. ²a. <s>mahimnA</s>. ²d.
+<s>kaTayanti</s> st. <s>mahayanti</s>.
+</F>
+</entry>
+
+<entry>
+<info L="37" page="1.7" gtypes="S,D,F"/>
+<S n="37">
+<s>akfte 'pyudyame puMsAmanyajanmakftaM Palam .</s>
+<s>SuBASuBaM samaByeti viDinA saMniyojitam ..</s>
+</S>
+<D n="37" a="1">
+<b>37.</b> (<b>1.</b>) Wenn die Menschen sich auch
+nicht weiter anstrengen, folgt Gutes und
+Schlimmes, als vom Schicksal zugetheilte
+Frucht, auf die Thaten der früheren
+Geburt.
+</D>
+<F n="37">
+37) PAÑCAT. ed. KOSEG. II, 78. ed.
+Bomb. 73.
+</F>
+</entry>
+
+<entry>
+<info L="38" page="1.7" gtypes="S,D,F"/>
+<S n="38">
+<s>akftezveva kAryezu mftyurvE saMprakarzati .</s>
+<s>yuvEva DarmaSIlaH syAdanimittaM hi jIvitam ..</s>
+</S>
+<D n="38" a="3375">
+<b>38.</b> (<b>3375.</b>) Bevor noch unsere Arbeit
+vollbracht ist, reisst uns der Tod
+hinweg: schon als Jüngling befleissige
+man sich der Tugend, da die Lebensdauer
+sich nicht bestimmen lässt.
+</D>
+<F n="38">
+38) MBH. 12, 9942. Der erste Vers auch
+6536, ²a, der zweite (mit der Variante
+<s>anityaM Kalu jIvitam</s>) auch 6538, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="39" page="1.7" gtypes="S,D,F,V5"/>
+<S n="39">
+<s>akftopadravaH kaScinmahAnapi na pUjyate .</s>
+<s>pUjayanti narA nAgAnna tArkzyaM nAgaGAtinam ..</s>
+</S>
+<D n="39" a="11">
+<b>39.</b> (<b>11.</b>) Kein Grosser selbst wird
+geehrt, so lange er kein Unheil
+angerichtet hat: es verehren die
+Menschen die Schlangen, nicht aber
+Garuḍa, den Schlangenvernichter.
+</D>
+<F n="39">
+39) PAÑCAT. ed. KOSEG. 1, 474. ²c.
+²d. <s>nAgAnna</s> BENFEY's Verbesserung
+für <s>nAgAnnaM</s>. Vgl. Spr.
+<s>aprakawIkftaSaktiH</s>. <pb n="1.8"/>
+</F>
+<V5 n="39">
+-- 39. Ebendaselbst. ²c. ²d. <s>arcayanti narA nAgaM na tArkzyaM na gajAdikam</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="40" page="1.8" gtypes="S,D,F,V3"/>
+<S n="40">
+<s>akftyaM nEva kartavyaM prARatyAge 'pi saMsTite .</s>
+<s>na ca kftyaM parityAjyaM Darma eza sanAtanaH ..</s>
+</S>
+<D n="40" a="12">
+<b>40.</b> (<b>12.</b>) Was man nicht thun soll, das
+thue man auch nimmermehr, selbst wenn
+Verlust des Lebens drohte, und was man
+thun soll, das lasse man nicht ungethan:
+dies ist ewiges Gesetz.
+</D>
+<F n="40">
+40) PAÑCAT. ed. KOSEG. IV, 42. ed.
+Bomb. 40. ²a. <s>kftyaM syAt</s> st.
+<s>kartavya</s> ed. Bomb. ²c. <s>vimuYceta</s>
+st. <s>parityAjyaM</s> ed. Bomb.
+</F>
+<V3 n="40">
+40. Vgl. Spruch 7425.
+</V3>
+</entry>
+
+<entry>
+<info L="40.1" page="1.8" gtypes="HS"/>
+<HS>
+<s>akftya pOruzaM</s> s. Spr. 45.
+</HS>
+</entry>
+
+<entry>
+<info L="41" page="1.8" gtypes="S,D,F"/>
+<S n="41">
+<s>akftyaM manyate kftyamagamyaM manyate sugam .</s>
+<s>aBakzyaM manyate BakzyaM strIvAkyaprerito naraH ..</s>
+</S>
+<D n="41" a="13">
+<b>41.</b> (<b>13.</b>) Ein Mann, den Weiberworte
+treiben, hält Unthunliches für thunlich,
+Unerreichbares für leicht zu erreichen,
+nicht Essbares für essbar.
+</D>
+<F n="41">
+41) PAÑCAT. ed. KOSEG. II, 151 ed.
+Bomb. 142.
+</F>
+</entry>
+
+<entry>
+<info L="42" page="1.8" gtypes="S,D,F"/>
+<S n="42">
+<s>akftvA karma yo loke PalaM vindati DizWitaH .</s>
+<s>sa tu vaktavyatAM yAti dvezyo Bavati BUyaSaH ..</s>
+</S>
+<D n="42">
+<b>42.</b> Wer ohne eine That vollbracht zu
+haben in der Welt des Lohnes theilhaftig
+wird und über Andere zu stehen kommt,
+der setzt sich dem Tadel aus und wird in
+der Regel Andern verhasst.
+</D>
+<F n="42">
+42) MBH. 10, 86.
+</F>
+</entry>
+
+<entry>
+<info L="43" page="1.8" gtypes="S,D,F"/>
+<S n="43">
+<s>akftvA nijadeSasya rakzAM yo vijigIzate .</s>
+<s>sa nfpaH pariDAnena vftamOliH pumAniva ..</s>
+</S>
+<D n="43" a="14">
+<b>43.</b> (<b>14.</b>) Ein Fürst, der einen Angriff
+unternimmt, bevor er sein eigenes Land
+geschützt hat, ist wie ein Mann, der
+sein Haupt in ein Gewand gehüllt hat.
+</D>
+<F n="43">
+43) ŚĀRṄG. PADDH. ARIPALĀYANA 15.
+²c. <s>nfpaH</s> unsere Verbesserung für
+<s>nfpa</s>. ²d. <s>vfta</s> unsere
+Verbeserung für <s>vftO</s>.
+</F>
+</entry>
+
+<entry>
+<info L="44" page="1.8" gtypes="S,D,F,V1,V3,V5"/>
+<S n="44">
+<s>akftvA parasaMtApamagatvA KalanamratAm .</s>
+<s>anutsfjya satAM vartma yatsvalpamapi tadbahu ..</s>
+</S>
+<D n="44" a="15">
+<b>44.</b> (<b>15.</b>) Wenn man Andern keinen
+Schmerz bereitet, sich nicht vor
+Schlechten erniedrigt und den Weg der
+Guten nicht verlässt, so scheint dieses
+zwar sehr wenig zu sein, ist aber doch
+viel.
+</D>
+<F n="44">
+44) VYĀSA in ŚĀRṄG. PADDH.
+SAṂTOṢAPRAŚAṂSĀ 1. ²a. ²b.
+<s>akftvAraparasaMtApasakftvA</s>. ²b.
+<s>Kala</s> unsere Verbesserung für
+<s>Kalu</s>. ²c. <s>anuSritya matA
+vartma</s>. ²d. <s>svalpAmapi tadvahaH</s>.
+</F>
+<V1 n="44">
+44. WEBER übersetzt ²d: so ist auch
+das Wenige, was man besitzt, viel.
+</V1>
+<V3 n="44">
+44. WEBER übersetzt ²d.: so ist
+auch das Wenige, was man besitzt, viel.
+</V3>
+<V5 n="44">
+-- 44. Ebendaselbst.
+</V5>
+</entry>
+
+<entry>
+<info L="45" page="1.8" gtypes="S,D,F"/>
+<S n="45">
+<s>akftvA pOruzaM yA SrIH kiM tayApi suBogyayA .</s>
+<s>jaradgavo 'pi cASnAti dEvAdupagataM tfRam ..</s>
+</S>
+<D n="45" a="16">
+<b>45.</b> (<b>16.</b>) Was ist Glück, selbst wenn es
+sich behaglich geniessen lässt, werth,
+wenn zur Erreichung desselben nicht
+Menschenkraft angewandt wurde? Auch ein
+alter unbrauchbarer Stier frisst Gras,
+das ihm durch's Schicksal zu Theil
+wurde.
+</D>
+<F n="45">
+45) PAÑCAT. ed. KOSEG. IV, 84. ed.
+Bomb. III, 147. IV, 118. ²a. <s>akftvA</s>.
+²b. <s>vikAsinyapi kiM tayA</s> ed. Bomb.
+an erster Stelle. ²c. <s>samaSnAti</s> und
+<s>nASnAti</s>. <pb n="1.9"/>
+</F>
+</entry>
+
+<entry>
+<info L="46" page="1.9" gtypes="S,D,F"/>
+<S n="46">
+<s>akftvA mAnuzaM karma yo dEvamanuvartate .</s>
+<s>vfTA SrAmyati saMprApya patiM klIbamivANganA ..</s>
+</S>
+<D n="46">
+<b>46.</b> Wer die von ihm als Menschen
+geforderte Arbeit nicht thut und sich
+auf das Schicksal verlässt, der müht
+sich vergebens ab, wie ein Weib, das
+einen Eunuchen zum Gatten erhielt.
+</D>
+<F n="46">
+46) MBH. 13, 314.
+</F>
+</entry>
+
+<entry>
+<info L="47" page="1.9" gtypes="S,D,F"/>
+<S n="47">
+<s>akfzwaPalamUlena vanavAsarataH sadA .</s>
+<s>kurute 'harahaH SrAdDamfzirvipraH sa ucyate ..</s>
+</S>
+<D n="47">
+<b>47.</b> Einen Brahmanen, der, am Waldleben
+stets seine Lust habend, Tag für Tag mit
+wildwachsenden Früchten und Wurzeln
+Todtenopfer darbringt, nennt man einen
+Ṛṣi.
+</D>
+<F n="47">
+47) VṚDDHA-CĀṆ. 11, 11. ²a.
+<s>mUlena</s> unsere Aenderung für
+<s>mUlAni</s>; vgl. M. 3, 82. 123. ²c.
+<s>'harahaH</s> unsere Aenderung für
+<s>haraha</s>.
+</F>
+</entry>
+
+<entry>
+<info L="47.1" page="1.9" gtypes="HS"/>
+<HS>
+<s>akroDanaH kruDyatAM vE</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="48" page="1.9" gtypes="S,D,F"/>
+<S n="48">
+<s>akroDanaH kroDaneByo viSizwastaTA titikzuratitikzorviSizwaH .</s>
+<s>amAnuzeByo mAnuzASca praDAnA vidvAMstaTEvAviduzaH praDAnaH ..</s>
+</S>
+<D n="48" a="3376">
+<b>48.</b> (<b>3376.</b>) Wer nicht im Zorn auffährt,
+ist besser als die Zornigen, und so ist
+auch der Geduldige besser als der
+Ungeduldige; die Menschen stehen über
+Allem, was nicht Mensch ist, und so
+steht auch der Unterrichtete über dem
+Ununterrichteten.
+</D>
+<F n="48">
+48) MBH. 1, 3556. SAṂSKṚTAPĀṬHOP.
+S. 58. ²d. <s>praDAnaH</s>. Auch MBH. 12,
+11006 mit folgenden Varianten: ²a.
+<s>kruDyatAM</s> st. <s>kroDaneByo</s>. ²c.
+²d. <s>amAnuzAnmAnuzo vE
+viSizwastaTAjYAnajjYAnavidvE
+viSizwaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="49" page="1.9" gtypes="S,D,F,V3"/>
+<S n="49">
+<s>akroDena jayetkrudDamasADuM sADunA jayet .</s>
+<s>jayetkadaryaM dAnena jayetsatyena cAnftam ..</s>
+</S>
+<D n="49" a="3377">
+<b>49.</b> (<b>3377.</b>) Durch Sanftmuth besiege man
+den Zornigen, durch Güte den Bösen,
+durch Spenden den Geizhals, durch
+Wahrheit den Lügner.
+</D>
+<F n="49">
+49) MBH. 5, 1518, ²b. 1519, ²a. ²a.
+<s>krudDam</s> unsere Aenderung für
+<s>kroDam</s>. Vgl. Spruch <s>jayetkadaryaM
+dAnena</s>.
+</F>
+<V3 n="49">
+49. = BRĀHMADHARMA 2, 8, 2. ²a.
+Auch hier <s>kroDam</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="50" page="1.9" gtypes="S,D,F"/>
+<S n="50">
+<s>akleSAdiva cintitamupatizWati sidDameva puRyavatAm .</s>
+<s>uqqIyApuRyavatAM gacCanti kapotakAH paSya ..</s>
+</S>
+<D n="50" a="17">
+<b>50.</b> (<b>17.</b>) Frommen steht, beinahe ohne
+Anstrengung von ihrer Seite, das, woran
+sie eben dachten, schon fertig da;
+Unfrommen entwischen, sieh, auffliegend
+erbärmliche Tauben.
+</D>
+<F n="50">
+50) PAÑCAT. ed. KOSEG. II, 9.
+<pb n="1.10"/>
+</F>
+</entry>
+
+<entry>
+<info L="51" page="1.10" gtypes="S,D,F"/>
+<S n="51">
+<s>akzamaH kzamatAmAnI kriyAyAM yaH pravartate .</s>
+<s>sa hi hAsyAspadatvaM ca laBate prARasaMSayam ..</s>
+</S>
+<D n="51" a="3378">
+<b>51.</b> (<b>3378.</b>) Ein Unfähiger, der in der
+Meinung, er besitzt die Fähigkeit dazu,
+sich an ein Werk begiebt, macht sich ja
+zum Gegenstand des Gelächters und geräth
+in Lebensgefahr.
+</D>
+<F n="51">
+51) SAṂSKṚTAPĀṬHOP. 39.
+KAVITĀMṚTAK. 72. ²b. <s>yaH kriyAyAM</s>.
+²d. <s>SaMsayaM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="52" page="1.10" gtypes="S,D,F,V5"/>
+<S n="52">
+<s>akzamAlApavfttijYA kuSAsanaparigrahA .</s>
+<s>brAhmIva dOrjanI saMsadvandanIyA sameKalA (same KalA) ..</s>
+</S>
+<D n="52">
+<b>52.</b> Eine Gesellschaft von Bösewichtern
+muss man wie eine Gesellschaft von
+Brahmanen ehrfurchtsvoll begrüssen, da
+sie weiss, wann der Rosenkranz zu Ende
+ist (da sie es versteht von
+missgünstigen Gesprächen zu leben), da
+sie einen Sitz aus Kuśa-Gras einnimmt
+(schlechte Lehren annimmt) und da sie
+mit dem ihr zukommenden Gürtel umgürtet
+ist (gegen einen Harmlosen boshaft ist).
+</D>
+<F n="52">
+52) DAMAYANTĪKATHĀ 1, 7 in Verz. d.
+Oxf. H. 120, ²a. Wird in der PADYAVEṆĪ
+fälschlich SUBANDHU zugeschrieben; vgl.
+HALL in der Einl. zu VĀSAVAD. S. 48.
+AUFRECHT hat die Feminina auf <s>A</s> für
+Plurale des Masc. gehalten und
+demzufolge überall einen <wide>Visarga</wide>
+hinzugefüht.
+</F>
+<V5 n="52">
+-- 52. SPHUṬAŚLOKA. Das erste Wort wird ein Mal durch <s>akzamA ya AlApAstezAM vfttijYA</s>, das andere Mal durch <s>akzamAlA japamAlA tasyA apavfttiM BramaRaM jAnAti</s> erklärt.
+</V5>
+</entry>
+
+<entry>
+<info L="53" page="1.10" gtypes="S,D,F"/>
+<S n="53">
+<s>akzamA hrIparityAgaH SrInASo DarmasaMkzayaH .</s>
+<s>aBiDyApraKyatA cEva sarvaM loBAtpravartate ..</s>
+</S>
+<D n="53" a="3379">
+<b>53.</b> (<b>3379.</b>) Missgunst, Unverschämtheit,
+Schwinden des Glückes, Verlust des
+moralischen Verdienstes, Verlangen nach
+fremdem Gut und Unansehnlichkeit, alles
+dieses geht aus der Habsucht hervor.
+</D>
+<F n="53">
+53) MBH. 12, 5881.
+</F>
+</entry>
+
+<entry>
+<info L="54" page="1.10" gtypes="S,D,F,V4"/>
+<S n="54">
+<s>akzamI 'satyasaMDaSca paradArI nfSaMsakft .</s>
+<s>pacyate narake Gore dahyamAnaH svakarmaRA ..</s>
+</S>
+<D n="54">
+<b>54.</b> Der Missgünstige, Wortbrüchige,
+mit fremden Weibern Verkehrende und
+Andern Schaden Zufügende wird, durch
+seine eigene That versengt, in einer
+schrecklichen Hölle gebraten.
+</D>
+<F n="54">
+54) R. 3, 57, 20.
+</F>
+<V4 n="54">
+-- 54, ²a, <g>α</g>. <s>akzamI</s> meine Aenderung für <s>akzamo</s>.
+</V4>
+</entry>
+
+<entry>
+<info L="55" page="1.10" gtypes="S,D,F,V1,V3"/>
+<S n="55">
+<s>akzIRaBogAdvizamAdDfzwAtAto 'BayorjitAt .</s>
+<s>durjanAdbata devA apyaSaktA iva biByati ..</s>
+</S>
+<D n="55">
+<b>55.</b> Vor einem Bösewicht, dessen
+Genüsse kein Ende nehmen, der lästig ist
+und in seiner Dreistigkeit sich
+vollkommen sicher fühlt, fürchten sich,
+ach, sogar die Götter, als wenn sie ihm
+gegenüber ohnmächtig wären.
+</D>
+<F n="55">
+55) KATHĀS. 121, 95. ²b.
+<s>DfzwAtAto</s> unsere Aenderung für
+<s>dfzwvA tato</s>. Eine Hdschr.:
+<s>vizwAnizWaBayoktitAm</s>.
+</F>
+<V1 n="55">
+55. Vgl. Spruch 1247.
+</V1>
+<V3 n="55">
+55. Vgl. Spruch 1247.
+</V3>
+</entry>
+
+<entry>
+<info L="56" page="1.10" gtypes="S,D,F"/>
+<S n="56">
+<s>akzetre bIjamutsfzwamantarEva vinaSyati .</s>
+<s>abIjakamapi kzetraM kevalaM sTaRqilaM Bavet ..</s>
+</S>
+<D n="56" a="3380">
+<b>56.</b> (<b>3380.</b>) Samen, der auf unbestelltes
+Land gesäet wird, geht schon im Boden zu
+Grunde; aber auch ein unbesäeter Acker
+ist Nichts als ein geebneter Platz.
+</D>
+<F n="56">
+56) M. 10, 71. <pb n="1.11"/>
+</F>
+</entry>
+
+<entry>
+<info L="57" page="1.11" gtypes="S,D,F"/>
+<S n="57">
+<s>aKilezu vihaMgezu hanta svacCandacArizu .</s>
+<s>Suka paYjarabanDaste maDurARAM girAM Palam ..</s>
+</S>
+<D n="57" a="3381">
+<b>57.</b> (<b>3381.</b>) Sieh, während alle andern
+Vögel sich frei ergehen dürfen, wirst
+du, o Papagei, zum Lohn für deine süsse
+Stimme, in einen Käfig gesperrt!
+</D>
+<F n="57">
+57) KUVALAY. 162, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="57.1" page="1.11" gtypes="HS"/>
+<HS>
+<s>agamyAni pumAnyAti</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="58" page="1.11" gtypes="S,D,F"/>
+<S n="58">
+<s>agamyAnyaH pumAnyAti asevyAMSca nizevate .</s>
+<s>sa mftyumupagfhRAti garBamaSvatarI yaTA ..</s>
+</S>
+<D n="58" a="18">
+<b>58.</b> (<b>18.</b>) Ein Mann, der zu denen geht,
+zu welchen er nicht sollte, und mit
+denen verkehrt, mit welchen er nicht
+sollte, zieht sich den Tod zu wie ein
+Maulthierweibchen, wenn es eine
+Leibesfrucht empfängt.
+</D>
+<F n="58">
+58) PAÑCAT. ed. KOSEG. I, 415. ed.
+Bomb. 370. ²a. ²b. <s>agamyAni pumAnyAti
+yo 'sevyAMSca ni°</s> KOSEG. Der zweite
+Vers auch in den Sprüchen
+<s>daRqenopanatam</s> u. <s>sakfdduzwaM ca
+mitraM</s>. Die Unfruchtbarkeit des
+Maulthierweihchens, die dem Inder wohl
+auffallen musste, könnte ihn leicht zu
+dem Aberglauben verleiten, dass das
+Schicksal dasselbe vor der Empfängniss
+bewahrt hätte, um sein Leben nicht in
+Gefahr zu bringen. Wir bleiben demnach
+bei der alten Auffassung von
+<s>aSvatarI</s> und finden keine
+hinreichende Veranlassung, mit
+GILDEMEISTER (Orient und Occident II.
+172 fgg.) das Wort durch <i>Schlange</i>
+oder <i>eine Art Schlange</i> zu erklären.
+Wie wir von SCHIEFNER erfahren, fassen
+die Tibeter das Wort in dieser Verbindung
+gleichfalls als <i>Maulthierweibchen</i>,
+worauf wir aber kein grosses Gewicht
+legen wollen. NĪLAK. zu MBH. 12, 5277:
+<s>aSvatarI gardaBajA aSvA
+udaraBedenEva prasUta iti
+prasidDam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="59" page="1.11" gtypes="S,D,F,V3"/>
+<S n="59">
+<s>agADajalasaMcArI na garvaM yAti rohitaH .</s>
+<s>aNguzWodakamAtreRa SaParI ParParAyate ..</s>
+</S>
+<D n="59" a="19">
+<b>59.</b> (<b>19.</b>) Der grosse Fisch Rohita, der
+in unergründlichen Wasser schwimmt, wird
+nicht übermüthig; die kleine Śapharī
+tanzt schon bei daumentiefem Wasser wie
+toll umher.
+</D>
+<F n="59">
+59) VARAR. NĪTIS. 10 bei HAEB. S.
+503. ²d. <s>sParI</s> gedr.
+</F>
+<V3 n="59">
+59. In der Note line NĪTIS. st.
+NĪTIŚ.
+</V3>
+</entry>
+
+<entry>
+<info L="60" page="1.11" gtypes="S,D,F,V4,V5"/>
+<S n="60">
+<s>agururiti vadatu loko gOravamatrEva punarahaM manye .</s>
+<s>darSitaguREkavfttiryasya jane janitadAhe 'pi ..</s>
+</S>
+<D n="60" a="3382">
+<b>60.</b> (<b>3382.</b>) Möge die Welt das Aloeholz
+immerhin «leicht» nennen, ich dagegen
+erkenne demjenigen Gewicht (Würde) zu,
+der, wenn ihn die Leute auch verbrennen,
+auf nichts Anderes bedacht ist, als
+seine Vorzüge zu zeigen.
+</D>
+<F n="60">
+60) BHALLAṬA (so schreibt AUFRECHT
+in Verz. d. Oxf. H. 124, ²a den Namen;
+unsere Hdschrr. lesen BHALLABHA) in
+ŚĀRṄG. PADDH. VṚKṢAVIŚEṢĀNYOKTI
+14(13). ²a. <s>aguruti, vadati, kolo</s>
+st. <s>loko</s>. ²b. <s>gOramatrEva</s>. ²c.
+<s>guREva</s> st. <s>guREka</s>. <pb n="1.12"/>
+</F>
+<V4 n="60">
+-- 60. Wird VALLABHA zugeschrieben; vgl. AUFRECHT in Z. d. d. m. G. 27, 82.
+</V4>
+<V5 n="60">
+-- 60. ²c. <s>darSitaguREva vf°</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="61" page="1.12" gtypes="S,D,F"/>
+<S n="61">
+<s>agniM stokamivAtmAnaM saMDukzayati yo naraH .</s>
+<s>sa varDamAno grasate mahAntamapi saMcayam ..</s>
+</S>
+<D n="61">
+<b>61.</b> Der Mann, welcher sich selbst
+anfacht, wie man ein kleines Feuer
+anfacht, verschlingt, indem er wächst,
+sogar einen grossen Haufen.
+</D>
+<F n="61">
+61) MBH. 1, 5628. ²a. <s>agnistokam</s>
+ed. Calc. Vgl. Spruch
+<s>kleSEstIvrEryujyamAnaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="62" page="1.12" gtypes="S,D,F"/>
+<S n="62">
+<s>agnikuRqasamA nArI GftakumBasamo naraH .</s>
+<s>saMgamena parastrIRAM kasya na calate manaH ..</s>
+</S>
+<D n="62">
+<b>62.</b> Das Weib gleicht einem Becken mit
+glühenden Kohlen, der Mann einem Topfe
+mit zerlassener Butter; wessen Herz
+kommt nicht aus der Ruhe bei einer
+Zusammenkunft mit fremden Weibern?
+</D>
+<F n="62">
+62) SUBHĀṢ. 228. ²d. <s>naScalate</s>
+die Hdschr. Vgl. Spruch
+<s>GftakumBasamA nArI</s>.
+</F>
+</entry>
+
+<entry>
+<info L="63" page="1.12" gtypes="S,D,F"/>
+<S n="63">
+<s>agniM prApya yaTA sadyastUlarASirvinaSyati .</s>
+<s>taTA gaNgApravAheRa sarvaM pApaM vinaSyati ..</s>
+</S>
+<D n="63" a="3383">
+<b>63.</b> (<b>3383.</b>) Wie, vom Feuer berührt, ein
+Baumwollenhaufe alsbald verschwindet, so
+verschwindet jegliche Sünde durch der
+Gaṅgā Strömung.
+</D>
+<F n="63">
+63) VIKRAMAC. 183. ²a. <s>agniM</s>
+unsere Aenderung für <s>agnI</s>. wofür man
+auch <s>agnIn</s> lesen könnte. ²d.
+<s>sarvapApaM</s> die Hdschr. Vgl. Spruch
+73.
+</F>
+</entry>
+
+<entry>
+<info L="64" page="1.12" gtypes="S,D,F,V3"/>
+<S n="64">
+<s>agnirApaH striyo mUrKAH sarpA rAjakulAni ca .</s>
+<s>nityaM yatnena sevyAni sadyaHprARaharARi zaw ..</s>
+</S>
+<D n="64">
+<b>64.</b> Mit Feuer, Wasser, Weibern,
+Thoren, Schlangen und Fürsten muss man
+stets vorsichtig umgehen, da diese sechs
+Einem alsbald das Leben nehmen können.
+</D>
+<F n="64">
+64) VṚDDHA-CĀṆ. 14, 12. SUBHĀṢ.
+98. ²a. <s>mUrKaH</s>. ²b. <s>sarpo</s>.
+</F>
+<V3 n="64">
+64. = VṚDDHA-CĀṆ. Berl.
+Hdschrr. 294. ²a. <s>mUrKaH</s> beide
+Hdschrr. ²b. <s>sarparAjaHkulAni</s> eine
+Hdschr. ²c. <s>nityamevopacAreRa</s> beide
+Hdschrr.<pb1 n="621"/>
+</V3>
+</entry>
+
+<entry>
+<info L="65" page="1.12" gtypes="S,D,F"/>
+<S n="65">
+<s>agnirgururdvijAtInAM varRAnAM pArTivo guruH .</s>
+<s>kulastrIRAM gururBartA sarvasyAByAgato guruH ..</s>
+</S>
+<D n="65">
+<b>65.</b> Das Feuer ist ein Gegenstand der
+Verehrung für die Brahmanen, der Fürst
+für die übrigen Kasten, der Gatte für
+die edle Frau, der Gast für Jedermann.
+</D>
+<F n="65">
+65) SUBHĀṢ. 114, ²a. <s>gurudvi°</s>
+die Hdschr. Vgl. Spruch
+<s>gururagnirdvijAtInAm</s>.
+</F>
+</entry>
+
+<entry>
+<info L="66" page="1.12" gtypes="S,D,F"/>
+<S n="66">
+<s>agnirdevo dvijAtInAM munInAM hfdi dEvatam .</s>
+<s>pratimA svalpabudDInAM sarvatra samadarSinaH ..</s>
+</S>
+<D n="66">
+<b>66.</b> Der Brahmanen Gott ist das Feuer,
+die Weisen haben die Gottheit im Herzen,
+der Einfältigen Gott ist ein Götzenbild,
+wer aber auf Alles mit gleichem Auge
+schaut, sieht die Gottheit überall.
+</D>
+<F n="66">
+66) VṚDDHA-CĀṆ. 4, 21. <pb n="1.13"/>
+</F>
+</entry>
+
+<entry>
+<info L="67,68,69" page="1.13" gtypes="S,S,S,D,D,D,F"/>
+<S n="67">
+<s>agnistejo mahalloke gUQastizWati dAruzu .</s>
+<s>na copayuNkte taddAru yAvannoddIpyate parEH ..</s>
+</S>
+<S n="68">
+<s>sa eva Kalu dAruByo yadA nirmaTya dIpyate .</s>
+<s>taddAru ca vanaM cAnyannirdahatyASu tejasA ..</s>
+</S>
+<S n="69">
+<s>evameva kule jAtAH pAvakopamatejasaH .</s>
+<s>kzamAvanto nirAkArAH kAzWe 'gniriva Serate ..</s>
+</S>
+<D n="67" a="3384">
+<b>67.</b> (<b>3384.</b>) Das Feuer, eine mächtige
+Kraft in der Welt, ruht verborgen im
+Holze und verzehrt dieses nicht, so
+lange es nicht durch Andere in Flammen
+gesetzt wird.
+</D>
+<D n="68" a="3385">
+<b>68.</b> (<b>3385.</b>) Setzt man aber eben dieses
+Feuer durch Reiben der Hölzer in
+Flammen, so versengt es mit seiner Kraft
+rasch diese Hölzer und auch wohl einen
+Wald.
+</D>
+<D n="69" a="3386">
+<b>69.</b> (<b>3386.</b>) Gerade so verhält es sich
+mit Männern aus edlem Geschlecht, deren
+Kraft der des Feuers gleicht: sie ruhen,
+geduldig und anspruchlos, wie im Holze
+das Feuer.
+</D>
+<F n="67,68,69">
+67.68.69) MBH. 5, 1393. fgg. Der
+letzte <wide>Śloka</wide> auch 1411, ²b. 1412,
+²a, wo aber in ²a. <s>nityaM santaH</s> st.
+<s>evameva</s> gelesen wird.
+</F>
+</entry>
+
+<entry>
+<info L="69.1" page="1.13" gtypes="HS"/>
+<HS>
+<s>agnistokamivAtmAnaM</s> s. Spruch 61.
+</HS>
+</entry>
+
+<entry>
+<info L="69.2" page="1.13" gtypes="HS"/>
+<HS>
+<s>agnihotraM vinA vedAH</s> s. Spr. <s>nAgnihotraM vinA vedAH</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="70" page="1.13" gtypes="S,D,F,V3"/>
+<S n="70">
+<s>agnihotraM trayo vedAstridaRqaM BasmaguRWanam .</s>
+<s>prajYApOruzahInAnAM jIviketi bfhaspatiH ..</s>
+</S>
+<D n="70" a="3387">
+<b>70.</b> (<b>3387.</b>) Pflege des heiligen Feuers,
+das Studium der drei Veden, das
+Ergreifen des Bettelstabes und das
+Bestreuen mit Asche bilden, wie
+Bṛhaspati sagt, den Lebensunterhalt
+derer, denen Verstand und Arbeitslust
+abgehen.
+</D>
+<F n="70">
+70) PRAB. 30. SARVADARŚANAS. 3 und
+6. ²b. <s>guRqanam</s> und <s>guRQanam</s>.
+²c. <s>budDi</s> st. <s>prajYA</s>. ²d.
+<s>jIvikA GAtfnirmitA</s>.
+</F>
+<V3 n="70">
+70. Auch im Comm. zu NAIṢ. 17,
+39. ²b. <s>tridaRqaBasmapuRqrakaM</s> mit
+Erwähnung unserer Lesart.
+</V3>
+</entry>
+
+<entry>
+<info L="71" page="1.13" gtypes="S,D,F,V3"/>
+<S n="71">
+<s>agnihotraPalA vedAH SIlavfttaPalaM Srutam .</s>
+<s>ratiputraPalA dArA dattaBuktaPalaM Danam ..</s>
+</S>
+<D n="71" a="20">
+<b>71.</b> (<b>20.</b>) Das Ziel der Veda ist das
+Feueropfer; das Ziel der Gelehrsamkeit
+-- ein tugendhafter Wandel; das Ziel der
+Gattin -- Liebeslust und Söhne; das Ziel
+des Reichthums -- Spenden und Geniessen.
+</D>
+<F n="71">
+71) MBH. 2, 247. 5, 1511, ²b. 1512,
+²a. PAÑCAT. ed. Kos. II, 154. ed. Bomb.
+145. GALAN. Varr. 54. ²b. <s>vftti</s> st.
+<s>vftta</s>. ²c. <s>nArI</s> st. <s>dArA</s>.
+²b. u. ²d. wechseln die Stellen. Vgl.
+Spruch <s>AjYAmAtraPalaM rAjyam</s>.
+</F>
+<V3 n="71">
+71. = VṚDDHA-CĀṆ. Berl.
+Hdschrr. 288. NĪTIŚĀSTRA in
+Telugu-Charr. 87. ²a. <s>°PalaM veda</s>.
+²b. Füge «gute Sitten und» vor «ein
+tugendhafter» hinzu.
+</V3>
+</entry>
+
+<entry>
+<info L="71.1" page="1.13" gtypes="HS"/>
+<HS>
+<s>agnInprApya</s> s. Spruch 63.
+</HS>
+</entry>
+
+<entry>
+<info L="71.2" page="1.13" gtypes="HS"/>
+<HS>
+<s>agneH Sezam</s> s. Spruch <s>atyAdaraparaH</s>. <pb n="1.14"/>
+</HS>
+</entry>
+
+<entry>
+<info L="72" page="1.14" gtypes="S,D,F"/>
+<S n="72">
+<s>agnO prAstaM tu puruzaM karmAnveti svayaMkftam .</s>
+<s>tasmAttu puruzo yatnAdDarmaM saMcinuyAcCanEH ..</s>
+</S>
+<D n="72" a="3388">
+<b>72.</b> (<b>3388.</b>) Wenn der Mensch (nach dem
+Tode) in's Feuer geworfen wird, so folgt
+ihm die selbstvollbrachte That nach;
+darum soll der Mensch alles Ernstes
+allmählich moralische Verdienste
+einsammeln.
+</D>
+<F n="72">
+72) MBH. 5, 1550.
+</F>
+</entry>
+
+<entry>
+<info L="73" page="1.14" gtypes="S,D,F"/>
+<S n="73">
+<s>agnO prAstaM praDUyeta yaTA tUlaM dvijottama .</s>
+<s>taTA gaNgAvagAQasya sarvaM pApaM praDUyate ..</s>
+</S>
+<D n="73">
+<b>73.</b> Wie in's Feuer geworfene
+Baumwolle, o Bester der Brahmanen,
+weggefegt wird, so wird jegliche Sünde
+bei dem, der in die Gaṅgā taucht,
+weggefegt.
+</D>
+<F n="73">
+73) MBH. 13, 1800. ²a. ²d.
+<s>praDUyeta</s> und <s>praDUyate</s> mögen
+alte Fehler für <s>pradUyeta</s> und
+<s>pradUyate</s> sein; vgl. CHĀND. UP. 5,
+24, 3: <s>tadyatezIkAdUlamagnO protaM
+pradUyetEvaM hAsya sarve pApmAnaH
+pradUyante</s>. ²b. <s>taTA</s> st.
+<s>yaTA</s> ed. Calc. ²d. <s>sarvaM pApaM</s>
+unsere Aenderung für <s>sarvapApaM</s>.
+Vgl. Spr. 63.
+</F>
+</entry>
+
+<entry>
+<info L="74" page="1.14" gtypes="S,D,F"/>
+<S n="74">
+<s>agnyADAnena yajYena kAzAyeRa jawAjinEH .</s>
+<s>lokAnviSvAsayitvEva tato lumpedyaTA vfkaH ..</s>
+</S>
+<D n="74" a="3389">
+<b>74.</b> (<b>3389.</b>) Nachdem man zuvor bei den
+Menschen durch Anlegung des heiligen
+Feuers, durch Opfer, ein rothes Gewand,
+Flechten und Fellbekleidung
+(Beschäftigungen und Kennzeichen eines
+harmlosen frommen Mannes) Vertrauen
+erweckt hat, falle man wie ein Wolf über
+sie her.
+</D>
+<F n="74">
+74) MBH. 1, 5560. Vgl. Spruch
+<s>avaDAnena mOnena</s>.
+</F>
+</entry>
+
+<entry>
+<info L="75" page="1.14" gtypes="S,D,F"/>
+<S n="75">
+<s>agrAhyaM hfdayaM taTEva vadanaM yaddarpaRAntargataM</s>
+<s>BAvaH parvatasUkzmamArgavizamaH strIRAM na vijYAyate .</s>
+<s>cittaM puzkarapattratoyataralaM vidvadBirASaMsitaM</s>
+<s>nArI nAma vizANkurEriva latA dozEH samaM varDitA ..</s>
+</S>
+<D n="75" a="21">
+<b>75.</b> (<b>21.</b>) Der Weiber Herz lässt sich so
+wenig fassen wie ein Gesicht im Spiegel;
+ihr Wesen, uneben wie ein schmaler Pfad
+im Gebirge, wird nicht ergründet; ihr
+Sinn ist, wie die Weisen sagen, unstät
+wie ein Wassertropfen auf dem
+Blüthenblatte einer Wasserrose; das Weib
+ist ja zugleich mit seinen Fehlern gross
+geworden, wie eine Schlingpflanze mit
+ihren Giftschösslingen.
+</D>
+<F n="75">
+75) BHARTṚ. ed. BOHL. Suppl. 15.
+HAEB. 2, 50. ²a. <s>durgrAhyaM,
+darpaRAntaH sTitaM</s> ²b. <s>durga</s> st.
+<s>sUkzma</s>
+</F>
+</entry>
+
+<entry>
+<info L="76" page="1.14" gtypes="S,D,F"/>
+<S n="76">
+<s>agre kasyacidasti kaMcidaBitaH kenApi pfzWe kftaH</s>
+<s>saMsAraH SiSuBAvayOvanajarABArAvatArAdayam .</s>
+<s>bAlastaM bahu manyatAmasulaBaM prAptaM yuvA sevatAM</s>
+<s>vfdDastaM vizayAdbahizkfta iva vyAvftya kiM paSyati ..</s>
+</S>
+<D n="76" a="22">
+<b>76.</b> (<b>22.</b>) Dem Einen steht das Leben
+noch bevor, einen Andern hält
+<pb n="1.15"/> es umfangen, ein Dritter hat
+es im Rücken, je nachdem Kindheit,
+Jugend oder die Bürde des Greisenalters
+ihm zugefallen ist. Der Knabe mag eine
+hohe Meinung davon haben, da es ihm als
+nicht leicht erreichbar erscheint; der
+Jüngling mag sich ihm hingeben, da er es
+erreicht hat; warum aber schaut der
+Greis, wie ein Landesverwiesener, sich
+umwendend nach ihm hin?
+</D>
+<F n="76">
+76) ŚĀNTIŚ. 2, 24 bei HAEB. S.
+419. ŚATAKĀV. 30. NĪTISAṂK. 71. ²c.
+<s>prAptA yuvA sevyatAM</s>. ²d. <s>vfdDa
+tvaM</s> und <s>paSyasi</s> am Ende;
+<s>vfdDastadvi-zayA°; iti</s> st. <s>iva</s>
+Tüb. Hdschr. des ŚĀNTIŚ.
+</F>
+</entry>
+
+<entry>
+<info L="77" page="1.15" gtypes="S,D,F"/>
+<S n="77">
+<s>agre gItaM sarasakavayaH pArSvato dAkziRAtyAH pfzWe lIlAvalayaraRitaM cAmaragrAhiRInAm .</s>
+<s>yadyastyevaM kuru BavarasAsvAdane lampawatvaM no ceccetaH praviSa sahasA nirvikalpe samADO ..</s>
+</S>
+<D n="77" a="23">
+<b>77.</b> (<b>23.</b>) Wenn, o Herz, vor dir Gesang
+ertönt, zur Seite geschmackvolle Dichter
+aus dem Süden einherschreiten, im Rücken
+die Armbänder von Fliegenwedel tragenden
+Frauen lieblich erklingen, dann zeige
+dich lüstern nach dem Genusse der
+Süssigkeiten der Welt; geht dir aber
+jenes ab, so wende dich unverweilt zur
+Beschauung, die alle Zweifel löst.
+</D>
+<F n="77">
+77) BHARTṚ. ed. BOHL. 3, 67. HAEB.
+65. lith Ausg. III 63. GALAN. 61.
+ŚĀRṄG. PADDH. ²a. <s>pArSvayor</s>. ²b.
+<s>paScAl</s> st. <s>pfzWe</s>. ²c.
+<s>yadyastvevaM, yadyastyezaM,
+rasAKAdaye, lampawatve</s>.
+</F>
+</entry>
+
+<entry>
+<info L="78" page="1.15" gtypes="S,D,F"/>
+<S n="78">
+<s>aGaM sa kevalaM BuNkte yaH pacatyAtmakAraRAt .</s>
+<s>yajYaSizwASanaM hyetatsatAmannaM viDIyate ..</s>
+</S>
+<D n="78" a="3390">
+<b>78.</b> (<b>3390.</b>) Lauter Sünde geniesst der,
+welcher für sich selbst kocht: die aus
+den Ueberbleibseln eines Opfers
+bestehende Mahlzeit gilt für die Speise
+der Guten.
+</D>
+<F n="78">
+78) M. 3, 118. Vgl. Spruch
+<s>yajYaSizwASinaH</s> und ṚV. 10, 117. 6.
+</F>
+</entry>
+
+<entry>
+<info L="79" page="1.15" gtypes="S,D,F"/>
+<S n="79">
+<s>aGawitaGawitAni Gawayati suGawitaGawitAni jarjarIkurute .</s>
+<s>viDireva tAni Gawayati yAni pumAneva cintayati ..</s>
+</S>
+<D n="79">
+<b>79.</b> Nicht Zusammengefügtes fügt er
+zusammen, gut Zusammengefügtes
+zerschlägt er; der Schöpfer ist es, der
+zusammenfügt, was der Mensch
+zusammengefügt zu haben glaubt.
+</D>
+<F n="79">
+79) SUBHĀṢ. 157. ²a.
+<s>aGawitaGawitaM</s> würde das Versmaass
+herstellen. ²d. <s>jAni</s> st. <s>yAni</s>
+die Hdschr. Zu den Zusammensetzungen
+<s>aGawitaGawitAni</s> und
+<s>suGawitaGawitAni</s> vgl.
+<s>kumitramitra, kuSizyaSizya</s> und
+<s>kudAradAra</s> in den Sprüchen
+<s>kurAjarAjyena</s> und <s>varaM na
+rAjyam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="79.1" page="1.15" gtypes="HS"/>
+<HS>
+<s>aNke sTitApi yuvatI</s> s. Spruch <s>SAstraM sucintitamapi</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="80" page="1.15" gtypes="S,D,F,V5"/>
+<S n="80">
+<s>aNgaM galitaM palitaM muRqaM dantavihInaM jAtaM tuRqam .</s>
+<s>karaDftakampitaSoBitadaRqaM tadapi na muYcatyASA BaRqam ..</s>
+</S>
+<D n="80" a="3391">
+<b>80.</b> (<b>3391.</b>) Der Körper ist
+zusammengefallen, das Haupt weiss, der
+Mund hat die Zähne verloren, und dennoch
+lässt die Begierde nicht los den
+Possenreisser mit dem zitternden schönen
+Stabe in der Hand.
+</D>
+<F n="80">
+80) MOHAM. ²b. <s>yAtaM</s> st.
+<s>jAtaM</s> HAEB., <s>duRqaM</s> st.
+<s>tuRqam</s> BROCKH. ²d. <s>BaRqam</s>
+unsere Aenderung für <s>BARqaM</s>; vgl.
+den Schluss von Spruch <s>KalollApAH</s>
+und <s>dinayAminyO</s>. <pb n="1.16"/>
+</F>
+<V5 n="80">
+-- 80. CARPAṬAPAÑJARĪ. ²b. <s>daSana</s> st. <s>danta</s>. ²c. ²d. <s>vfdDo yAti gfhItvA daRqaM tadapi na muYcatyASApiRqam</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="81" page="1.16" gtypes="S,D,F"/>
+<S n="81">
+<s>aNgaM candanapARqu pallavamfdustAmbUlatAmrADaro</s>
+<s>DArAyantrajalABizekakaluze DOtAYjane locane .</s>
+<s>antaHpuzpasuganDirArdrakavarI sarvANgalagnAmbaraM</s>
+<s>rAmARAM ramaRIyatAM vidaDati grIzmAparAhRAgame ..</s>
+</S>
+<D n="81" a="24">
+<b>81.</b> (<b>24.</b>) Zur Nachmittagszeit im Sommer
+verleihen schönen Weibern besondern
+Reiz: ein Körper, gelb von Sandel;
+Lippen, zart wie junge Sprossen und
+dunkelroth von Betel; Augen, trübe vom
+Besprengen mit dem Wasser des
+Springbrunnens und mit abgewaschener
+Salbe; eine feuchte Haarflechte,
+wohlriechend durch die eingelegten
+Blumen; ein an alle Glieder sich eng
+anschliessendes Gewand.
+</D>
+<F n="81">
+81) AMAR. 59. ŚATAKĀV. 11. ²c.
+<s>sOganDyanIlAMSukaM</s> u. <s>svacCaM
+ca cInAMSukaM</s> st. <s>sarvANga°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="82" page="1.16" gtypes="S,D,F,V5"/>
+<S n="82">
+<s>aNgaRavedirvasuDA kulyA jalaDiH sTalI ca pAtAlam .</s>
+<s>valmIkaSca sumeruH kftapratijYasya DIrasya ..</s>
+</S>
+<D n="82" a="25">
+<b>82.</b> (<b>25.</b>) Dem Charakterfesten, der
+einmal zugesagt hat, erscheint die Erde
+nur wie der erhöhte Opferplatz in einem
+Hofe, das Meer wie ein Bach, die
+Unterwelt wie fester Boden, der Berg
+Meru wie ein Ameisenhügel.
+</D>
+<F n="82">
+82) BĀṆABHAṬṬA in ŚĀRṄG.
+PADDH. DHĪRAPRAŚAṂSĀ. ²b.
+<s>sTalIva</s>. ²c. <s>vAlmIkaSca</s>.
+</F>
+<V5 n="82">
+-- 82. ²a. <s>aNganavedI</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="83" page="1.16" gtypes="S,D,F"/>
+<S n="83">
+<s>aNgapratyaNgajaH putro hfdayAccABijAyate .</s>
+<s>tasmAtpriyataro mAtuH priyA eva tu bAnDavAH ..</s>
+</S>
+<D n="83">
+<b>83.</b> Ein Sohn geht aus allen Gliedern
+der Mutter hervor und wird aus ihrem
+Herzen geboren; darum ist er ihr lieber
+als die übrigen Angehörigen.
+</D>
+<F n="83">
+83) R. ed. Bomb. 2, 74, 14. ed. SCHL.
+11. GORR. 76, 16. ²a. ²b. <s>°jo
+mAtuH putro hfdayasaMBavaH</s> GORR. ²b.
+<s>hfdayAccApi jA°</s> SCHL. ²c. ²d.
+<s>yasmAdataH priyataraH putrAnmAturna
+vidyate</s> GORR. ²d. Die Scholien
+erwähnen eine Lesart <s>priyatvAnna tu
+bAnDavaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="84" page="1.16" gtypes="S,D,F"/>
+<S n="84">
+<s>aNgANgiBAvamajYAtvA kaTaM sAmarTyanirRayaH .</s>
+<s>paSya wiwwiBamAtreRa samudro vyAkulIkftaH ..</s>
+</S>
+<D n="84" a="26">
+<b>84.</b> (<b>26.</b>) Wie kann man Jemandes Macht
+bestimmen, wenn man nicht zuvor das
+Verhältniss zwischen ihm und seinen
+Hilfsmitteln erkannt hat? Sieh, ein
+einfacher Strandläufer brachte das Meer
+in Verwirrung.
+</D>
+<F n="84">
+84) HIT. ed. SCHL. II, 141. ed.
+JOHNS. 147
+</F>
+</entry>
+
+<entry>
+<info L="85" page="1.16" gtypes="S,D,F"/>
+<S n="85">
+<s>aNgAnAmatitAnavaM kaTamidaM kampaSca kasmAtkuto</s>
+<s>mugDe pARqukapolamAnanamiti prAReSvare pfcCati .</s>
+<s>tanvyA sarvamidaM svaBAvajamiti vyAhftya pakzmAntara-</s>
+<s>vyApI bAzpaBarastayA calitayA niHSvasya mukto 'nyataH ..</s>
+</S>
+<D n="85" a="27">
+<b>85.</b> (<b>27.</b>) «Woher diese überaus grosse
+Magerkeit der Glieder? Woher das
+Zittern? Woher, du Einfältige, das
+Gesicht mit den bleichen Wangen?» Auf
+diese Fragen des Gatten erwiederte die
+Schlanke: «Alles dieses ist von
+<pb n="1.17"/> selbst gekommen», entfernte
+sich und entliess aufseufzend anderswo
+die Thränenlast, welche ihre Wimpern
+erfüllte.
+</D>
+<F n="85">
+85) AMAR. 45.
+</F>
+</entry>
+
+<entry>
+<info L="86" page="1.17" gtypes="S,D,F"/>
+<S n="86">
+<s>aNgulyagranaKena bAzpasalilaM nikzipya nikzipya kiM</s>
+<s>tUzRIM rodizi kopane bahutaraM PUtkftya rodizyasi .</s>
+<s>yasyAste piSunopadeSavacanErmAne 'tiBUmiM gate</s>
+<s>nirviRRo 'nunayaM prati priyatamo maDyasTatAmezyati ..</s>
+</S>
+<D n="86" a="28">
+<b>86.</b> (<b>28.</b>) Warum weinst du, o Zornige,
+still für dich hin und stossest
+beständig mit der Fingernagelspitze die
+Thränentropfen herab? Du wirst noch mehr
+und laut weinen, da dein Geliebter,
+überdrüssig deines Schmollens, das durch
+die Rathschläge von Zuträgern einen
+hohen Grad erreicht hat, gegen deine
+Zuneigung gleichgiltig werden wird.
+</D>
+<F n="86">
+86) AMAR. 80. ²b. <s>Putkftya</s>.
+</F>
+</entry>
+
+<entry>
+<info L="87" page="1.17" gtypes="S,D,F"/>
+<S n="87">
+<s>aNgulyagreRa yajjaptaM yajjaptaM merulaNGane .</s>
+<s>vyagracittena yajjaptaM viviDaM nizPalaM Bavet ..</s>
+</S>
+<D n="87" a="3392">
+<b>87.</b> (<b>3392.</b>) Manches Gebet bringt keine
+Frucht, wie das mit den Fingerspitzen,
+das mit Ueberspringen eines Fingers und
+das eines Mannes mit zerstreutem Sinne.
+</D>
+<F n="87">
+87) VIKRAMAC. 62. Im TANTRAS. (s. d.
+Pet. W. u. <s>meru</s> 1, <i>e</i>) lautet der
+Spruch: <s>aNgulyagrezu yajjaptaM
+yajjaptaM merulaNGane . parvasaMDizu
+yajjaptaM tatsarvaM nizPalaM Bavet
+..</s>
+</F>
+</entry>
+
+<entry>
+<info L="88" page="1.17" gtypes="S,D,F"/>
+<S n="88">
+<s>aNguzWaparvamAtraM viSezavatprApya padmarAgamaRim .</s>
+<s>suKasaMvAhyamanuttamamarTaM prApnoti tenEva ..</s>
+</S>
+<D n="88" a="29">
+<b>88.</b> (<b>29.</b>) Wer in den Besitz eines
+Rubins gelangt, der nicht grösser als
+ein Daumenglied, aber von vorzüglicher
+Güte ist, gelangt eben dadurch zu einem
+unvergleichlichen Schatz, den man mit
+Leichtigkeit mit sich tragen kann.
+</D>
+<F n="88">
+88) PAÑCAT. ed. orn. I, 75. ²a.
+<s>viSezavat</s> befremdet.
+</F>
+</entry>
+
+<entry>
+<info L="89" page="1.17" gtypes="S,D,F"/>
+<S n="89">
+<s>acintitAni duHKAni yaTEvAyAnti dehinAm .</s>
+<s>suKAnyapi taTA manye dEvamatrAtiricyate ..</s>
+</S>
+<D n="89" a="30">
+<b>89.</b> (<b>30.</b>) Wie die Leiden unerwartet
+über die Menschen kommen, so kommen, wie
+ich meine, auch die Freuden: das
+Schicksal spielt hierbei die Hauptrolle.
+</D>
+<F n="89">
+89) HIT. ed. SCHL. I, 157. ed. JOHNS.
+176. ŚĀRṄG. PADDH.
+SAṂTOṢAPRAŚAṂSĀ 7. ²a. <s>acintyAni
+ca</s> und <s>arTATitAni</s> st.
+<s>acintitAni</s>. ²c. <s>taTEvAnye</s> und
+<s>yaTAyAnti</s> st. <s>taTA manye</s>. ²d.
+<s>dEvamAtrA°, dEnyamEtra viSizyate</s>.
+</F>
+</entry>
+
+<entry>
+<info L="89.1" page="1.17" gtypes="HS"/>
+<HS>
+<s>acintyAni ca duHKAni</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="90" page="1.17" gtypes="S,D,F,V3,V5"/>
+<S n="90">
+<s>acirADizWitarAjyaH SatruH prakftizvarUQamUlatvAt .</s>
+<s>navasaMropaRaSiTilastaruriva sukaraH samudDartum ..</s>
+</S>
+<D n="90">
+<b>90.</b> Ein Gegner, der vor Kurzem erst
+seine Regierung antrat, ist, weil er bei
+seinen Unterthanen noch keine Wurzeln
+schlug, leicht auszuheben, wie ein Baum,
+der, jüngst gepflanzt, nicht fest im
+Boden steckt.
+</D>
+<F n="90">
+90) MĀLAV. 8. <pb n="1.18"/>
+</F>
+<V3 n="90">
+90. ²c. <s>saMrohaRa</s> ed. Bomb.
+</V3>
+<V5 n="90">
+-- 90. SABHĀTARAṂGA.
+</V5>
+</entry>
+
+<entry>
+<info L="91" page="1.18" gtypes="S,D,F"/>
+<S n="91">
+<s>acezwamapi cAsInaM SrIH kaMcidupatizWati .</s>
+<s>kaScitkarmARi kurvanhi nAprApyamaDigacCati ..</s>
+</S>
+<D n="91" a="3393">
+<b>91.</b> (<b>3393.</b>) Zu dem Einen kommt das
+Glück, auch wenn er ohne sich zu rühren
+dasitzt; ein Anderer arbeitet sich ab
+und erlangt doch nicht, was er nicht
+erhalten soll.
+</D>
+<F n="91">
+91) MBH. 3, 13852, ²b. 13853, ²a. 12,
+12524. ²a. <s>acezwamAnamAsInaM</s>. ²b.
+<s>upatizWate, kaScidupatizWate</s>. ²c.
+<s>karmAnusftyAnyo</s> st. <s>karmARi
+kurvanhi</s>. ²d. <s>na prA°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="91.1" page="1.18" gtypes="HS"/>
+<HS>
+<s>acezwamAnamAsInaM</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="92" page="1.18" gtypes="S,D,F"/>
+<S n="92">
+<s>acodyamAnAni yaTA puzpARi ca PalAni ca .</s>
+<s>svaM kAlaM nAtivartante taTA karma purAkftam ..</s>
+</S>
+<D n="92" a="3394">
+<b>92.</b> (<b>3394.</b>) Wie Blüthen und Früchte,
+von Niemand getrieben, ihre Zeit nimmer
+versäumen, so auch die vormals
+vollbrachte That.
+</D>
+<F n="92">
+92) MBH. 12, 6756. 12149. 13, 366,
+²b. 367, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="93" page="1.18" gtypes="S,D,F"/>
+<S n="93">
+<s>acCAcCacandanarasArdrakarA mfgAkzyo DArAgfhARi kusumAni ca kOmudI ca .</s>
+<s>mando marutsumanasaH Suci harmyapfzWaM grIzme madaM ca madanaM ca vivarDayanti ..</s>
+</S>
+<D n="93" a="31">
+<b>93.</b> (<b>31.</b>) Rehäugige Mädchen mit Händen,
+feucht von ganz klarem Sandelwasser,
+Badehäuser, Blumen, Mondschein, gelinder
+Wind, Blüthen und ein glänzender Söller
+mehren im Sommer den Wonnerausch und die
+Liebe.
+</D>
+<F n="93">
+93) BHARTṚ. ed. BOHL. 1, 38. HAEB.
+41. lith. Ausg. II 37. ²a.
+<s>acCArdracandana</s>. ²d. <s>mudaM</s> st.
+<s>madaM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="93.1" page="1.18" gtypes="HS"/>
+<HS>
+<s>acCArdracandanarasArdrakarA</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="93.2" page="1.18" gtypes="HS"/>
+<HS>
+<s>ajayudDamfziSrAdDaM</s> s. Spruch 101.
+</HS>
+</entry>
+
+<entry>
+<info L="94" page="1.18" gtypes="S,D,F"/>
+<S n="94">
+<s>ajarAmaravatprAjYo vidyAmarTaM ca cintayet .</s>
+<s>gfhIta iva keSezu mftyunA DarmamAcaret ..</s>
+</S>
+<D n="94" a="32">
+<b>94.</b> (<b>32.</b>) Der Verständige sinne über
+Wissenschaft und Erwerb nach, als wenn
+er nicht alterte und nicht stürbe; die
+Tugend übe er aber, als wenn der Tod ihn
+schon bei den Haaren gepackt hätte.
+</D>
+<F n="94">
+94) VYĀSA in ŚĀRṄG. PADDH.
+DHARMAVIVṚTI 5. CĀṆ. 11 bei WEBER,
+BHAVABHŪTI in GUṆARATNA 12 bei HAEB.
+S. 525. HIT. Pr. 3. ²b. <s>tu</s> und
+<s>nu</s> st. <s>ca</s>.
+</F>
+</entry>
+
+<entry>
+<info L="95" page="1.18" gtypes="S,D,F"/>
+<S n="95">
+<s>ajA iva prajA hanyAdyo mohAtpfTivIpatiH .</s>
+<s>tasyEkA jAyate tfptirna dvitIyA kaTaM ca na ..</s>
+</S>
+<D n="95" a="33">
+<b>95.</b> (<b>33.</b>) Ein Fürst, der seine
+Unterthanen aus Unverstand wie Ziegen
+hinschlachtet, der findet für dieses Mal
+Befriedigung, aber nimmer zum andern
+Male.
+</D>
+<F n="95">
+95) PAÑCAT. ed. KOSEG. I, 250. ed.
+orn. 186. ed. Bomb. 219. ŚĀRṄG.
+PADDH. ²a. <s>ajAmiva prajAM</s>. ²a. ²b.
+<s>mohAdyo hanyAt</s>. ²c. <s>prItir</s>
+st. <s>tfptir</s>. ²d. <s>na</s> nach, nicht
+vor <s>dvitIyA</s>. <pb n="1.19"/>
+</F>
+</entry>
+
+<entry>
+<info L="95.1" page="1.19" gtypes="HS"/>
+<HS>
+<s>ajAKaraKurotsarga</s> s. Spruch 98.
+</HS>
+</entry>
+
+<entry>
+<info L="96" page="1.19" gtypes="S,D,F,V5"/>
+<S n="96">
+<s>ajAtamftamUrKARAM varamAdyO na cAntimaH .</s>
+<s>sakfdduHKakarAvAdyAvantimastu pade pade ..</s>
+</S>
+<D n="96" a="34">
+<b>96.</b> (<b>34.</b>) Sollen wir zwischen einem gar
+nicht geborenen, einem gestorbenen und
+einem dummen Sohne wählen, so
+entscheiden wir uns für die beiden
+ersten, nicht für den letzten: jene
+Beiden bereiten nur ein Mal Schmerz,
+dieser auf Schritt und Tritt.
+</D>
+<F n="96">
+96) HIT. ed. SCHL. Pr. 12. ed. JOHNS.
+13. Vgl. den folgenden Spruch.
+</F>
+<V5 n="96">
+-- 96. KALPATARU.
+</V5>
+</entry>
+
+<entry>
+<info L="97" page="1.19" gtypes="S,D,F,V5"/>
+<S n="97">
+<s>ajAtamftamUrKeByo mftAjAtO sutO varam .</s>
+<s>yatastO svalpaduHKAya yAvajjIvaM jaqo dahet ..</s>
+</S>
+<D n="97" a="35">
+<b>97.</b> (<b>35.</b>) Sollen wir zwischen einem gar
+nicht geborenen, einem gestorbenen und
+einem dummen Söhne wählen, so
+entscheiden wir uns für den gestorbenen
+und den gar nicht geborenen, da diese
+Beiden nur kurzen Schmerz verursachen,
+der Einfaltspinsel aber das ganze Leben
+hindurch wie Feuer an uns zehrt.
+</D>
+<F n="97">
+97) PAÑCAT. ed. KOSEG. Pr. 4, ed.
+orn. und ed. Bomb. 2. VIKRAMAC. 221.
+ŚĀRṄG. PADDH. ²b. <s>varO sutO</s> st.
+<s>sutO varam</s>. Vergl. Spruch
+<s>mUrKaScirAyurjAto 'pi</s>.
+</F>
+<V5 n="97">
+-- 97. Ebendaselbst. ²b. <s>varO</s>. ²c. <s>tAvalpa°</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="98" page="1.19" gtypes="S,D,F,V3"/>
+<S n="98">
+<s>ajADUliriva trastErmArjanI reRuvajjanEH .</s>
+<s>dIpaKawvotTacCAyeva tyajyate nirDano janaH ..</s>
+</S>
+<D n="98" a="3395">
+<b>98.</b> (<b>3395.</b>) Einen armen Mann meiden die
+Leute erschrocken gerade so, wie den
+Staub einer Ziege oder eines Besens und
+den von einer Lampe herrührenden
+Schatten einer Bettstelle.
+</D>
+<F n="98">
+98) PAÑCAT. ed. Bomb. II, 98
+(eig. 99). ed. KOSEG. 108. ²a.
+<s>ajAKaraKurotsarga</s> KOSEG. ²c.
+<s>°KawvApacCAyeva</s> KOSEG. ²d.
+<s>janEH</s> ed. Bomb.
+</F>
+<V3 n="98">
+98. Vgl. Spruch 7432.
+</V3>
+</entry>
+
+<entry>
+<info L="99" page="1.19" gtypes="S,D,F"/>
+<S n="99">
+<s>ajAnatA BavetkaScidaparADaH kfto yadi .</s>
+<s>kzantavyameva tasyAhuH suparIkzya parIkzayA ..</s>
+</S>
+<D n="99">
+<b>99.</b> Männer, die die Sache wohl
+überlegt haben, erklären, dass wir
+demjenigen verzeihen müssen, der uns
+ohne sein Wissen irgend eine Beleidigung
+angethan hat.
+</D>
+<F n="99">
+99) MBH. 3, 1058.
+</F>
+</entry>
+
+<entry>
+<info L="100" page="1.19" gtypes="S,D,F"/>
+<S n="100">
+<s>ajAnandAhArtiM patati SalaBo dIpadahane</s>
+<s>sa mIno 'pyajYAnAdbaqiSayutamaSnAti piSitam .</s>
+<s>vijAnanto 'pyete vayamiha vipajjAlajawilA-</s>
+<s>nna muYcAmaH kAmAnahaha gahano mohamahimA ..</s>
+</S>
+<D n="100" a="36">
+<b>100.</b> (<b>36.</b>) Die Lichtmotte fliegt in das
+Feuer der Lampe, weil sie den Schmerz
+des Verbrennens nicht kennt; auch der
+Fisch verschlingt das Fleisch am
+Angelhaken, weil er die Gefahr nicht
+kennt; wir aber hier lassen nicht ab von
+den Genüssen des Lebens, obgleich wir
+recht gut wissen, dass sie mit einem
+Netz von Unheil umstrickt sind: Wehe
+über die unergründliche Tiefe des
+Unverstandes!
+</D>
+<F n="100">
+100) BHARTṚ. ed. BOHL. 3, 10. HAEB.
+und GALAN. 17. lith. Ausg. I 18. lith.
+Ausg. II 20. ŚĀNTIŚ. 1, 8. ŚĀRṄG.
+PADDH. ²a. <s>ajAnanmAhAtmyaM patati
+(viSati) SalaBastIvradahane (SaraBa°),
+SalaBastatra dahane, dahanaM</s>. ²b.
+<s>'pyajYAtvA vaqiSa, Gftam</s> st.
+<s>yutam, aSnanti, na mIno 'pi jYAtvA</s>
+<pb n="1.20"/> <s>vftavaliSamaSnAti</s>. ²c.
+<s>'pyeMtadvayamapi vi°; hyete, 'pyevaM</s>
+und <s>'pyetAn</s> st. <s>'pyete; jawilA</s>
+und <s>pawalAn</s> st. <s>jawilAn</s>. ²d.
+<s>kAmAnnahaha</s>.
+</F>
+</entry>
+
+<entry>
+<info L="100.1" page="1.20" gtypes="HS"/>
+<HS>
+<s>ajAnanmAhAtmyaM</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="100.2" page="1.20" gtypes="HS"/>
+<HS>
+<s>ajAmiva prajAM</s> s. Spruch 95.
+</HS>
+</entry>
+
+<entry>
+<info L="101" page="1.20" gtypes="S,D,F,V3"/>
+<S n="101">
+<s>ajAyudDe fziSrAdDe praBAte meGaqambare .</s>
+<s>daMpatyoH kalahe cEva bahvAramBe laGukriyA ..</s>
+</S>
+<D n="101" a="37">
+<b>101.</b> (<b>37.</b>) Bei einem Ziegenkampfe, bei
+einem Todtenopfer für einen Ṛṣi, bei
+Wolkengetöse am frühen Morgen und bei
+einem Streite zwischen Eheleuten kommt
+bei vielem Lärm wenig heraus.
+</D>
+<F n="101">
+101) UDBHAṬA im ŚKDR. (u.
+<s>meGaqambara</s>), CĀṆ. 91 bei WEBER,
+, ŚĀRṄG. PADDH. NĪTI 36 (37).
+SUBHĀṢ. 91. ²a. <s>ajAyudDe</s> ŚKDR.,
+<s>ajAyudDe dvijaH</s> ŚĀRṄG. (hier
+auch <s>muniScAhaM</s> d. i.
+<s>muniSradDaM</s> st. <s>fzi°</s>. ²b.
+<s>pratyUze</s>, <s>°qambaraH</s> und
+<s>qambaram</s> CĀṆ. und ŚĀRṄG.,
+<s>DananirdanaM</s> SUBHĀṢ. ²c.
+<s>kalahaScEva</s> und <s>kalahaM cEva</s>
+CĀṆ. und ŚĀRṄG. ²d.
+<s>sarvametannirarTam</s> SUBHĀṢ.,
+<s>pariRAme na kiM ca na</s> ŚĀRṄG.
+</F>
+<V3 n="101">
+101. = VṚDDHA-CĀṆ. 161.
+NĪTIŚĀSTRA in Telugu-Charr. 113.
+CARR 370. <s>CAgayudDamfziSrAdDaM
+daMpatyoH kalahastaTA . catvAro
+nizPalA yAnti praBAte meGaqambaraH
+..</s> VṚDDHA-CĀṆ.
+</V3>
+</entry>
+
+<entry>
+<info L="101.1" page="1.20" gtypes="HS"/>
+<HS>
+<s>ajAyudDamfziSrAdDaM, ajAyudDaM muniSrAdDaM</s> u. <s>ajAyudDe dvijaSrAdDe</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="102" page="1.20" gtypes="S,D,F"/>
+<S n="102">
+<s>ajASvayormuKaM meDyaM gAvo meDyAstu pfzWataH .</s>
+<s>brAhmaRAH pAdato meDyA striyo meDyASca sarvataH ..</s>
+</S>
+<D n="102" a="38">
+<b>102.</b> (<b>38.</b>) Bei Ziegen und Pferden ist
+das Maul rein, Kühe sind am Rücken rein,
+Brahmanen an den Füssen und die Weiber
+am ganzen Körper.
+</D>
+<F n="102">
+102) ŚĀRṄG. PADDH. SADĀCĀRA 8.
+</F>
+</entry>
+
+<entry>
+<info L="102.1" page="1.20" gtypes="HS"/>
+<HS>
+<s>ajitAtmA</s> s. Spruch <s>asitAtmA</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="103" page="1.20" gtypes="S,D,F,V2,V3"/>
+<S n="103">
+<s>ajIrRaM tapasaH kroDo jYAnAjIrRamahaMkftiH .</s>
+<s>parinindA kriyAjIrRamannAjIrRaM visUcikA ..</s>
+</S>
+<D n="103">
+<b>103.</b> Die Folge unverdauter Kasteiungen
+ist der Zorn, die Folge unverdauten
+Wissens das Selbstgefühl, die Folge
+unverdauten Handelns die Tadelsucht, die
+Folge unverdauter Speise der Durchfall.
+</D>
+<F n="103">
+103) SUBHĀṢ. 86.
+</F>
+<V2 n="103">
+103. Lies: <s>vizUcikA</s>.
+</V2>
+<V3 n="103">
+103. ²d. Lies: <s>vizUcikA</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="104" page="1.20" gtypes="S,D,F"/>
+<S n="104">
+<s>ajIrRe BezajaM vAri jIrRe vAri balapradam .</s>
+<s>Bojane cAmftaM vAri BojanAnte vizApaham ..</s>
+</S>
+<D n="104">
+<b>104.</b> Bei schlechter Verdauung ist
+Wasser Arzenei, bei guter Verdauung
+verleiht es Kraft, während des Essens
+ist es Nektar und nach dem Essen
+vertreibt es das Gift.
+</D>
+<F n="104">
+104) VṚDDHA-CĀṆ. 8, 7. ²d.
+<s>vizApaham</s> unsere Aenderung für
+<s>vizapradam</s>. <pb n="1.21"/>
+</F>
+</entry>
+
+<entry>
+<info L="105" page="1.21" gtypes="S,D,F"/>
+<S n="105">
+<s>ajYaH suKamArADyaH suKataramArADyate viSezajYaH .</s>
+<s>jYAnalavadurvidagDaM brahmApi naraM na raYjayati ..</s>
+</S>
+<D n="105" a="39">
+<b>105.</b> (<b>39.</b>) Leicht ist der Unwissende
+zufrieden zu stellen, noch leichter wird
+der Unterrichtete zufriedengestellt,
+einen durch ein Bischen Wissen
+verschrobenen Menschen gewinnt selbst
+Brahman nicht.
+</D>
+<F n="105">
+105) BHARTṚ. ed. BOHL. lith Ausg.
+II und GALAN. 2, 3. HAEB. 2. HIT. ed.
+SCHL. IV, 99. ed. JOHNS. 104. ŚĀRṄG.
+PADDH. SUBHĀṢ. 302. ²b. <s>ArADyo,
+'SezajYaH</s> c. <s>jYAnalabDurvi°,
+jYAnavaladvadvi°</s>. d. <s>taM naraM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="106" page="1.21" gtypes="S,D,F,V3"/>
+<S n="106">
+<s>ajYAtakulaSIlasya vAso deyo na kasyacit .</s>
+<s>mArjArasya hi dozeRa hato gfDro jaradgavaH ..</s>
+</S>
+<D n="106" a="40">
+<b>106.</b> (<b>40.</b>) Man gebe Keinem ein Obdach,
+wenn man seine Familie und seinen
+Charakter nicht kennt: durch die Schuld
+der Katze fand ja der Geier Garadgava
+den Tod.
+</D>
+<F n="106">
+106) HIT. ed. SCHL. I, 49. ed. JOHNS.
+57.
+</F>
+<V3 n="106">
+106. = BAHUDARŚANA 51. 71. ²d.
+<s>vfdDo</s> st. <s>gfDro</s> an einer
+Stelle.
+</V3>
+</entry>
+
+<entry>
+<info L="107" page="1.21" gtypes="S,D,F"/>
+<S n="107">
+<s>ajYAtakulaSIle 'pi prItiM kurvanti vAnarAH .</s>
+<s>AtmArTe ca na rodanti rodanti tvitare janAH ..</s>
+</S>
+<D n="107">
+<b>107.</b> Affen wenden ihre Liebe auch dem
+zu, dessen Familie und Charakter sie
+nicht kennen, und weinem nicht um sich
+selbst, wie es die übrigen Geschöpfe
+thun.
+</D>
+<F n="107">
+107) SUBHĀṢ. 149. ²a. <s>anAgataM
+kulaSIlaM</s> die Hdschr. ²c. <s>AtmA arTe
+na</s> die Hdschr. ²d. <s>rodaMnti itare
+jane</s> die Hdschr.
+</F>
+</entry>
+
+<entry>
+<info L="108" page="1.21" gtypes="S,D,F"/>
+<S n="108">
+<s>ajYAtavIvaDAsAratoyasasyo vrajettu yaH .</s>
+<s>pararAzwraM na BUyaH sa svarAzwramaDigacCati ..</s>
+</S>
+<D n="108" a="41">
+<b>108.</b> (<b>41.</b>) Wer in des Feindes Reich
+zieht, ohne sich vorher Gewissheit
+verschafft zu haben über Proviant, den
+natürlichen Bundesgenossen, Wasser und
+Getreide, der kommt nimmer in sein
+eigenes Reich zurück.
+</D>
+<F n="108">
+108) PAÑCAT. ed. Bomb. III, 41. ed.
+KOSEG. 39. ²a. <s>vivaDA°</s>. ²b.
+<s>Sasyo</s>. ²c. <s>sa no BUyaH</s>. ²d.
+<s>api</s> st. <s>aDi</s>.
+</F>
+</entry>
+
+<entry>
+<info L="109" page="1.21" gtypes="S,D,F"/>
+<S n="109">
+<s>ajYAtAH puruzA yasya praviSanti mahIpateH .</s>
+<s>durgaM tasya na saMdehaH praviSanti drutaM dvizaH ..</s>
+</S>
+<D n="109">
+<b>109.</b> Wenn in eines Fürsten Burg
+unbekannte Männer Eintritt haben, dann
+kommen ohne Zweifel bald auch die Feinde
+herein.
+</D>
+<F n="109">
+109) PAÑCAT. ed. Bomb. III, 159.
+</F>
+</entry>
+
+<entry>
+<info L="110" page="1.21" gtypes="S,D,F"/>
+<S n="110">
+<s>ajYAnaM kAraRaM na syAdviyogo yadi kAraRam .</s>
+<s>Soko dinezu gacCatsu varDatAmapayAti kim ..</s>
+</S>
+<D n="110" a="42">
+<b>110.</b> (<b>42.</b>) Wenn nicht Unverstand,
+sondern Trennung die Ursache des Kummers
+wäre, dann müsste dieser mit jedem dahin
+gehenden Tage wachsen; woher schwindet
+er aber?
+</D>
+<F n="110">
+110) HIT. ed. SCHL. IV, 81. ed.
+JOHNS. 85. <pb n="1.22"/>
+</F>
+</entry>
+
+<entry>
+<info L="111" page="1.22" gtypes="S,D,F"/>
+<S n="111">
+<s>ajYAnAdyadi vA jYAnAtkftvA karma vigarhitam .</s>
+<s>tasmAdvimuktimanvicCandvitIyaM na samAcaret ..</s>
+</S>
+<D n="111" a="3396">
+<b>111.</b> (<b>3396.</b>) Wem es darum zu thun ist,
+dass ihm eine mit oder ohne Wissen
+vollbrachte tadelhafte That verziehen
+werde, der verübe sie nicht zum zweiten
+Male.
+</D>
+<F n="111">
+111) M. 11, 232.
+</F>
+</entry>
+
+<entry>
+<info L="112" page="1.22" gtypes="S,D,F"/>
+<S n="112">
+<s>ajYAnena parANmuKIM pariBavAdASlizya mAM duHKitAM</s>
+<s>kiM labDaM cawula tvayeha nayatA sOBAgyametAM daSAm .</s>
+<s>paSyEddayitArativyatikaronmfzwANgarAgAruRaM</s>
+<s>vakzaste malatElapaNkaSabalErveRIpadEraNkitam ..</s>
+</S>
+<D n="112" a="43">
+<b>112.</b> (<b>43.</b>) Was hast du, Flatterhafter,
+der du hier mein eheliches Glück so
+untergräbst, dadurch erreicht, dass du
+mich, die Betrübte, unkluger Weise und
+aus Geringschätzung umfasstest, als ich
+dir den Rücken gekehrt hatte? Sieh,
+diese deine Brust, roth von dem Pulver,
+welches durch die Berührung beim
+Liebesgenuss mit der Geliebten
+abgewischt wurde, trägt meiner Flechte
+Spuren, fleckige Male der Oelsalbe.
+</D>
+<F n="112">
+112) AMAR. 14. ŚATAKĀV. 3. ²b.
+<s>labDA</s>. ²c. <s>kuca</s> st. <s>rati</s>
+der Comm. zu AMAR. ²d. <s>'mala</s>.
+</F>
+</entry>
+
+<entry>
+<info L="113" page="1.22" gtypes="S,D,F"/>
+<S n="113">
+<s>ajYeByo granTinaH SrezWA granTiByo DAriRo varAH .</s>
+<s>DAriByo jYAninaH SrezWA jYAniByo vyavasAyinaH ..</s>
+</S>
+<D n="113" a="3397">
+<b>113.</b> (<b>3397.</b>) Besser als die Unwissenden
+sind diejenigen, die Bücher lesen;
+besser als diese -- diejenigen, die das
+Gelesene behalten; besser als diese --
+diejenigen, die das Gelesene verstehen;
+besser als diese -- diejenigen, die an's
+Werk gehen.
+</D>
+<F n="113">
+113) M. 12, 103.
+</F>
+</entry>
+
+<entry>
+<info L="114" page="1.22" gtypes="S,D,F,V3,V4"/>
+<S n="114">
+<s>ajYo yo vyayaSIlaSca anATaH kalahapriyaH .</s>
+<s>AturaH sarvaBakzI ca naraH SIGraM vinaSyati ..</s>
+</S>
+<D n="114">
+<b>114.</b> Ein Unwissender, ein
+Verschwender, ein Schutzloser, ein
+Zanksüchtiger und ein Kranker, der Alles
+isst, gehen bald zu Grunde.
+</D>
+<F n="114">
+114) SUBHĀṢ. 195. ²a. <s>ajYA</s> die
+Hdschr. b. <s>kalahaH</s> die Hdschr.
+</F>
+<V3 n="114">
+114. = VṚDDHA-CĀṆ. 12, 19.
+Berl. Hdschrr. 119. <s>anAyavyayakartAraM
+anATakalahapriyaH . Ature</s> (auch
+<s>Atulya</s>) <s>sarvaBakzI ca sa ca
+sarvatra naSyati</s> (auch <s>nara SfGraM
+vinasyati) ..</s> die Hdschrr. <s>anAlokya
+vyayaM kArtA anATakalahapriyaH . AturaH
+sarvakzetrezu naraH SIGraM vinaSyati
+..</s> die gedr. Ausgg.
+</V3>
+<V4 n="114">
+-- 114, ²a. FRITZE besser: «ein Unwissender, der ein Verschwender ist; ein Schutzloser, der zanksüchtig ist».
+</V4>
+</entry>
+
+<entry>
+<info L="115" page="1.22" gtypes="S,D,F"/>
+<S n="115">
+<s>aYjanasya kzayaM dfzwvA valmIkasya ca saMcayam .</s>
+<s>avanDyaM divasaM kuryAddAnaDyayanakarmaBiH ..</s>
+</S>
+<D n="115" a="44">
+<b>115.</b> (<b>44.</b>) Gewahrt man das Schwinden
+der Augensalbe und das Wachsen des
+Ameisenhaufens, so mache man dem Tag
+fruchtbringend durch Spenden, Studium
+und Arbeit.
+</D>
+<F n="115">
+115) HIT. II, 9. ŚĀRṄG. PADDH.
+SADĀCĀRA 51 (53). ²b. <s>tu</s> st.
+<s>ca</s> ²c. <s>abanDya</s>. ²d. <s>karmaRA</s>
+und <s>karmasu</s>. Vgl. PAÑCAT. ed. orn.
+3, 12. fgg. und Spruch <s>Slokena vA
+tadarDena</s>.
+</F>
+</entry>
+
+<entry>
+<info L="115.1" page="1.22" gtypes="HS"/>
+<HS>
+<s>aYjaliM SapaTaM</s> s. Spruch 117. <pb n="1.23"/>
+</HS>
+</entry>
+
+<entry>
+<info L="116" page="1.23" gtypes="S,D,F"/>
+<S n="116">
+<s>aYjaliH SapaTaH sAntvaM SirasA pAdavandanam .</s>
+<s>ASAkaraRamityevaM kartavyaM BUtimicCatA ..</s>
+</S>
+<D n="116" a="3398">
+<b>116.</b> (<b>3398.</b>) Wem es um Glück zu thun
+ist, muss ehrerbietig die Hände
+zusammenlegen, Eide schwören, gute Worte
+geben, mit dem Haupte sich zu des Andern
+Füssen neigen und ihm allerlei
+Hoffnungen machen.
+</D>
+<F n="116">
+116) MBH. 1, 5607.
+</F>
+</entry>
+
+<entry>
+<info L="117" page="1.23" gtypes="S,D,F"/>
+<S n="117">
+<s>aYjaliH SapaTaH sAntvaM praRamya SirasA vadet .</s>
+<s>aSrupramArjanaM cEva kartavyaM BUtimicCatA ..</s>
+</S>
+<D n="117" a="3399">
+<b>117.</b> (<b>3399.</b>) Wem es um Glück zu thun
+ist, muss ehrerbietig die Hände
+zusammenlegen, Eide schwören, gute Worte
+geben, mit geneigtem Haupte reden und
+sich die Thränen aus den Augen wischen.
+</D>
+<F n="117">
+117) MBH. 12, 5263. ²a. <s>aYjaliH
+SapaTaH</s> unsere Aenderung für
+<s>aYjaliM SapaTaM; SapaTaM</s> liesse
+sich wohl mit <s>vadet</s> verbinden, nicht
+aber <s>aYjaliM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="118" page="1.23" gtypes="S,D,F,V5"/>
+<S n="118">
+<s>aYjalisTAni puzpARi vAsayanti karadvayam .</s>
+<s>aho sumanasAM prItirvAmadakziRayoH samA ..</s>
+</S>
+<D n="118" a="45">
+<b>118.</b> (<b>45.</b>) Blumen, die man zwischen den
+Händen hält, erfüllen beide Hände mit
+Wohlgeruch. Wie wunderbar! Der Blumen
+(der Weisen) Zuneigung ist gleich gegen
+linke und rechte Hand (gegen Schlechte
+und Rechtschaffene).
+</D>
+<F n="118">
+118) ŚĀRṄG. PADDH.
+PAṆḌITAPRAŚAṂSĀ 3. ²a. <s>puRyAni</s>.
+</F>
+<V5 n="118">
+-- 118. PRASAṄGAR.
+</V5>
+</entry>
+
+<entry>
+<info L="119" page="1.23" gtypes="S,D,F"/>
+<S n="119">
+<s>aRukaM surataM nAma daMpatyoH pArSvasaMsTayoH .</s>
+<s>jAyante nibiqASlezAH samIBUtaSarIrayoH ..</s>
+</S>
+<D n="119">
+<b>119.</b>
+<g>Ἕωλος τῷ ὀνόματι (ὄντως) ἡ συνουσία ἐν πλευραῖς ϰειμένοιν τοῖν συζύγοιν·
+γίγνονται στερρῶς συνηρμοσμέναι αἱ περιπλοϰαὶ οἷν τὰ σώματα ἐξίσωται.</g>
+</D>
+<F n="119">
+119) VET. in LA. 11. ²a. <s>aRukaM</s>
+unsere Aenderung für <s>ARakaM</s>. ²c.
+<s>viviqA°</s> die Hdschr., die richtige
+Lesart hatte schon LASSEN erkannt.
+</F>
+</entry>
+
+<entry>
+<info L="120" page="1.23" gtypes="S,D,F"/>
+<S n="120">
+<s>aRunApi praviSyAriM CidreRa balavattaram .</s>
+<s>niHSezaM majjayedrAzwraM pAnapAtramivodakam ..</s>
+</S>
+<D n="120" a="46">
+<b>120.</b> (<b>46.</b>) Ist man auch nur durch eine
+ganz kleine Lücke (Blösse) in einen
+mächtigeren Feind gedrungen, so bringt
+man das ganze Reich zum Sinken, wie
+Wasser ein leckes Trinkgeschirr.
+</D>
+<F n="120">
+120) KĀM. NĪTIS. 12, 41.
+</F>
+</entry>
+
+<entry>
+<info L="121" page="1.23" gtypes="S,D,F"/>
+<S n="121">
+<s>aRuByaSca mahadByaSca SAstreByaH kuSalo naraH .</s>
+<s>sarvataH sAramAdadyAtpuzpeBya iva zawpadaH ..</s>
+</S>
+<D n="121">
+<b>121.</b> Aus kleinen und grossen Büchern,
+von allerwärts her nehme der erfahrene
+Mann das Beste, wie die Biene aus den
+Blumen.
+</D>
+<F n="121">
+121) Cit. im Comm. zu KAP. 4, 13.
+<pb n="1.24"/>
+</F>
+</entry>
+
+<entry>
+<info L="122" page="1.24" gtypes="S,D,F"/>
+<S n="122">
+<s>aRvapi guRAya guRinAM mahadapi dozAya doziRAM sukftam .</s>
+<s>tfRamapi dugDAya gavAM dugDamapi vizAya sarpARAm ..</s>
+</S>
+<D n="122">
+<b>122.</b> Selbst eine geringe Wohlthat
+gereicht mit Vorzügen Versehenen zum
+Nutzen und selbst eine grosse mit
+Fehlern Versehenen zum Nachtheil: selbst
+Gras erzeugt Milch bei Kühen und selbst
+Milch -- Gift bei Schlangen.
+</D>
+<F n="122">
+122) SUBHĀṢ. 276. ²d. <s>vizApa</s>
+die Hdschr.
+</F>
+</entry>
+
+<entry>
+<info L="122.1" page="1.24" gtypes="HS"/>
+<HS>
+<s>ata eva nipIyate 'Daro</s> s. nach Spruch <s>sumuKena vadanti</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="122.2" page="1.24" gtypes="HS"/>
+<HS>
+<s>ata eva muKaM nipIyate</s> s. nach Spruch <s>sumuKena vadanti</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="122.3" page="1.24" gtypes="HS"/>
+<HS>
+<s>ata eva vivektFRAM</s> s. nach Spruch <s>vfttiM svAM bahu manyate</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="123" page="1.24" gtypes="S,D,F"/>
+<S n="123">
+<s>ata eva hi necCanti sADavaH satsamAgamam .</s>
+<s>yadviyogAsilUnasya manaso nAsti Bezajam ..</s>
+</S>
+<D n="123" a="47">
+<b>123.</b> (<b>47.</b>) Gerade darum wünschen ja
+Gute keinen Umgang mit vorzüglichen
+Menschen, weil es für ein mit dem
+Schwerte der Trennung durchschnittenes
+Herz kein Heilmittel giebt.
+</D>
+<F n="123">
+123) HIT. ed. SCHL. IV, 77. ed.
+JOHNS. 81. ²c. <s>viyogAli</s> oder
+<s>viyogAni</s>.
+</F>
+</entry>
+
+<entry>
+<info L="123.1" page="1.24" gtypes="HS"/>
+<HS>
+<s>ata eva hi vAYCanti</s> s. nach Spruch <s>ekenApi suDIreRa</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="124" page="1.24" gtypes="S,D,F"/>
+<S n="124">
+<s>atattvajYo 'si bAlaSca dustozo 'pUraRo 'nalaH .</s>
+<s>nEva tvaM vetTa sulaBaM nEva tvaM vetTa durlaBam ..</s>
+</S>
+<D n="124" a="3400">
+<b>124.</b> (<b>3400.</b>) Du kennst nicht die
+Wahrheit, o Gier, bist ein schwer zu
+befriedigendes Kind, ein unersättliches
+Feuer und weisst nicht, was leicht, und
+nicht, was schwer zu erreichen ist.
+</D>
+<F n="124">
+124) MBH. 12, 6623. Es ist aus dem
+Vorhergehenden <s>kAma</s> zu ergänzen.
+</F>
+</entry>
+
+<entry>
+<info L="125" page="1.24" gtypes="S,D,F"/>
+<S n="125">
+<s>ataTyAnyapi taTyAni darSayanti hi peSalAH .</s>
+<s>same nimnonnatAnIva citrakarmavido janAH ..</s>
+</S>
+<D n="125" a="48">
+<b>125.</b> (<b>48.</b>) Gewandte Leute vermögen
+sogar Unwahres als wahr erscheinen zu
+lassen, wie geübte Maler Vertieftes und
+Erhabenes auf ebener Fläche.
+</D>
+<F n="125">
+125) HIT. ed. SCHL. II, 109. ed.
+JOHNS. 111. ²b.
+<s>darSayantyatipeSalAH</s>. ²c. <s>sama</s>.
+</F>
+</entry>
+
+<entry>
+<info L="126" page="1.24" gtypes="S,D,F"/>
+<S n="126">
+<s>atikupitA api sujanA yogena mfdUBavanti na tu nIcAH .</s>
+<s>hemnaH kaWinasyApi dravaRopAyo 'sti na tfRAnAm ..</s>
+</S>
+<D n="126" a="49">
+<b>126.</b> (<b>49.</b>) Gute Menschen werden, wenn
+sie auch sehr erzürnt sind, durch
+angemessene Behandlung wieder sanft,
+nicht aber gemeine: Gold, obgleich es
+hart ist, kann wohl zum Schmelzen
+gebracht werden, nicht aber Gras.
+</D>
+<F n="126">
+126) ŚĀRṄG. PADDH.
+SAJJANAPRAŚAṂSĀ 9. SUBHĀṢ. 274. ²a.
+<s>api</s> st. <s>ati</s> und <s>ati</s> st.
+<s>api</s>. ²b. <s>mfduBa°</s>. ²d.
+<s>dravyaMgopAyo sti nastf°</s>.
+<s>dravaRopAyaste na</s>. <pb n="1.25"/>
+</F>
+</entry>
+
+<entry>
+<info L="127" page="1.25" gtypes="S,D,F,V5"/>
+<S n="127">
+<s>atikrAntaH kAlo lalitalalanABogasuBago</s>
+<s>BramantaH SAntAH smaH suciramiha saMsArasaraRim .</s>
+<s>idAnIM svaHsinDostawaBuvi samAkrandanagiraH</s>
+<s>sutArEH PUtkArEH Siva Siva Siveti pratanumaH ..</s>
+</S>
+<D n="127" a="3401">
+<b>127.</b> (<b>3401.</b>) Dahin ist die Zeit, die
+durch den Genuss reizender Weiber so
+schön war; nach gar langem Umherirren
+auf dem Pfade des Lebens sind wir im
+Herzen ruhig geworden; jetzt lassen wir
+am Abhange des Götterflusses (der
+Gaṅgā) unter lautem Kreischen den
+Hilferuf «Śiva, Śiva, Śiva» ertönen.
+</D>
+<F n="127">
+127) BHARTṚ. lith. Ausg. I 3, 101.
+lith. Ausg. III 98. SUBHĀṢ. 311. ²a.
+<s>suKado</s> st. <s>suBago</s> (SUBHĀṢ.).
+²b. <s>BrAntA</s> SUBHĀṢ., <s>sma</s> Alle;
+<s>saraRiH</s>. ²d. <s>PatkArEH</s> und
+<s>pUtkArEH</s>.
+</F>
+<V5 n="127">
+-- 127. ²b. <s>smaH</s> und <s>saraRO</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="128" page="1.25" gtypes="S,D,F,V3"/>
+<S n="128">
+<s>atikleSena ye 'rTAH syurDarmasyAtikrameRa vA .</s>
+<s>arervA praRipAtena mA sma tezu manaH kfTAH ..</s>
+</S>
+<D n="128" a="3402">
+<b>128.</b> (<b>3402.</b>) Richte nicht deinen Sinn
+auf solche Dinge, die nur durch
+allzugrosse Beschwerde, durch
+Uebertretung des Gesetzes oder durch
+Demüthigungen vor dem Feinde zu Stande
+kommen können.
+</D>
+<F n="128">
+128) MBH. 5, 1521, ²b. 1522, ²a.
+VṚDDHA-CĀṆ. 16, 11. ŚUK. Pet. Hdschr.
+32, ²b. ²a. <s>atikleSana ya hyarTA</s>
+(ohne <s>spur</s>) und <s>atikleSena ye
+hyarTAH</s> CĀṆ., <s>astisnehena ye
+cArTAH</s> (ohne <s>spur</s>) ŚUK. ²b.
+<s>tu</s> (CĀṆ.) und <s>ca</s> (MBH. ed.
+Calc.) st. <s>vA</s>. ²c. <s>SatrURAM</s> st.
+<s>arervA</s> CĀṆ. und ŚUK. ²d. <s>te arTA
+mA Bavantu me</s> CĀṆ.
+</F>
+<V3 n="128">
+128. Vgl. GALAN. Varr. 181.
+</V3>
+</entry>
+
+<entry>
+<info L="129" page="1.25" gtypes="S,D,F"/>
+<S n="129">
+<s>atitfzRA na kartavyA tfzRAM nEva parityajet .</s>
+<s>atitfzRABiBUtasya jAtA kAzWamayI SiKA ..</s>
+</S>
+<D n="129" a="50">
+<b>129.</b> (<b>50.</b>) Frohne nicht zu heftiger
+Begierde, doch gebe man die Begierde
+nicht ganz auf; Einer, der von zu
+heftiger Begierde ergriffen wurde, bekam
+einen hölzernen Schopf.
+</D>
+<F n="129">
+129) PAÑCAT. ed. KOSEG. II, 77. 81.
+ed. Bomb. 72. 76. SUBHĀṢ. 173. ²d.
+<s>SiKA Bavati mastake</s> PAÑCAT. ed.
+Kos. <s>cUqA Bavati mastake</s> ed. Bomb.
+Wir haben die Lesart des SUBHĀṢ.
+aufgenommen, wo aber fälschlich
+<s>kazwamayI</s> geschrieben wird. Vgl.
+Spruch 150.
+</F>
+</entry>
+
+<entry>
+<info L="130" page="1.25" gtypes="S,D,F"/>
+<S n="130">
+<s>atitejasvyapi rAjA pAnAsakto na sADayatyarTAn .</s>
+<s>tfRamapi dagDuM Sakto na vAqavAgniH pibannaniSam ..</s>
+</S>
+<D n="130" a="51">
+<b>130.</b> (<b>51.</b>) Sogar ein sehr mächtiger
+Fürst bringt Nichts zu Stande wenn er
+dem Trunke ergeben ist: das höllische
+Feuer im Meere, das ununterbrochen
+trinkt, vermag nicht einmal einen
+Grashalm zu verbrennen.
+</D>
+<F n="130">
+130) ŚĀRṄG. PADDH. RĀJANĪTI 113.
+²a. ²b. Die Hdschrr.: <s>atitejasvapi
+rAjAnASaktaH sADayannarTAn</s> und
+<s>atitejA api rAjA pAnA Sakto na
+sADayatyarTAna</s>. ²c. <s>SaktA</s>.
+<pb n="1.26"/>
+</F>
+</entry>
+
+<entry>
+<info L="131" page="1.26" gtypes="S,D,F"/>
+<S n="131">
+<s>atiTiH pUjito yadDi DyAyate manasA SuBam .</s>
+<s>na tatkratuSatenApi tulyamAhurmanIziRaH ..</s>
+</S>
+<D n="131" a="52">
+<b>131.</b> (<b>52.</b>) Das Heil, welches ein Gast,
+der von uns geehrt wurde, uns im Herzen
+wünscht, vermag ja, wie die Weisen
+sagen, sogar mehr als hundert Opfer.
+</D>
+<F n="131">
+131) MBH. 13, 176.
+</F>
+</entry>
+
+<entry>
+<info L="132" page="1.26" gtypes="S,D,F"/>
+<S n="132">
+<s>atiTitvena varRAnAM deyaM SaktyAnupUrvaSaH .</s>
+<s>apraRodyo 'tiTiH sAyamapi vAgBUtfRodakEH ..</s>
+</S>
+<D n="132" a="3403">
+<b>132.</b> (<b>3403.</b>) Gastfreundschaft ist nach
+Kräften zu erweisen, nach der Reihe der
+Kasten; ein Gast ist auch Abends
+aufzunehmen mit Rede, Boden, Gras und
+Wasser. <i>Stenzler</i>.
+</D>
+<F n="132">
+132) YĀJÑ. 1, 107. ²a.
+<s>varReByo</s>.
+</F>
+</entry>
+
+<entry>
+<info L="133" page="1.26" gtypes="S,D,F,V3"/>
+<S n="133">
+<s>atiTirbAlakaScEva rAjA BAryA taTEva ca .</s>
+<s>asti nAsti na jAnanti dehi dehi punaH punaH ..</s>
+</S>
+<D n="133" a="3404">
+<b>133.</b> (<b>3404.</b>) Ein Gast, ein Kind, ein
+Fürst und so auch die Gattin fragen
+nicht darnach, ob man etwas hat oder
+nicht, sondern rufen fort und fort
+«gieb, gieb».
+</D>
+<F n="133">
+133) CĀṆ. 87 bei WEBER und im
+ŚKDR. unter <s>nAsti</s>. ²c. <s>jAnati</s>.
+Vgl. Spruch <s>rAjA mAtA SiSuScEva</s>.
+</F>
+<V3 n="133">
+133. Vgl. Spruch 7437. In der Note
+ist zu lesen <s>rAjA mattaH</s> d. i.
+Spruch 5761.
+</V3>
+</entry>
+
+<entry>
+<info L="134" page="1.26" gtypes="S,D,F,V4"/>
+<S n="134">
+<s>atiTiryasya BagnASo gfhAtpratinivartate .</s>
+<s>sa dattvA duzkftaM tasmE puRyamAdAya gacCati ..</s>
+</S>
+<D n="134" a="53">
+<b>134.</b> (<b>53.</b>) Aus wessen Hause ein Gast
+mit getäuschter Hoffnung heimkehrt, dem
+giebt dieser beim Weggehen seine bösen
+Thaten und nimmt von ihm die guten.
+</D>
+<F n="134">
+134) MBH. 12, 6995 MĀRK. P. 29, 31,
+²b. 32, ²a. HIT. ed. SCHL. I, 56. ed.
+JOHNS. 64. ĀHNIKATATTVA im ŚKDR. (u.
+<s>BagnASa</s>). Der erste Vers auch
+PAÑCAR. 1, 6, 43. ²c. <s>kilbizaM</s> st.
+<s>duzkftaM, sa tasmE duzkftaM dattvA</s>.
+Vgl. Spruch <s>pAtraM tvatiTimAsAdya,
+yaH sAyamatiTiM prAptam</s> und <s>yo
+gfhAyAtamatiTim</s>.
+</F>
+<V4 n="134">
+-- 134 = VIVEKAVILĀSA 3, 16. ²a, <g>β</g>. <s>gfhAdyasya nivartate</s>. ²b, <g>α</g>. <s>sa tasmE duzkftaM dattvA</s>.
+</V4>
+</entry>
+
+<entry>
+<info L="135" page="1.26" gtypes="S,D,F"/>
+<S n="135">
+<s>atidarpe hatA laNkA atimAne ca kOravAH .</s>
+<s>atidAne balirbadDaH sarvamatyantagarhitam ..</s>
+</S>
+<D n="135" a="54">
+<b>135.</b> (<b>54.</b>) Bei zu arger Frechheit ging
+Laṅkā zu Grunde, bei zu grossen
+Hochmuth die Kuruiden, bei zu vielem
+Geben gerieth Bali in Gefangenschaft:
+alles Zuviel ist schlecht.
+</D>
+<F n="135">
+135) CĀṆ. 50 bei HAEB. S. 316.
+Vergl. die folgenden Sprüche und 149.
+</F>
+</entry>
+
+<entry>
+<info L="136" page="1.26" gtypes="S,D,F"/>
+<S n="136">
+<s>atidAnAdbalirbadDo nazwo mAnAtsuyoDanaH .</s>
+<s>vinazwo rAvaRo lOlyAdati sarvatra varjayet ..</s>
+</S>
+<D n="136" a="54">
+<b>136.</b> (<b>54.</b>) Durch zu vieles Geben
+gerieth Bali in Gefangenschaft, durch
+Hochmuth ging Suyodhana zu Grunde,
+Rāvaṇa fand durch Gier seinen
+Untergang: das Zuviel vermeide man
+überall.
+</D>
+<F n="136">
+136) ŚĀRṄG. PADDH. NĪTI 26.
+CĀṆ. bei GALAN. B, 1. <pb n="1.27"/>
+</F>
+</entry>
+
+<entry>
+<info L="137" page="1.27" gtypes="S,D,F"/>
+<S n="137">
+<s>atidAne balirbadDo atimAne ca kOravAH .</s>
+<s>atirUpe hftA sItA sarvamatyantagarhitam ..</s>
+</S>
+<D n="137" a="54">
+<b>137.</b> (<b>54.</b>) Bei zu vielem Spenden
+gerieth Bali in Gefangenschaft, bei zu
+grossem Hochmuth die Kuruiden, bei zu
+grosser Schönheit ward Sītā geraubt:
+alles Zuviel ist schlecht.
+</D>
+<F n="137">
+137) CĀṆ. im ŚKDR. u. <s>atidAna</s>.
+</F>
+</entry>
+
+<entry>
+<info L="138" page="1.27" gtypes="S,D,F,V3"/>
+<S n="138">
+<s>atidUrapaTaSrAntASCAyAM yAnti ca SItalAm .</s>
+<s>SItalASca punaryAnti kA kasya paridevanA ..</s>
+</S>
+<D n="138" a="55">
+<b>138.</b> (<b>55.</b>) Von langem Wege Ermüdete
+begeben sich in kühlen Schatten und
+gehen erfrischt wieder von dannen. Wem
+also ziemt zu jammern?
+</D>
+<F n="138">
+138) GHAṬAKARPARA, NĪTIS. 15 bei
+HAEB. S. 506.
+</F>
+<V3 n="138">
+138. = CARR 395. ²a.
+<s>durdUrAntapaTa°</s>. ²d.
+<s>parivedanA</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="138.1" page="1.27" gtypes="HS"/>
+<HS>
+<s>ati DarmAdbalaM manye</s> s. <s>aDi DarmAdbalaM manye</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="139" page="1.27" gtypes="S,D,F"/>
+<S n="139">
+<s>atiparicayAdavajYA Bavati viSizwe 'pi vastuni prAyaH .</s>
+<s>lokaH prayAgavAsI kUpe snAnaM samAcarati ..</s>
+</S>
+<D n="139" a="56">
+<b>139.</b> (<b>56.</b>) Durch allzugrosse
+Vertrautheit pflegt eine Geringschätzung
+sogar gegen etwas Ausgezeichnetes
+einzutreten: die Anwohner der heiligen
+Stätte, wo Gaṅgā und Yamunā sich
+vereinigen, vollziehen ihre Waschungen
+in einem Brunnen.
+</D>
+<F n="139">
+139) SUBHĀṢ. 295. ŚĀRṄG. PADDH.
+NĪTI 83. ²b. <s>saMtatagamanAdAro
+Bavati</s> und <s>saMtatagamanAnnirAdaro
+Bavati</s> ŚĀRṄG. PADDH. Vgl. den
+folgenden Spruch.
+</F>
+</entry>
+
+<entry>
+<info L="140" page="1.27" gtypes="S,D,F,V3,V5"/>
+<S n="140">
+<s>atiparicayAdavajYA saMtatagamanAdanAdaro Bavati .</s>
+<s>malaye BikzupuraMDrI candanataruminDanaM kurute ..</s>
+</S>
+<D n="140">
+<b>140.</b> Durch allzugrosse Vertrautheit
+entsteht Geringschätzung, durch
+beständiges Besuchen Gleichgiltigkeit:
+im Gebirge Malaja gebraucht eine
+Bettlerin Sandelbaum als Feuerung.
+</D>
+<F n="140">
+140) SUBHĀṢ. 138. Die Hdschr. hat:
+²a. <s>°paricaye tyavajYA</s>. ²b.
+<s>satatagamananirAdaro</s>. ²c.
+<s>malayo</s>. ²d. <s>candanaM</s>. Vgl. den
+vorangehenden Spruch.
+</F>
+<V3 n="140">
+140. = BAHUDARŚANA 139. ²b.
+<s>anAdare 'pi Bavati</s>. ²c. <s>Bitti</s>
+st. <s>Bikzu</s>. Im Uebrigen wie bei uns.
+</V3>
+<V5 n="140">
+-- 140. SPHUṬAŚLOKA. ²c. <s>°tarukAzwam</s> d. i. <s>°tarukAzWam</s> st. <s>°tarum</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="141" page="1.27" gtypes="S,D,F"/>
+<S n="141">
+<s>atiBIrumatiklIbaM dIrGasUtraM pramAdinam .</s>
+<s>vyasanAdvizayAkrAntaM na Bajanti nfpaM prajAH ..</s>
+</S>
+<D n="141" a="3405">
+<b>141.</b> (<b>3405.</b>) Einen gar zu furchtsamen,
+gar zu unmännlichen, saumseligen,
+fahrlässigen und ob seiner bösen
+Neigungen von den Sinnesgegenständen
+beherrschten Fürsten lieben die
+Unterthanen nicht.
+</D>
+<F n="141">
+141) MBH. 3, 15128.
+</F>
+</entry>
+
+<entry>
+<info L="142" page="1.27" gtypes="S,D,F,V1,V3"/>
+<S n="142">
+<s>atimaline kartavye Bavati KalAnAmatIva nipuRA DIH .</s>
+<s>timire hi kOSikAnAM rUpaM pratipadyate dfzwiH ..</s>
+</S>
+<D n="142" a="57">
+<b>142.</b> (<b>57.</b>) Gilt es etwas Gemeines zu
+vollbringen, so erweist sich der Bösen
+Verstand als überaus geschickt: im
+Finstern erfasst ja der Eulen Auge die
+Gestalt.
+</D>
+<F n="142">
+142) ŚĀRṄG. PADDH. DURJANANINDĀ 5
+(6). ²d. <s>rUpaM hi pra°</s>. <pb n="1.28"/>
+</F>
+<V1 n="142">
+142. = VĀSAVAD. 6, wo in ²d. <s>cakzuH</s> st. <s>dfzwiH</s> gelesen wird.
+</V1>
+<V3 n="142">
+142. = VĀSAVAD. 6. ²d. <s>cakzuH</s> st. <s>dfzwiH</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="143" page="1.28" gtypes="S,D,F,V3"/>
+<S n="143">
+<s>atimAtraBAsuratvaM puzyati BAnuH parigrahAdahnaH .</s>
+<s>aDigacCati mahimAnaM candro 'pi niSAparigfhItaH ..</s>
+</S>
+<D n="143" a="3406">
+<b>143.</b> (<b>3406.</b>) Die Sonne gewinnt gewaltig
+an Glanz durch den Beistand des Tages,
+aber auch der Mond gelangt zur Grösse
+durch den Beistand der Nacht.
+</D>
+<F n="143">
+143) MĀLAV. 12. ²b. <s>BAnoH
+parigrahAdanalaH</s>
+</F>
+<V3 n="143">
+143. ²a. <s>°BAsvaratvaM</s> ed. Bomb.
+Vgl. Spruch 2667.
+</V3>
+</entry>
+
+<entry>
+<info L="144" page="1.28" gtypes="S,D,F"/>
+<S n="144">
+<s>atimAninamagrAhyamAtmasaMBAvitaM naram .</s>
+<s>kroDanaM vyasane hanti svajano 'pi narADipam ..</s>
+</S>
+<D n="144">
+<b>144.</b> Einen hochmüthigen, nicht zu
+gewinnenden, sich selbst ehrenden und
+zornigen Fürsten tödten bei einem
+Ungemach sogar die eigenen Leute.
+</D>
+<F n="144">
+144) R. ed. Bomb. 3, 33, 16. Vgl.
+Spruch <s>aBimAninamudDrAntam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="145,146" page="1.28" gtypes="S,S,D,F"/>
+<S n="145">
+<s>atimAno 'tivAdaSca taTAtyAgo narADipa .</s>
+<s>kroDaScAtmaviDitsA ca mitradrohaSca tAni zaw ..</s>
+</S>
+<S n="146">
+<s>eta evAsayastIkzRAH kfntantyAyUMzi dehinAm .</s>
+<s>etAni mAnavAnGnanti na mftyurBadramastu te ..</s>
+</S>
+<D n="145,146" a="3408">
+<b>145.</b> <b>146.</b> (<b>3408.</b>) Hochmuth,
+beleidigende Worte, Geiz, Zorn,
+Selbstsucht und Verrath an Freunden,
+diese sechs scharfen Schwerter
+zerschneiden, o Fürst, den Lebenspfaden
+der Sterblichen; diese tödten die
+Menschen, nicht der Tod. Möge es dir
+wohl gehen!
+</D>
+<F n="145,146">
+145.146) MBH. 5, 1243. fg. 145, ²b.
+<s>a tyaSo</s> eine von NĪLAK. erwähnte
+Lesart st. <s>atyAgo</s>.
+</F>
+</entry>
+
+<entry>
+<info L="147" page="1.28" gtypes="S,D,F"/>
+<S n="147">
+<s>atiyatnagfhIto 'pi KalaH KalaKalAyate .</s>
+<s>SirasA DAryamARo 'pi toyasyArDaGawo yaTA ..</s>
+</S>
+<D n="147">
+<b>147.</b> Ein Schelm bummelt hin und her
+wie ein halb mit Wasser gefüllter Topf,
+packte man ihn auch noch so gründlich
+und trüge man ihn sogar auf dem Kopfe.
+</D>
+<F n="147">
+147) SUBHĀṢ. 276. ²b.
+<s>KanaKanAyate</s> die Hdschr. ²c.
+<s>sirasA DAryamARepi</s> die Hdschr. Vgl.
+Spruch <s>jalareKA KalaprItiH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="148" page="1.28" gtypes="S,D,F,V2,V3,V5"/>
+<S n="148">
+<s>atiramaRIye kAvye 'pi piSuno dUzaRamanvezayati .</s>
+<s>atiramaRIye vapuzi vraRamiva makzikAnikaraH ..</s>
+</S>
+<D n="148" a="3409">
+<b>148.</b> (<b>3409.</b>) Wie eine Fliegenschaar
+auch an einem sehr schönen Körper eine
+Wunde, so sucht ein Boshafter auch in
+einem sehr schönen Gedichte einen Fehler
+auf.
+</D>
+<F n="148">
+148) PADYASAṂGRAHA 3 bei HAEB. 529.
+Der Spruch ist verdorben, wie das
+Versmaass zeigt.
+</F>
+<V2 n="148">
+148. ²b. <s>'pi</s> fehlt in KĀVYAKAL.
+116. ²c. Dr. CAPPELLER schlägt vor zur
+Herstellung des Metrums <s>yaTA</s> st.
+<s>iva</s> zu lesen.
+</V2>
+<V3 n="148">
+148. ²b. <s>'pi</s> fehlt in
+KĀVYAKAL. ²c. Dr. CAPPELLER
+schlägt vor zur Herstellung des Metrums
+<s>yaTA</s> st. <s>iva</s> zu lesen.
+</V3>
+<V5 n="148">
+-- 148. ²b. <s>piSuno</s> (ohne <s>'pi</s>) <s>'nvezayati dUzaRAnyeva</s>. ²d. <s>hi</s> nach <s>iva</s> eingeschaltet. Bei dieser Lesart ist das Versmaass in Ordnung.
+</V5>
+</entry>
+
+<entry>
+<info L="149" page="1.28" gtypes="S,D,F"/>
+<S n="149">
+<s>atirUpeRa vE sItA atigarveRa rAvaRaH .</s>
+<s>atidAnaM balirdattvA ati sarvatra varjayet ..</s>
+</S>
+<D n="149" a="54">
+<b>149.</b> (<b>54.</b>) Der Sītā erging es schlimm
+ob ihrer zu grossen Schönheit, dem
+Rāvaṇa ob seines zu grossen Hochmuths,
+dem Bali ob seines zu vielen Spendens:
+das Zuviel vermeide man überall.
+</D>
+<F n="149">
+149) VṚDDHA-CĀṆ. 3, 12. VET. in
+LA. (III) 31. ²a. <s>atirUpA hftA,
+atirUpahftA</s> und <s>a-</s> <pb n="1.29"/>
+<s>tirUpavatI</s> st. <s>atirUpavatI</s> st.
+<s>atirUpeRa vE</s> VET. ²c.
+<s>atidAnAdbalirbadDa</s> und
+<s>atidAnabalirbadDa</s> VET. Vgl. Spruch
+135 fgg.
+</F>
+</entry>
+
+<entry>
+<info L="150" page="1.29" gtypes="S,D,F"/>
+<S n="150">
+<s>atiloBo na kartavyo loBaM nEva parityajet .</s>
+<s>atiloBABiBUtasya cakraM Bramati mastake ..</s>
+</S>
+<D n="150" a="58">
+<b>150.</b> (<b>58.</b>) Man fröhne nicht zu heftiger
+Begierde, doch gebe man die Begierde
+nicht ganz auf: über dem Haupte dessen,
+der von zu heftiger Begierde ergriffen
+ward, tanzt ein Rad.
+</D>
+<F n="150">
+150) PAÑCAT. ed. KOSEG. V, 20. ed.
+Bomb. 22. SUBHĀṢ. 104. ²c. ²d.
+<s>atiloBaH pramARena sAgaraH sAgaraM
+gataH</s> SUBHĀṢ. Vgl. Spruch 129.
+</F>
+</entry>
+
+<entry>
+<info L="151" page="1.29" gtypes="S,D,F"/>
+<S n="151">
+<s>ativAdaM na pravadenna vAdayedyo nAhataH pratihanyAnna GAtayet .</s>
+<s>hantuM ca yo necCati pApakaM vE tasmE devAH spfhayantyAgatAya ..</s>
+</S>
+<D n="151">
+<b>151.</b> Wer selbst kein beleidigendes
+Wort spricht und auch nicht durch Andere
+sprechen lässt; wer, wenn er geschlagen
+wird, nicht wiederschlägt, nicht durch
+Andere schlagen lässt und den Bösewicht
+auch nicht zu schlagen im Sinne hat: auf
+dessen Ankunft freuen sich die Götter.
+</D>
+<F n="151">
+151) MBH. 5, 1270. Vgl. Spruch <s>yo
+nAtyuktaH prAha rUkzam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="152" page="1.29" gtypes="S,D,F"/>
+<S n="152">
+<s>ativAdAMstitikzeta nABimanyeta kaM ca na .</s>
+<s>kroDyamAnaH priyaM brUyAdAkruzwaH kuSalaM vadet ..</s>
+</S>
+<D n="152" a="3401">
+<b>152.</b> (<b>3401.</b>) Harte Worte ertrage er
+(der Asket) geduldig, Niemanden stelle
+er nach; wird er gereizt so sage er
+etwas Liebes; wird er geschmäht, so
+spreche er: «es gehe dir wohl!».
+</D>
+<F n="152">
+152) MBH. 12, 9972. ²a.
+<s>aBivAdAstitikzeta</s> ed. Calc. ²b.
+<s>kiM ca na</s> ed. Calc. Vgl. den
+folgenden Spruch und M. 6, 48.
+</F>
+</entry>
+
+<entry>
+<info L="153" page="1.29" gtypes="S,D,F,V3"/>
+<S n="153">
+<s>ativAdAMstitikzeta nAvamanyeta kaM ca na .</s>
+<s>na cemaM dehamASritya vEraM kurvIta kenacit ..</s>
+</S>
+<D n="153" a="3411">
+<b>153.</b> (<b>3411.</b>) Harte Worte ertrage er
+(der Asket) geduldig, Niemanden achte er
+gering und lebe um dieses Leibes Willen
+mit Niemanden in Feindschaft.
+</D>
+<F n="153">
+153) M. 6, 47. BHĀG. P. 12, 6, 34.
+Vgl. den vorangehenden Spruch u. <s>na
+hiMsyAtsarvaBUtAni</s>.
+</F>
+<V3 n="153">
+153. = BRĀHMADHARMA 2, 1, 8.
+</V3>
+</entry>
+
+<entry>
+<info L="154" page="1.29" gtypes="S,D,F"/>
+<S n="154">
+<s>ativyayo 'napekzA ca taTArjanamaDarmataH .</s>
+<s>mozaRaM dUrasaMsTAnaM koSavyasanamucyate ..</s>
+</S>
+<D n="154" a="59">
+<b>154.</b> (<b>59.</b>) Verschwendung,
+Sorglosigkeit, unrechtmässiges Erwerben,
+Bestehlen und weite Entfernung nennt man
+des Schatzes Verderben.
+</D>
+<F n="154">
+154) HIT. ed. SCHL. II, 90. ed.
+JOHNS. 93. ed. RODR. S. 196. ²a.
+<s>'navekzA</s>. ²c. <s>mokzaRaM, pozaRaM,
+GozaRaM</s> und <s>kozARAM</s> st.
+<s>mozaRaM</s>. Vgl. Spruch <s>vyayIkftaH
+parikziptaH</s>. <pb n="1.30"/>
+</F>
+</entry>
+
+<entry>
+<info L="155" page="1.30" gtypes="S,D,F,V5"/>
+<S n="155">
+<s>atiSudDAmapi vfttiM samASrito durjanaH parAnvyaTayet .</s>
+<s>pavanASino 'pi BujagAH paropatApaM na muYcanti ..</s>
+</S>
+<D n="155" a="60">
+<b>155.</b> (<b>60.</b>) Der böse Mensch beunruhigt
+Andere, auch wenn er einen ganz reinen
+Lebensunterhalt erwählt hat: Schlangen
+hören nicht auf Andere zu beschädigen,
+obgleich sie vom Winde leben.
+</D>
+<F n="155">
+155) ŚĀRṄG. PADDH. DURJANANINDĀ
+10. ²a. <s>pariSudDAm, ati</s> st.
+<s>api</s>. ²b. <s>vyaTayet</s> unsere
+Verbesserung für <s>vyaTayate</s> und
+<s>vyaTate</s>.
+</F>
+<V5 n="155">
+-- 155. ²b. <s>vyaTate</s>. ²d. <s>paraparitApaM</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="156" page="1.30" gtypes="S,D,F"/>
+<S n="156">
+<s>atiSOcamaSOcaM vA atinindA atistutiH .</s>
+<s>atyAcAramanAcAraM zaqviDaM mUrKalakzaRam ..</s>
+</S>
+<D n="156">
+<b>156.</b> Zu gross Reinlichkeit oder
+Unreinlichkeit, übertriebener Tadel oder
+übertriebenes Lob, zu fein oder grob
+sind die sechs Kennzeichen eines Thoren.
+</D>
+<F n="156">
+156) SUBHĀṢ. 35, ²b. Der Hiatus
+befremdet.
+</F>
+</entry>
+
+<entry>
+<info L="157" page="1.30" gtypes="S,D,F,V4"/>
+<S n="157">
+<s>atisAhasamatiduzkaramatyAScaryaM ca dAnamarTAnAm .</s>
+<s>yo 'pi dadAti SarIraM na dadAti sa sakTileSamapi ..</s>
+</S>
+<D n="157" a="62">
+<b>157.</b> (<b>62.</b>) Geld fortgeben ist ein gar
+kühnes Unternehmen, schwer auszuführen
+und eine seltene Erscheinung: auch wer
+den ganzen Körper hingiebt, giebt selbst
+ein kleines Stückchen von der Lende
+nicht hin.
+</D>
+<F n="157">
+157) ŚĀRṄG. PADDH. LOBHANINDĀ 2.
+²d. <s>na dadAtta lesamapi; sa</s> vor
+<s>sakTi</s> haben wir hinzugefügt.
+</F>
+<V4 n="157">
+-- 157, ²b, <g>β</g>. <s>vitta</s> st. <s>sakTi</s> zu lesen; vgl. AUFRECHT a. a. O. 19. Der Spruch ist von KṢEMENDRA.
+</V4>
+</entry>
+
+<entry>
+<info L="158" page="1.30" gtypes="S,D,F"/>
+<S n="158">
+<s>atItalABasya ca rakzaRArTaM BavizyalABasya ca saMgamArTam .</s>
+<s>Apatprapannasya ca mokzaRArTaM yanmantryate 'sO paramo hi mantraH ..</s>
+</S>
+<D n="158" a="62">
+<b>158.</b> (<b>62.</b>) Pflegt man Rath, wie
+früherer Gewinn zu bewahren, wie zu
+neuem Gewinn zu gelangen und wie ein in
+Noth Gerathener zu retten sei, so ist
+diese Berathung gewiss die beste.
+</D>
+<F n="158">
+158) PAÑCAT. ed. KOSEG. II, 197. ed.
+Bomb. 179. ²a. <s>su</s> st. <s>ca</s> KOSEG.
+</F>
+</entry>
+
+<entry>
+<info L="159" page="1.30" gtypes="S,D,F"/>
+<S n="159">
+<s>atItAnAgatA BAvA ye ca vartanti sAMpratam .</s>
+<s>tAnkAlanirmitAnbudDvA na saMjYAM hAtumarhasi ..</s>
+</S>
+<D n="159" a="3412">
+<b>159.</b> (<b>3412.</b>) Vergangene und zukünftige
+Zustände so wie diejenigen, die in
+diesem Augenblicke da sind, sollst du
+als von der Zeit geschaffen erkennen und
+nicht die Besinnung verlieren.
+</D>
+<F n="159">
+159) MBH. 1, 244. SAṂSKṚTAPĀṬHOP.
+59.
+</F>
+</entry>
+
+<entry>
+<info L="160" page="1.30" gtypes="S,D,F,V2,V3,V4"/>
+<S n="160">
+<s>atIndriyARAM paralokavfttAvihEva tIvrASuBapAkaSaMsI .</s>
+<s>dfSyeta nASo yadi nAma nASu na kaH kukftyena yatena BUtyE ..</s>
+</S>
+<D n="160" a="3413">
+<b>160.</b> (<b>3413.</b>) Wer würde, da das Leben in
+einer anderen Welt über unsere
+Sinneserkenntniss geht, nicht mit bösen
+Thaten sich um seine Wohlfahrt bemühen,
+wenn nicht schon hier auf Erden schnell
+der Tod erschiene, als Verkünder der
+Reife grässlicher Uebelthaten?
+</D>
+<F n="160">
+160) RĀJA-TAR. 6, 149. ²d.
+<s>BUtyE</s> unsere Verbesserung für
+<s>BftyEH</s> und <s>BItyEH</s>.
+<pb n="1.31"/>
+</F>
+<V2 n="160">
+160. ²b. <s>tIvra</s> ist mit
+<s>aSuBapAka</s> zu verbinden und demnach
+zu übersetzen: als Verkünder der
+schrecklichen Folgen von Uebelthaten.
+</V2>
+<V3 n="160">
+160. ²b. <s>tIvra</s> ist mit
+<s>aSuBapAka</s> zu verbinden und demnach
+zu übersetzen: als Verkünder der
+schrecklichen Folgen von Uebelthaten.
+</V3>
+<V4 n="160">
+-- 160, ²a, <g>α</g>. Lies <s>atIndriyAyAM</s>.
+</V4>
+</entry>
+
+<entry>
+<info L="161" page="1.31" gtypes="S,D,F"/>
+<S n="161">
+<s>atIva karkaSAH stabDA hiMsrajantuBirAvftAH .</s>
+<s>durAsadASca vizamA ISvarAH parvatA iva ..</s>
+</S>
+<D n="161">
+<b>161.</b> Vornehme Herren sind wie Berge
+überaus hart, steif, von Raubthieren
+umgeben, schwer zugänglich und rauh.
+</D>
+<F n="161">
+161) KATHĀS. 60, 38.
+</F>
+</entry>
+
+<entry>
+<info L="162" page="1.31" gtypes="S,D,F"/>
+<S n="162">
+<s>atIva guRasaMpanno na jAtu vinayAnvitaH .</s>
+<s>susUkzmamapi BUtAnAmupamardamupekzate ..</s>
+</S>
+<D n="162" a="3414">
+<b>162.</b> (<b>3414.</b>) Wer mit Vorzügen reichlich
+ausgestattet und wohlerzogen ist, duldet
+es nimmer, dass den Geschöpfen das
+geringste Leid angethan wird.
+</D>
+<F n="162">
+162) MBH. 5, 1455.
+</F>
+</entry>
+
+<entry>
+<info L="162.1" page="1.31" gtypes="HS"/>
+<HS>
+<s>atuzwidAnaM</s> s. Spruch 196.
+</HS>
+</entry>
+
+<entry>
+<info L="162.2" page="1.31" gtypes="HS"/>
+<HS>
+<s>atfptivyADi°</s> s. Spruch <s>avfttivyADi°</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="163" page="1.31" gtypes="S,D,F"/>
+<S n="163">
+<s>ato hAsyataraM loke kiMcidanyanna vidyate .</s>
+<s>yatra durjanamityAha durjanaH sajjanaM svayam ..</s>
+</S>
+<D n="163" a="63">
+<b>163.</b> (<b>63.</b>) Es giebt nichts
+Lächerlicheres in der Welt, als wenn
+Jemand, der selbst ein Bösewicht ist,
+einen braven Menschen Bösewicht nennt.
+</D>
+<F n="163">
+163) MBH. 1, 3087 (ŚAKUNTALOP. 7, 93
+bei CHEZY, S. 40 bei WEST.). ²c.
+<s>durjana ityAha</s>.
+</F>
+</entry>
+
+<entry>
+<info L="164" page="1.31" gtypes="S,D,F,V5"/>
+<S n="164">
+<s>attuM vAYCati SAMBavo gaRapaterAKuM kzuDArtaH PaRI</s>
+<s>taM ca krOYcaripoH SiKI girisutAsiMho 'pi nAgASanam .</s>
+<s>itTaM yatra parigrahasya GawanA SaMBorapi syAdgfhe</s>
+<s>tatrAnyasya kaTaM na BAvi jagatastasmAtsvarUpaM hi tat ..</s>
+</S>
+<D n="164" a="64">
+<b>164.</b> (<b>64.</b>) Des Śiva Schlange begehrt,
+von Hunger geplagt, des Gaṇeśa Maus zu
+verzehren; diese wiederum der Pfau des
+Skanda, den Pfau wiederum der Löwe der
+Gebirgstochter (Durgā). Wenn solcher
+Art der Familie Treiben sogar in Śiva's
+Hause ist, wie sollte es nicht auch bei
+Andern so sein? Daher also geht es in
+der Welt so zu.
+</D>
+<F n="164">
+164) PAÑCAT. ed. KOSEG. I, 175. ed.
+Bomb. 159. ²b. <s>nAgAnanam</s> KOSEG. ²d.
+<s>jagato yasmAt</s> st. <s>jagatastasmAt</s>
+ed. Bomb.
+</F>
+<V5 n="164">
+-- 164. PRASAṄGAR. ²a. <s>vAhanaM</s> st. <s>SAMBavo</s>. ²b. <s>krOYcapateH SiKI ca girijAsiMho 'pi nAgAnanam</s>. ²c. ²d. <s>gOrI jahnusutAmasUyati kalAnATaM kapAlAnalo nirviRRaH sa papO kuwumbakalahAdISo 'pi hAlAhalam</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="165" page="1.31" gtypes="S,D,F"/>
+<S n="165">
+<s>atyacCenAvirudDena suvfttenAticAruRA .</s>
+<s>antarBinnena saMprAptaM mOktikenApi banDanam ..</s>
+</S>
+<D n="165" a="123">
+<b>165.</b> (<b>123.</b>) Sogar eine überaus
+durchsichtige, gefällige, hübsch runde,
+allerliebste Perle wird auf einen Faden
+gezogen, wenn sie durchbohrt worden ist.
+Sogar ein nach der Erlösung Strebender,
+der überaus rein ist, mit Niemanden im
+Streite liegt, einen guten Lebenswandel
+führt und Jedermann gefällt, wird wieder
+in die irdischen Bande geschlagen, wenn
+er mit sich selbst entzweit ist.
+</D>
+<F n="165">
+165) PAÑCAT. ed. Bomb. III, 140. IV,
+112. ed. KOSEG. IV, 78. ²a.
+<s>antaHsTena virudDena</s> KOSEG. KERN
+möchte <s>atyacCena nirudDena</s> lesen.
+²d. <s>nibanDanam</s> st. <s>api
+banDanam</s> ed. Bomb. an einer Stelle.
+<pb n="1.32"/>
+</F>
+</entry>
+
+<entry>
+<info L="166" page="1.32" gtypes="S,D,F"/>
+<S n="166">
+<s>atyantakopaH kaWurA ca vARI daridratA ca svajanezu vEram .</s>
+<s>nIcaprasaNgaH kulahInasevA cihnAni dehe narakasTitAnAm ..</s>
+</S>
+<D n="166">
+<b>166.</b> Heftiger Zorn, scharfe Reden,
+Armuth, Feindschaft mit seinen
+Angehörigen, Umgang mit Niederen und
+Dienst bei Leuten geringen Stands sind
+die Zeichen an der Person der schon in
+der Hölle Befindlichen.
+</D>
+<F n="166">
+166) VṚDDHA-CĀṆ. 7, 17. ²d. <s>vA</s>
+vor <s>cihnAni</s> in einer Ausgabe.
+</F>
+</entry>
+
+<entry>
+<info L="167" page="1.32" gtypes="S,D,F"/>
+<S n="167">
+<s>atyantacaYcalasyeha pAratasya nibanDane .</s>
+<s>kAmaM vijYAyate yuktirna strIcittasya kA ca na ..</s>
+</S>
+<D n="167" a="3416">
+<b>167.</b> (<b>3416.</b>) Wohl kennt man ein Mittel
+das überaus bewegliche Quecksilber zu
+binden, aber kein Mittel ein Weiberherz
+zu fesseln.
+</D>
+<F n="167">
+167) KATHĀS. 37, 232.
+</F>
+</entry>
+
+<entry>
+<info L="168" page="1.32" gtypes="S,D,F"/>
+<S n="168">
+<s>atyantamasadAryARAmanAlocitacezwitam .</s>
+<s>atastezAM vivarDante satataM sarvasaMpadaH ..</s>
+</S>
+<D n="168" a="3417">
+<b>168.</b> (<b>3417.</b>) Bei ehrenwerthen Männern
+findet ein unüberlegtes Handeln gar
+nicht Statt; darum wächst bei ihnen
+stets die Wohlfahrt allerwärts.
+</D>
+<F n="168">
+168) KĀVYĀD. 2, 250.
+</F>
+</entry>
+
+<entry>
+<info L="169" page="1.32" gtypes="S,D,F,V5"/>
+<S n="169">
+<s>atyantavimuKe dEve vyarTayatne ca pOruze .</s>
+<s>manasvino daridrasya vanAdanyatkutaH suKam ..</s>
+</S>
+<D n="169" a="65">
+<b>169.</b> (<b>65.</b>) Ist das Schicksal gar zu
+widerwärtig und wird Menschenkraft
+vergebens angestrengt, wie sollte da
+eine andere Freude als der Wald dem
+verständigen Armen übrig bleiben?
+</D>
+<F n="169">
+169) HIT. ed. SCHL. I, 124. ed.
+JOHNS. 139. ²b. <s>vyarTe</s>.
+</F>
+<V5 n="169">
+-- 169. PRASAṄGAR.
+</V5>
+</entry>
+
+<entry>
+<info L="170" page="1.32" gtypes="S,D,F,V2,V3"/>
+<S n="170">
+<s>atyambupAnAdvizamASanAcca divASayAjjAgaraRAcca rAtrO .</s>
+<s>saMroDanAnmUtrapurIzayoSca zaqBiH prakArEH praBavanti rogAH ..</s>
+</S>
+<D n="170" a="3418">
+<b>170.</b> (<b>3418.</b>) Auf sechs Arten entstehen
+Krankheiten: durch zu vieles
+Wassertrinken, durch Genuss
+schwerverdaulicher Speisen, durch
+Schlafen am Tage, durch Wachen in der
+Nacht und durch Anhalten des Stuhlgangs
+und des Urins.
+</D>
+<F n="170">
+170) VIKRAMAC. 237. Unsere
+Aenderungen: ²a. <s>atyambu</s> für
+<s>ahyambu, vizamASanAcca</s> für
+<s>vizamAsanAcca</s>.
+</F>
+<V2 n="170">
+170. Lies: unregelmässiges Essen st.
+Genuss schwerverdaulicher Speisen.
+</V2>
+<V3 n="170">
+170. Lies: unregelmässiges Essen st.
+Genuss schwerverdaulicher Speisen.
+</V3>
+</entry>
+
+<entry>
+<info L="171" page="1.32" gtypes="S,D,F"/>
+<S n="171">
+<s>atyalpasaMpadaH santaH pumAnizwaSca duzkule .</s>
+<s>lakzmIranaBijAtasya veDasaH sKalitatrayam ..</s>
+</S>
+<D n="171">
+<b>171.</b> Vorzügliche Menschen in knappen
+Vermögensverhältnissen, ein gern
+gesehener Mann in niedriger Familie und
+Glücksgüter beim Unedlen sind drei
+Missgriffe des Schöpfers.
+</D>
+<F n="171">
+171) SUBHĀṢ. 115. ²b. <s>izwaSca</s>
+unsere Aenderung für <s>ikyaM ca</s>.
+<pb n="1.33"/>
+</F>
+</entry>
+
+<entry>
+<info L="172" page="1.33" gtypes="S,D,F"/>
+<S n="172">
+<s>atyAdaraparo vidvAnIhamAnaH sTirAM Sriyam .</s>
+<s>agneH SezamfRAcCezaM SatroH SezaM na Sezayet ..</s>
+</S>
+<D n="172" a="3419">
+<b>172.</b> (<b>3419.</b>) Wer recht vorsichtig und
+klug ist und ist und dauerndes Glück
+anstrebt, soll keinen Feuerrest, keinen
+Schuldenrest und keinen Feindesrest
+zurücklassen.
+</D>
+<F n="172">
+172) PRAB. 88. ²a. <s>anAdaraparo</s>.
+²b. <s>parAM</s> st. <s>sTirAM</s>. ²c. ²d.
+Auch beim Schol. zu ŚIŚ. 2, 33 Vgl.
+Spruch <s>fRaSezo</s>.
+</F>
+</entry>
+
+<entry>
+<info L="173" page="1.33" gtypes="S,D,F"/>
+<S n="173">
+<s>atyAdaro Bavedyatra kAryakAraRavarjitaH .</s>
+<s>tatra SaNkA prakartavyA pariRAme suKAvahA ..</s>
+</S>
+<D n="173" a="66">
+<b>173.</b> (<b>66.</b>) Wo ohne besondere
+Veranlassung allzugrosse Rücksicht
+genommen wird, da ist Besorgniss am
+Platz, die schliesslich Heil bringt.
+</D>
+<F n="173">
+173) PAÑCAT. ed. KOSEG. I, 463. ed.
+Bomt. 413.
+</F>
+</entry>
+
+<entry>
+<info L="174,175" page="1.33" gtypes="S,S,D,D,F,V3"/>
+<S n="174">
+<s>atyAryamatidAtAramatiSUramativratam .</s>
+<s>prajYABimAninaM cEva SrIBaryAnnopasarpati ..</s>
+</S>
+<S n="175">
+<s>na cAtiguRavatsvezA nAtyantaM nirguRezu ca .</s>
+<s>unmattA gOrivAnDA SrIH kvacidevAvatizWate ..</s>
+</S>
+<D n="174" a="3420">
+<b>174.</b> (<b>3420.</b>) Einem gar zu Ehrenhaften,
+einem gar zu Freigebigen, einem gar zu
+Heldenmüthigen, einem gar zu Frommen und
+einem sich für klug haltenden Manne naht
+aus Furcht die Glücksgöttin nicht.
+</D>
+<D n="175" a="3421">
+<b>175.</b> (<b>3421.</b>) Auch weilt sie nicht bei
+gar zu Tugendhaften, auch nicht bei
+durchaus Untugendhaften: wie eine tolle
+Kuh bleibt die blinde Glücksgöttin
+stehen, wo es sich gerade trifft.
+</D>
+<F n="174,5">
+174.5) MBH. 5, 1509. fgg. Zwischen
+die beiden letzten Verse schieben die
+Ausgaben noch folgenden Vers ein:
+<s>nEzA guRAnkAmayate nErguRyAnnAnurajyate</s>.
+</F>
+<V3 n="174">
+174. fg. Vgl. Spruch 2570.
+</V3>
+</entry>
+
+<entry>
+<info L="176" page="1.33" gtypes="S,D,F"/>
+<S n="176">
+<s>atyAsannA vinASAya dUrasTA na PalapradAH .</s>
+<s>sevyA maDyamaBAvena rAjavahnigurustriyaH ..</s>
+</S>
+<D n="176" a="67">
+<b>176.</b> (<b>67.</b>) Fürsten, Feuer, Lehrer und
+Weiber bringen in allzugrosser Nähe
+Verderben, aus der Ferne aber einen
+Nutzen: in mittlerer Entfernung muss man
+mit ihnen verkehren.
+</D>
+<F n="176">
+176) VṚDDHA-CĀṆ. 14, 11. ŚĀRṄG.
+PADDH. RĀJANĪTI 94 (102). SUBHĀṢ.
+181 und 199. ²a. <s>atyAsaM</s> und
+<s>atyASanna</s>. ²b.
+<s>dUrataScAPalapradAH</s> und
+<s>dustaScAPalapradAH, pradaH</s> und
+<s>pradA</s>. ²c. <s>sevayA maDyaBAvena,
+sevyantAM</s> (auch <s>sevyatAM)
+maDyaBAgena, maDyaBAvena sevyante</s>
+(auch <s>sevyake</s>). ²d. <s>rAjA,
+vahnirguruH striyaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="176.1" page="1.33" gtypes="HS"/>
+<HS>
+<s>atyuktaM (atyuktiM) rahasi gataM</s> s. Spruch <s>aBuktvA rahasi gatam</s>. <pb n="1.34"/>
+</HS>
+</entry>
+
+<entry>
+<info L="177" page="1.34" gtypes="S,D,F"/>
+<S n="177">
+<s>atyuktO na yadi prakupyasi mfzAvAdaM ca no manyase</s>
+<s>tadbrUmo 'dButakIrtanena rasanA kezAM na kaRqUyate .</s>
+<s>deva tvattaruRapratApatapanajvAlAvalISozitAH</s>
+<s>sarve vAriDayastavArivanitAnetrAmbuBiH pUritAH ..</s>
+</S>
+<D n="177" a="69">
+<b>177.</b> (<b>69.</b>) Wenn du bei einer
+Uebertreibung nicht in Zorn geräthst und
+wenn du es nicht für Spott hältst, dann
+rufen wir aus (wem juckt nicht die
+Zunge, wenn es ein Wunder zu berichten
+giebt): «o König, alle Meere, welche
+durch die brennenden Flammen deiner
+jugendlichen Majestät ausgetrocknet
+waren, sind durch die Thränen der Weiber
+deiner Feinde wieder voll geworden.»
+</D>
+<F n="177">
+177) ŚĀRṄG. PADDH.
+SĀMĀNYARĀJAPRAŚAṂSĀ am Ende. ²a.
+<s>prakupyati, na cetanyase</s> st. <s>ca no
+manyase</s>. ²b. <s>dadrumo, tezAM</s> st.
+<s>kezAM, kARqUyate</s>. ²c. <s>taruRA,
+SozitA</s>. ²d. <s>pAriDayas</s>. Der Spruch
+ist aus MAHĀN. 385, wo gelesen wird:
+²a. <s>atyuktO yadi nEva kupyasi
+mfzAvAcaM na cenmanyase</s>. ²b.
+<s>tvadrupo</s>(d. i. <s>tadbrUmo ')
+dButavastuvarRanaviDO vyagrAH kavInAM
+giraH</s>. ²c. <s>dahana</s> st. <s>tapana</s>.
+</F>
+</entry>
+
+<entry>
+<info L="177.1" page="1.34" gtypes="HS"/>
+<HS>
+<s>atyuktO yadi nEva</s> s. den vorangehenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="178" page="1.34" gtypes="S,D,F,V3"/>
+<S n="178">
+<s>atyucCrite mantriRi pArTive ca vizwaBya pAdAvavatizWate SrIH .</s>
+<s>sA strIsvaBAvAdasahA Barasya tayordvayorekataraM jahAti ..</s>
+</S>
+<D n="178" a="70">
+<b>178.</b> (<b>70.</b>) Haben Beide, Minister und
+Fürst, sich übermässig erhoben, so hält
+die Glücksgöttin, mit beiden Füssen sich
+stemmend, wohl eine Weile Stand; als
+Weib aber eine Last zu tragen ungewohnt,
+lässt sie den einen oder den andern los.
+</D>
+<F n="178">
+178) MUDRĀR. 91. HIT. ed. SCHL. II,
+120. ed. JOHNS. 125. ed. RODR. S. 227.
+PAÑCAT. ed. orn. i, 131. ²a. ²b.
+<s>cAvazwaBya</s>. ²c. <s>upatizWate</s>.
+²c. <s>Bayasya</s> st. <s>Barasya</s>. ²d.
+<s>dvayostayorekataraM</s>.
+</F>
+<V3 n="178">
+178. Vgl. Spruch 5336.
+</V3>
+</entry>
+
+<entry>
+<info L="179" page="1.34" gtypes="S,D,F"/>
+<S n="179">
+<s>atyutsekena sahasA sAhasADyavasAyinAm .</s>
+<s>SrIrArohati saMdehaM mahatAmapi BUBftAm ..</s>
+</S>
+<D n="179" a="3422">
+<b>179.</b> (<b>3422.</b>) Selbst mächtiger Fürsten
+Glück geräth in Gefahr, wenn sie aus
+allzu grossem Hochmuth übereilter Weise
+sich zu einer Unbesonnenheit
+entschliessen.
+</D>
+<F n="179">
+179) RĀJA-TAR. 4, 517. ²a. <s>atyu°</s>
+unsere Verbesserung für <s>aByu°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="180" page="1.34" gtypes="S,D,F"/>
+<S n="180">
+<s>atyudAttaguRezvezA kftapuRyEH praropitA .</s>
+<s>SataSAKI Bavatyeva yAvanmAtrApi satkriyA ..</s>
+</S>
+<D n="180" a="3423">
+<b>180.</b> (<b>3423.</b>) Eine Wohlthat, sei sie
+auch noch so klein, treibt hundert
+Zweige, wenn sie von Glücklichen auf
+Männer mit stark hervorragenden Vorzügen
+gepfropft wird.
+</D>
+<F n="180">
+180) RĀJA-TAR. ed. TR. 3, 304. ed.
+Calc. 310. <pb n="1.35"/>
+</F>
+</entry>
+
+<entry>
+<info L="181" page="1.35" gtypes="S,D,F"/>
+<S n="181">
+<s>atyunnatastanamuro nayane sudIrGe vakre BruvAvatitarAM vacanaM tato 'pi .</s>
+<s>maDyo 'DikaM tanuranUnagururnitambo mandA gatiH kimapi cAdButayOvanAyAH ..</s>
+</S>
+<D n="181" a="3424">
+<b>181.</b> (<b>3424.</b>) Auf der Brust der Jungfrau
+von wunderbarer Jugend erhebt sich ein
+hoher Busen, ihre Augen sind sehr lang
+gestreckt, ihre Brauen gebogen und noch
+gewundener als diese ist ihre Rede, ihre
+Leibesmitte ist überaus schmal, ihre
+Hüften haben ein bedeutendes Gewicht und
+ihr Gang ist ein wenig träge.
+</D>
+<F n="181">
+181) SĀH. D. 42.
+</F>
+</entry>
+
+<entry>
+<info L="182" page="1.35" gtypes="S,D,F"/>
+<S n="182">
+<s>atyunnatiM prApya naraH prAvAraH kIwako yaTA .</s>
+<s>sa vinaSyatyasaMdehamAhEvamuSanA nfpa ..</s>
+</S>
+<D n="182" a="3425">
+<b>182.</b> (<b>3425.</b>) Ein Mann, der, wie eine
+fliegende Ameise, zu hoch gestiegen ist,
+stürzt, wie diese, sicher in's
+Verderben; so hat, o Fürst, Uśanas
+gesagt.
+</D>
+<F n="182">
+182) HARIV. 1166. ²a. <s>atyu°</s>
+unsere Aenderung für <s>aByu°</s> und
+<s>apyu°; nfpa</s> st. <s>naraH</s>. ²b.
+<s>prAcAraH</s> eine von NĪLAK. erwähnte
+Variante. Vgl. Spruch <s>amitrAdunnatiM
+prApya</s>.
+</F>
+</entry>
+
+<entry>
+<info L="183" page="1.35" gtypes="S,D,F"/>
+<S n="183">
+<s>atyunnato 'mbuBirmeGaScAtakAnna Dinoti cet .</s>
+<s>marutA hftasarvasvaH sa paScAtkiM karizyati ..</s>
+</S>
+<D n="183">
+<b>183.</b> Wenn eine zu hoch gestiegene
+Wolke nicht mit ihrem Wasser die Cātaka
+erfreut, was fängt sie dann später an,
+wenn der Wind ihr Habe und Gut geraubt
+haben wird?
+</D>
+<F n="183">
+183) SUBHĀṢ. 111. Unsere
+Aenderungen: ²a. <s>atyunnato</s> für
+<s>aByu°; meGaS</s> für <s>meGAS</s>. ²c.
+<s>hfta</s> für <s>hata</s>.
+</F>
+</entry>
+
+<entry>
+<info L="184" page="1.35" gtypes="S,D,F"/>
+<S n="184">
+<s>atyeti rajanI yA tu sA na pratinivartate .</s>
+<s>yAtyeva yamunA pUrRA samudramudakArRavam ..</s>
+</S>
+<D n="184" a="3426">
+<b>184.</b> (<b>3426.</b>) Die Nacht, die da
+verstreicht, kehrt nicht wieder zurück:
+ist die Yamunā voll, so geht sie in's
+Meer, dem Behälter der Gewässer.
+</D>
+<F n="184">
+184) R. ed. Bomb. 2, 105, 19. ed.
+SCHL. 1-7. SAṂSKṚTAPĀṬHOP. 57. ²c.
+<s>pUrRaM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="185" page="1.35" gtypes="S,D,F"/>
+<S n="185">
+<s>atrodyAne mayA dfzwA vallarI paYcapallavA .</s>
+<s>pallave pallave tAmrA yasyAM kusumamaYjarI ..</s>
+</S>
+<D n="185" a="3427">
+<b>185.</b> (<b>3427.</b>) In diesem Garten (am
+Körper der Schönen) habe ich eine
+Schlingpflanze (einen Arm) mit fünf
+Ranken (Fingern) gesehen und auf jeder
+Ranke dieser Pflanze ein dunkelrothes
+Blüthenknöspchen (einen Fingernagel).
+</D>
+<F n="185">
+185) KĀVYĀD. 3, 112.
+</F>
+</entry>
+
+<entry>
+<info L="186" page="1.35" gtypes="S,D,F"/>
+<S n="186">
+<s>atvarA sarvakAryezu tvarA kAryavinASinI .</s>
+<s>tvaramARena mUrKeRa mayUro vAyasIkftaH ..</s>
+</S>
+<D n="186">
+<b>186.</b> Bei keinem Geschäfte Eile! Eile
+verdirbt ein Geschäft: ein Thor, der da
+eilte, verwandelte einen Pfau in eine
+Krähe.
+</D>
+<F n="186">
+186) SUBHĀṢ. 201. ²a. <s>atvara</s>
+die Hdschr.
+</F>
+</entry>
+
+<entry>
+<info L="186.1" page="1.35" gtypes="HS"/>
+<HS>
+<s>aTa cedbudDijaM kftvA</s> s. nach Spruch <s>abudDimASritAnAM tu</s>. <pb n="1.36"/>
+</HS>
+</entry>
+
+<entry>
+<info L="187" page="1.36" gtypes="S,D,F"/>
+<S n="187">
+<s>aTa nityamanityaM vA neha Socanti tadvidaH .</s>
+<s>nAnyaTA Sakyate kartuM svaBAvaH SocatAmiti ..</s>
+</S>
+<D n="187" a="3428">
+<b>187.</b> (<b>3428.</b>) Diejenigen, welche das
+wahre Verständniss haben, trauern hier
+auf Erden weder um das Ewige noch um das
+Vergängliche, weil für die Trauernden
+die Natur der Dinge nicht geändert
+werden kann.
+</D>
+<F n="187">
+187) BHĀG. P. 7, 2, 49. ²c. ²d.
+BURNOUF übersetzt: quant à ceux qui
+pleurent, c'est qu'ils ne peuvent
+vaincre la nature.
+</F>
+</entry>
+
+<entry>
+<info L="187.1" page="1.36" gtypes="HS"/>
+<HS>
+<s>aTa ye budDijaM kftvA</s> s. nach Spruch <s>abudDimASritAnAM tu</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="187.2" page="1.36" gtypes="HS"/>
+<HS>
+<s>aTa ye budDimaprAptAH</s> s. nach Spruch <s>ye ca budDisuKaM prAptAH</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="187.3" page="1.36" gtypes="HS"/>
+<HS>
+<s>aTa ye saMhatA (sahitA) vfkzAH</s> s. nach Spruch <s>mahAnapyekajo vfkzaH</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="188" page="1.36" gtypes="S,D,F"/>
+<S n="188">
+<s>aTa vA naSyati prajYA prAjYasyApi narasya hi .</s>
+<s>pratikUle gate dEve vinASe sumupasTite ..</s>
+</S>
+<D n="188">
+<b>188.</b> Doch was frage ich, da ja sogar
+des verständigen Mannes Verstand dahin
+ist, wenn das Schicksal widerwärtig ist
+und sein Untergang bevorsteht.
+</D>
+<F n="188">
+188) R. ed. GORR. 6, 8, 15.
+</F>
+</entry>
+
+<entry>
+<info L="188.1" page="1.36" gtypes="HS"/>
+<HS>
+<s>aTa saMtyajato Darmam</s> s. nach Spruch <s>DarmamAcarato rAjYaH</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="189" page="1.36" gtypes="S,D,F,V3"/>
+<S n="189">
+<s>adattadAnAcca Baveddaridro daridraBAvAdvitanoti pApam .</s>
+<s>pApaM hi kftvA narakaM prayAti punardaridraH punareva pApI ..</s>
+</S>
+<D n="189">
+<b>189.</b> Durch Nichtspenden wird man arm,
+in Folge der Armuth verübt man Böses;
+thut man Böses, so fährt man zur Hölle;
+darauf wird man wieder arm und wieder
+frevelhaft.
+</D>
+<F n="189">
+189) SUBHĀṢ. 290. ²a. ²d.
+<s>daridrI</s> st. <s>daridro</s> und
+<s>daridraH</s> die Hdschr.
+</F>
+<V3 n="189">
+189. Vgl. Spruch 7440.
+</V3>
+</entry>
+
+<entry>
+<info L="190" page="1.36" gtypes="S,D,F"/>
+<S n="190">
+<s>adarSane darSanamAtrakAmA dfzwO parizvaNgarasEkalolAH .</s>
+<s>aliNgitAyAM punarAyatAkzyAmASAsmahe vigrahayoraBedam ..</s>
+</S>
+<D n="190" a="71">
+<b>190.</b> (<b>71.</b>) Sehen wir sie nicht, so
+verlangen wir nur nach ihrem Anblick;
+erblicken wir sie, so begehren wir nur
+nach dem Genuss der Umarmung; haben wir
+die Langäugige umschlungen, so wünschen
+wir, dass die beiden Körper nicht mehr
+getrennt werden.
+</D>
+<F n="190">
+190) BHARTṚ. ed. BOHL. 1, 23. HAEB.
+25. lith. Ausg. II 64. ²b. <s>dfzwvA</s>
+und <s>dfzwA, lolA</s>.
+</F>
+</entry>
+
+<entry>
+<info L="191" page="1.36" gtypes="S,D,F"/>
+<S n="191">
+<s>adAtari samfdDe 'pi kiM kuryurupajIvinaH .</s>
+<s>kiMSuke kiM SukaH kuryAtPalite 'pi buBukzitaH ..</s>
+</S>
+<D n="191">
+<b>191.</b> Was haben die Untergebenen selbst
+von einem reichen Manne, wenn er nicht
+spendet? Was hat der hungrige Papagei
+von Kiṃśuka, auch wenn er mit Früchten
+beladen ist?
+</D>
+<F n="191">
+191) SUBHĀṢ. 291.
+</F>
+</entry>
+
+<entry>
+<info L="191.1" page="1.36" gtypes="HS"/>
+<HS>
+<s>adAtA puruzastyAgI</s> s. Spruch <s>dAtAraM kfpaRaM manye</s>. <pb n="1.37"/>
+</HS>
+</entry>
+
+<entry>
+<info L="192" page="1.37" gtypes="S,D,F"/>
+<S n="192">
+<s>adAtA vaMSadozeRa karmadozAddaridratA .</s>
+<s>unmAdo mAtfdozeRa pitfdozeRa mUrKatA ..</s>
+</S>
+<D n="192" a="73">
+<b>192.</b> (<b>73.</b>) Der Geizhals ist es durch
+die Schuld der Familie, Armuth ist die
+Folge der Thaten in einem
+vorangegangenen Leben, an
+Geistesverwirrung ist die Mutter Schuld,
+an Thorheit der Vater.
+</D>
+<F n="192">
+192) CĀṆ. 48 bei HAEB. S. 316.
+</F>
+</entry>
+
+<entry>
+<info L="192.1" page="1.37" gtypes="HS"/>
+<HS>
+<s>adurgavizayaH kasya</s> und <s>adurgavizayo yasya</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="193" page="1.37" gtypes="S,D,F"/>
+<S n="193">
+<s>adurgo vizayaH kasya nAreH pariBavAspadam .</s>
+<s>adurgo 'nASrayo rAjA potacyutamanuzyavat ..</s>
+</S>
+<D n="193" a="3429">
+<b>193.</b> (<b>3429.</b>) Welchem Feinde ist ein
+Reich ohne Burg nicht ein Gegenstand des
+Spottes? Ein Fürst ohne Burg ist
+hilflos, wie ein Mann, der über Bord
+fiel.
+</D>
+<F n="193">
+193) HIT. ed. SCHL. III, 51. ed.
+JOHNS. 54. ²a. <s>adurga, sadurgo
+sadurga, sudurga, sudurgo; yasya</s> (mit
+vohergehendem <s>vizayo</s>) st. <s>kasya</s>.
+²b. <s>rAjYo</s> (sic) st. <s>nAreH,
+pariBavaspadaH</s>. ²c. <s>sadurgavizayo,
+adurgo vizayo</s>. ²d. <s>gotra</s> st.
+<s>pota</s>.
+</F>
+</entry>
+
+<entry>
+<info L="194" page="1.37" gtypes="S,D,F"/>
+<S n="194">
+<s>adfzwapUrvAnAdAya BAvAnapariSaNkitAn .</s>
+<s>izwAnizwAnmanuzyARAmastaM gacCanti rAtrayaH ..</s>
+</S>
+<D n="194" a="3430">
+<b>194.</b> (<b>3430.</b>) Schwinden die Nächte
+dahin, so nehmen sie früher nicht
+gekannte und nicht geahnte, erwünschte
+und unerwünschte Zustände der Menschen
+mit sich fort.
+</D>
+<F n="194">
+194) MBH. 12, 12519.
+</F>
+</entry>
+
+<entry>
+<info L="195" page="1.37" gtypes="S,D,F,V4,V5"/>
+<S n="195">
+<s>adfzwavyApAraM gatavati dinAnAmaDipatO yaSaHSezIBUte SaSini gataDAmni grahagaRe .</s>
+<s>taTAnDaM saMjAtaM jagadupanate meGasamaye yaTAmI gaRyante tamasi pawavaH kIwamaRayaH ..</s>
+</S>
+<D n="195" a="74">
+<b>195.</b> (<b>74.</b>) Wenn bei der Ankunft der
+Regenzeit die Sonne an ihre uns
+unbekannte Beschäftigung gegangen ist,
+wenn vom Monde nur Ruhm übriggeblieben
+und der Planeten Licht erloschen ist;
+dann sind die Menschen so blind, dass
+man auf jene im Dunkel geschickten
+Leuchtkäfer gern achtet.
+</D>
+<F n="195">
+195) ĀNANDAVARDHANA in ŚĀRṄG.
+PADDH. KHADYOTĀNYOKTI 3. ²c.
+<s>taTAnDaM saMjAtaM</s> unsere Aenderung
+für <s>taTAMvaM saMjAtaM</s> und <s>taTA
+DvAntaM jAtaM; upagate</s> st.
+<s>upanate</s>.
+</F>
+<V4 n="195">
+-- 195, ²b, <g>β</g>. AUFRECHT a. a. O. 9 übersetzt: «dass man selbst die Leuchtkäfer zur Erhellung des Dunkels geeignet hält».
+</V4>
+<V5 n="195">
+-- 195. VIŚVAGUṆĀDARŚA. ²c. <s>taTA DvAntaM jAtaM</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="196" page="1.37" gtypes="S,D,F,V3"/>
+<S n="196">
+<s>adfzwidAnaM kftapUrvanASanaM vimAnanA duScaritAnukIrtanam .</s>
+<s>kaTAprasaNgena ca nAmavismftirviraktaBAvasya janasya lakzaRam ..</s>
+</S>
+<D n="196" a="3415">
+<b>196.</b> (<b>3415.</b>) Das Nichtvorlassen, das
+Nichtanerkennen geleisteter Dienste, an
+den Tag gelegte Geringachtung, Erwähnung
+der Vergehen und ein Vergessen des
+Namens im Verlauf des Gesprächs sind
+Anzeichen, dass eine Person uns nicht
+mehr gewogen ist.
+</D>
+<F n="196">
+196) HIT. ed. SCHL. ad 27, 16. ed.
+JOHNS. I, 114. SUBHĀṢ. 106. ²a.
+<s>atuzwidAnaM</s> HIT. ²b. <s>vimAnanA</s>
+unsere Verbesserung für <s>vimAnatA</s> des
+SUBHĀṢ., <s>amAnanaM</s> HIT. ²c.
+<s>kaTAprasaNgo na ca nAmavismayo</s>
+SUBHĀṢ. <pb n="1.38"/>
+</F>
+<V3 n="196">
+196. = NĪTIŚĀSTRA in
+Telugu-Charr. 173. ²c.
+<s>kaTApraSaMsena</s>. Im Uebrigen wie
+HIT.
+</V3>
+</entry>
+
+<entry>
+<info L="197" page="1.38" gtypes="S,D,F"/>
+<S n="197">
+<s>adfzwe darSanotkaRWA dfzwe vicCedaBIrutA .</s>
+<s>nAdfzwena na dfzwena BavatA laByate suKam ..</s>
+</S>
+<D n="197" a="75">
+<b>197.</b> (<b>75.</b>) Sieht man dich nicht, so
+sehnt man sich nach deinem Anblick; hat
+man dich vor Augen, so fürchtet man sich
+vor der Trennung: man mag dich nicht
+sehen oder sehen, Freude hat man
+nimmermehr.
+</D>
+<F n="197">
+197) KĀVYAPR. S. 52.
+</F>
+</entry>
+
+<entry>
+<info L="198" page="1.38" gtypes="S,D,F"/>
+<S n="198">
+<s>adeSakAlajYamanAyatikzamaM yadapriyaM lAGavakAri cAtmanaH .</s>
+<s>yo 'trAbravItkAraRavarjitaM vaco na tadvacaH syAdvizameva tadBavet ..</s>
+</S>
+<D n="198" a="3431">
+<b>198.</b> (<b>3431.</b>) Wenn hier Jemand ohne
+Veranlassung unliebe Worte redet, die
+weder dem Orte, noch der Zeit
+entsprechen, auch nicht für die Folge
+erspriesslich sind und dem Redenden
+Unehre bringen, so sind dieses keine
+Worte mehr, sondern geradezu Gift.
+</D>
+<F n="198">
+198) PAÑCAT. ed. KOSEG. III, 113.
+ed. Bomb. 112. ²d. <s>vacaH</s> st.
+<s>Bavet</s>.
+</F>
+</entry>
+
+<entry>
+<info L="199" page="1.38" gtypes="S,D,F"/>
+<S n="199">
+<s>adeSakAle yaddAnamapAtreByaSca dIyate .</s>
+<s>asatkftamavajYAtaM tattAmasamudAhftam ..</s>
+</S>
+<D n="199">
+<b>199.</b> Eine Gabe, die man am unrechten
+Orte, zu unrechter Zeit, an Unwürdige,
+unfreundlich und mit Geringschätzung
+reicht, nennt man eine Gabe der
+Finsterniss.
+</D>
+<F n="199">
+199) BHAG. 17, 22. Vgl. Spruch
+<s>dAtavyamiti</s> und <s>yattu
+pratyupakArArTam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="199.1" page="1.38" gtypes="HS"/>
+<HS>
+<s>adeSasTo bahuripu°</s> s. nach Spruch <s>bAlo vfdDo</s> fgg.
+</HS>
+</entry>
+
+<entry>
+<info L="200" page="1.38" gtypes="S,D,F"/>
+<S n="200">
+<s>adeSasTo hi ripuRA svalpakenApi hanyate .</s>
+<s>grAho 'lpIyAnapi jale gajendramapi karzati ..</s>
+</S>
+<D n="200" a="76">
+<b>200.</b> (<b>76.</b>) Wer nicht im heimischen
+Gebiete steht, wird selbst von einem
+ganz geringen Feinde geschlagen: sogar
+einen mächtigen Elephanten zieht ein
+Krokodil, obgleich kleiner, im Wasser
+mit sich fort.
+</D>
+<F n="200">
+200) KĀM. NĪTIS. 9, 38. HIT. ed.
+SCHL. IV, 45. ed. JOHNS. 49. ²a. <s>'pi</s>
+st. <s>hi</s>. ²b. <s>vaDyate</s> und
+<s>vADyate</s> st. <s>hanyate</s>. ²d.
+<s>gajeSam, apa</s> st. <s>api</s>. Vgl. Spr.
+<s>nakraH svasTAnamAsAdya</s>.
+</F>
+</entry>
+
+<entry>
+<info L="201" page="1.38" gtypes="S,D,F,V3"/>
+<S n="201">
+<s>adBirgAtrARi SuDyanti manaH satyena SuDyati .</s>
+<s>vidyAtapoByAM BUtAtmA budDirjYAnena SuDyati ..</s>
+</S>
+<D n="201">
+<b>201.</b> Der Leib wird rein durch Wasser,
+das Herz durch Wahrheit, die Seele durch
+die heilige Lehre und Kasteiungen, der
+Verstand durch Wissen.
+</D>
+<F n="201">
+201) M. 5, 109. Vgl. den folgenden
+Spruch.
+</F>
+<V3 n="201">
+201. = BRĀHMADHARMA 2, 6, 7.
+</V3>
+</entry>
+
+<entry>
+<info L="202" page="1.38" gtypes="S,D,F"/>
+<S n="202">
+<s>adBiH SuDyanti vastrARi manaH satyena SuDyati .</s>
+<s>ahiMsayA ca BUtAtmA budDirjYAnena SuDyati ..</s>
+</S>
+<D n="202">
+<b>202.</b> Kleider werden rein durch Wasser,
+das Herz durch Wahrheit, die Seele durch
+Schonung alles Lebenden, der Verstand
+durch Wissen.
+</D>
+<F n="202">
+202) SUBHĀṢ. 192. ²c. <s>pUtAtmA</s>
+die Hdschr. Vgl. den vorangehenden
+Spruch.
+</F>
+</entry>
+
+<entry>
+<info L="202.1" page="1.38" gtypes="HS"/>
+<HS>
+<s>adyakAlikayA budDyA</s> s. Spruch <s>AdyakAlikayA budDyA</s>. <pb n="1.39"/>
+</HS>
+</entry>
+
+<entry>
+<info L="202.2" page="1.39" gtypes="HS"/>
+<HS>
+<s>adyAtkAkaH puroqASam</s> s. nach Spruch <s>yadi na praRayedrAjA</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="203" page="1.39" gtypes="S,D,F,V3"/>
+<S n="203">
+<s>adyApi nojJati haraH kila kAlakUwaM kUrmo biBarti DaraRIM Kalu pfzWaBAge .</s>
+<s>amBoniDiH sahati duHsahavAqavAgnimaNgIkftaM sukftinaH paripAlayanti ..</s>
+</S>
+<D n="203" a="77">
+<b>203.</b> (<b>77.</b>) Auch heute noch lässt Śiva,
+wie wir wissen, das (bei der Quirlung
+des Oceans zum Vorschein gekommene Gift)
+Kālakūṭa (welches er verschluckte)
+nicht fahren; auch heute noch trägt ja
+die Schildkröte die Erde auf ihrem
+Rücken; auch heute noch erträgt das Meer
+das schwer zu ertragende höllische
+Feuer: Tugendhafte halten was sie
+versprochen.
+</D>
+<F n="203">
+203) CAURAP. ed. BOHL. 50. HAEB. 49.
+ŚUK. in LA. (III) S. 37. ŚĀRṄG.
+PADDH. SAJJANAPRAŚAṂSĀ 16 (18).
+PRASAṄGĀBH. 10, ²b. SUBHĀṢ. 187. ²a.
+<s>kali</s> st. <s>kila</s>. ²b.
+<s>pfzWakena</s> und <s>cAtamapfzWe</s> st.
+<s>pfzWaBAge</s> (PRASAṄGĀBH.),
+<s>DaraRIDarapfzWaBAgAM</s> SUBHĀṢ.
+²c. <s>amBoniDirvahati</s> Alle mit
+Ausnahme von SUBHĀṢ., <s>durvaha</s> st.
+<s>duHsaha</s>.
+</F>
+<V3 n="203">
+203. = BAHUDARŚANA 33. ²d.
+<s>pratipAlayanti</s>.<pb1 n="622"/>
+</V3>
+</entry>
+
+<entry>
+<info L="204" page="1.39" gtypes="S,D,F"/>
+<S n="204">
+<s>adyApi SItadyutirAtmabimbaM nirmAya nirmAya punarBunakti .</s>
+<s>tasyA muKenAyatalocanAyAH kartuM na SaktiH sadfSaM priyAyAH ..</s>
+</S>
+<D n="204">
+<b>204.</b> Auch heute noch bildet und
+geniesst immer von Neuem der Mond seine
+Scheibe; mit dem Antlitz dieser
+langäugigen Geliebten vermag ich nicht
+Gleiches anzustellen.
+</D>
+<F n="204">
+204) SUBHĀṢ. 25. ²b. <s>Banakti</s>
+die Hdschr. ²c. <s>locanAyA</s> die Hdschr.
+²d. <s>priyAyA</s> die Hdschr.
+</F>
+</entry>
+
+<entry>
+<info L="205" page="1.39" gtypes="S,D,F"/>
+<S n="205">
+<s>adyEva kuru yacCreyo mA tvAM kAlo 'tyagAdayam .</s>
+<s>akftezveva kAryezu mftyurvE saMprakarzati ..</s>
+</S>
+<D n="205" a="3432">
+<b>205.</b> (<b>3432.</b>) Schon heute thue, was
+recht ist, und lasse diese Zeit für dich
+nicht verstreichen: bevor noch unser
+Werk vollbracht ist, reisst uns der Tod
+hinweg.
+</D>
+<F n="205">
+205) MBH. 12, 6535, ²b. 6536, ²a. Der
+erste Vers mit der Variante
+<s>'tyagAnmahAn</s> auch 9941, ²a; der
+zweite auch 9942, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="205.1" page="1.39" gtypes="HS"/>
+<HS>
+<s>adrohaM samayaM kftvA</s> s. Spruch 207.
+</HS>
+</entry>
+
+<entry>
+<info L="206" page="1.39" gtypes="S,D,F"/>
+<S n="206">
+<s>adrohasamayaM kftvA cicCeda namuceH SiraH .</s>
+<s>SakraH sABimatA tasya ripO vfttiH sanAtanI ..</s>
+</S>
+<D n="206" a="3433">
+<b>206.</b> (<b>3433.</b>) Obgleich Indra dem Namuci
+Urfehde geschworen hatte, so schlug er
+ihm dennoch das Haupt ab: dieses sein
+Verfahren gegen einen Feind hält man für
+ewig gültig.
+</D>
+<F n="206">
+206) MBH. 2, 1957. Vgl. den folgenden
+Spruch.
+</F>
+</entry>
+
+<entry>
+<info L="207" page="1.39" gtypes="S,D,F"/>
+<S n="207">
+<s>adrohasamayaM kftvA munInAmagrato hariH .</s>
+<s>jaGAna namuciM paScAdapAM Penena pArTiva ..</s>
+</S>
+<D n="207" a="3434">
+<b>207.</b> (<b>3434.</b>) Obgleich Indra dem Namuci
+in Gegenwart von Weisen Urfehde
+geschworen hatte, so tödtete er ihn, o
+König, dennoch hinterdrein mit
+Wasserschaum.
+</D>
+<F n="207">
+207) UŚANAS in HARIV. 1169. ²a.
+<s>adrohasamayaM</s> unsere Aenderung für
+<s>adrohaM samayaM</s>. Vgl. den
+vorangehenden Spruch. <pb n="1.40"/>
+</F>
+</entry>
+
+<entry>
+<info L="208" page="1.40" gtypes="S,D,F"/>
+<S n="208">
+<s>adrohaH sarvaBUtezu karmaRA manasA girA .</s>
+<s>anugrahaSca dAnaM ca satAM DarmaH sanAtanaH ..</s>
+</S>
+<D n="208" a="78">
+<b>208.</b> (<b>78.</b>) Keinem Wesen Etwas zu Leide
+thun, weder durch That, noch durch
+Gedanken, noch durch Worte, wohlwollen
+und spenden -- ist der Guten ewiges
+Gesetz.
+</D>
+<F n="208">
+208) MBH. 3, 16782. 12, 5997.
+</F>
+</entry>
+
+<entry>
+<info L="209" page="1.40" gtypes="S,D,F,V5"/>
+<S n="209">
+<s>aDaH karoti yadratnaM mUrDnA DArayate tfRam .</s>
+<s>dozastasyEva jalaDe ratnaM ratnaM tfRaM tfRam ..</s>
+</S>
+<D n="209" a="79">
+<b>209.</b> (<b>79.</b>) Dass das Meer die Perle nach
+unten thut (geringachtet), das Gras aber
+oben trägt (hoch in Ehren hält), ist
+einzig seine Schuld: Perle bleibt Perle,
+Gras bleibt Gras.
+</D>
+<F n="209">
+209) ŚĀRṄG. PADDH. SAMUDRĀNYOKTI.
+²a. <s>karozi ratnA</s>. ²b. <s>DArayate</s>
+unsere Aenderung für <s>DArayaMte</s> und
+<s>kArayase, nfRAm</s>. ²c. <s>dozaM sa
+eva</s>.
+</F>
+<V5 n="209">
+-- 209. <s>aDaH karozi yadratnaM mUrDnA DArayase tfRam . dozastavEva</s>.
+</V5>
+</entry>
+
+<entry>
+<info L="210" page="1.40" gtypes="S,D,F"/>
+<S n="210">
+<s>aDaH paSyasi kiM bAle patitaM tava kiM Buvi .</s>
+<s>re re mUrKa na jAnAsi gataM tAruRyamOktikam ..</s>
+</S>
+<D n="210">
+<b>210.</b> «Was siehst du, o Weib, nach
+unten? Was hast du zur Erde fallen
+lassen?» «O du Thor, weisst du denn
+nicht, dass die Perle der Jugend (der
+Busen) dahin ist?»
+</D>
+<F n="210">
+210) VṚDDHA-CĀṆ. 17, 20. ²b.
+<s>BuviM</s>.
+</F>
+</entry>
+
+<entry>
+<info L="211" page="1.40" gtypes="S,D,F"/>
+<S n="211">
+<s>aDanA DanamicCanti vAcaM cEva catuzpadAH .</s>
+<s>mAnavAH svargamicCanti mokzamicCanti devatAH ..</s>
+</S>
+<D n="211">
+<b>211.</b> Arme haben Verlangen nach Geld,
+vierfüssige Thiere nach der Sprache,
+Menschen nach dem Himmel, Götter nach
+der Erlösung.
+</D>
+<F n="211">
+211) VṚDDHA-CĀṆ. 5, 18 (17). ²b.
+<s>catuzpadaH</s> beide Ausgg.
+</F>
+</entry>
+
+<entry>
+<info L="212" page="1.40" gtypes="S,D,F"/>
+<S n="212">
+<s>aDanenArTakAmena nArTaH Sakyo viDitsitum .</s>
+<s>arTErarTA nibaDyante gajEriva mahAgajAH ..</s>
+</S>
+<D n="212">
+<b>212.</b> Ein Armer, dem es um Geld zu thun
+ist, kann nicht daran denken sich Geld
+zu machen: Geld fängt man mit Geld, wie
+grosse Elephanten mit andern Elephanten.
+</D>
+<F n="212">
+212) MBH. 12, 220, ²b. 221 (225), ²a.
+R. ed. GORR. 6, 62, 35 (vergl. ed. Bomb.
+83, 38). ²b. <s>viDitsatA</s> MBH. ed.
+Calc. <s>nArTAH SakyAH samIhituM</s> R.
+ed. GORR. <s>nArTaH SakyaM vicinvatA</s>
+R. ed. Bomb. Vgl. Spruch <s>arTErarTA
+nibaDyante</s>.
+</F>
+</entry>
+
+<entry>
+<info L="213" page="1.40" gtypes="S,D,F"/>
+<S n="213">
+<s>aDano dAtukAmo 'pi saMprApto DaninAM gfham .</s>
+<s>manyate yAcako 'yaM DigdAridryaM Kalu dehinAm ..</s>
+</S>
+<D n="213" a="80">
+<b>213.</b> (<b>80.</b>) Kommt ein Armer sogar in der
+Absicht Etwas zu geben in das Haus von
+Reichen, so hält man ihn für einen
+Bettler: Wehe rufe ich fürwahr über die
+Armuth der Menschen!
+</D>
+<F n="213">
+213) PAÑCAT. ed. KOSEG. II, 110. ed.
+Bomb. 100. <pb n="1.41"/>
+</F>
+</entry>
+
+<entry>
+<info L="214" page="1.41" gtypes="S,D,F"/>
+<S n="214">
+<s>aDamaM bADate BUyo duHKavego na tUttamam .</s>
+<s>pAdadvayaM vrajatyASu SItasparSo na cakzuzI ..</s>
+</S>
+<D n="214" a="81">
+<b>214.</b> (<b>81.</b>) Heftiger Schmerz peinigt
+einen Niedrigen ärger denn einen Höhen:
+das Gefühl der Kälte bemächtigt sich
+schnell der Füsse, nicht aber der Augen.
+</D>
+<F n="214">
+214) DṚṢṬĀNTAŚ. 64 bei HAEB. S.
+222.
+</F>
+</entry>
+
+<entry>
+<info L="215" page="1.41" gtypes="S,D,F"/>
+<S n="215">
+<s>aDamAH kalimicCanti saMDimicCanti maDyamAH .</s>
+<s>uttamA mAnamicCanti mAno hi mahatAM Danam ..</s>
+</S>
+<D n="215">
+<b>215.</b> Die Schlechtesten mögen den
+Streit, die Mittelmässigen den Frieden,
+die Besten die Ehre, da für Männer hoher
+Gesinnung Ehre Geld ist.
+</D>
+<F n="215">
+215) GĀRUḌA-P. 115 im ŚKDR. u.
+<s>mAnaH</s>. Vgl. den folgenden Spruch.
+</F>
+</entry>
+
+<entry>
+<info L="216" page="1.41" gtypes="S,D,F,V3"/>
+<S n="216">
+<s>aDamA DanamicCanti DanamAnO ca maDyamAH .</s>
+<s>uttamA mAnamicCanti mAno hi mahatAM Danam ..</s>
+</S>
+<D n="216">
+<b>216.</b> Die Schlechtesten mögen das Geld,
+die Mittelmässigen das Geld und die
+Ehre, die Besten die Ehre, da für Männer
+hoher Gesinnung Ehre Geld ist.
+</D>
+<F n="216">
+216) GĀRUḌA-P. 115 im ŚKDR. u.
+<s>mAnaH</s>, VṚDDHA-CĀṆ. 8, 1.
+SUBHĀṢ. 228. 298. ²a. <s>Damami°</s>.
+²b. <s>DanamAnO (DanamAno) hi,
+DanamAnaM, DanaM mAnaM</s>. Vgl. den
+vorangehenden Spruch.
+</F>
+<V3 n="216">
+216. = VṚDDHA-CĀṆ. Berl.
+Hdschrr. 214. CARR 386. GALAN.
+Varr. 146. ²a. und ²c. wechsein bei
+CARR die Stellen. ²b.
+<s>prItimicCanti maDyamAH</s>
+VṚDDHA-CĀṆ. ²d. <s>SAMtimicCaMti
+sA</s> eine Hdschr. des VṚDDHA-CĀṆ.
+</V3>
+</entry>
+
+<entry>
+<info L="217" page="1.41" gtypes="S,D,F"/>
+<S n="217">
+<s>aDaraH kisalayarAgaH komalaviwapAnukAriRO bAhU .</s>
+<s>kusumamiva loBanIyaM yOvanamaNgezu saMnadDam ..</s>
+</S>
+<D n="217" a="3435">
+<b>217.</b> (<b>3435.</b>) Ihre Lippen haben die
+Farbe eines jungen Sprosses, ihre Arme
+gleichen zarten Zweigen, reizende Jugend
+ist wie eine Blüthe an ihre Glieder
+geheftet.
+</D>
+<F n="217">
+217) ŚĀK. 20. ²d. <s>saMbadDam</s>
+st. <s>saMnadDam</s>.
+</F>
+</entry>
+
+<entry>
+<info L="218" page="1.41" gtypes="S,D,F"/>
+<S n="218">
+<s>aDarmaH sumahAnnATa Bavettasya tu BUpateH .</s>
+<s>yo haredbalizaqBAgaM na ca rakzati putravat ..</s>
+</S>
+<D n="218">
+<b>218.</b> Ein gar grosses Unrecht aber
+begeht, o Schutzherr, derjenige Fürst,
+welcher das Sechstel als Abgabe erhebt,
+dabei aber (seine Unterthanen) nicht wie
+eigene Kinder schützt.
+</D>
+<F n="218">
+218) R. ed. Bomb. 3, 6, 11. ed. GORR.
+10, 11, ²b. 12, ²a. ²a. <s>nAma</s> st.
+<s>nATa</s> GORR. ²b. <s>mahIpateH</s> st.
+<s>tu BU°</s> GORR. ²d. <s>rakzedimAH
+prajAH</s> GORR.
+</F>
+</entry>
+
+<entry>
+<info L="219" page="1.41" gtypes="S,D,F,V1,V3"/>
+<S n="219">
+<s>aDarmeRa ca yaH prAha yaScADarmeRa pfcCati .</s>
+<s>tayoranyataraH prEti vidvezaM vADigacCati ..</s>
+</S>
+<D n="219" a="3436">
+<b>219.</b> (<b>3436.</b>) Wenn Einer ungesetzlich
+antwortet und ein Anderer ungesetzlich
+fragt, dann findet Einer von ihnen den
+Tod oder ladet sich den Hass des Andern
+auf.
+</D>
+<F n="219">
+219) M. 2, 111. MBH. 1, 755. ²a.
+<s>yaScADarmeRa vE brUyAd</s> MBH. ²d.
+<s>cADigacCati</s> MBH. <pb n="1.42"/>
+</F>
+<V1 n="219">
+219. Auch MBH. 12, 12362, ²b. 12363,
+²a. ²a. <s>yaScADarmeRa vibrUyAd</s>. ²d.
+Gleichfalls <s>cADigacCati</s>.
+</V1>
+<V3 n="219">
+219. Auch MBH. 12, 12362, ²b.
+12363, ²a. ²a. <s>yaScADarmeRa
+vibrUyAd</s>. ²d. Gleichfalls
+<s>cADigacCati</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="220" page="1.42" gtypes="S,D,F,V3"/>
+<S n="220">
+<s>aDarmeREDate tAvattato BadrARi paSyati .</s>
+<s>tataH sapatnAYjayati samUlastu vinaSyati ..</s>
+</S>
+<D n="220" a="3437">
+<b>220.</b> (<b>3437.</b>) Durch Unrecht gedeiht man
+zuvörderst, bekommt darauf Glück zu
+schauen, besiegt darauf seine
+Widersacher, geht aber schliesslich
+mitsammt der Wurzel zu Grunde.
+</D>
+<F n="220">
+220) M. 4, 174. MBH. 3, 8490.
+DAṂPATĪŚ. 22. ²a. <s>varDatyaDarmeRa
+naras, rAjan</s> st. <s>tAvat</s> MBH. nach
+ŚKDR. u. <s>aDarmaH</s>.
+</F>
+<V3 n="220">
+220. = BRĀHMADHARMA 2, 16, 3.
+</V3>
+</entry>
+
+<entry>
+<info L="221" page="1.42" gtypes="S,D,F"/>
+<S n="221">
+<s>aDarmopacitaM vittaM harantyanye 'lpameDasaH .</s>
+<s>saMBojanIyApadeSErjalAnIva jalOkasaH ..</s>
+</S>
+<D n="221">
+<b>221.</b> Andere unter dem Namen von
+Pflegebefohlenen entreissen
+unrechtmässig angehäuften Reichthum dem
+Thörichten, wie ein Fisch dem andern das
+Wasser.
+</D>
+<F n="221">
+221) BHĀG. P. 10, 49, 22.
+</F>
+</entry>
+
+<entry>
+<info L="222" page="1.42" gtypes="S,D,F"/>
+<S n="222">
+<s>aDarmopArjitErarTEryaH karotyOrDvadehikam .</s>
+<s>na sa tasya PalaM pretya BuNkte 'rTasya durAgamAt ..</s>
+</S>
+<D n="222" a="3438">
+<b>222.</b> (<b>3438.</b>) Wer mit unrechtmässig
+erworbenem Gelde auf das Jenseits
+bezügliche fromme Handlungen vollbringt,
+der geniesst nach dem Tode nicht die
+Frucht davon, weil das Geld auf
+schlechte Weise in seine Hände kam.
+</D>
+<F n="222">
+222) MBH. 5, 1512, ²b. 1513, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="223" page="1.42" gtypes="S,D,F"/>
+<S n="223">
+<s>aDastAcCidritaM carma durganDaparipUritam .</s>
+<s>mUtraklinnasya tasyArTe mA rAjanbrAhmaRAnvaDIH ..</s>
+</S>
+<D n="223">
+<b>223.</b>
+<g>Κάτω δέρμα ἐσχισμένον δυσοσμίας γέμον·
+τούτου τοῦ οὔρῳ μυ-δῶντος ἕνεϰα μὴ ἀποϰτείνῃς, ὦ βασιλεῦ, Βραχμᾶνας.</g>
+</D>
+<F n="223">
+223) Beim Schol. zu PRAB. S. 96, Śl.
+30 angeblich aus dem HARIV.
+</F>
+</entry>
+
+<entry>
+<info L="224" page="1.42" gtypes="S,D,F"/>
+<S n="224">
+<s>aDaHsTA ramate nArI uparisTastu kAmukaH .</s>
+<s>prasidDaM tadrataM jYeyaM grAmabAlajanapriyam ..</s>
+</S>
+<D n="224">
+<b>224.</b>
+<g>Εἰ γυνὴ μὲν ϰάτω ϰειμένη, ἐραστὴς δ’ἄνω ϰείμενος τέρπεται,
+ἰστέον ὅτι αὕτη ἡ συνήϑης ἐστὶ συνουσία, φίλη τοῖς ἐν τῇ ϰώμῃ νεανίαις.</g>
+</D>
+<F n="224">
+224) VET. in LA. 11, ²b.
+<s>uparisTas</s> unsere Aenderung für
+<s>uparizWas</s>.
+</F>
+</entry>
+
+<entry>
+<info L="225" page="1.42" gtypes="S,D,F,V3"/>
+<S n="225">
+<s>aDArmiko naro yo hi yasya cApyanftaM Danam .</s>
+<s>hiMsArataSca yo nityaM nehAsO suKameDate ..</s>
+</S>
+<D n="225" a="3439">
+<b>225.</b> (<b>3439.</b>) Dem Manne, der nicht nach
+dem Gesetze lebt, unrechtmässig
+erworbene Güter besitzt und beständig
+seine Freude daran hat Andern ein Leid
+zuzufügen, geht es hier nicht wohl.
+</D>
+<F n="225">
+225) M. 4, 170. DAṂPATĪŚ. 22.
+</F>
+<V3 n="225">
+225. = BRĀHMADHARMA 2, 16, 1.
+</V3>
+</entry>
+
+<entry>
+<info L="226" page="1.42" gtypes="S,D,F"/>
+<S n="226">
+<s>aDikAra fRaM garBaScaturTaM SvAnamETunam .</s>
+<s>Agame paramaM sOKyaM nirgame duHKakAraRam ..</s>
+</S>
+<D n="226">
+<b>226.</b> Ein Amt, eine Anleihe,
+Empfängniss und viertens der Hunde
+Begattung gewähren am Angange die
+höchste Lust, zum Schluss aber Nichts
+als Schmerz.
+</D>
+<F n="226">
+226) SUBHĀṢ. 255. Unsere
+Aenderungen: ²a. <s>aDikAra</s> und
+<s>garBaS</s> für <s>aDikAraM</s> und
+<s>garBaM</s>. ²b. <s>SvAna</s> für
+<s>svAna</s>. <pb n="1.43"/>
+</F>
+</entry>
+
+<entry>
+<info L="226.1" page="1.43" gtypes="HS"/>
+<HS>
+<s>aDikAreRa yo yuktaH</s> s. Spruch <s>avicArayato yukti°</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="227" page="1.43" gtypes="S,D,F"/>
+<S n="227">
+<s>aDigataparamArTAnpaRqitAnmAvamaMsTAstfRamiva laGu lakzmIrnEva tAnsaMruRadDi .</s>
+<s>aBinavamadaleKASyAmagaRqasTalAnAM na Bavati bisatanturvAraRaM vAraRAnAm ..</s>
+</S>
+<D n="227" a="82">
+<b>227.</b> (<b>82.</b>) Achte die Gelehrten, welche
+die höchsten Wahrheiten erforscht haben,
+nicht gering! Der Reichthum fesselt sie
+so wenig wie winziges Gras: ein Strick
+von Lotusfasern vermag nicht Elephanten
+zurückzuhalten, deren Backen dunkle
+Streifen frischen Brunstsaftes zeigen.
+</D>
+<F n="227">
+227) BHARTṚ. ed. BOHL. 2, 14. HAEB.
+12. GALAN. 17. ŚĀRṄG. PADDH. PAÑCAT.
+ed. orn. I, 79. SUBHĀṢ. 304. ²a.
+<s>sAvasaMsTA tf°, mAnamaMsTAs</s> ohne
+<s>paRqitAn</s>. ²b. <s>saMrudDiH</s>. ²c.
+und ²d. umgestellt. ²c.
+<s>madamilitamaliMda</s> und
+<s>madamilitamida</s> st.
+<s>aBinavamadaleKA, SyAva</s> st.
+<s>SyAma, sTalInAM</s>. ²d. <s>SiSa</s> st.
+<s>bisa</s>.
+</F>
+</entry>
+
+<entry>
+<info L="228" page="1.43" gtypes="S,D,F"/>
+<S n="228">
+<s>aDi DarmAdbalaM manye balAdDarmaH pravartate .</s>
+<s>bale pratizWito Darmo DaraRyAmiva jaNgamam ..</s>
+</S>
+<D n="228">
+<b>228.</b> Die Macht steht, wie ich meine,
+über dem Recht: aus der Macht entspringt
+das Recht und auf die Macht stützt sich
+das Recht, wie auf den Erdboden alles
+Lebende.
+</D>
+<F n="228">
+228) MBH. 12, 4840. ²a. <s>aDi</s>
+unsere Aenderung für <s>ati</s>.
+</F>
+</entry>
+
+<entry>
+<info L="228.1" page="1.43" gtypes="HS"/>
+<HS>
+<s>aDItavyavahArANgam (°vyavahArArTam)</s> s. nach Spruch <s>svadeSajaM kulAcAra°</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="229" page="1.43" gtypes="S,D,F"/>
+<S n="229">
+<s>aDItya nItiSAstrARi nItiyukto na dfSyate .</s>
+<s>anaBijYaSca sAcivyaM gamitaH kena hetunA ..</s>
+</S>
+<D n="229">
+<b>229.</b> Einen Mann, der der Staatslehre
+obgelegen hat, sieht man nicht am Ruder
+des Staates, und aus welchem Grunde
+erhebt man einen Uneingeweihten zur
+Würde eines fürstlichen Rathgebers?
+</D>
+<F n="229">
+229) MBH. 13, 7603, ²b. 7604, ²a.
+</F>
+</entry>
+
+<entry>
+<info L="230" page="1.43" gtypes="S,D,F"/>
+<S n="230">
+<s>aDodfzwirnEkftikaH svArTasADanatatparaH .</s>
+<s>SaWo miTyAvinItaSca bakavratacaro dvijaH ..</s>
+</S>
+<D n="230" a="3440">
+<b>230.</b> (<b>3440.</b>) Ein zur Erde blickender,
+hinterlistiger, nur auf das
+Zustandebringen seiner eigenen Sache
+bedachter, falscher und gutes Betragen
+heuchelnder Brahmane befolgt die Weise
+des Reihers.
+</D>
+<F n="230">
+230) M. 4, 196. ²a. <s>nEzkftikaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="230.1" page="1.43" gtypes="HS"/>
+<HS>
+<s>aDodfzwirBavetkftvA</s> s. nach Spruch <s>AyAti sKalitEH</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="231" page="1.43" gtypes="S,D,F"/>
+<S n="231">
+<s>aDo 'DaH paSyataH kasya mahimA nopajAyate .</s>
+<s>uparyupari paSyantaH sarva eva daridrati ..</s>
+</S>
+<D n="231" a="83">
+<b>231.</b> (<b>83.</b>) Wer, wenn er stets abwärts
+sieht, erscheint sich nicht gross? Alle,
+die stets nach oben blicken, dünken sich
+arm.
+</D>
+<F n="231">
+231) HIT. II, 2. ²b. <s>upacIyate</s>.
+²d. <s>daridratA</s>. <pb n="1.44"/>
+</F>
+</entry>
+
+<entry>
+<info L="232" page="1.44" gtypes="S,D,F"/>
+<S n="232">
+<s>aDyarDAdyojanaSatAdAmizaM vIkzate KagaH .</s>
+<s>so 'pi pArSvasTitaM dEvAdbanDanaM nEva paSyati ..</s>
+</S>
+<D n="232" a="84">
+<b>232.</b> (<b>84.</b>) Derselbe Vogel, der seine
+Beute aus einer Entfernung von
+anderthalb hundert Yojana erblickt,
+wird, da es das Schicksal so will, die
+neben ihm liegende Schlinge nicht
+gewahr.
+</D>
+<F n="232">
+232) PAÑCAT. ed. KOSEG. II, 19. ed.
+Bomb. 18. ²a. <s>ardDArDAd</s> und
+<s>advyarDAd</s>. ²d. <s>na ca</s> st.
+<s>nEva</s>. Vgl. Spruch <s>yo
+'DikAdyojana°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="232.1" page="1.44" gtypes="HS"/>
+<HS>
+<s>aDyAtmanyavaDIyatAm</s> s. Spruch <s>nanvAtmanyavaDIyatAm</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="233" page="1.44" gtypes="S,D,F"/>
+<S n="233">
+<s>aDruveRa SarIreRa pratikzaRavinASinA .</s>
+<s>DruvaM yo nArjayedDarmaM sa Socyo mUQacetanaH ..</s>
+</S>
+<D n="233" a="3441">
+<b>233.</b> (<b>3441.</b>) Der Thor ist zu beklagen,
+welcher mit dem vergänglichen, jeden
+Augenblick dem Tode sich nähernden
+Körper nicht unvergängliche Verdienste
+einsammelt.
+</D>
+<F n="233">
+233) VIKRAMAC. 167. Unsere
+Aenderungen: ²b. <s>pratikzaRa</s> st.
+<s>patikzaRa</s>. ²d. <s>mUQa</s> st.
+<s>muda</s>.
+</F>
+</entry>
+
+<entry>
+<info L="234" page="1.44" gtypes="S,D,F"/>
+<S n="234">
+<s>aDruve hi SarIre yo na karoti tapo 'rjanam .</s>
+<s>sa paScAttapyate mUQo mfto gatvAtmano gatim ..</s>
+</S>
+<D n="234">
+<b>234.</b> Der Thor, welcher bei der
+Vergänglichkeit des Körpers sich nicht
+Verdienste durch Askese einsammelt,
+bereut es hinterdrein, wenn er nach dem
+Tode des sich selbst bereiteten Loses
+theilhaftig wird.
+</D>
+<F n="234">
+234) R. ed. Bomb. 7, 15, 22.
+</F>
+</entry>
+
+<entry>
+<info L="235" page="1.44" gtypes="S,D,F"/>
+<S n="235">
+<s>aDvaSrAntamavijYAtamatiTiM kzutpipAsitam .</s>
+<s>yo taM na pUjayedBaktyA tamAhurbrahmaGAtinam ..</s>
+</S>
+<D n="235" a="3442">
+<b>235.</b> (<b>3442.</b>) Wer einen von der Reise
+ermüdeten, von Hunger und Durst
+gequälten unbekannten Gast nicht
+liebevoll ehrt, den nennt man einen
+Brahmanenmörder.
+</D>
+<F n="235">
+235) BHṚGU beim Schol. zu ŚĀK. 16,
+10. 11. ²d. <s>brahma°</s> unsere
+Verbesserung für <s>brAhama°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="236" page="1.44" gtypes="S,D,F"/>
+<S n="236">
+<s>aDvA jarA dehavatAM parvatAnAM jalaM jarA .</s>
+<s>asaMBogo jarA strIRAM vAkSalyaM manaso jarA ..</s>
+</S>
+<D n="236" a="3443">
+<b>236.</b> (<b>3443.</b>) Menschen altern durch
+vieles Reisen, Berge durch Wasser,
+Weiber durch ungestilltes Verlangen, das
+Herz durch der Rede Pfeil.
+</D>
+<F n="236">
+236) MBH. 5, 1523, ²b. 1524, ²a. Vgl.
+den folgenden Spruch und <s>cintA jvaro
+manuzyARAm</s>.
+</F>
+</entry>
+
+<entry>
+<info L="237" page="1.44" gtypes="S,D,F,V3"/>
+<S n="237">
+<s>aDvA jarA manuzyARAM vAjinAM banDanaM jarA .</s>
+<s>amETunaM jarA strIRAM vastrARAmAtapo jarA ..</s>
+</S>
+<D n="237">
+<b>237.</b> Menschen altern durch vieles
+Reisen, Pferde dadurch, dass sie im
+Stalle stehen, Weiber durch ungestilltes
+Verlangen, Kleider durch Sonnenschein.
+</D>
+<F n="237">
+237) VṚDDHA-CĀṆ. 4, 17.
+<pb n="1.45"/>
+</F>
+<V3 n="237">
+237. = VṚDDHA-CĀṆ. Berl.
+Hdschrr. 136. ²b. <s>anaDvA vAjinAM
+jarA</s>. ²d. <s>aSvAnAM mETunaM jarA</s>.
+</V3>
+</entry>
+
+<entry>
+<info L="238" page="1.45" gtypes="S,D,F"/>
+<S n="238">
+<s>anaNgaH paYcaBiH puzpErviSvaM vyajayatezuBiH .</s>
+<s>ityasaMBAvyamaTa vA vicitrA vastuSaktayaH ..</s>
+</S>
+<D n="238" a="3444">
+<b>238.</b> (<b>3444.</b>) Dass der Liebesgott mit
+fünf Blumen, seinen Pfeilen, das Weltall
+besiegte, erscheint unmöglich, doch die
+Macht der Dinge ist wunderbar.
+</D>
+<F n="238">
+238) KĀVYĀD. 2, 121.
+</F>
+</entry>
+
+<entry>
+<info L="239" page="1.45" gtypes="S,D,F"/>
+<S n="239">
+<s>anaYjitAsitA dfzwirBrUranAvarjitA natA .</s>
+<s>araYjito 'ruRaScAyamaDarastava sundari ..</s>
+</S>
+<D n="239" a="3445">
+<b>239.</b> (<b>3445.</b>) Ungesalbt ist, o Schöne,
+dein Auge schwarz, ungeneigt die Braue
+gebogen, ungefärbt diese deine Lippe
+roth.
+</D>
+<F n="239">
+239) KĀVYĀD. 2, 201.
+</F>
+</entry>
+
+<entry>
+<info L="239.1" page="1.45" gtypes="HS"/>
+<HS>
+<s>anatikramaRIyasya</s> s. Spruch <s>saMyogo hi viyogasya</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="240" page="1.45" gtypes="S,D,F"/>
+<S n="240">
+<s>anadButamidaM loke yadvfdDvA balavattarEH .</s>
+<s>ISvarErdurbalaH kfzyaH kratO paSurivAbalaH ..</s>
+</S>
+<D n="240">
+<b>240.</b> Es ist dies nichts Wunderbares in
+der Welt, dass ein Kraftloser, wie ein
+schwacher Bock beim Opfer, von
+emporgekommenen stärkeren Herren
+überwältigt wird.
+</D>
+<F n="240">
+240) R. ed. GORR. 2, 61, 24.
+</F>
+</entry>
+
+<entry>
+<info L="241" page="1.45" gtypes="S,D,F"/>
+<S n="241">
+<s>anaDigatamanoraTasya pUrvaM SataguRiteva gatA mama triyAmA .</s>
+<s>yadi tu tava samAgame taTEva prasarati suBru tataH kftI Baveyam ..</s>
+</S>
+<D n="241" a="3446">
+<b>241.</b> (<b>3446.</b>) Vormals, als ich meinen
+Wunsch noch nicht erreicht hatte.
+verging mir die Nacht so langsam, als
+wenn sie hundertmal so lang gewesen
+wäre; wenn sie mir aber jetzt, o
+Schönbrauige, da ich mit dir vereint
+bin, ebenso langsam verstriche, dann
+wäre ich glücklich.
+</D>
+<F n="241">
+241) VIKRAM. 63. ²b. <s>°gaRiteva</s>.
+²c. <s>saMgame</s> st. <s>samAgame</s>. ²d.
+<s>praBavAti</s> st. <s>prasarati</s>.
+</F>
+</entry>
+
+<entry>
+<info L="242" page="1.45" gtypes="S,D,F,V4"/>
+<S n="242">
+<s>anaDvanyAH kAvyezvalasagatayaH SAstragahane-</s>
+<s>zvaduHKajYA vAcAM pariRatizu mUkAH paraguRe .</s>
+<s>vidagDAnAM gozWIzvakftaparicaryASca Kalu ye</s>
+<s>Baveyuste kiM vA paraBaRitikaRqUtinikazAH ..</s>
+</S>
+<D n="242" a="3447">
+<b>242.</b> (<b>3447.</b>) Könnten wohl in
+Dichterwerken Unbewanderte, in der
+Lehrbücher Dickichten sich träge
+Bewegende, bei der Verdrehung von Reden
+keinen Schmerz Empfindende, bei Vorzügen
+Anderer Stumme, in Gesellschaften fein
+Gebildeten nicht Huldigende ein
+Prüfstein sein für den Kitzel, den die
+Beredsamkeit Anderer erzeugt?
+</D>
+<F n="242">
+242) KAVITĀMṚTAK. 105.
+</F>
+<V4 n="242">
+-- 242 = RĀGHAVAP. 1, 47. ²b, <g>β</g>. <s>kavi</s> st. <s>para</s>. ²a, <g>β</g>. <s>vAcAM pariRatizu</s> bedeutet: «im Wechsel der Rede, des Redeausdrucks».
+</V4>
+</entry>
+
+<entry>
+<info L="243" page="1.45" gtypes="S,D,F"/>
+<S n="243">
+<s>anantapAraM kila SabdaSAstraM svalpaM taTAyurbahavaSca viGnAH .</s>
+<s>sAraM tato grAhyamapAsya Palgu haMsEryaTA kzIramivAmbumaDyAt ..</s>
+</S>
+<D n="243" a="85">
+<b>243.</b> (<b>85.</b>) Die Sprachlehre ist, wie
+bekannt, von unendlicher Ausdehnung;
+dabei ist das Leben kurz und die
+Hindernisse zahlreich: darum lasse man
+das Unbedeutende weg und nehme nur das
+Beste daraus, wie die Flamingo die Milch
+aus dem Wasser scheiden.
+</D>
+<F n="243">
+243) PAÑCAT. ed. KOSEG. Pr. 10. ed.
+orn. 4. ed. Bomb. 5. SUBHĀṢ. 242. ²c.
+<s>yatsAraBUtaM tadupAsanIyaM</s>. ²d.
+<s>haMso</s>. Vgl. Spruch 245. <pb n="1.46"/>
+</F>
+</entry>
+
+<entry>
+<info L="243.1" page="1.46" gtypes="HS"/>
+<HS>
+<s>anantamiva me vittam</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="244" page="1.46" gtypes="S,D,F"/>
+<S n="244">
+<s>anantaM bata me vittaM yasya me nAsti kiM ca na .</s>
+<s>miTilAyAM pradIptAyAM na me dahyati kiM ca na ..</s>
+</S>
+<D n="244" a="3448">
+<b>244.</b> (<b>3448.</b>) Endlos ist, o mein
+Reichthum, da ich Nichts besitze; wenn
+Mithilā in Flammen steht, verbrennt
+Nichts, das mir gehört.
+</D>
+<F n="244">
+244) MBH. 12, 529. 6641. 9917. ²a.
+<s>iva</s> st. <s>bata, sumuKaM bata
+jIvAmi</s>. Worte JANAKA's, Königs von
+<wide>Mithilā</wide>.
+</F>
+</entry>
+
+<entry>
+<info L="245" page="1.46" gtypes="S,D,F,V3"/>
+<S n="245">
+<s>anantaSAstraM bahulASca vidyAH svalpaSca kAlo bahuviGnatA ca .</s>
+<s>yatsAraBUtaM tadupAsanIyaM haMso yaTA kzIramivAmbumiSram ..</s>
+</S>
+<D n="245">
+<b>245.</b> Endlos ist die Wissenschaft,
+zahlreich die Lehren, die Zeit kurz und
+Hindernisse giebt es in Menge: was das
+Beste ist, dem soll man sich hingeben,
+wie der Flamingo die Milch aus dem
+Gemisch mit Wasser zieht.
+</D>
+<F n="245">
+245) VṚDDHA-CĀṆ. 15, 10. SUBHĀṢ.
+168. ²a. <s>bahubIjatatvaM</s> st.
+<s>bahulASca vidyAH</s> SUBHĀṢ. ²a. ²b.
+<s>vidyA alpaSca</s> CĀṆ. ²b.
+<s>svalpasya</s> und <s>bahavo pi viGnA</s>
+SUBHĀṢ. ²d. <s>ivAmbumaDyAt</s> CĀṆ.
+Vgl. Spruch 243.
+</F>
+<V3 n="245">
+245. Auch SUBHĀṢ. 150 in
+folgenden Fassung: <s>svalpasya</s> (d. i.
+<s>svalpaSca</s>) <s>kAlo bahavo 'pi viGnA
+yatsAraBUtaM tadupAsanIyam . haMso
+yaTA kzIramivAmbumiSraM gfhRAti
+sadyastamase (?) sTitaM tat ..</s>
+</V3>
+</entry>
+
+<entry>
+<info L="246" page="1.46" gtypes="S,D,F"/>
+<S n="246">
+<s>anaBijYo guRAnAM yo na BftyEH so 'nugamyate .</s>
+<s>DanAQyo 'pi kulIno 'pi kramAyAto 'pi BUpatiH ..</s>
+</S>
+<D n="246" a="86">
+<b>246.</b> (<b>86.</b>) Einem Fürsten, der Vorzüge
+nicht zu würdigen versteht, gehen die
+Diener nicht nach, selbst wenn er reich
+an Geld, von edler Herkunft und
+rechtmässiger Thronerbe ist.
+</D>
+<F n="246">
+246) PAÑCAT. ed. KOSEG. I, 83. ed.
+orn. 65. ed. Bomb. 73, ²b.
+<s>BftyEranugamyate</s>.
+</F>
+</entry>
+
+<entry>
+<info L="247" page="1.46" gtypes="S,D,F"/>
+<S n="247">
+<s>anaBiDyA parasvezu sarvasattvezu sOhfdam .</s>
+<s>karmaRAM PalamastIti triviDaM manasA caret ..</s>
+</S>
+<D n="247" a="3449">
+<b>247.</b> (<b>3449.</b>) Nichtbegehren nach fremdem
+Eigenthum, Wohlwollen gegen alle Wesen
+und Glaube an die Vergeltung der Werke,
+diese drei Dinge übe man mit dem Geiste.
+</D>
+<F n="247">
+247) MBH. 13, 586. ŚĀRṄG. PADDH.
+SADĀCĀRA 37 (35. 36). ²b.
+<s>sarvasattvezu</s> fehlt. ²d. <s>manasA
+tritayaM smaret</s> und <s>manasA tfyaM
+caret</s> ŚĀRṄG.
+</F>
+</entry>
+
+<entry>
+<info L="248" page="1.46" gtypes="S,D,F"/>
+<S n="248">
+<s>anaByAsena vidyAnAmasaMsargeRa DImatAm .</s>
+<s>anigraheRa cAkzARAM jAyate vyasanaM nfRAm ..</s>
+</S>
+<D n="248" a="3450">
+<b>248.</b> (<b>3450.</b>) Dadurch, dass die Menschen
+nicht den Wissenschaften obliegen, nicht
+mit Klugen verkehren und nicht die Sinne
+bändigen, entsteht in ihnen das Laster.
+</D>
+<F n="248">
+248) KĀVYĀD. 2, 247. <pb n="1.47"/>
+</F>
+</entry>
+
+<entry>
+<info L="248.1" page="1.47" gtypes="HS"/>
+<HS>
+<s>anaByAse vizaM vidyA</s> s. Spruch <s>duraDItA vizaM vidyA</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="249" page="1.47" gtypes="S,D,F"/>
+<S n="249">
+<s>anamrAkramaRaM SOryaM DanaM nijaBujArjitam .</s>
+<s>BAryA rUpAnurUpA ca puruzasyeha yujyate ..</s>
+</S>
+<D n="249">
+<b>249.</b> Heldenmuth, bei dem man
+Widerspänstige angreift, Geld, das man
+mit eigenen Händen erwirbt, und eine der
+eigenen Schönheit entsprechende Gattin
+ziemen sich hier auf Erden für einen
+Mann.
+</D>
+<F n="249">
+249) KATHĀS. 101. 51.
+</F>
+</entry>
+
+<entry>
+<info L="250" page="1.47" gtypes="S,D,F"/>
+<S n="250">
+<s>anayoranavadyANgi stanayorjfmBamARayoH .</s>
+<s>avakASo na paryAptastava bAhulatAntare ..</s>
+</S>
+<D n="250" a="3451">
+<b>250.</b> (<b>3451.</b>) Diese schwellenden Brüste,
+o Mädchen mit dem tadellosen Körper,
+haben ja nicht Platz auf deinem
+Brustbein.
+</D>
+<F n="250">
+250) KĀVYĀD. 1, 87.
+</F>
+</entry>
+
+<entry>
+<info L="251" page="1.47" gtypes="S,D,F"/>
+<S n="251">
+<s>anarGyARyapi ratnAni laByante viBavEH suKam .</s>
+<s>durlaBo ratnakowyApi kzaRo 'pi hi gatAyuzaH ..</s>
+</S>
+<D n="251">
+<b>251.</b> Selbst unschätzbare Juwele
+bekommt man leicht für Geld; was aber
+für Millionen von Juwelen nicht zu
+bekommen ist, ist ein einziger
+Augenblick für den, der dem Tode
+verfallen ist.
+</D>
+<F n="251">
+251) SUBHĀṢ. 57. ²d. <s>hi gatA°</s>
+unsere Aenderung für <s>gatajAyuzaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="252" page="1.47" gtypes="S,D,F"/>
+<S n="252">
+<s>anarTakaM vipravAsaM gfheByaH pApEH saMDiM paradArABimarSam .</s>
+<s>damBaM stEnyaM pESunaM madyapAnaM na sevate yaSca suKI sadEva ..</s>
+</S>
+<D n="252" a="3452">
+<b>252.</b> (<b>3452.</b>) Wer nicht unnützer Weise
+ausserhalb seiner Heimath weilt, nicht
+mit Bösen verkehrt, nicht fremde Weiber
+berührt, nicht dem Betrug, dem
+Diebstahl, der Zuträgerei und dem Trunke
+ergeben ist, der ist stets froh.
+</D>
+<F n="252">
+252) MBH. 5, 1078. ²b.
+<s>paradArABimarzam</s> ed. Calc.
+</F>
+</entry>
+
+<entry>
+<info L="253" page="1.47" gtypes="S,D,F"/>
+<S n="253">
+<s>anarTakamanAyuzyaM govizARasya BakzaRam .</s>
+<s>dantASca parimfjyante rasaScApi na laByate ..</s>
+</S>
+<D n="253" a="3453">
+<b>253.</b> (<b>3453.</b>) An einem Kuhhorn zu nagen
+ist unnütz und verkürzt das Leben: man
+reibt sich die Zähne ab und erhält doch
+keinen Saft.
+</D>
+<F n="253">
+253) MBH. 12, 5303. ²c. Es ist wohl
+<s>parimfdyante</s> zu lessen.
+</F>
+</entry>
+
+<entry>
+<info L="253.1" page="1.47" gtypes="HS"/>
+<HS>
+<s>anarTatvAnmanuzyARAm</s> s. Spruch 256.
+</HS>
+</entry>
+
+<entry>
+<info L="254" page="1.47" gtypes="S,D,F,V3"/>
+<S n="254">
+<s>anarTamarTataH paSyannarTaM cEvApyanarTataH .</s>
+<s>indriyErajitErbAlaH suduHKaM manyate suKam ..</s>
+</S>
+<D n="254" a="3454">
+<b>254.</b> (<b>3454.</b>) Ein Thor, der seine Sinne
+nicht besiegt, sieht Schaden für
+Vortheil und Vortheil für Schaden an und
+hält grosses Leid für Freude.
+</D>
+<F n="254">
+254) MBH. 5, 1155. <pb n="1.48"/>
+</F>
+<V3 n="254">
+254. = BRĀHMADHARMA 2, 10, 7.
+</V3>
+</entry>
+
+<entry>
+<info L="255" page="1.48" gtypes="S,D,F"/>
+<S n="255">
+<s>anarTAScArTarUpeRa arTAScAnarTarUpiRaH .</s>
+<s>arTAyEva hi kezAMcidDananASo Bavatyuta ..</s>
+</S>
+<D n="255" a="3455">
+<b>255.</b> (<b>3455.</b>) Schaden tritt in der
+Gestalt von Nutzen und Nutzen in der
+Gestalt von Schaden auf: so gereicht ja
+der Verlust des Besitzes Einigen nur zum
+Nutzen.
+</D>
+<F n="255">
+255) MBH. 12, 3885. ²b. <s>arTAScA°</s>
+unsere Aenderung für <s>hyarTAScA°</s>.
+Vgl. nach Spr. <s>budDO kaluza°</s>.
+</F>
+</entry>
+
+<entry>
+<info L="256" page="1.48" gtypes="S,D,F"/>
+<S n="256">
+<s>anarTitvAnmanuzyARAM BayAtparijanasya ca .</s>
+<s>maryAdAyAmamaryAdAH striyastizWanti Bartfzu ..</s>
+</S>
+<D n="256" a="87">
+<b>256.</b> (<b>87.</b>) Weiber, die sonst keine
+Schranken kennen, verharren in den
+Schranken und bleiben bei ihren Männern,
+wenn keine andern Männer nach ihnen
+begehren oder aus Furcht vor der
+Dienerschaft.
+</D>
+<F n="256">
+256) MBH. 13, 2217. PAÑCAT. ed.
+KOSEG. I. 158. ed. Bomb. 142. ²a.
+<s>anarTatvAn</s>. ²d. <s>anarTatvAn</s>.
+²d. <s>sarvadA</s> st. <s>Bartfzu</s>
+PAÑCAT.
+</F>
+</entry>
+
+<entry>
+<info L="257" page="1.48" gtypes="S,D,F"/>
+<S n="257">
+<s>analaH SItanASAya vizanASAya gAruqam .</s>
+<s>viveko duHKanASAya sarvanASAya durmatiH ..</s>
+</S>
+<D n="257">
+<b>257.</b> Feuer macht Kälte zu Nichte, ein
+Smaragd -- Gift, Einsicht -- den
+Schmerz, ein Bösewicht -- Alles.
+</D>
+<F n="257">
+257) SUBHĀṢ. 152. 198. ²a.
+<s>analaH</s> unsere Aenderung für
+<s>analaM</s> und <s>anilaH</s> ²b.
+<s>gAruqaH</s> an einer Stelle.
+</F>
+</entry>
+
+<entry>
+<info L="257.1" page="1.48" gtypes="HS"/>
+<HS>
+<s>anavasare guRavAnapi</s> s. Spruch <s>paSya SalAkAvasare</s>.
+</HS>
+</entry>
+
+<entry>
+<info L="257.2" page="1.48" gtypes="HS"/>
+<HS>
+<s>anavasTitakarmasya</s> s. den folgenden Spruch.
+</HS>
+</entry>
+
+<entry>
+<info L="258" page="1.48" gtypes="S,D,F"/>
+<S n="258">
+<s>anavasTitacittasya na jane na vane suKam .</s>
+<s>jane dahati saMsargo vane saNgavivarjanam ..</s>
+</S>
+<D n="258">
+<b>258.</b> Wer unbeständigen Sinnes ist, der
+fühlt sich weder unter Menschen, noch im
+Walde behaglich: unter Menschen versengt
+ihn die Gesellschaft, im Walde der
+Mangel an Umgang.
+</D>
+<F n="258">
+258) VṚDDHA-CĀṆ. 13, 16. Unsere
+Aenderungen: ²a. <s>cittasya</s> st.
+<s>karmasya</s>. ²c. <s>jane</s> st. <s>jano</s>
+und <s>saMsargo</s> st. <s>saMsargAt</s>. ²d.
+<s>vane</s> st. <s>vanaM</s> und
+<s>vivarjanaM</s> st. <s>vivarjanAta</s>.
+</F>
+</entry>
+
+<entry>
+<info L="259" page="1.48" gtypes="S,D,F"/>
+<S n="259">
+<s>anavasTitacittAnAM prasAdo 'pi BayaMkaraH .</s>
+<s>sarpI hanti kila snehAdapatyAni na vErataH ..</s>
+</S>
+<D n="259">
+<b>259.</b> Bei Menschen unbeständigen Sinnes
+bringt sogar ihre Gunst Gefahr: ein
+Schlangenweibchen tödtet bekanntlich
+seine Brut aus Liebe, nicht aus
+Feindschaft.
+</D>
+<F n="259">
+259) SUBHĀṢ. 296. ²c. <s>sapirRyati
+kila snehAt</s> die Hdschr. ²d.
+<s>cApatyAni</s> die Hdschr. Vgl. Spruch
+<s>kvacidruzwaH kvacittuzwaH</s>.
+</F>
+</entry>
+
+<entry>
+<info L="259.1" page="1.48" gtypes="HS"/>
+<HS>
+<s>anavAptezu kAmezu</s> s. Spruch <s>puzpARIva vicinvantam</s>. <pb n="1.49"/>
+</HS>
+</entry>
+
+<entry>
+<info L="260" page="1.49" gtypes="S,D,F"/>
+<S n="260">
+<s>anavApyaM ca Sokena SarIraM copatapyate .</s>
+<s>amitrASca prahfzyanti mA sma Soke manaH kfTAH ..</s>
+</S>
+<D n="260" a="3456">
+<b>260.</b> (<b>3456.</b>) Durch Kummer wird Nichts
+erreicht, der Körper empfindet dabei
+Schmerz und die Feinde Freuen sich;
+darum sollst du dein Herz nicht dem
+Kummer hingeben.
+</D>
+<F n="260">
+260) MBH. 5, 1304.
+</F>
+</entry>
+
+<entry>
+<info L="261" page="1.49" gtypes="S,D,F,V3"/>
+<S n="261">
+<s>anasUyaH kftaprajYaH SoBanAnyAcaransadA .</s>
+<s>na kfcCraM mahadApnoti sarvatra ca virocate ..</s>
+</S>
+<D n="261" a="3457">
+<b>261.</b> (<b>3457.</b>) Wer nicht murrt, klug ist
+und stets edel handelt, der geräth
+nimmer in grosse Noth und glänzt
+überall.
+</D>
+<F n="261">
+261) MBH. 5, 1246, ²b. 1247, ²a. ²a.
+<s>anasUyuH</s> ed. Bomb. ²c. NĪLAK.:
+<s>nakfcCraM samastapadaM suKavAci
+(°vAcI</s> gedr.). Vgl. Spr. <s>asUyako
+dandaSUkaH</s>.
+</F>
+<V3 n="261">
+261. = BRĀHMADHARMA 2, 11, 3.
+</V3>
+</entry>
+
+<entry>
+<info L="262" page="1.49" gtypes="S,D,F"/>
+<S n="262">
+<s>anasUyArjavaM SOcaM saMtozaH priyavAditA .</s>
+<s>damaH satyamanAyAso na Bavanti durAtmanAm ..</s>
+</S>
+<D n="262" a="3458">
+<b>262.</b> (<b>3458.</b>) Nichtungehaltensein,
+gerades Benehmen, Redlichkeit,
+Zufriedenheit, Freundlichkeit,
+Selbstbeherrschung, Wahrheit und
+Unermüdlichkeit sind nicht bei Bösen
+anzutreffen.
+</D>
+<F n="262">
+262) MBH. 5, 1166.
+</F>
+</entry>
+
+<entry>
+<info L="263" page="1.49" gtypes="S,D,F"/>
+<S n="263">
+<s>anAgataM yaH kurute sa SoBate sa Socate yo na karotyanAgatam .</s>
+<s>vane 'tra saMsTasya samAgatA jarA bilasya vARI na kadApi me SrutA ..</s>
+</S>
+<D n="263" a="88">
+<b>263.</b> (<b>88.</b>) Wer für die Zukunft sorgt,
+dem ergeht es gut; betrübt wird der, der
+nicht für die Zukunft sorgt. Seitdem ich
+hier im Walde lebe, ist das Alter über
+mich gekommen, aber nie habe ich eine
+Höhle reden hören.
+</D>
+<F n="263">
+263) PAÑCAT. ed. KOSEG. III, 226.
+ed. Bomb. 164. 166. SUBHĀṢ. 112. ²b.
+<s>Socyate</s> KOSEG. ²c. ²d. <s>jarA
+vatAntarvasatAM</s> (lies <s>vanA°)
+samAgatA SrutA kadAcinna bilasya
+huMkftI</s> (lies <s>°kftiH</s>). ²d. <s>naH</s>
+st. <s>me</s> PAÑCAT. ed. Bomb.
+</F>
+</entry>
+
+<entry>
+<info L="264" page="1.49" gtypes="S,D,F"/>
+<S n="264">
+<s>anAgataM hi buDyeta yacca kAryaM puraH sTitam .</s>
+<s>na tu budDikzayAtkiMcidatikrAmetprayojanam ..</s>
+</S>
+<D n="264">
+<b>264.</b> Man denke an die Zukunft und das
+zunächst bevorstehende Geschäft, und
+versäume Nichts, was zum Ziele führen
+könnte, dadurch, dass man es an
+Nachdenken fehlen liesse.
+</D>
+<F n="264">
+264) MBH. 1, 5624.
+</F>
+</entry>
+
+<entry>
+<info L="264.1" page="1.49" gtypes="HS"/>
+<HS>
+<s>anAgataM kulaM SIlam</s> s. Spruch 107.
+</HS>
+</entry>
+
+<entry>
+<info L="265" page="1.49" gtypes="S,D,F"/>
+<S n="265">
+<s>anAgataM BayaM dfzwvA nItiSAstraviSAradaH .</s>
+<s>avasanmUzakastatra kftvA SatamuKaM bilam ..</s>
+</S>
+<D n="265" a="89">
+<b>265.</b> (<b>89.</b>) Zukünftige Gefahr vor Augen
+habend, machte die in den Büchern der
+Lebensklugheit erfahrene Maus sich dort
+eine Höhle mit hundert Eingängen und
+wohnte darin.
+</D>
+<F n="265">
+265) PAÑCAT. ed. KOSEG. II, 14. HIT.
+ed. SCHL. ad 14, 18. ed. JOHNS. I, 39.
+²a. <s>anAgataBayaM</s>. ²c.
+<s>mUzikastatra, vrdDaH</s> st. <s>kftvA</s>.
+<pb n="1.50"/>
+</F>
+</entry>
