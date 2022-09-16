@@ -8,10 +8,12 @@ boesp_vol1/L_0001_0265/L_0001_0265_rev1.txt
  manually replace L_0001_0265_rev1.txt in temp_boesp_L_0001_0265_old.xml
  and save as temp_boesp_L_0001_0265_rev1.xml
  cp L_0001_0265/temp_boesp_L_0001_0265_rev1.xml ../step0/boesp.xml
- 
-** install
+* local url for verse 415
+http://localhost/funderburkjim/boesp-prep/web1/boesp.html?415
+* install instructions
  See step0/readme.txt
  cd ../step0
+ sh transcode_xml.sh
  cd ../web1
  sh redo.sh
 185722 lines read from ../step0/boesp_deva.xml
@@ -21,9 +23,36 @@ boesp_vol1/L_0001_0265/L_0001_0265_rev1.txt
 git add ., git commit, git push
 * L_0265_0600
   sent.
+boesp_vol1/L_0265_0600/L_0265_0600_rev1.txt
+ 09-12-2022 Sampada proofread.
+ boesp.xml at commit 332243f64f732fe42d7dfdfdb5839d3dfe3753d7
+ cp ../step0/boesp.xml L_0265_0600/temp_boesp_L_0265_0600_old.xml
+ manually replace L_0265_0600_rev1.txt in temp_boesp_L_0265_0600_old.xml
+ and save as temp_boesp_L_0265_0600_rev1.xml
+ confirm same number of lines:
+ wc -l temp_boesp*
+ 185722 temp_boesp_L_0265_0600_old.xml
+ 185722 temp_boesp_L_0265_0600_rev1.xml
+ 
+ diff temp_boesp_L_0265_0600_old.xml temp_boesp_L_0265_0600_rev1.xml > diff.txt
+  #Examine a few cases vs. print
+CORRECTION to xml error at line 6643-4 L=415
+OLD
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pariH,
+darSayanti</s>. <pb n="1.77"/>
+REV1
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pari st. <s>puraH</s>; <s>
+darSayanti</s>. <pb n="1.77"/>
+CORRECTED
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pari</s> st. <s>puraH</s>; <s>
+darSayanti</s>. <pb n="1.77"/>
+
+ cp temp_boesp_L_0265_0600_rev1.xml ../../step0/boesp.xml
+follow install instructions.
 * TODO open questions
-** L=56 ?
-<s>gaRqUzajalamA°</s> [next word isillegible in scan]
+** L=59
+There is a hand-written
+<s>gaRqUzajalamA°</s> [next word is illegible in scan]
 ** L=192
 <s>taTAMvaM saMjAtaM</s> this seems exactly like the scan.
 This word <taTAMvaM> doesn't seem right though.

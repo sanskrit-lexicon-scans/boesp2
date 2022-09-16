@@ -4,6 +4,7 @@ Generate json files of html.
 Parse url for verse
 from verse, dynamically retried the html from appropriate json file.
 replace 
+http://localhost/funderburkjim/boesp-prep/web1/boesp.html?415
 
 Generate html link target(s) for boesp.xml
 
