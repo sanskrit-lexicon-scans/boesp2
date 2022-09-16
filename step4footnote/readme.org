@@ -8,8 +8,11 @@ boesp_vol1/L_0001_0265/L_0001_0265_rev1.txt
  manually replace L_0001_0265_rev1.txt in temp_boesp_L_0001_0265_old.xml
  and save as temp_boesp_L_0001_0265_rev1.xml
  cp L_0001_0265/temp_boesp_L_0001_0265_rev1.xml ../step0/boesp.xml
-* local url for verse 415
+* url for verse 415
 http://localhost/funderburkjim/boesp-prep/web1/boesp.html?415
+
+https://funderburkjim.github.io/boesp-prep/web1/boesp.html?415
+
 * install instructions
  See step0/readme.txt
  cd ../step0
