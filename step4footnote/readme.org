@@ -16,7 +16,8 @@ https://funderburkjim.github.io/boesp-prep/web1/boesp.html?415
 * install instructions
  See step0/readme.txt
  cd ../step0
- sh transcode_xml.sh
+ sh transcode_xml.sh  # note this will detect xml errors
+  
  cd ../web1
  sh redo.sh
 185722 lines read from ../step0/boesp_deva.xml
@@ -41,21 +42,112 @@ boesp_vol1/L_0265_0600/L_0265_0600_rev1.txt
   #Examine a few cases vs. print
 CORRECTION to xml error at line 6643-4 L=415
 OLD
-<s>guRa</s> st. <s>viDi</s>. �d. <s>pariH,
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pariH,
 darSayanti</s>. <pb n="1.77"/>
 REV1
-<s>guRa</s> st. <s>viDi</s>. �d. <s>pari st. <s>puraH</s>; <s>
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pari st. <s>puraH</s>; <s>
 darSayanti</s>. <pb n="1.77"/>
 CORRECTED
-<s>guRa</s> st. <s>viDi</s>. �d. <s>pari</s> st. <s>puraH</s>; <s>
+<s>guRa</s> st. <s>viDi</s>. ²d. <s>pari</s> st. <s>puraH</s>; <s>
 darSayanti</s>. <pb n="1.77"/>
 
  cp temp_boesp_L_0265_0600_rev1.xml ../../step0/boesp.xml
 follow install instructions.
+* L_0601_0999
+** prepare extract 
+L_0601_0999/L_0601_0999.txt extracted from step0/boesp.xml
+in step4footnote:
+mkdir L_0601_0999
+cp ../step0/boesp.xml L_0601_0999/temp_boesp_old.txt
+In Emacs, L_0601_0999
+edit temp_boesp_old.txt
+select entries L="601" thru L="999"
+paste to file L_0601_0999.txt
+Done with Emacs
+
+zip L_0601.zip L_0601_0999.txt
+mkdir ~/Downloads/sampada-boesp-fn/0601_0999
+mv L_0601.zip ~/Downloads/sampada-boesp-fn/0601_0999/
+Send email to Sampada
+** prepare to install revision
+L_0601_0999_rev.txt from Sampada 09-23-2022
+wc -l L_*.txt
+  9374 L_0601_0999.txt
+  9370 L_0601_0999_rev.txt
+diff L_0601_0999.txt  L_0601_0999_rev.txt  | wc -l
+  290
+ diff L_0601_0999.txt  L_0601_0999_rev.txt  > diff.txt
+cp L_0601_0999_rev.txt L_0601_0999_rev_orig.txt
+Jim makes minor revisions to L_0601_0999_rev.txt so there
+are same number of lines as in L_0601_0999.txt.
+ wc -l L_*.txt
+  9374 L_0601_0999.txt
+  9374 L_0601_0999_rev.txt
+  9370 L_0601_0999_rev_orig.txt
+** spot check diff
+diff.txt now has 282 lines.  At approximately 4 lines per difference,
+there are about 70 changes.
+Examined about 6 cases.  A couple of alterations noted and changed.
+*** L=634
+OLD:
+²a. <s>alabDvApi</s> unsere Aenderung für
+<s>alabDApi; rAjaH</s>. ²b. <s>saMpadAM</s>.
+REV:
+²a. <s>alabDvApi</s> unsere Aenderung für
+<s>alabDvApi; rAjaH</s>. ²b. <s>saMpadAM</s>.   <<<<<
+CHG: change '<s>alabDvApi; rAjaH</s>' back to  '<s>alabDApi; rAjaH</s>'
+*** L=816
+OLD:
+816) SUBHĀṢ. 156. ²a. <s>mameti
+Bava eva vIjaM</s> die Hdschr. ²c.
+<s>janmaH</s> ²c. <s>janmaH</s> die Hdschr.
+²d. <s>niraYjano vahnimapeti</s> die
+Hdschr. <pb n="1.152"/>
+REV:
+816) SUBHĀṢ. 156. ²a. <s>mameti
+Bava eva vIjaM</s> die Hdschr. ²c.
+<s>janmaH</s> ²c. die Hdschr.   << remove ²c. 
+²d. <s>niraYjano vahnimapeti SAnti</s> die
+Hdschr. <pb n="1.152"/>
+CHG:
+816) SUBHĀṢ. 156. ²a. <s>mameti
+Bava eva vIjaM</s> die Hdschr. ²c.
+<s>janmaH</s> die Hdschr.
+²d. <s>niraYjano vahnimapeti SAnti</s> die
+Hdschr. <pb n="1.152"/>
+
+** Sampada's comments 
+from comments.txt add 2 open questions
+** incorporate into temp_boesp_new.xml
+boesp.xml at commit bcbd8603e755cd442b46ba3927c5d0306fbf0670
+This is same as temp_boesp_old.xml in this directory.
+cp temp_boesp_old.xml temp_boesp_new.xml
+edit temp_boesp_new.xml
+ - remove entries from L=601 through L=999 (don't change edit position)
+ - insert file L_0601_0999/L_0601_0999_rev.txt at this point
+ - save
+ - check number of lines
+ wc -l temp_boesp*
+ 185722 temp_boesp_new.xml
+ 185722 temp_boesp_old.xml
+** install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+xml error detected.  
+  Correct temp_boesp_new.xml
+  etc.
 * TODO open questions
 ** L=59
 There is a hand-written
-<s>gaRqUzajalamA�</s> [next word is illegible in scan]
+<s>gaRqUzajalamA°</s> [next word is illegible in scan]
 ** L=192
 <s>taTAMvaM saMjAtaM</s> this seems exactly like the scan.
 This word <taTAMvaM> doesn't seem right though.
+** L=722
+<s>gatAsUrnagatAsUSca</s>
+The entry is correct according to scan but I (Sampada) think the word should be
+<s>gatAsUrnagatAsUnSca</s>
+Jim: not sure
+** L=845
+<s>prARinAMH</s>
+should be <s>prARinAM</s> I (Sampada) think. scan error

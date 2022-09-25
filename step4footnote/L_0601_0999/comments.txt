@@ -1,0 +1,20 @@
+Comments from Sampada
+#606
+<..yAvat tatsarvamitTaMmayaM prakArako..>
+Here I have doubt about the word in the middle <tatsarvamitTaMmayaM>
+This is broken in two words in the scan with a - such as <tatsarvamitTaM> and <mayaM>
+In scan it appears as one word. How do you think this should be written?
+JIM:  No change needed: Digitize as one word tatsarvamitTaMmayaM
+
+#722
+<s>gatAsUrnagatAsUSca</s>
+The entry is correct according to scan but I think the word should be
+<s>gatAsUrnagatAsUnSca</s>
+JIM: not sure.  putting in open questions
+
+#845
+<s>prARinAMH</s>
+should be <s>prARinAM</s> I think. scan error
+JIM: not sure.  putting in open questions
+
+
