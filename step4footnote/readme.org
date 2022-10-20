@@ -20,7 +20,7 @@ https://funderburkjim.github.io/boesp-prep/web1/boesp.html?415
   
  cd ../web1
  sh redo.sh
-185722 lines read from ../step0/boesp_deva.xml
+185698 lines read from ../step0/boesp_deva.xml
 9102 entries found
 79 sections found
 79 section files written to directory json
@@ -202,7 +202,6 @@ edit temp_boesp_new.xml
 ** install to step0
  cp temp_boesp_new.xml ../../step0/boesp.xml
 Follow 'install instructions' section above
-xml error detected.  
   Correct temp_boesp_new.xml
   etc.
 
@@ -221,3 +220,60 @@ Jim: not sure
 ** L=845
 <s>prARinAMH</s>
 should be <s>prARinAM</s> I (Sampada) think. scan error
+* L_1500_1999
+** prepare extract 
+step0/boesp.xml at commit bfd140a5e19abb5cf7a05c97a9fb26d4583b8cce
+in step4footnote:
+mkdir L_1500_1999
+cp ../step0/boesp.xml L_1500_1999/temp_boesp_old.xml
+L_1500_1999.txt extracted from step0/boesp.xml
+In Emacs, L_1500_1999
+edit temp_boesp_old.xml
+select entries L="1000" thru L="1499"
+paste to file L_1500_1999.txt
+Done with Emacs
+
+in L_1500_1999, 
+zip L_1500_1999.zip L_1500_1999.txt
+mkdir ~/Downloads/sampada-boesp-fn/1500_1999
+mv L_1500_1999.zip ~/Downloads/sampada-boesp-fn/1500_1999/
+Send email to Sampada
+
+** DONE to install revision
+L_1500_1999_rev.txt from Sampada 10-18-2022
+wc -l L_*.txt
+ 12219 L_1500_1999.txt
+ 12215 L_1500_1999_rev.txt
+
+diff L_1500_1999.txt  L_1500_1999_rev.txt  | wc -l
+  743
+ diff L_1500_1999.txt  L_1500_1999_rev.txt  > diff.txt
+
+DONE with these preliminary review.
+** DONE spot check diff
+diff.txt now has 744 lines.  At approximately 4 lines per difference,
+there are about  176 (/ 744 4) changes.
+  This section is slightly less dirty than the 1000_1499 section.
+
+Spot change (random 744) about 10 cases. All looked fine.
+Jim made a couple of very minor changes.
+** DONE Sampada's comments 
+no extra comments
+** DONE incorporate into temp_boesp_new.xml
+boesp.xml at commit bcbd8603e755cd442b46ba3927c5d0306fbf0670
+This is same as temp_boesp_old.xml in this directory.
+cp temp_boesp_old.xml temp_boesp_new.xml
+edit temp_boesp_new.xml
+ - remove entries from L=1500 through L=1999 (don't change edit position)
+ - insert file L_1500_1999_rev.txt at this point
+ - save
+ - check number of lines
+ wc -l temp_boesp*
+ 185702 temp_boesp_new.xml
+ 185722 temp_boesp_old.xml
+** TODO install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml
+  etc.
+
