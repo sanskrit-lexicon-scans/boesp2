@@ -277,3 +277,104 @@ Follow 'install instructions' section above
   Correct temp_boesp_new.xml
   etc.
 
+* L_2000_2499
+** DONE prepare extract 
+step0/boesp.xml at commit 8cfef17f6651ab2c8b8cd3fef2cf4aa49897089b
+in step4footnote:
+mkdir L_2000_2499
+cp ../step0/boesp.xml L_2000_2499/temp_boesp_old.xml
+L_2000_2499.txt extracted
+In Emacs, L_2000_2499
+edit temp_boesp_old.xml
+select entries L="2000" thru L="2499.1"
+paste to file L_2000_2499.txt
+Done with Emacs
+
+in L_2000_2499, 
+zip L_2000_2499.zip L_2000_2499.txt
+mkdir ~/Downloads/sampada-boesp-fn/2000_2499
+mv L_2000_2499.zip ~/Downloads/sampada-boesp-fn/2000_2499/
+Send email to Sampada  (also provide link to volume 2 in Google drive)
+
+** DONE prepare revision
+L_2000_2499_rev.txt from Sampada 12-26-2022
+Revise L_2000_2499_rev.txt so number of lines agrees with L_2000_2499.txt
+Step 1.
+wc -l L_*.txt
+ 12381 L_2000_2499.txt
+ 12379 L_2000_2499_rev.txt
+
+diff L_2000_2499.txt  L_2000_2499_rev.txt  | wc -l
+  376
+ diff L_2000_2499.txt  L_2000_2499_rev.txt  > diff.txt
+
+2291,2295c2291,2293
+< ²d. <s>zurakza</s> st. <s>Kurapukza</s> st.
+< <s>KurapucCaH saMcayaH</s> unsere
+< Aenderung für <s>saMcayam</s>.
+< VṚDDHA-CĀṆ. 7, 18. lauten ²c. ²d:
+< <s>jambukAlayagate ca prApyate
+---
+> ²d. <s>zurapukza</s> st. <s>KurapucCa; saMcayaH</s> unsere
+> Aenderung für <s>saMcayam</s>. VṚDDHA-CĀṆ. 7, 18
+> lauten ²c. ²d: <s>jambukAlayagate ca prApyate
+
+REVISION to rev:
+---
+²d. <s>zurapukza</s> st. <s>KurapucCa</s>;
+<s>saMcayaH</s> unsere
+Aenderung für <s>saMcayam</s>. VṚDDHA-CĀṆ. 7, 18
+lauten ²c. ²d: <s>jambukAlayagate ca prApyate
+vatsapucCaKaracarmaKaRqanam</s>.
+
+---
+Step 2.
+wc -l L_*.txt
+ 12381 L_2000_2499.txt
+ 12381 L_2000_2499_rev.txt
+
+Nothing more to do!  same number of lines.
+
+diff L_2000_2499.txt  L_2000_2499_rev.txt  | wc -l
+  379
+ diff L_2000_2499.txt  L_2000_2499_rev.txt  > diff.txt
+
+
+DONE with these preliminary review.
+
+** DONE spot check diff
+wc -l diff.txt
+379 diff.txt
+(/ 379 4) = 
+ At approximately 4 lines per difference,
+there are about  95 (/ 379 4) changes.
+  This section is less dirty than the 1000_1499 section.
+
+Spot change (random 379) about 10 cases. All looked fine.
+Jim made a couple of very minor changes.
+Will request Sampada check on
+127  Line 1851  riRu -> reRu  last line of F n=2068
+** DONE Sampada's comments 
+no extra comments
+** DONE incorporate into temp_boesp_new.xml
+From git log, latest commit is 8cfef17f6651ab2c8b8cd3fef2cf4aa49897089b
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+This is same as temp_boesp_old.xml in this directory (as expected)
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=2000 through L=2499.1 (don't change edit position)
+ - insert file L_2000_2499_rev.txt at this point
+ - save
+ - check number of lines
+ wc -l temp_boesp*
+
+ 185698 temp_boesp_new.xml
+ 185698 temp_boesp_old.xml
+Same number of lines. As expected.
+
+** DONE install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml
+  etc.
+
