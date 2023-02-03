@@ -1,0 +1,368 @@
+32c32
+< 2501) SUBHĀṢ. 151. ²b. <s>°vyastu
+---
+> 2501) SUBHĀṢ. 151. ²b. <s>°vayastu
+500c500
+< <s>vikASi</s>. ²b. <s>vikalpaH tadbrahma
+---
+> <s>vikASi</s>. ²b. <s>vikalpa; tadbrahma
+505c505
+< <s>°BagadayaH</s> und <s>°lokAdayaH; sacA</s>
+---
+> <s>°BAgadayaH</s> und <s>°lokAdayaH; sacA</s>
+761c761
+< Spruch <s>za sA saMpadyate budDiH</s>.
+---
+> Spruch <s>sA sA saMpadyate budDiH</s>.
+1094c1094
+< Ausg. III 1, 1, 55. HAEB. 58. SUBHĀṢ.
+---
+> Ausg. III 1, 55. HAEB. 58. SUBHĀṢ.
+1222c1222
+< ohne <s>tu, ca</s> st. <s>tu, ca</s> st. <s>tu,
+---
+> ohne <s>tu, ca</s> st. <s>tu,
+1767c1767
+< Woterbuch und in der ersten Auflage
+---
+> Wörterbuch und in der ersten Auflage
+1799c1799
+< tIrTASreme surasTAne</s> (auch
+---
+> tIrTASrame surasTAne</s> (auch
+1802c1802
+< tITArSrayamavajYAne</s>. ²d. <s>sa carEH;
+---
+> tIrTASrayamavajYAne</s>. ²d. <s>sa carEH;
+1913c1913
+< <s>satAM mABimatAH, sapadAH</s>. ²b.
+---
+> <s>satAM mABimatAH, sapadaH</s>. ²b.
+1931c1931
+< 2579) ŚIŚ. 2, 49.
+---
+> 2579) ŚIŚ. 2, 48.
+2120c2120
+< für <s>svargA</s> und <s>svargo</s>. ²c.
+---
+> für <s>svargA</s> und <s>sargo</s>. ²c.
+2326c2326
+< <s>janezu</s> an ciner. Stelle die Hdschr.
+---
+> <s>janezu</s> an einer Stelle die Hdschr.
+2871c2871
+< <i>Augenlid.</i>
+---
+> <i>Augenlied.</i>
+2948c2948
+< <s>tyaktAtmasuKavaMCiCA</s> VIKRAMAC.
+---
+> <s>tyaktAtmasuKavaMCeCA</s> VIKRAMAC.
+3141,3142c3141,3142
+< <s>janapadasyArTa</s>. ²d. <s>svA
+< rmArTe</s>. <pb n="2.85"/>
+---
+> <s>janapadasyArTa</s>. ²d. <s>svA-
+> tmArTe</s>. <pb n="2.85"/>
+3167c3167
+< 59. ²a. <s>kzuDArTo mahilAM
+---
+> 59. ²a. <s>kzuDArto mahilAM
+3343c3343
+< <s>puMzAM</s> VIKRAMAC. ²b. <s>duHKAya
+---
+> <s>puMsAM</s> VIKRAMAC. ²b. <s>duHKAya
+3371c3371
+< ed. Bomb. ²b. <s>tatim</s> st. <s>sTitim</s>
+---
+> ed. Bomb. ²b. <s>gatim</s> st. <s>sTitim</s>
+3386c3386
+< shcon in den Nachträgen in der 1ten
+---
+> schon in den Nachträgen in der 1ten
+3567c3567
+< 2644) NĪTIS. 5 bei HAEB. 504. 504.
+---
+> 2644) NĪTIS. 5 bei HAEB. 504.
+3679c3679
+< 2647.48.49.50.51) R. ed. Bomb. 6, 6, 6.
+---
+> R. ed. Bomb. 6, 6, 6.
+3683c3683
+< <s>mantriBirhatasaMyuktEH</s>. ²b.
+---
+> <s>mantriBirhitasaMyuktEH</s>. ²b.
+3687c3687
+< <s>karmAraByaM</s>. 2650, ²a.
+---
+> <s>karmAramBaM</s>. 2650, ²a.
+3779c3779
+< st. <s>naH</s>. ²c. <s>mAnaDAnAti°,
+---
+> st. <s>naH</s>. ²c. <s>mAnaDanAti°,
+4041c4041
+< 2665) AMAR. 23. KĀVYAPR. ²b.
+---
+> 2665) AMAR. 23. KĀVYAPR. 25. ²b.
+4119c4119
+< gedruct.
+---
+> gedruckt.
+4222c4222
+< <s>durlaBaM</s> d. <s>durlaBaM</s> st.
+---
+> <s>durlaBaM</s> st.
+4419c4419
+< 2683) SUBHĀṢ. 13, ²b. <s>masI°
+---
+> 2683) SUBHĀṢ. 13, ²b. <s>mazI°
+4499c4499
+< ni°</s> für <s>sADuByaste nirvartaMti</s>.
+---
+> ni°</s> für <s>sADuByaste nirvartate</s>.
+5068,5069c5068,5069
+< <s>prAtastata; upahAraM</s> st.
+< <s>atimAtraM</s>. ²c. <s>karRalambita</s> KUV.
+---
+> <s>prAtastat; upahAraM</s> st.
+> <s>atimAtraM</s>. ²c. <s>karRAlambita</s> KUV.
+5113c5113,5115
+< 2712) KĀM. NĪTIS. 3, 5.
+---
+> 2712) PAÑCAT. ed. KOSEG. II,184. ed.
+> Bomb. 171. ²b. Man hätte eher <s>sahyaH syAt
+> erwartet </s>.
+5313c5315
+< 2720) PAÑCAT. in Gott. gel. Anzz.
+---
+> 2720) PAÑCAT. in Gött. gel. Anzz.
+5664,5665c5666
+< 94. lith. Ausg. I und III 21. lith.
+< Ausg. I und III 21. lith. Ausg. II und
+---
+> 94. lith. Ausg. I und III 21. lith. Ausg. II und
+5714c5715
+< daRqakavizAyADipatirbfhadaSvanAmA
+---
+> daRqakavizayADipatirbfhadaSvanAmA
+5763c5764
+< ²d. an zwei Stellen in SUBHĀṢ.: <s>yadi
+---
+> ²d. An zwei Stellen in SUBHĀṢ.: <s>yadi
+5797c5798
+< die Hdschr. ²c. <s>kelitAni</s> ist
+---
+> die Hdschr. ²d. <s>kelitAni</s> ist
+5894c5895
+< Cambr. H. <s>santaScedamftena kiM</s>
+---
+> Cambr. H. <s>santaScedamftena kim</s>
+5896c5897
+< kiM</s> st. <s>yadi suhf°</s> SUBHĀṢ. ²c.
+---
+> kim</s> st. <s>yadi suhf°</s> SUBHĀṢ. ²c.
+5986c5987
+< <s>SotraM SrutenEva na kuRqalena</s>.
+---
+> <s>SrotraM SrutenEva na kuRqalena</s>.
+6027c6028
+< Calc.
+---
+> Calc. 193.
+6098c6099
+< 2754) SUBHĀṢ. 96. ²b. <s>SutaM</s> die
+---
+> 2754) SUBHĀṢ. 96. ²b. <s>SrutaM</s> die
+6146c6147
+< <s>tizWanti</s> und <s>kAraRe</s> st.
+---
+> <s>tizWanti</s> und <s>kAraRo</s> st.
+6749c6750
+< <s>daridrasya</s> und <s>daridrasya</s>. ²b.
+---
+> <s>dAridrasya</s> und <s>daridrasya</s>. ²b.
+6842c6843
+< <s>dAridryAmavaraM</s>. Vgl. den folgenden
+---
+> <s>dAridryamavaraM</s>. Vgl. den folgenden
+6967c6968
+< 2787) MBH. 12, 5513, ²b. 45514, ²a.
+---
+> 2787) MBH. 12, 5513, ²b. 5514, ²a.
+7115c7116
+< die Hdschr. ²c. <s>suKaduKaM</s> die
+---
+> die Hdschr. ²c. <s>suKaduHKaM</s> die
+7575c7576
+< galatruwyadvi°, galatruwadvi°,
+---
+> galatruwyadvi°, galatruwadvi°,galannudyadvi°,
+7578c7579
+< <s>svadagDaH jaWarasvArTe; janaH</s> st.
+---
+> <s>svadagDa; jaWarasvArTe; janaH</s> st.
+7679c7680
+< 2818) SUBHĀṢ. 178. ²a. ²b. <s>dayite
+---
+> 2818) SUBHĀṢ. 178. ²a. ²b. <s>dIyate
+7783c7784
+< <s>aMSayoH</s>. ²b. <s>°stanapuraH pARE
+---
+> <s>aMSayoH</s>. ²b. <s>°stanapuraH pARO
+7816c7817
+< <s>°yugenArDyo</s>.
+---
+> <s>°yugenArGyo</s>.
+7910c7911
+< <s>bruyAn</s> gedr. ²c. <s>duKaM</s> gedr.
+---
+> <s>bruyAn</s> gedr. ²c. <s>duHKaM</s> gedr.
+7940c7941
+< st. <s>duHKamAtm</s>. ²b. <s>eva</s> st.
+---
+> st. <s>duHKamAtmA</s>. ²b. <s>eva</s> st.
+8038c8039
+< <s>citikAM dIpitAM paSya sPuwAM BagnaM
+---
+> <s>citikAM dIpitAM paSya sPuwAM BagnAM
+8131c8132
+< WEBER; im ŚKDR. unter <s>vizaH</s>
+---
+> WEBER; im ŚKDR. unter <s>viza</s>;
+8284c8285
+< sayaMtrAstrAjalaM) SEla</s> (auch
+---
+> sayaMtrAstrajalaM) SEla</s> (auch
+8500c8501
+< sana; saH</s> und <s>sat</s> st. <s>san</s>. ²c.
+---
+> san; saH</s> und <s>sat</s> st. <s>san</s>. ²c.
+8589c8590
+< <s>devo; girijalaDivazI,
+---
+> <s>devo; girijalaDivarzI,
+8634c8635
+< <s>puMsAM</s> fehlt; <s>sujanezvapiH
+---
+> <s>puMsAM</s> fehlt; <s>sujanezvapi;
+8855c8856
+< III, 206. ed. orn. I, 139. ed. Bomb. ²a.
+---
+> III, 206. ed. orn. I, 139. ed. Bomb. IV, 53. ²a.
+8885c8886
+< 2864) MBH. 12, 6544. ²b. 9949, ²a.
+---
+> 2864) MBH. 12, 6544. 9948, ²b. 9949, ²a.
+9116,9119c9117,9118
+< SrIrna ti, °dozA</s>. ²c. <s>kaM strI na
+< mohayati</s> st. <s>kaM SrIrna da°</s>. ²d.
+< <s>svIkftAni, strIkftA na</s> und <s>strI
+< kftApa</s> st. <s>svIkftA naH
+---
+> SrIrna da°. ²d. <s>svIkftAni, strIkftA na</s> und <s>strI
+> kftApa</s> st. <s>svIkftA na;
+9845c9844,9845
+< <s>samIpasTa</s> die Hdschr.
+---
+> <s>samIpasTa</s> die Hdschr. ²d. <s>na cakzuH</s>
+> die Hdschr.
+9925,9926c9925,9926
+< 3, 18. HAEB. S, 102. SUBHĀṢ. 316. ²a.
+< <s>arGyaM</s> st. <s>arTaM</s> st. <s>arTaM,
+---
+> 2, 102. SUBHĀṢ. 316. ²a.
+> <s>arGyaM</s> st. <s>arTaM</s>, 
+9969,9970c9969,9970
+< liNgAna</s> st. <s>cihnAni</s>. ²d.
+< <s>saMgrahaH</s> st. <s>kIrtinam</s>. Vgl.
+---
+> liNgAni</s> st. <s>cihnAni</s>. ²d.
+> <s>saMgrahaH</s> st. <s>kIrtanam</s>. Vgl.
+10001c10001
+< <s>pARiyArdga°</s>; <s>prodyAwitordyASano</s>
+---
+> <s>pARiyArdra°</s>; <s>prodGAwitordDASano</s>
+10003c10003
+< <s>gAQAliNgiMnaratpraH priyakaTAlApezu
+---
+> <s>gAQAliNgiMnatatpraH priyakaTAlApezu
+10347c10347
+< <s>kuhUHkU°</s> die Hdschr. ²d. <s>dvitrA</s>
+---
+> <s>kuhUHkU°</s> die Hdschr. ²d. <s>dvitrA</s> die
+10448c10448
+< <s>bAlA vAatayA priyasya titarA</s> (d. i.)
+---
+> <s>bAlA vAmatayA priyasya titarA</s> (d. i.)
+10501c10501
+< ŚUK. 16 (Pet. Hdschr.) 25, ²a.
+---
+> ŚUK. 16 (Pet. Hdschr. 25, ²a).
+10604c10604
+< ²c. <s>tiragvakrita; vakrima</s> st.
+---
+> ²c. <s>tiryagvakrita; vakrima</s> st.
+10674c10674
+< CĀṆ.; <s>pARipadmayugale Gazati</s>
+---
+> CĀṆ.; <s>pARipadmayugale Garzati</s>
+10949c10949
+< <s>devAnpitFnmananuzyAMSca
+---
+> <s>devAnpitFnmanuzyAMSca
+10985c10985
+< <s>jIvitaMYca</s> und <s>SlADyo kaTA
+---
+> <s>jIvitaMYca</s> und <s>SlAGyo kaTA
+11079,11080c11079,11080
+< HAEB. 309. Vgl. Spruch <s>mantre tIrTe
+< dviSrIyasya yAvAMSca viSvAsaH</s> und
+---
+> HAEB. 309. Vgl. Spruch <s>mantre tIrTe dvije deve,
+> yasya yAvAMSca viSvAsaH</s> und
+11309c11309
+< <s>yAvatsyAd</s>. ²c. <s>nAstiti naH
+---
+> <s>yAvatsyAd</s>. ²d. <s>nAstiti naH
+11349c11349
+< <s>'Byati</s> und <s>aByeti (=
+---
+> <s>'Byeti</s> und <s>aByeti (=
+11481c11481
+< keine Zusammenstezung anzunehmen ist.
+---
+> keine Zusammensetzung anzunehmen ist.
+11502c11502
+< na sa dEvavipannAtmA kadacidapi sIdati
+---
+> na sa dEvavipannAtmA kadAcidapi sIdati
+11866,11867c11866,11867
+< durmatasyAnnfpayati praRsyani yatiH
+< patiH</s> st. <s>yatiH; 'lAland</s>. ²b. ²c.
+---
+> durmatasyAnnfpayati praRasyani yatiH;
+> patiH</s> st. <s>yatiH; 'lAlanAd</s>. ²b. ²c.
+11869,11870c11869,11870
+< ²d. (bis <s>anayAt</s>) am Anfange von ²b
+< unsere ²b bildet ²c der Anfang von
+---
+> ²d. (bis <s>anayAt</s>) am Anfange von ²b,
+> unser ²b bildet ²c, der Anfang von
+11998c11998
+< <s>nimittAn</s>. ²d. <s>saMgartardarSanAt
+---
+> <s>nimittAn</s>. ²d. <s>saMgatirdarSanAt
+12035c12035
+< <s>SlADyaM</s> PAÑCAT.
+---
+> <s>SlAGyaM</s> PAÑCAT.
+12087c12087
+< 2999) BHARTṚ. ed. BOHL. i, 7. HAEB.
+---
+> 2999) BHARTṚ. ed. BOHL. 1, 7. HAEB.
+12090,12091c12090,12091
+< <s>drazwavyezu; mfgaSaH, premRA pra°</s>.
+< ²b. <s>Gratavyezu, pavanM, GrAtavyezu
+---
+> <s>drazwavyezu; mfgadfSaH, premRA pra°</s>.
+> ²b. <s>Gratavyezu, pavanaM, GrAtavyezu

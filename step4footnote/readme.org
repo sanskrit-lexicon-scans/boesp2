@@ -15,7 +15,7 @@ https://funderburkjim.github.io/boesp-prep/web1/boesp.html?415
 
 * install instructions
  See step0/readme.txt
- cd ../step0
+ cd ../step0  # assuming we are in step4footnote directory
  sh transcode_xml.sh  # note this will detect xml errors
   
  cd ../web1
@@ -376,5 +376,165 @@ Same number of lines. As expected.
  cp temp_boesp_new.xml ../../step0/boesp.xml
 Follow 'install instructions' section above
   Correct temp_boesp_new.xml
+  etc.
+
+* L_2500_2999
+** DONE prepare extract 
+step0/boesp.xml at commit 350af8352f5600f65dd895f6e0e0dd080eee03d0
+in step4footnote:
+mkdir L_2500_2999
+cp ../step0/boesp.xml L_2500_2999/temp_boesp_old.xml
+L_2500_2999.txt extracted
+- In Emacs, L_2500_2999
+- edit temp_boesp_old.xml
+- select entries L="2500" thru L="2999.1"
+ -paste to file L_2500_2999.txt
+Done with Emacs
+
+in L_2500_2999, 
+zip L_2500_2999.zip L_2500_2999.txt
+mkdir ~/Downloads/sampada-boesp-fn/2500_2999
+mv L_2500_2999.zip ~/Downloads/sampada-boesp-fn/2500_2999/
+Send email to Sampada  (also provide link to volume 2 in Google drive)
+
+** DONE prepare revision
+L_2500_2999_rev.txt from Sampada 01-06-2023
+Revise L_2500_2999_rev.txt so number of lines agrees with L_2500_2999.txt
+Step 1.
+wc -l L_*.txt
+ 12098 L_2500_2999.txt
+ 12098 L_2500_2999_rev.txt
+=== same nujmber of lines
+
+diff L_2500_2999.txt  L_2500_2999_rev.txt  | wc -l
+  369
+ diff L_2500_2999.txt  L_2500_2999_rev.txt  > diff.txt
+
+
+DONE with these preliminary review.
+
+** DONE spot check diff
+Examined 10 random.  One or two changes to _rev.
+Nothing to mention
+
+** DONE Sampada's comments 
+no extra comments
+** DONE incorporate into temp_boesp_new.xml
+#From git log, latest commit is 8cfef17f6651ab2c8b8cd3fef2cf4aa49897089b
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+#This is same as temp_boesp_old.xml in this directory (as expected)
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=2500 through L=2999 (don't change edit position)
+ - insert file L_2500_2999_rev.txt at this point
+ - save
+ - check number of lines
+ wc -l temp_boesp*
+
+ 185698 temp_boesp_new.xml
+ 185698 temp_boesp_old.xml
+Same number of lines. As expected.
+
+** DONE install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed.
+  etc.
+
+* L_3000_3499
+** DONE  prepare extract 
+step0/boesp.xml at commit 9542505ca68e6617ad4d3921746cb478f25380df
+in step4footnote:
+mkdir L_3000_3499
+cp ../step0/boesp.xml L_3000_3499/temp_boesp_old.xml
+L_3000_3499.txt extracted
+- In Emacs, L_3000_3499
+- edit temp_boesp_old.xml
+- select entries L="3000" thru L="3499.1"
+ -paste to file L_3000_3499.txt
+Done with Emacs
+
+in L_3000_3499, 
+zip L_3000_3499.zip L_3000_3499.txt
+mkdir ~/Downloads/sampada-boesp-fn/3000_3499
+mv L_3000_3499.zip ~/Downloads/sampada-boesp-fn/3000_3499/
+Send email to Sampada  (also provide link to volume 2 in Google drive)
+
+** DONE  prepare revision
+L_3000_3499_rev.txt from Sampada 02-01-2023
+cd /c/xampp/htdocs/funderburkjim/boesp-prep/step4footnote/L_3000_3499
+cp ~/Downloads/sampada-boesp-fn/3000_3499/L_3000_3499.txt L_3000_3499/L_3000_3499_rev.txt
+
+Revise L_3000_3499_rev.txt so number of lines agrees with L_3000_3499.txt
+Step 1.
+wc -l L_*.txt
+ 11611 L_3000_3499.txt
+ 11606 L_3000_3499_rev.txt
+
+
+#  L_3000_3499_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_3000_3499.txt L_3000_3499_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_3000_3499_work.txt  L_3000_3499_rev.txt  > diff.txt
+
+
+DONE with these preliminary review.
+
+** DONE  spot check diff
+Examined 10 random.  One or two changes to _rev.
+Nothing to mention
+
+** TODO  Sampada's comments 
+
+<F n="3103">
+3103) ŚĀRṄG. PADDH. RĀJANĪTI 65
+(58). ²d. <s>saBAsadaH</s> unsere
+Verbesserung für <s>samAH sadAH</s> (das I
+ausgestrichen) und <s>samAhitaH</s>.
+</F>
+In this case, there is a Sanskrit matra after <das>.
+In the entry, it is a capital letter <I>. That is incorrect but I am
+not sure how to correct that.
+
+Jim: https://en.wikipedia.org/wiki/Devanagari_(Unicode_block)
+ u093e is 'Devanagari vowel sign AA'
+  &#x093e;   will represent that vowel sign in html displays
+-------------------------
+<F n="3138">
+3138) SUBHĀṢ. 278. ²b.
+<s>nijakanaMka nAtma°</s> die Hdschr. ²c.
+<s>prAyasaH</s> die Hdschr. <pb n="2.189"/>
+</F>
+I changed <Hdschr> to <Handschr> acc to scan. But unsure if this is right.
+no extra comments
+
+Google translate gives meaning 'handwriting' to both Hdschr. and Handschr.
+In Boeghtlink's dictionary, this has related sense 'manuscript'.
+
+** DONE  incorporate into temp_boesp_new.xml
+#From git log, latest commit is 8cfef17f6651ab2c8b8cd3fef2cf4aa49897089b
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+#This is same as temp_boesp_old.xml in this directory (as expected)
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=3000 through L=3499 (don't change edit position)
+ - insert file L_3000_3499_rev.txt at this point
+ - save
+ - check number of lines
+  wc -l temp_boesp*
+ 185693 temp_boesp_new.xml
+ 185698 temp_boesp_old.xml
+
+Slightly different number of lines. As expected.
+
+** DONE  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed.
   etc.
 
