@@ -220,6 +220,8 @@ Jim: not sure
 ** L=845
 <s>prARinAMH</s>
 should be <s>prARinAM</s> I (Sampada) think. scan error
+** L=3513. 
+<s>Gapalattrezu</s>
 * L_1500_1999
 ** prepare extract 
 step0/boesp.xml at commit bfd140a5e19abb5cf7a05c97a9fb26d4583b8cce
@@ -489,7 +491,7 @@ DONE with these preliminary review.
 Examined 10 random.  One or two changes to _rev.
 Nothing to mention
 
-** TODO  Sampada's comments 
+** DONE  Sampada's comments 
 
 <F n="3103">
 3103) ŚĀRṄG. PADDH. RĀJANĪTI 65
@@ -504,6 +506,10 @@ not sure how to correct that.
 Jim: https://en.wikipedia.org/wiki/Devanagari_(Unicode_block)
  u093e is 'Devanagari vowel sign AA'
   &#x093e;   will represent that vowel sign in html displays
+
+You can see the result at
+https://funderburkjim.github.io/boesp-prep/web1/boesp.html?3103
+
 -------------------------
 <F n="3138">
 3138) SUBHĀṢ. 278. ²b.
@@ -536,5 +542,82 @@ Slightly different number of lines. As expected.
  cp temp_boesp_new.xml ../../step0/boesp.xml
 Follow 'install instructions' section above
   Correct temp_boesp_new.xml if needed.
+  etc.
+
+* L_3500_3999
+** DONE  prepare extract 
+step0/boesp.xml at commit 61426036ef8bfdacdf557a2eca8d2123f112438a
+in step4footnote:
+mkdir L_3500_3999
+cp ../step0/boesp.xml L_3500_3999/temp_boesp_old.xml
+L_3500_3999.txt extracted
+- In Emacs, L_3500_3999
+- edit temp_boesp_old.xml
+- select entries L="3500" thru L="3999.1"
+ -paste to file L_3500_3999.txt
+Done with Emacs
+
+in L_3500_3999, 
+zip L_3500_3999.zip L_3500_3999.txt
+mkdir ~/Downloads/sampada-boesp-fn/3500_3999
+mv L_3500_3999.zip ~/Downloads/sampada-boesp-fn/3500_3999/
+Send email to Sampada  (also provide link to volume 2 in Google drive)
+
+** DONE  prepare revision
+L_3500_3999_rev.txt from Sampada 02-09-2023
+cd /c/xampp/htdocs/funderburkjim/boesp-prep/step4footnote/L_3500_3999
+cp ~/Downloads/sampada-boesp-fn/3500_3999/L_3500_3999.txt L_3500_3999_rev.txt
+
+Revise L_3500_3999_rev.txt so number of lines agrees with L_3500_3999.txt
+Step 1.
+wc -l L_*.txt
+ 11925 L_3500_3999.txt
+ 11925 L_3500_3999_rev.txt
+
+Same number of lines Nothing more to do here for L_3500_3999
+#  L_3500_3999_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_3500_3999.txt L_3500_3999_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_3500_3999_work.txt  L_3500_3999_rev.txt  > diff.txt
+
+
+DONE with this  preliminary review.
+
+** DONE  spot check diff
+diff L_3500_3999.txt L_3500_3999_rev.txt > diff.txt
+(442 lines)
+
+Examined 10 random.  One or two changes to _rev.
+Nothing to mention
+
+** TODO  Sampada's comments 
+ L=3513. ;Unsure about <s>Gapalattrezu</s>
+
+** DONE incorporate into temp_boesp_new.xml
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+#This is same as temp_boesp_old.xml in this directory (as expected)
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=3500 through L=3999 (don't change edit position)
+ - insert file L_3500_3999_rev.txt at this point
+ - save
+ - check number of lines
+  wc -l temp_boesp*
+
+Same number of lines. As expected.
+
+** DONE additional
+additional correction(s) made at L=3214
+ Two extra lines inserted.
+** DONE  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed. (1 change made).
+
   etc.
 
