@@ -621,3 +621,88 @@ Follow 'install instructions' section above
 
   etc.
 
+* L_4000_4499
+** DONE  prepare extract 
+step0/boesp.xml at commit 69239541c9c53978d921a5049e95c33527db6101
+in step4footnote:
+mkdir L_4000_4499
+cp ../step0/boesp.xml L_4000_4499/temp_boesp_old.xml
+L_4000_4499.txt extracted
+- In Emacs, L_4000_4499
+- edit temp_boesp_old.xml
+- select entries L="4000" thru L="4499"
+ -paste to file L_4000_4499.txt
+Done with Emacs
+
+in L_4000_4499, 
+zip L_4000_4499.zip L_4000_4499.txt
+mkdir ~/Downloads/sampada-boesp-fn/4000_4499
+mv L_4000_4499.zip ~/Downloads/sampada-boesp-fn/4000_4499/
+Send email to Sampada  (also provide link to volume 2 in Google drive)
+
+** DONE  prepare revision
+L_4000_4499_rev.txt from Sampada 03-30-2023
+cd /c/xampp/htdocs/funderburkjim/boesp-prep/step4footnote/L_4000_4499
+cp ~/Downloads/sampada-boesp-fn/4000_4499/L_4000_4499.txt L_4000_4499_rev.txt
+
+Revise L_4000_4499_rev.txt so number of lines agrees with L_4000_4499.txt
+Step 1.
+wc -l L_*.txt
+ 12223 L_4000_4499.txt
+ 12222 L_4000_4499_rev.txt
+
+
+Same number of lines Nothing more to do here for L_4000_4499
+#  L_4000_4499_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_4000_4499.txt L_4000_4499_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_4000_4499_work.txt  L_4000_4499_rev.txt  > diff.txt
+# resolution 
+  12223 L_4000_4499.txt
+  12225 L_4000_4499_rev.txt
+  12225 L_4000_4499_work.txt
+ 
+** TODO Calembourg. steganography?
+  This occurs at end of <F n="4041">, but is not in scan.
+  Is this steganography?
+
+DONE with this  preliminary review.
+
+** DONE  spot check diff
+diff L_4000_4499.txt L_4000_4499_rev.txt > diff.txt
+(442 lines)
+
+No random checking done.  Sampada's changes in 'prepare revision' step
+looked good.
+
+** DONE  Sampada's comments 
+  None
+
+** DONE incorporate revisions into temp_boesp_new.xml
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+# No difference, as expected.
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=4000 through L=4499 (don't change edit position)
+ - insert file L_4000_4499_rev.txt at this point
+ - save
+ - check number of lines
+  wc -l temp_boesp*
+
+Two extra lines in temp_boesp_new.xml, as expected.
+
+
+** DONE additional
+none
+** TODO  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed. (1 change made).
+
+  etc.
+
