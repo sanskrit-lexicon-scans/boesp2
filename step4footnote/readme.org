@@ -20,11 +20,14 @@ https://funderburkjim.github.io/boesp-prep/web1/boesp.html?415
   
  cd ../web1
  sh redo.sh
-185698 lines read from ../step0/boesp_deva.xml
+185691 lines read from ../step0/boesp_deva.xml
 9102 entries found
 79 sections found
 79 section files written to directory json
+
 git add ., git commit, git push
+----
+update 'Log' in https://github.com/funderburkjim/boesp-prep/issues/54
 * L_0265_0600
   sent.
 boesp_vol1/L_0265_0600/L_0265_0600_rev1.txt
@@ -695,6 +698,90 @@ cp temp_boesp_old.xml temp_boesp_new.xml
   wc -l temp_boesp*
 
 Two extra lines in temp_boesp_new.xml, as expected.
+
+
+** DONE additional
+none
+** TODO  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed. (1 change made).
+
+  etc.
+
+* L_4500_4999
+** DONE  prepare extract 
+Done 03-30-2033
+step0/boesp.xml at commit c5f475974aab95e3d4a26a995ae651b2ffb5ffd5
+in step4footnote:
+mkdir L_4500_4999
+cp ../step0/boesp.xml L_4500_4999/temp_boesp_old.xml
+L_4500_4999.txt extracted
+- In Emacs, L_4500_4999
+- edit temp_boesp_old.xml
+- select entries L="4500" thru L="4999"
+ -paste to file L_4500_4999.txt
+Done with Emacs
+
+in L_4500_4999, 
+zip L_4500_4999.zip L_4500_4999.txt
+mkdir ~/Downloads/sampada-boesp-fn/4500_4999
+mv L_4500_4999.zip ~/Downloads/sampada-boesp-fn/4500_4999/
+Send email to Sampada  (also provide link to volume 3 in Google drive)
+
+** DONE  prepare revision
+L_4500_4999_rev.txt from Sampada 04-28-2023
+cd /c/xampp/htdocs/funderburkjim/boesp-prep/step4footnote/L_4500_4999
+cp ~/Downloads/sampada-boesp-fn/4500_4999/L_4500_4999.txt L_4500_4999_rev.txt
+
+Revise L_4500_4999_rev.txt so number of lines agrees with L_4500_4999.txt
+Step 1.
+wc -l L_*.txt
+ 12201 L_4500_4999.txt
+ 12195 L_4500_4999_rev.txt
+ 
+# NO same number of lines Nothing more to do here for L_4500_4999
+#  L_4500_4999_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_4500_4999.txt L_4500_4999_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_4500_4999_work.txt  L_4500_4999_rev.txt  > diff.txt
+# resolution 
+ wc -l L_*
+  12201 L_4500_4999.txt
+  12195 L_4500_4999_rev.txt
+  12195 L_4500_4999_work.txt
+
+ 
+** DONE  spot check diff
+diff L_4500_4999_work.txt L_4500_4999_rev.txt > diff.txt
+(1086 lines)
+
+No random checking done.  Sampada's changes in 'prepare revision' step
+looked good.
+
+** DONE  Sampada's comments 
+  None
+
+** DONE incorporate revisions into temp_boesp_new.xml
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+# No difference, as expected.
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=4500 through L=4999 (don't change edit position)
+ - insert file L_4500_4999_rev.txt at this point
+ - save
+ - check number of lines
+ wc -l temp_boesp_*.xml
+ 185691 temp_boesp_new.xml
+ 185697 temp_boesp_old.xml
+
+
+A few extra lines in temp_boesp_new.xml, as expected.
 
 
 ** DONE additional
