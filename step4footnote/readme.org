@@ -225,6 +225,11 @@ Jim: not sure
 should be <s>prARinAM</s> I (Sampada) think. scan error
 ** L=3513. 
 <s>Gapalattrezu</s>
+* TODO Calembourg. steganography?
+  This occurs at end of <F n="4041">, but is not in scan.
+  Is this steganography?
+
+DONE with this  preliminary review.
 * L_1500_1999
 ** prepare extract 
 step0/boesp.xml at commit bfd140a5e19abb5cf7a05c97a9fb26d4583b8cce
@@ -702,7 +707,7 @@ Two extra lines in temp_boesp_new.xml, as expected.
 
 ** DONE additional
 none
-** TODO  install to step0
+** DONE  install to step0
  cp temp_boesp_new.xml ../../step0/boesp.xml
 Follow 'install instructions' section above
   Correct temp_boesp_new.xml if needed. (1 change made).
@@ -785,6 +790,89 @@ A few extra lines in temp_boesp_new.xml, as expected.
 
 
 ** DONE additional
+none
+** DONE  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed. (1 change made).
+
+  etc.
+
+* L_5000_5499
+** DONE  prepare extract 
+  04-30-2023
+step0/boesp.xml at commit 19a5f4a0823c793a07dd2c63041ef8fa6c3b4503
+in step4footnote:
+mkdir L_5000_5499
+cp ../step0/boesp.xml L_5000_5499/temp_boesp_old.xml
+L_5000_5499.txt extracted
+- In Emacs, L_5000_5499
+- edit temp_boesp_old.xml
+- select entries L="5000" thru L="5499"
+ -paste to file L_5000_5499.txt
+Done with Emacs
+
+in L_5000_5499, 
+zip L_5000_5499.zip L_5000_5499.txt
+mkdir ~/Downloads/sampada-boesp-fn/5000_5499
+mv L_5000_5499.zip ~/Downloads/sampada-boesp-fn/5000_5499/
+Send email to Sampada  
+
+** DONE  prepare revision
+L_5000_5499_rev.txt from Sampada 03-30-2023
+cd /c/xampp/htdocs/funderburkjim/boesp-prep/step4footnote/L_5000_5499
+cp ~/Downloads/sampada-boesp-fn/5000_5499/L_5000_5499.txt L_5000_5499_rev.txt
+
+Revise L_5000_5499_rev.txt so number of lines agrees with L_5000_5499.txt
+Step 1.
+wc -l L_*.txt
+ 11353 L_5000_5499.txt
+ 11352 L_5000_5499_rev.txt
+ 
+## different number of lines
+#  L_5000_5499_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_5000_5499.txt L_5000_5499_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_5000_5499_work.txt  L_5000_5499_rev.txt  > diff.txt
+# resolution 
+  wc -l L_*.txt
+ 11353 L_5000_5499.txt
+ 11353 L_5000_5499_rev.txt
+ 11353 L_5000_5499_work.txt
+ 
+
+DONE with this  preliminary review.
+
+** TODO  spot check diff
+diff L_5000_5499.txt L_5000_5499_rev.txt > diff.txt
+(213 lines)
+
+No random checking done.  Sampada's changes in 'prepare revision' step
+looked good.
+
+** TODO  Sampada's comments 
+  None
+
+** TODO incorporate revisions into temp_boesp_new.xml
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+# No difference, as expected.
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=5000 through L=5499 (don't change edit position)
+ - insert file L_5000_5499_rev.txt at this point
+ - save
+ - check number of lines
+  wc -l temp_boesp*
+
+Two extra lines in temp_boesp_new.xml, as expected.
+
+
+** TODO additional
 none
 ** TODO  install to step0
  cp temp_boesp_new.xml ../../step0/boesp.xml
