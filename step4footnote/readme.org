@@ -848,17 +848,17 @@ cp L_5000_5499.txt L_5000_5499_work.txt
 
 DONE with this  preliminary review.
 
-** TODO  spot check diff
+** DONE  spot check diff
 diff L_5000_5499.txt L_5000_5499_rev.txt > diff.txt
 (213 lines)
 
 No random checking done.  Sampada's changes in 'prepare revision' step
 looked good.
 
-** TODO  Sampada's comments 
+** DONE  Sampada's comments 
   None
 
-** TODO incorporate revisions into temp_boesp_new.xml
+** DONE incorporate revisions into temp_boesp_new.xml
 diff ../../step0/boesp.xml  temp_boesp_old.xml
 # No difference, as expected.
 cp temp_boesp_old.xml temp_boesp_new.xml
@@ -868,12 +868,73 @@ cp temp_boesp_old.xml temp_boesp_new.xml
  - save
  - check number of lines
   wc -l temp_boesp*
+ 185691 temp_boesp_new.xml
+ 185691 temp_boesp_old.xml
+ 
+# same number of lines, as expected.
 
-Two extra lines in temp_boesp_new.xml, as expected.
-
-
-** TODO additional
+** DONE additional
 none
+** DONE  install to step0
+ cp temp_boesp_new.xml ../../step0/boesp.xml
+Follow 'install instructions' section above
+  Correct temp_boesp_new.xml if needed. (1 change made).
+
+  etc.
+
+* TODO L_5500_6199
+* L_6200_7613
+** DONE prepare extract 
+step0/boesp.xml at commit 3c81f85f421ffb9f4d62b9c424f927e8c4d4a2f3
+in step4footnote:
+mkdir L_6200_7613
+cp ../step0/boesp.xml L_6200_7613/temp_boesp_old.xml
+L_6200_7613.txt extracted
+- In Emacs, L_6200_7613
+- edit temp_boesp_old.xml
+- select entries L="6200" thru L="7613"
+ -paste to file L_6200_7613.txt
+Done with Emacs
+
+** DONE  prepare revision
+L_6200_7613_rev.txt from Sampada 07-06-2023
+
+Revise L_6200_7613_rev.txt so number of lines agrees with L_6200_7613.txt
+Step 1.
+ wc -l L_*.txt
+  33499 L_6200_7613.txt
+  33519 L_6200_7613_rev.txt
+ 
+
+#  L_6200_7613_work.txt prepared 
+Add extra blank lines in the 'work' version
+so number of lines in the 'rev' and 'work' version agree.
+
+cp L_6200_7613.txt L_6200_7613_work.txt
+
+# need to resolve difference in number of lines
+# this diff file helps
+ diff L_6200_7613_work.txt  L_6200_7613_rev.txt  > diff.txt
+ (final diff has 1233 lines, so roughly 1200/4 = 300 lines changed.
+# resolution 
+wc -l L_*.txt
+
+  33499 L_6200_7613.txt
+  33521 L_6200_7613_rev.txt
+  33521 L_6200_7613_work.txt
+ 
+
+DONE with this  preliminary review.
+
+** DONE incorporate revisions into temp_boesp_new.xml
+diff ../../step0/boesp.xml  temp_boesp_old.xml
+# No difference, as expected.
+cp temp_boesp_old.xml temp_boesp_new.xml
+# edit temp_boesp_new.xml
+ - remove entries from L=6200 through L=7613 (don't change edit position)
+ - insert file L_6200_7613_rev.txt at this point
+ - save
+
 ** TODO  install to step0
  cp temp_boesp_new.xml ../../step0/boesp.xml
 Follow 'install instructions' section above
